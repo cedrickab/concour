@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Préparation Concours ENA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Page d'accueil -->
+        <div id="home-page" class="page active">
+            <div class="header">
+                <h1>🎓 Quiz Interactif</h1>
+                <h2>Préparation Concours</h2>
+                <p class="subtitle"></p>
+            </div>
+            
+            <div class="content">
+                <div class="welcome-box">
+                    <h3>Bienvenue !</h3>
+                    <p>Testez vos connaissances avec ce quiz interactif couvrant 5 thèmes essentiels :</p>
+                    <ul class="themes-list">
+                        <li>📚 Culture Générale — Langue française</li>
+                        <li>🔤 Aptitude Verbale — Phénomènes lexicaux</li>
+                        <li>🌍 Culture Générale — Géographie</li>
+                        <li>🌐 Organisations Internationales</li>
+                        <li>🇬🇧 English Grammar</li>
+                    </ul>
+                </div>
+                
+                <div class="start-box">
+                    <label for="num-questions">Nombre de questions :</label>
+                    <div class="question-count-options">
+                        <button class="count-btn" data-count="10">10</button>
+                        <button class="count-btn active" data-count="20">20</button>
+                        <button class="count-btn" data-count="30">30</button>
+                        <button class="count-btn" data-count="50">50</button>
+                        <button class="count-btn" data-count="100">100</button>
+                    </div>
+                    <p class="question-count-info" id="count-info">📋 20 questions aléatoires sur les 5 thèmes</p>
+                    
+                    <button id="start-btn" class="btn btn-primary">
+                        🚀 Commencer le Quiz
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Page du quiz -->
+        <div id="quiz-page" class="page">
+            <div class="header">
+                <h1>🎓 Quiz ENA</h1>
+                <div class="progress-info">
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                    <p id="progress-text">Question 1/10</p>
+                </div>
+            </div>
+            
+            <div class="content">
+                <div class="question-box">
+                    <div class="theme-badge" id="theme-badge">Thème</div>
+                    <h3 id="question-text">Question...</h3>
+                    
+                    <div id="options-container" class="options-container">
+                    </div>
+                    
+                    <div id="feedback-box" class="feedback-box hidden">
+                        <div id="feedback-content"></div>
+                        <button id="next-btn" class="btn btn-primary">
+                            Question suivante →
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="score-display">
+                    <span id="current-score">Score : 0</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Page des résultats -->
+        <div id="results-page" class="page">
+            <div class="header">
+                <h1>🎉 Quiz Terminé !</h1>
+            </div>
+            
+            <div class="content">
+                <div class="results-box">
+                    <div class="score-circle">
+                        <div class="score-value" id="final-score">0/10</div>
+                        <div class="score-percentage" id="final-percentage">0%</div>
+                    </div>
+                    
+                    <p id="encouragement-message" class="message"></p>
+                    
+                    <div class="stats-section">
+                        <h3>📈 Statistiques par thème</h3>
+                        <div id="themes-stats"></div>
+                    </div>
+                    
+                    <div class="recap-section">
+                        <h3>📋 Récapitulatif des réponses</h3>
+                        <div id="answers-recap"></div>
+                    </div>
+                    
+                    <div class="action-buttons">
+                        <button id="retry-btn" class="btn btn-primary">
+                            🔄 Refaire un quiz
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="quiz_data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
