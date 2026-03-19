@@ -1,0 +1,9 @@
+# Quiz Interactif ENA - Dépendances Python
+
+# Version Python recommandée : Python 3.7+
+
+# Framework web pour l'interface web
+Flask==3.0.0
+
+# Pour installer les dépendances :
+# pip install -r requirements.txt
