@@ -10,6 +10,13 @@ Date: Mars 2026
 
 import sys
 import time
+
+if hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
 from quiz_data import get_quiz_questions
 
 
@@ -61,47 +68,46 @@ class QuizENA:
     
     def get_user_answer(self):
         """
-        Récupère la réponse de l'utilisateur
+        Récupère la réponse de l'utilisateur.
+        Une réponse vide est autorisée : elle compte comme un passage.
         
         Returns:
-            Réponse de l'utilisateur (A, B, C ou D)
+            Réponse de l'utilisateur (A, B, C, D ou chaîne vide)
         """
         while True:
-            answer = input("👉 Votre réponse (A/B/C/D) : ").strip().upper()
+            answer = input("👉 Votre réponse (A/B/C/D ou Entrée pour ignorer) : ").strip().upper()
+            if answer == "":
+                return ""
             if answer in ['A', 'B', 'C', 'D']:
                 return answer
-            else:
-                print("❌ Réponse invalide. Veuillez entrer A, B, C ou D.")
+            print("❌ Réponse invalide. Veuillez entrer A, B, C, D ou laissez vide pour passer.")
     
     def check_answer(self, user_answer, correct_answer, explanation):
         """
-        Vérifie la réponse et affiche le résultat
-        
-        Args:
-            user_answer: Réponse de l'utilisateur
-            correct_answer: Réponse correcte
-            explanation: Explication de la réponse
-        
-        Returns:
-            True si la réponse est correcte, False sinon
+        Vérifie la réponse et affiche le résultat.
+        - réponse vide : 0 point, pas de pénalité
+        - bonne réponse : +1 point
+        - mauvaise réponse : -1 point
         """
         print()
         print("-" * 70)
-        
-        is_correct = user_answer == correct_answer
-        
-        if is_correct:
+
+        if user_answer == "":
+            print("⏭️ Question sautée. Vous ne gagnez ni ne perdez de point.")
+            self.score += 0
+        elif user_answer == correct_answer:
             print("✅ Bonne réponse !")
             self.score += 1
         else:
             print("❌ Mauvaise réponse.")
             print(f"La bonne réponse est : {correct_answer}")
-        
+            self.score -= 1
+
         print(f"💡 Explication : {explanation}")
         print("-" * 70)
         print()
-        
-        return is_correct
+
+        return user_answer == correct_answer
     
     def display_progress(self, question_num):
         """
@@ -150,7 +156,8 @@ class QuizENA:
                 'theme': question_data['theme'],
                 'user_answer': user_answer,
                 'correct_answer': question_data['answer'],
-                'is_correct': is_correct
+                'is_correct': None if user_answer == '' else is_correct,
+                'skipped': user_answer == ''
             })
             
             # Pause avant la question suivante
@@ -174,7 +181,7 @@ class QuizENA:
         percentage = (self.score / self.num_questions) * 100
         print(f"📊 SCORE FINAL : {self.score}/{self.num_questions} ({percentage:.1f}%)")
         print()
-        
+
         # Message d'encouragement basé sur le score
         if percentage >= 80:
             print("🌟 Excellent ! Vous êtes bien préparé(e) pour le concours ENA !")
@@ -193,10 +200,19 @@ class QuizENA:
         
         # Afficher le récapitulatif question par question
         for i, history in enumerate(self.answers_history, 1):
-            status = "✅" if history['is_correct'] else "❌"
+            if history.get('skipped'):
+                status = "⏭️"
+                user_answer = "Question sautée"
+            elif history['is_correct']:
+                status = "✅"
+                user_answer = history['user_answer']
+            else:
+                status = "❌"
+                user_answer = history['user_answer']
+
             print(f"{status} Question {i} [{history['theme']}]")
             print(f"   {history['question'][:60]}...")
-            print(f"   Votre réponse : {history['user_answer']} | "
+            print(f"   Votre réponse : {user_answer} | "
                   f"Réponse correcte : {history['correct_answer']}")
             print()
         

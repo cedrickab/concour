@@ -19,26 +19,51 @@
             <div class="content">
                 <div class="welcome-box">
                     <h3>Bienvenue !</h3>
-                    <p>Testez vos connaissances avec ce quiz interactif couvrant 5 thèmes essentiels :</p>
+                    <p>Testez vos connaissances avec ce quiz interactif couvrant 7 thèmes essentiels :</p>
                     <ul class="themes-list">
                         <li>📚 Culture Générale — Langue française</li>
                         <li>🔤 Aptitude Verbale — Phénomènes lexicaux</li>
                         <li>🌍 Culture Générale — Géographie</li>
                         <li>🌐 Organisations Internationales</li>
                         <li>🇬🇧 English Grammar</li>
+                        <li>🏛️ Institutions et citoyenneté</li>
+                        <li>⚖️ Droit administratif</li>
                     </ul>
                 </div>
                 
                 <div class="start-box">
                     <label for="num-questions">Nombre de questions :</label>
                     <div class="question-count-options">
-                        <button class="count-btn" data-count="10">10</button>
-                        <button class="count-btn active" data-count="20">20</button>
+                        <button class="count-btn active" data-count="10">10</button>
+                        <button class="count-btn" data-count="20">20</button>
                         <button class="count-btn" data-count="30">30</button>
                         <button class="count-btn" data-count="50">50</button>
                         <button class="count-btn" data-count="100">100</button>
                     </div>
-                    <p class="question-count-info" id="count-info">📋 20 questions aléatoires sur les 5 thèmes</p>
+                    <p class="question-count-info" id="count-info">📋 10 questions aléatoires sur les 7 thèmes</p>
+
+                    <div class="quiz-mode-section">
+                        <p><strong>Mode de quiz :</strong></p>
+                        <label>
+                            <input type="radio" name="quiz-mode" id="mode-random" value="random" checked>
+                            🎲 Test aléatoire sur tous les thèmes
+                        </label>
+                        <label>
+                            <input type="radio" name="quiz-mode" id="mode-selected" value="selected">
+                            🎯 Choisir un ou plusieurs thèmes
+                        </label>
+                    </div>
+
+                    <div id="theme-selection" class="theme-selection hidden">
+                        <p><strong>Thèmes à inclure :</strong></p>
+                        <label><input type="checkbox" class="theme-checkbox" value="Culture Générale — Langue française"> Culture Générale — Langue française</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Aptitude Verbale — Phénomènes lexicaux"> Aptitude Verbale — Phénomènes lexicaux</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Culture Générale — Géographie et connaissances"> Culture Générale — Géographie et connaissances</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Organisations Internationales"> Organisations Internationales</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="English Grammar"> English Grammar</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Culture Générale — Institutions et citoyenneté"> Culture Générale — Institutions et citoyenneté</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Droit administratif"> Droit administratif</label>
+                    </div>
                     
                     <button id="start-btn" class="btn btn-primary">
                         🚀 Commencer le Quiz
@@ -67,6 +92,10 @@
                     <div id="options-container" class="options-container">
                         <!-- Options générées dynamiquement -->
                     </div>
+
+                    <button id="skip-btn" class="btn btn-secondary" type="button">
+                        ⏭️ Je passe
+                    </button>
                     
                     <div id="feedback-box" class="feedback-box hidden">
                         <div id="feedback-content"></div>
