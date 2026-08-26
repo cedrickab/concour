@@ -11,24 +11,77 @@ const resultsPage = document.getElementById('results-page');
 const startBtn = document.getElementById('start-btn');
 const retryBtn = document.getElementById('retry-btn');
 const nextBtn = document.getElementById('next-btn');
+const skipBtn = document.getElementById('skip-btn');
+const modeRandom = document.getElementById('mode-random');
+const modeSelected = document.getElementById('mode-selected');
+const themeSelection = document.getElementById('theme-selection');
+const themeCheckboxes = document.querySelectorAll('.theme-checkbox');
 
 // Gestion du choix du nombre de questions
-let selectedNumQuestions = 20;
+let selectedNumQuestions = 10;
+let selectedQuizMode = 'random';
 const countButtons = document.querySelectorAll('.count-btn');
 const countInfo = document.getElementById('count-info');
+
+function updateCountInfo() {
+    if (selectedQuizMode === 'selected') {
+        const selectedThemes = getSelectedThemes();
+        if (selectedThemes.length === 0) {
+            countInfo.textContent = `📋 ${selectedNumQuestions} questions sur un ou plusieurs thèmes choisis`;
+        } else {
+            countInfo.textContent = `📋 ${selectedNumQuestions} questions sur ${selectedThemes.length} thème(s) choisi(s)`;
+        }
+        return;
+    }
+
+    countInfo.textContent = `📋 ${selectedNumQuestions} questions aléatoires sur les 7 thèmes`;
+}
+
+function getSelectedThemes() {
+    const themes = [];
+    themeCheckboxes.forEach(cb => {
+        if (cb.checked) {
+            themes.push(cb.value);
+        }
+    });
+    return themes;
+}
 
 countButtons.forEach(btn => {
     btn.addEventListener('click', () => {
         countButtons.forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         selectedNumQuestions = parseInt(btn.dataset.count);
-        countInfo.textContent = `📋 ${selectedNumQuestions} questions aléatoires sur les 5 thèmes`;
+        updateCountInfo();
     });
 });
 
+modeRandom.addEventListener('change', () => {
+    selectedQuizMode = 'random';
+    themeSelection.classList.add('hidden');
+    updateCountInfo();
+});
+
+modeSelected.addEventListener('change', () => {
+    selectedQuizMode = 'selected';
+    themeSelection.classList.remove('hidden');
+    updateCountInfo();
+});
+
+themeCheckboxes.forEach(cb => {
+    cb.addEventListener('change', updateCountInfo);
+});
+
 // Démarrer le quiz
-startBtn.addEventListener('click', async () => {
+async function startQuiz() {
     const numQuestions = selectedNumQuestions;
+    const selectedThemes = getSelectedThemes();
+    const mode = selectedQuizMode;
+
+    if (mode === 'selected' && selectedThemes.length === 0) {
+        alert('Veuillez choisir au moins un thème.');
+        return;
+    }
     
     try {
         const response = await fetch('/start_quiz', {
@@ -36,21 +89,33 @@ startBtn.addEventListener('click', async () => {
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ num_questions: numQuestions })
+            body: JSON.stringify({
+                num_questions: numQuestions,
+                mode: mode,
+                selected_themes: selectedThemes
+            })
         });
-        
+
         const data = await response.json();
-        
+
         if (data.status === 'success') {
             totalQuestions = data.total_questions;
             currentScore = 0;
             showPage('quiz');
             loadQuestion();
+        } else {
+            alert(data.message || 'Erreur lors du démarrage du quiz');
         }
     } catch (error) {
         console.error('Erreur:', error);
         alert('Erreur lors du démarrage du quiz');
     }
+}
+
+startBtn.addEventListener('click', startQuiz);
+
+skipBtn.addEventListener('click', async () => {
+    await submitAnswer('', null);
 });
 
 // Charger une question
@@ -92,6 +157,7 @@ async function loadQuestion() {
             
             // Cacher le feedback
             document.getElementById('feedback-box').classList.add('hidden');
+            skipBtn.disabled = false;
         }
     } catch (error) {
         console.error('Erreur:', error);
@@ -101,10 +167,10 @@ async function loadQuestion() {
 
 // Soumettre une réponse
 async function submitAnswer(answer, clickedButton) {
-    // Désactiver tous les boutons
     const allButtons = document.querySelectorAll('.option-btn');
     allButtons.forEach(btn => btn.disabled = true);
-    
+    skipBtn.disabled = true;
+
     try {
         const response = await fetch('/submit_answer', {
             method: 'POST',
@@ -113,47 +179,50 @@ async function submitAnswer(answer, clickedButton) {
             },
             body: JSON.stringify({ answer: answer })
         });
-        
+
         const data = await response.json();
-        
+
         if (data.status === 'success') {
             currentScore = data.current_score;
-            
-            // Mettre à jour le score affiché
+
             document.getElementById('current-score').textContent = `Score : ${currentScore}/${currentQuestionNum}`;
-            
-            // Afficher le feedback
+
             const feedbackBox = document.getElementById('feedback-box');
             const feedbackContent = document.getElementById('feedback-content');
-            
-            // Colorer le bouton
-            if (data.is_correct) {
-                clickedButton.classList.add('correct');
+
+            if (data.skipped) {
+                feedbackBox.className = 'feedback-box neutral';
+                feedbackContent.innerHTML = `
+                    <div class="feedback-title">⏭️ Question sautée</div>
+                    <div class="feedback-text">Vous n'avez pas répondu. Vous ne gagnez ni ne perdez de point.</div>
+                    <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
+                `;
+            } else if (data.is_correct) {
+                if (clickedButton) clickedButton.classList.add('correct');
                 feedbackBox.className = 'feedback-box correct';
+                feedbackContent.innerHTML = `
+                    <div class="feedback-title">✅ Bonne réponse !</div>
+                    <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
+                `;
             } else {
-                clickedButton.classList.add('incorrect');
+                if (clickedButton) clickedButton.classList.add('incorrect');
                 feedbackBox.className = 'feedback-box incorrect';
-                
-                // Mettre en vert la bonne réponse
+
                 allButtons.forEach(btn => {
                     if (btn.dataset.answer === data.correct_answer) {
                         btn.classList.add('correct');
                     }
                 });
+
+                feedbackContent.innerHTML = `
+                    <div class="feedback-title">❌ Mauvaise réponse</div>
+                    <div class="feedback-text"><strong>La bonne réponse est : ${data.correct_answer}</strong></div>
+                    <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
+                `;
             }
-            
-            // Contenu du feedback
-            feedbackContent.innerHTML = `
-                <div class="feedback-title">
-                    ${data.is_correct ? '✅ Bonne réponse !' : '❌ Mauvaise réponse'}
-                </div>
-                ${!data.is_correct ? `<div class="feedback-text"><strong>La bonne réponse est : ${data.correct_answer}</strong></div>` : ''}
-                <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
-            `;
-            
+
             feedbackBox.classList.remove('hidden');
-            
-            // Gérer le bouton suivant
+
             if (data.next_question) {
                 nextBtn.textContent = 'Question suivante →';
                 nextBtn.onclick = () => {
@@ -211,15 +280,19 @@ async function showResults() {
             
             data.answers_history.forEach((answer, index) => {
                 const answerDiv = document.createElement('div');
-                answerDiv.className = `answer-item ${answer.is_correct ? 'correct' : 'incorrect'}`;
+                const status = answer.skipped ? '⏭️' : (answer.is_correct ? '✅' : '❌');
+                const answerClass = answer.skipped ? 'neutral' : (answer.is_correct ? 'correct' : 'incorrect');
+                const userResponse = answer.skipped ? 'Question sautée' : answer.user_answer;
+
+                answerDiv.className = `answer-item ${answerClass}`;
                 answerDiv.innerHTML = `
                     <div class="answer-header">
-                        <span class="answer-status">${answer.is_correct ? '✅' : '❌'}</span>
+                        <span class="answer-status">${status}</span>
                         <small>[${answer.theme}]</small>
                     </div>
                     <div class="answer-question">Q${index + 1}: ${answer.question}</div>
                     <div class="answer-detail">
-                        Votre réponse : <strong>${answer.user_answer}</strong> | 
+                        Votre réponse : <strong>${userResponse}</strong> | 
                         Réponse correcte : <strong>${answer.correct_answer}</strong>
                     </div>
                 `;
@@ -237,6 +310,7 @@ async function showResults() {
 // Refaire un quiz
 retryBtn.addEventListener('click', () => {
     showPage('home');
+    startQuiz();
 });
 
 // Afficher une page
