@@ -1,5 +1,5 @@
 // Quiz Data - auto-generated from quiz_data.py
-// 615 questions across 7 themes
+// 775 questions across 7 themes
 
 const THEME_1 = [
   {
@@ -2101,6 +2101,116 @@ const THEME_2 = [
     ],
     "answer": "B",
     "explanation": "Chien et chat partagent le meme hyperonyme animal : ce sont des cohyponymes."
+  },
+  {
+    "question": "Quel terme designe la relation entre main et doigt d un point de vue meronymique ?",
+    "options": [
+      "A) Doigt est l holonyme de main",
+      "B) Main est l holonyme de doigt",
+      "C) Main et doigt sont des cohyponymes",
+      "D) Main est le meronyme de doigt"
+    ],
+    "answer": "B",
+    "explanation": "La main est le tout (holonyme) dont le doigt est une partie (meronyme)."
+  },
+  {
+    "question": "Piege : eminent et imminent sont-ils synonymes ?",
+    "options": [
+      "A) Oui ils signifient remarquable",
+      "B) Non : eminent=remarquable imminent=qui va arriver tres bientot",
+      "C) Oui ils expriment l urgence",
+      "D) Non : eminent=lieu imminent=personne"
+    ],
+    "answer": "B",
+    "explanation": "Piege de paronymie : eminent = qui se distingue ; imminent = sur le point de se produire."
+  },
+  {
+    "question": "Quel phenomene illustre verre ver vers vert ?",
+    "options": [
+      "A) Paronymie",
+      "B) Synonymie",
+      "C) Homophonie",
+      "D) Polysemie"
+    ],
+    "answer": "C",
+    "explanation": "Meme prononciation orthographes differentes : homophones."
+  },
+  {
+    "question": "Quelle figure remplace une expression brusque par une formulation douce ?",
+    "options": [
+      "A) Litote",
+      "B) Euphemisme",
+      "C) Hyperbole",
+      "D) Antiphrase"
+    ],
+    "answer": "B",
+    "explanation": "L euphemisme attenue la brutalite. Ex : il a quitte ce monde pour dire il est mort."
+  },
+  {
+    "question": "Dans la phrase Il ne travaille pas mal quelle figure est utilisee ?",
+    "options": [
+      "A) Hyperbole",
+      "B) Euphemisme",
+      "C) Litote",
+      "D) Metaphore"
+    ],
+    "answer": "C",
+    "explanation": "Litote : dire moins pour faire comprendre plus. Il ne travaille pas mal = il travaille bien."
+  },
+  {
+    "question": "Quel terme designe la relation rose fleur en semantique ?",
+    "options": [
+      "A) Holonymie",
+      "B) Hyponymie",
+      "C) Synonymie",
+      "D) Meronymie"
+    ],
+    "answer": "B",
+    "explanation": "Rose est un hyponyme de fleur : terme special inclus dans le terme general."
+  },
+  {
+    "question": "Conjecture et conjoncture sont-ils des paronymes ?",
+    "options": [
+      "A) Non homonymes",
+      "B) Oui : conjecture=supposition conjoncture=situation economique",
+      "C) Non antonymes",
+      "D) Non synonymes"
+    ],
+    "answer": "B",
+    "explanation": "Conjecture/conjoncture : paronymes tres proches mais de sens tres differents."
+  },
+  {
+    "question": "Quelle est la difference entre holonyme et hyperonyme ?",
+    "options": [
+      "A) Ce sont des synonymes",
+      "B) Holonyme=tout dont le meronyme est une partie ; hyperonyme=terme general dont depend un hyponyme",
+      "C) Hyperonyme=partie holonyme=ensemble",
+      "D) Ces termes n existent pas"
+    ],
+    "answer": "B",
+    "explanation": "Holonyme/meronyme = relation partie-tout. Hyperonyme/hyponyme = inclusion semantique."
+  },
+  {
+    "question": "Polysemie et homonymie sont-elles la meme chose ?",
+    "options": [
+      "A) Oui",
+      "B) Non : polysemie=sens differents mais lies par etymologie ; homonymie=mots de formes identiques mais d origines differentes",
+      "C) Oui dans les deux cas les sens sont totalement differents",
+      "D) Non polysemie concerne verbes uniquement"
+    ],
+    "answer": "B",
+    "explanation": "Polysemie : tete corps/liste meme origine. Homonymie : avocat fruit/juriste origines distinctes."
+  },
+  {
+    "question": "avocat fruit et avocat juriste illustrent quel phenomene ?",
+    "options": [
+      "A) Polysemie",
+      "B) Homonymie car etymologies completement differentes",
+      "C) Synonymie",
+      "D) Paronymie"
+    ],
+    "answer": "B",
+    "explanation": "Avocat fruit vient du nahuatl ; avocat juriste du latin advocatus : homonymie."
   }
 ];
 
@@ -6531,6 +6641,776 @@ const THEME_6 = [
     ],
     "answer": "B",
     "explanation": "Le Defenseur des droits veille au respect des droits et libertes des citoyens face aux administrations."
+  },
+  {
+    "question": "Quelle est la capitale administrative de la Cote d Ivoire ?",
+    "options": [
+      "A) Abidjan",
+      "B) Yamoussoukro",
+      "C) Bouake",
+      "D) San-Pedro"
+    ],
+    "answer": "B",
+    "explanation": "Yamoussoukro est la capitale politique depuis 1983. Abidjan reste la capitale economique."
+  },
+  {
+    "question": "En quelle annee la CI a accede a l independance ?",
+    "options": [
+      "A) 1958",
+      "B) 1960",
+      "C) 1962",
+      "D) 1956"
+    ],
+    "answer": "B",
+    "explanation": "La CI a proclame son independance le 7 aout 1960."
+  },
+  {
+    "question": "Quel est le premier president de la CI ?",
+    "options": [
+      "A) Henri Konan Bedie",
+      "B) Laurent Gbagbo",
+      "C) Felix Houphouet-Boigny",
+      "D) Alassane Ouattara"
+    ],
+    "answer": "C",
+    "explanation": "Felix Houphouet-Boigny est le pere fondateur et premier president (1960-1993)."
+  },
+  {
+    "question": "Quel organe exerce le controle de constitutionnalite en CI ?",
+    "options": [
+      "A) La Cour Supreme",
+      "B) Le Conseil Constitutionnel",
+      "C) L Assemblee nationale",
+      "D) Le Senat"
+    ],
+    "answer": "B",
+    "explanation": "Le Conseil Constitutionnel ivoirien veille a la conformite des lois a la Constitution."
+  },
+  {
+    "question": "Combien de regions compte la CI ?",
+    "options": [
+      "A) 19",
+      "B) 26",
+      "C) 31",
+      "D) 33"
+    ],
+    "answer": "C",
+    "explanation": "La CI compte 31 regions et 2 districts autonomes."
+  },
+  {
+    "question": "Quel est le mandat du President ivoirien ?",
+    "options": [
+      "A) 4 ans renouvelable une fois",
+      "B) 5 ans renouvelable une fois",
+      "C) 6 ans renouvelable une fois",
+      "D) 7 ans non renouvelable"
+    ],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 fixe le mandat presidentiel a 5 ans renouvelable une seule fois."
+  },
+  {
+    "question": "Quelle institution verifie les comptes de l Etat en CI ?",
+    "options": [
+      "A) Le Ministere des Finances",
+      "B) La Cour des Comptes",
+      "C) L Assemblee nationale",
+      "D) La BCEAO"
+    ],
+    "answer": "B",
+    "explanation": "La Cour des Comptes verifie la regularite des comptes publics."
+  },
+  {
+    "question": "Quel est le role du CESEC en CI ?",
+    "options": [
+      "A) Voter les lois",
+      "B) Conseiller le gouvernement sur les questions economiques et sociales",
+      "C) Controler le gouvernement",
+      "D) Administrer les regions"
+    ],
+    "answer": "B",
+    "explanation": "Le Conseil Economique Social Environnemental et Culturel est une assemblee consultative."
+  },
+  {
+    "question": "Piege : la CI a-t-elle un regime presidentialiste ou semi-presidentiel ?",
+    "options": [
+      "A) Presidentialiste pur",
+      "B) Semi-presidentiel avec cohabitation possible",
+      "C) Presidentiel fort : le President est chef de l Etat et du gouvernement",
+      "D) Parlementaire"
+    ],
+    "answer": "C",
+    "explanation": "La Constitution de 2016 instaure un regime presidentiel fort sans cohabitation."
+  },
+  {
+    "question": "Combien de membres compte le Conseil Constitutionnel ivoirien ?",
+    "options": [
+      "A) 7",
+      "B) 9",
+      "C) 11",
+      "D) 13"
+    ],
+    "answer": "B",
+    "explanation": "Le Conseil Constitutionnel est compose de 9 membres nommes par le President."
+  },
+  {
+    "question": "La hierarchie des normes en CI est ?",
+    "options": [
+      "A) La loi prevaut sur la Constitution",
+      "B) Les traites sont toujours superieurs a la Constitution",
+      "C) Constitution > lois organiques > lois ordinaires > reglements",
+      "D) Les arretes priment sur les decrets"
+    ],
+    "answer": "C",
+    "explanation": "Hierarchie : Constitution (2016) > lois organiques > lois ordinaires > decrets > arretes."
+  },
+  {
+    "question": "Piege : combien de constitutions la CI a-t-elle eu depuis 1960 ?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3 : 1960 2000 et 2016",
+      "D) 4"
+    ],
+    "answer": "C",
+    "explanation": "Trois constitutions : 1960 (independance) 2000 (Gbagbo) et 2016 (Ouattara)."
+  },
+  {
+    "question": "Piege : le Senat de CI peut-il renverser le gouvernement ?",
+    "options": [
+      "A) Oui par une motion de censure",
+      "B) Oui en refusant le budget",
+      "C) Non seule l Assemblee nationale peut voter une motion de censure",
+      "D) Oui avec l accord du Conseil Constitutionnel"
+    ],
+    "answer": "C",
+    "explanation": "Seule l Assemblee nationale peut engager la responsabilite du gouvernement."
+  },
+  {
+    "question": "Quelle est la difference entre decret et ordonnance en droit ivoirien ?",
+    "options": [
+      "A) Ce sont des synonymes",
+      "B) Le decret est reglementaire ; l ordonnance est un acte legislatif pris apres habilitation parlementaire",
+      "C) L ordonnance est superieure au decret",
+      "D) Le decret est pris par le Premier ministre"
+    ],
+    "answer": "B",
+    "explanation": "L ordonnance a valeur legislative (habilitation) ; le decret est reglementaire."
+  },
+  {
+    "question": "Quelle est la condition de nationalite pour candidat a la presidentielle ivoirienne ?",
+    "options": [
+      "A) Etre ne en CI",
+      "B) Etre ivoirien de naissance sans autre nationalite",
+      "C) Etre ivoirien de naissance de pere et de mere ivoiriens sans autre nationalite",
+      "D) Etre naturalise depuis 10 ans"
+    ],
+    "answer": "C",
+    "explanation": "Article 55 : nationalite ivoirienne de naissance de pere et de mere ivoiriens sans autre nationalite."
+  },
+  {
+    "question": "Piege : un Ivoirien naturalise etranger peut-il se presenter a la presidentielle ?",
+    "options": [
+      "A) Oui s il renonce avant la candidature",
+      "B) Oui la double nationalite est toleree",
+      "C) Non la Constitution exige de n avoir jamais eu une autre nationalite",
+      "D) Oui apres 10 ans de retour"
+    ],
+    "answer": "C",
+    "explanation": "Article 55 : n avoir jamais acquis d autre nationalite. L acquerement anterieur est redhibitoire."
+  },
+  {
+    "question": "Qu est-ce que la CEI en CI ?",
+    "options": [
+      "A) Un tribunal electoral",
+      "B) L organe independant charge d organiser et superviser les elections",
+      "C) Un parti politique",
+      "D) Un organe de l ONU"
+    ],
+    "answer": "B",
+    "explanation": "La Commission Electorale Independante organise et supervise les elections ivoiriennes."
+  },
+  {
+    "question": "Combien de mandats peut effectuer un president ivoirien ?",
+    "options": [
+      "A) Un seul de 7 ans",
+      "B) Deux mandats de 5 ans",
+      "C) Trois mandats de 5 ans",
+      "D) Sans limitation"
+    ],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 limite a deux mandats de 5 ans."
+  },
+  {
+    "question": "Les etrangers residents peuvent-ils voter en CI ?",
+    "options": [
+      "A) Oui pour les elections locales",
+      "B) Oui apres 5 ans de residence",
+      "C) Non seuls les citoyens ivoiriens peuvent voter",
+      "D) Oui pour les referendums"
+    ],
+    "answer": "C",
+    "explanation": "Le droit de vote est reserve aux seuls citoyens ivoiriens."
+  },
+  {
+    "question": "Quel est le principal produit d exportation de la CI ?",
+    "options": [
+      "A) Le petrole",
+      "B) Le cacao",
+      "C) Le diamant",
+      "D) Le cafe"
+    ],
+    "answer": "B",
+    "explanation": "La CI est le premier producteur mondial de cacao (environ 40% de la production mondiale)."
+  },
+  {
+    "question": "Quelle monnaie est utilisee en CI ?",
+    "options": [
+      "A) Le franc ivoirien",
+      "B) Le franc CFA de l UEMOA (XOF)",
+      "C) L euro",
+      "D) Le dollar CEDEAO"
+    ],
+    "answer": "B",
+    "explanation": "Le franc CFA de l Afrique de l Ouest (XOF) est gere par la BCEAO."
+  },
+  {
+    "question": "Quelle organisation gere le franc CFA des pays de l UEMOA ?",
+    "options": [
+      "A) La Banque mondiale",
+      "B) La BCEAO",
+      "C) La BAD",
+      "D) La Banque de France"
+    ],
+    "answer": "B",
+    "explanation": "La BCEAO (Banque Centrale des Etats de l Afrique de l Ouest) siege a Dakar."
+  },
+  {
+    "question": "En quelle annee la Constitution actuelle de la CI a-t-elle ete adoptee ?",
+    "options": [
+      "A) 2000",
+      "B) 2011",
+      "C) 2016",
+      "D) 2020"
+    ],
+    "answer": "C",
+    "explanation": "La Constitution de 2016 a ete adoptee par referendum le 30 octobre 2016."
+  },
+  {
+    "question": "Quel est le taux de croissance moyen de la CI depuis 2012 ?",
+    "options": [
+      "A) 2% par an",
+      "B) 5% par an",
+      "C) 8% par an",
+      "D) 12% par an"
+    ],
+    "answer": "C",
+    "explanation": "La CI a maintenu environ 8% de croissance annuelle depuis 2012."
+  },
+  {
+    "question": "Piege : qui preside le Conseil superieur de la magistrature en CI ?",
+    "options": [
+      "A) Le Ministre de la Justice",
+      "B) Le Premier President de la Cour Supreme",
+      "C) Le President de la Republique",
+      "D) Le Procureur general"
+    ],
+    "answer": "C",
+    "explanation": "En CI le CSM est preside par le President de la Republique."
+  },
+  {
+    "question": "Qu est-ce que le Mediateur de la Republique en CI ?",
+    "options": [
+      "A) Un juge civil",
+      "B) Une autorite independante qui recoit les reclamations des citoyens contre l administration",
+      "C) Le president de l Assemblee nationale",
+      "D) Un representant du gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "Le Mediateur de la Republique traite les reclamations des citoyens contre les administrations."
+  },
+  {
+    "question": "Qu est-ce que la distinction SPA et SPIC ?",
+    "options": [
+      "A) Aucune difference",
+      "B) SPA = droit administratif ; SPIC = principalement droit prive",
+      "C) SPIC gere par l Etat SPA par des prives",
+      "D) SPA genere des profits SPIC non"
+    ],
+    "answer": "B",
+    "explanation": "SPA = droit public. SPIC (eau electricite) = droit prive pour usagers et personnel."
+  },
+  {
+    "question": "Qu est-ce que la deconcentration administrative en CI ?",
+    "options": [
+      "A) Transfert de competences a des collectivites autonomes",
+      "B) Deplacement de l autorite de l Etat vers ses representants locaux (prefets, sous-prefets)",
+      "C) Privatisation des services publics",
+      "D) Suppression des ministeres regionaux"
+    ],
+    "answer": "B",
+    "explanation": "La deconcentration deplace des pouvoirs au sein de l Etat vers ses agents sur le terrain."
+  },
+  {
+    "question": "Quelle institution forme les hauts fonctionnaires en CI ?",
+    "options": [
+      "A) L ENA",
+      "B) L Universite Felix Houphouet-Boigny",
+      "C) Le Centre de Formation Administrative",
+      "D) La BCEAO"
+    ],
+    "answer": "A",
+    "explanation": "L ENA de CI forme les hauts fonctionnaires pour les corps prefectoraux diplomatiques et administratifs."
+  },
+  {
+    "question": "Qu est-ce qu un etablissement public national (EPN) en CI ?",
+    "options": [
+      "A) Une entreprise privee sous controle de l Etat",
+      "B) Une personne morale de droit public autonome chargee d une mission de service public",
+      "C) Un ministere",
+      "D) Une collectivite territoriale"
+    ],
+    "answer": "B",
+    "explanation": "Les EPN (ex CNPS SODEXAM) sont des personnes morales de droit public autonomes."
+  },
+  {
+    "question": "Qu est-ce que la LOLF en CI ?",
+    "options": [
+      "A) Loi Organique relative aux Lois de Finances",
+      "B) Loi sur les Libertes Fondamentales",
+      "C) Loi sur le Livre Foncier",
+      "D) Loi contre la Fraude"
+    ],
+    "answer": "A",
+    "explanation": "La LOLF est le cadre juridique de la gestion budgetaire moderne orientee vers la performance."
+  },
+  {
+    "question": "Qu est-ce que le principe de separation entre ordonnateur et comptable public ?",
+    "options": [
+      "A) Aucun principe en CI",
+      "B) L agent qui autorise une depense ne peut pas etre celui qui la paye : garantie contre les detournements",
+      "C) Le comptable est superieur a l ordonnateur",
+      "D) Ce principe ne s applique qu aux grandes villes"
+    ],
+    "answer": "B",
+    "explanation": "Ce principe empeche une meme personne d autoriser et de realiser une depense."
+  },
+  {
+    "question": "Combien de langues et dialectes en CI ?",
+    "options": [
+      "A) 20-30",
+      "B) 60-70",
+      "C) Plus de 60",
+      "D) 10-15"
+    ],
+    "answer": "C",
+    "explanation": "La CI compte plus de 60 langues et dialectes en 4 grands groupes."
+  },
+  {
+    "question": "Quel est le plus grand groupe ethnique en CI ?",
+    "options": [
+      "A) Les Baoule",
+      "B) Les Dioula",
+      "C) Les Bete",
+      "D) Les Senoufo"
+    ],
+    "answer": "A",
+    "explanation": "Les Baoule du groupe Akan sont le groupe ethnique le plus important."
+  },
+  {
+    "question": "Qu est-ce que l initiative PPTE pour la CI en 2012 ?",
+    "options": [
+      "A) Programme de Planification Economique",
+      "B) Initiative Pays Pauvres Tres Endettes : allegement de la dette",
+      "C) Plan de Promotion du Tourisme",
+      "D) Programme de Protection des Terres"
+    ],
+    "answer": "B",
+    "explanation": "En 2012 la CI a beneficie de l initiative PPTE obtenant un allegement substantiel de sa dette."
+  },
+  {
+    "question": "Piege : un acte administratif illegalement signe peut-il etre valide ?",
+    "options": [
+      "A) Oui par ratification expresse de l autorite competente",
+      "B) Non jamais",
+      "C) Oui automatiquement apres 3 mois",
+      "D) Non sauf si le Conseil Constitutionnel l approuve"
+    ],
+    "answer": "A",
+    "explanation": "Certains actes irreguliers peuvent etre regularises par ratification expresse."
+  },
+  {
+    "question": "Qu est-ce que l ARTCI en CI ?",
+    "options": [
+      "A) Un ministere",
+      "B) Une autorite administrative independante qui regule les telecommunications et les TIC",
+      "C) Une entreprise publique",
+      "D) Un tribunal specialise"
+    ],
+    "answer": "B",
+    "explanation": "L ARTCI est l autorite administrative independante de regulation du marche des telecommunications."
+  },
+  {
+    "question": "Quel est le nom du processus de decentralisation en CI qui transfere des competences aux communes ?",
+    "options": [
+      "A) La deconcentration",
+      "B) La decentralisation",
+      "C) La privatisation",
+      "D) La delegation"
+    ],
+    "answer": "B",
+    "explanation": "La decentralisation transfere des competences et des ressources a des collectivites territoriales autonomes (communes regions districts)."
+  },
+  {
+    "question": "Quel est le role d un conseil municipal en CI ?",
+    "options": [
+      "A) Gerer les affaires de l Etat central",
+      "B) Deliberer sur les affaires d interet communal et voter le budget de la commune",
+      "C) Nomrme les prefets",
+      "D) Adopter les lois nationales"
+    ],
+    "answer": "B",
+    "explanation": "Le conseil municipal est l assemblee deliberante de la commune. Il vote le budget et prend les decisions d interet local."
+  },
+  {
+    "question": "Qu est-ce que le principe de libre administration des collectivites territoriales en CI ?",
+    "options": [
+      "A) Les collectivites peuvent ignorer les lois nationales",
+      "B) Les collectivites gerent librement leurs affaires dans le cadre de la loi sous le controle de l Etat",
+      "C) Les collectivites peuvent creer leurs propres lois",
+      "D) Les collectivites sont independantes de l Etat"
+    ],
+    "answer": "B",
+    "explanation": "Le principe de libre administration permet aux collectivites de gerer leurs affaires dans les limites fixees par la loi et sous controle de l Etat."
+  },
+  {
+    "question": "Quelle est la difference entre un maire et un prefet en CI ?",
+    "options": [
+      "A) Aucune difference",
+      "B) Le maire est elu par les habitants pour gerer la commune ; le prefet est nomme par l Etat pour le representer dans le departement",
+      "C) Le prefet est superieur au maire en tout",
+      "D) Le maire est nomme par le gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "Le maire est elu local ; le prefet est agent de l Etat nomme par decret. Leurs roles et legitimites different."
+  },
+  {
+    "question": "Qu est-ce qu un service deconcentre de l Etat ?",
+    "options": [
+      "A) Un service prive",
+      "B) Un service de l Etat implante localement sous l autorite d un representant de l Etat (prefet sous-prefet)",
+      "C) Un etablissement public",
+      "D) Une collectivite territoriale"
+    ],
+    "answer": "B",
+    "explanation": "Les services deconcentres (DRE DRSP etc) representent les ministeres au niveau local sous l autorite du prefet."
+  },
+  {
+    "question": "Qu est-ce que le controle de legitimite dans le cadre de la decentralisation ?",
+    "options": [
+      "A) Le controle exerce par les citoyens sur les elus locaux",
+      "B) Le controle exerce par le representant de l Etat sur la legalite des actes des collectivites locales",
+      "C) Le controle financier des collectivites",
+      "D) L audit annuel des collectivites"
+    ],
+    "answer": "B",
+    "explanation": "Le representant de l Etat controle que les actes des collectivites sont conformes a la loi."
+  },
+  {
+    "question": "Qu est-ce que le budget communal en CI ?",
+    "options": [
+      "A) Le budget de l Etat central",
+      "B) Le document financier qui prevoit les recettes et depenses de la commune pour l annee",
+      "C) Le budget du departement",
+      "D) Le budget alloue aux fonctionnaires communaux"
+    ],
+    "answer": "B",
+    "explanation": "Le budget communal est vote par le conseil municipal. Il prevoit les ressources et les depenses de la commune."
+  },
+  {
+    "question": "Quel est le financement des collectivites locales en CI ?",
+    "options": [
+      "A) Uniquement par l Etat central",
+      "B) Par les impots locaux dotations de l Etat fonds de decentralisation et emprunts",
+      "C) Uniquement par les impots locaux",
+      "D) Par les dons internationaux uniquement"
+    ],
+    "answer": "B",
+    "explanation": "Les collectivites sont financees par une combinaison de ressources propres (impots locaux) et de transferts de l Etat."
+  },
+  {
+    "question": "Qu est-ce que l etat civil en CI ?",
+    "options": [
+      "A) Le registre des entreprises",
+      "B) L enregistrement des faits d etat civil (naissances mariages deces) qui etablit l identite juridique des personnes",
+      "C) Le registre des fonctionnaires",
+      "D) La liste electorale"
+    ],
+    "answer": "B",
+    "explanation": "L etat civil enregistre les evenements majeurs de la vie (naissances mariages deces) et etablit l identite juridique."
+  },
+  {
+    "question": "Qu est-ce que le Tresor public en CI ?",
+    "options": [
+      "A) La banque centrale",
+      "B) Le service de l Etat qui gere les finances publiques : encaissement des recettes et paiement des depenses",
+      "C) Un organisme prive",
+      "D) La banque du gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "Le Tresor public gere les flux financiers de l Etat : recettes fiscales paiement des salaires remboursement de la dette."
+  },
+  {
+    "question": "Piege : la Constitution de 2016 a-t-elle supprime le poste de Premier ministre en CI ?",
+    "options": [
+      "A) Oui definitivement",
+      "B) Non le poste existe mais son role est reduit car le President dirige directement le gouvernement",
+      "C) Oui mais il peut etre retabli par loi organique",
+      "D) Non le Premier ministre reste chef du gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 a maintenu un Vice-President et peut prevoir un Premier ministre mais le President reste chef du gouvernement."
+  },
+  {
+    "question": "Quel est le role du Conseil d Etat en CI ?",
+    "options": [
+      "A) Il n existe pas en CI",
+      "B) La chambre administrative de la Cour Supreme joue ce role : juridiction administrative supreme et conseiller juridique du gouvernement",
+      "C) Il est charge de la politique etrangere",
+      "D) Il gere les elections"
+    ],
+    "answer": "B",
+    "explanation": "En CI il n y a pas de Conseil d Etat independant. La chambre administrative de la Cour Supreme remplit ses fonctions."
+  },
+  {
+    "question": "Qu est-ce que la responsabilite politique du gouvernement en CI ?",
+    "options": [
+      "A) Le gouvernement est responsable devant le President uniquement",
+      "B) Le gouvernement est responsable devant l Assemblee nationale qui peut le renverser par une motion de censure",
+      "C) Le gouvernement est irresponsable",
+      "D) Le gouvernement est responsable devant le Senat"
+    ],
+    "answer": "B",
+    "explanation": "L Assemblee nationale peut engager la responsabilite du gouvernement par une motion de censure."
+  },
+  {
+    "question": "Piege : le controle parlementaire s exerce-t-il sur les actes du President en CI ?",
+    "options": [
+      "A) Oui pleinement comme en regime semi-presidentiel",
+      "B) Non en regime presidentiel le President n est pas responsable devant le Parlement",
+      "C) Oui uniquement sur les questions budgetaires",
+      "D) Non le Parlement ne peut pas questionner le gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "En regime presidentiel ivoirien le President n est pas responsable devant le Parlement. Seul le gouvernement l est."
+  },
+  {
+    "question": "Qu est-ce que le principe de l inamovibilite des magistrats en CI ?",
+    "options": [
+      "A) Les magistrats ne peuvent pas etre mutes",
+      "B) Les magistrats du siege ne peuvent pas etre deplactes sanctionnes ou destitues sans leur consentement ou une procedure disciplinaire",
+      "C) Les magistrats ne peuvent pas demissionner",
+      "D) Les magistrats sont nommes a vie"
+    ],
+    "answer": "B",
+    "explanation": "L inamovibilite protege les magistrats du siege contre toute pression : ils ne peuvent etre mutas ou sanctionnes que par procedure disciplinaire."
+  },
+  {
+    "question": "Qu est-ce que la citoyennete ivoirienne confere comme droits politiques ?",
+    "options": [
+      "A) Uniquement le droit de vote",
+      "B) Le droit de vote d eligibilite de petition d acces aux fonctions publiques et d exercice des libertes civiques",
+      "C) Uniquement le droit d acces aux fonctions publiques",
+      "D) Aucun droit politique pour les citoyens ordinaires"
+    ],
+    "answer": "B",
+    "explanation": "La citoyennete ivoirienne confere l ensemble des droits politiques : vote eligibilite libertes civiques acces aux fonctions publiques."
+  },
+  {
+    "question": "Qu est-ce que le droit d asile en CI ?",
+    "options": [
+      "A) Le droit pour un Ivoirien de quitter le pays",
+      "B) La protection accordee a un etranger persecute dans son pays qui en fait la demande",
+      "C) Le droit de refugier des biens a l etranger",
+      "D) L exemption d impots pour les diplomates"
+    ],
+    "answer": "B",
+    "explanation": "Le droit d asile accorde une protection a tout etranger qui fuit des persecutions dans son pays d origine."
+  },
+  {
+    "question": "Piege : la peine de mort est-elle abolie en CI ?",
+    "options": [
+      "A) Oui depuis la Constitution de 2016",
+      "B) Non elle est toujours en vigueur pour les crimes les plus graves",
+      "C) Oui depuis 2000",
+      "D) Oui depuis 1960"
+    ],
+    "answer": "A",
+    "explanation": "La Constitution de 2016 a aboli la peine de mort en CI. C est une avancee majeure des droits fondamentaux."
+  },
+  {
+    "question": "Qu est-ce que le Parlement ivoirien en matiere de controle du gouvernement ?",
+    "options": [
+      "A) Il ne dispose d aucun pouvoir de controle",
+      "B) Il exerce un controle par les questions orales et ecrites commissions enquete et motion de censure",
+      "C) Il peut dissoudre le gouvernement a tout moment",
+      "D) Il peut refuser d appliquer les lois presidentielles"
+    ],
+    "answer": "B",
+    "explanation": "Le Parlement ivoirien controle le gouvernement par les questions les commissions et la motion de censure."
+  },
+  {
+    "question": "Quel est le principe de la neutralite du service public ?",
+    "options": [
+      "A) Le service public doit etre gratuit",
+      "B) Le service public ne doit pas etre influence par des considerations politiques religieuses ou ideologiques",
+      "C) Le service public ne peut pas sous-traiter",
+      "D) Le service public doit etre gere par des fonctionnaires uniquement"
+    ],
+    "answer": "B",
+    "explanation": "La neutralite du service public garantit que les agents traitent tous les usagers de facon egale sans discrimination."
+  },
+  {
+    "question": "Piege : un fonctionnaire peut-il militer pour un parti politique en CI ?",
+    "options": [
+      "A) Oui totalement sans restriction",
+      "B) Non un fonctionnaire doit se garder de tout engagement politique ostensible dans l exercice de ses fonctions",
+      "C) Oui mais uniquement apres les heures de service",
+      "D) Non aucun fonctionnaire ne peut voter"
+    ],
+    "answer": "B",
+    "explanation": "Le devoir de reserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l exercice de ses fonctions."
+  },
+  {
+    "question": "Qu est-ce que la notion d autorite de l Etat ?",
+    "options": [
+      "A) La capacite de l Etat a emettre des billets de banque",
+      "B) La capacite de l Etat a imposer le respect de l ordre juridique et a faire executer ses decisions en recourant si necessaire a la contrainte",
+      "C) La capacite de l Etat a conclure des traites",
+      "D) La capacite de l Etat a lever des impots"
+    ],
+    "answer": "B",
+    "explanation": "L autorite de l Etat est sa capacite a maintenir l ordre et a faire respecter la loi en utilisant si necessaire la force legitime."
+  },
+  {
+    "question": "Qu est-ce que la nationalite ivoirienne par naissance ?",
+    "options": [
+      "A) Etre ne en CI",
+      "B) Etre ne de pere ou de mere ivoirien(ne)",
+      "C) Etre ne en CI ou d un parent ivoirien sous conditions",
+      "D) Uniquement etre ne de deux parents ivoiriens"
+    ],
+    "answer": "C",
+    "explanation": "La nationalite ivoirienne par naissance est attribuee a ceux nes en CI dans certaines conditions ou nes d un parent ivoirien."
+  },
+  {
+    "question": "Piege : une personne doublement nationale peut-elle obtenir le statut de refugie en CI ?",
+    "options": [
+      "A) Non un national CI ne peut pas etre refugie en CI",
+      "B) Oui si elle prouve la persecution dans son autre pays",
+      "C) Non les doubles nationaux n ont aucun droit au refuge",
+      "D) Oui automatiquement"
+    ],
+    "answer": "A",
+    "explanation": "Un citoyen ivoirien ne peut pas demander le statut de refugie en CI. Le droit d asile protege les etrangers dans un pays dont ils ne sont pas ressortissants."
+  },
+  {
+    "question": "Quelle est la duree de la session parlementaire ordinaire en CI ?",
+    "options": [
+      "A) 3 mois par an",
+      "B) 6 mois par an en deux sessions",
+      "C) Permanente",
+      "D) 9 mois par an"
+    ],
+    "answer": "B",
+    "explanation": "Le Parlement ivoirien se reunit en deux sessions ordinaires de 3 mois chacune soit 6 mois au total."
+  },
+  {
+    "question": "Piege : les actes du President de la Republique sont-ils soumis au controle du juge administratif ?",
+    "options": [
+      "A) Oui pleinement",
+      "B) Non les actes de gouvernement (liees a la politique) echappent au controle juridictionnel mais les actes reglementaires peuvent etre controles",
+      "C) Non aucun acte presidentialn est controlable",
+      "D) Oui mais uniquement par le Conseil Constitutionnel"
+    ],
+    "answer": "B",
+    "explanation": "Les actes de gouvernement (ex traites relations diplomatiques) echappent au juge administratif. Seuls les actes reglementaires peuvent etre attaques."
+  },
+  {
+    "question": "Qu est-ce que le principe d egalite devant le service public ?",
+    "options": [
+      "A) Tout le monde paye le meme prix",
+      "B) Tous les usagers dans la meme situation doivent etre traites identiquement par le service public",
+      "C) Tous les services publics sont gratuits",
+      "D) Les fonctionnaires et les usagers ont les memes droits"
+    ],
+    "answer": "B",
+    "explanation": "L egalite devant le service public est une application du principe general d egalite : meme traitement pour les usagers dans des situations identiques."
+  },
+  {
+    "question": "Quelle est la difference entre une commune de plein exercice et une commune de moyen exercice en CI ?",
+    "options": [
+      "A) La taille de la population",
+      "B) Le niveau d autonomie et de competences : une commune de plein exercice dispose d une autonomie plus grande",
+      "C) La localisation geographique",
+      "D) Le montant du budget"
+    ],
+    "answer": "B",
+    "explanation": "En CI les communes sont classees selon leur niveau d autonomie. Les communes de plein exercice ont plus de competences et de ressources."
+  },
+  {
+    "question": "Qu est-ce que le principe de neutralite religieuse dans la fonction publique ivoirienne ?",
+    "options": [
+      "A) Les fonctionnaires ne peuvent pas pratiquer une religion",
+      "B) Les fonctionnaires ne peuvent pas manifester leurs convictions religieuses dans l exercice de leurs fonctions",
+      "C) Les fonctionnaires doivent etre atheistes",
+      "D) La religion est interdite dans les locaux administratifs"
+    ],
+    "answer": "B",
+    "explanation": "La neutralite religieuse interdit aux fonctionnaires d exprimer leurs convictions religieuses dans l exercice de leurs fonctions."
+  },
+  {
+    "question": "Qu est-ce que le principe de gratuite du service public ?",
+    "options": [
+      "A) Tous les services publics sont gratuits",
+      "B) Ce principe signifie que le financement du service public ne doit pas reposer uniquement sur les usagers : il peut etre finance par les impots",
+      "C) Les usagers ne paient jamais pour les services publics",
+      "D) Les fonctionnaires travaillent benevoles"
+    ],
+    "answer": "B",
+    "explanation": "La gratuite du service public ne signifie pas absence de paiement mais que le service est accessible sans que le prix soit un obstacle dirimant."
+  },
+  {
+    "question": "Quelle est la distinction entre le prefet et le gouverneur en CI ?",
+    "options": [
+      "A) Aucune difference",
+      "B) En CI depuis 2011 le gouverneur dirige le district autonome (Abidjan Yamoussoukro) tandis que le prefet dirige le departement",
+      "C) Le gouverneur est un role historique supprime",
+      "D) Le gouverneur est elu le prefet nomme"
+    ],
+    "answer": "B",
+    "explanation": "La Constitution de 2011-2016 a cree des districts autonomes diriges par des gouverneurs nommes par le President pour les grandes agglomerations."
+  },
+  {
+    "question": "Qu est-ce que la delegation de signature ?",
+    "options": [
+      "A) Un fonctionnaire signe a la place d un autre sans habilitation",
+      "B) Une autorite administrative autorise un de ses subordonnes a signer en son nom certains actes",
+      "C) Le President deleguant ses pouvoirs au Premier ministre",
+      "D) L Assemblee nationale delegant ses pouvoirs au gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "La delegation de signature permet a un chef de service d autoriser son subordonné a signer certains actes en son nom. Le deleguant reste responsable."
+  },
+  {
+    "question": "Piege : la delegation de pouvoirs est-elle differente de la delegation de signature ?",
+    "options": [
+      "A) Non ce sont des synonymes",
+      "B) Oui : dans la delegation de pouvoirs le delegataire exerce le pouvoir en son nom propre et le delegant ne peut plus l exercer ; dans la delegation de signature le delegant reste responsable",
+      "C) Oui : la delegation de pouvoirs est illegale",
+      "D) Non elles ont les memes effets juridiques"
+    ],
+    "answer": "B",
+    "explanation": "Delegation de pouvoirs : transfert du pouvoir lui-meme (le delegant ne peut plus exercer). Delegation de signature : seule la signature est transferee le delegant reste responsable."
   }
 ];
 
@@ -6754,6 +7634,886 @@ const THEME_7 = [
     ],
     "answer": "B",
     "explanation": "Le contrat administratif implique au moins une personne publique et presente des clauses exorbitantes du droit commun."
+  },
+  {
+    "question": "Quelle est la procedure de revision constitutionnelle en CI ?",
+    "options": [
+      "A) Uniquement par referendum",
+      "B) Par le Parlement seul a la majorite simple",
+      "C) Par le Parlement a la majorite des 3/5 ou par referendum a l initiative du President",
+      "D) Par le Conseil Constitutionnel"
+    ],
+    "answer": "C",
+    "explanation": "La revision peut etre adoptee par le Parlement (3/5) ou soumise a referendum."
+  },
+  {
+    "question": "Qu est-ce qu une loi organique en droit ivoirien ?",
+    "options": [
+      "A) Une loi votee par referendum",
+      "B) Une loi qui precise la Constitution dans les domaines qu elle designe expressement",
+      "C) Une loi adoptee a l unanimite",
+      "D) Un decret du President"
+    ],
+    "answer": "B",
+    "explanation": "Les lois organiques completent la Constitution et sont superieures aux lois ordinaires."
+  },
+  {
+    "question": "Piege : le preambule de la Constitution de 2016 a-t-il une valeur juridique ?",
+    "options": [
+      "A) Non c est un simple texte declaratoire",
+      "B) Oui il fait partie du bloc de constitutionnalite",
+      "C) Non seul le corps de la Constitution a force contraignante",
+      "D) Oui mais uniquement pour les lois penales"
+    ],
+    "answer": "B",
+    "explanation": "Le preambule est integre au bloc de constitutionnalite et peut servir de base a la censure d une loi."
+  },
+  {
+    "question": "Qu est-ce que le principe de non-retroactivite des actes administratifs ?",
+    "options": [
+      "A) Un acte ne peut pas etre abroge",
+      "B) Un acte administratif ne peut produire d effets que pour l avenir pas pour le passe",
+      "C) Les actes s appliquent uniquement aux etrangers",
+      "D) Les reglements ne s appliquent qu au moment de leur signature"
+    ],
+    "answer": "B",
+    "explanation": "L acte administratif prend effet a sa publication. Il ne peut pas s appliquer retroactivement."
+  },
+  {
+    "question": "Qu est-ce que le principe du contradictoire en procedure administrative ?",
+    "options": [
+      "A) L administration peut decider sans informer l administre",
+      "B) Avant toute decision defavorable l administre doit pouvoir presenter ses observations",
+      "C) L administre peut contredire toutes les decisions",
+      "D) Les fonctionnaires peuvent refuser les ordres"
+    ],
+    "answer": "B",
+    "explanation": "Garantie fondamentale : avant toute decision qui lui fait grief l administre doit pouvoir s expliquer."
+  },
+  {
+    "question": "Quelle est la difference entre recours gracieux et recours hierarchique ?",
+    "options": [
+      "A) Ce sont des synonymes",
+      "B) Recours gracieux adresse a l auteur de l acte ; recours hierarchique adresse au superieur",
+      "C) Le recours gracieux va devant un juge",
+      "D) Le hierarchique est plus rapide"
+    ],
+    "answer": "B",
+    "explanation": "Gracieux : on demande a l auteur de retirer son acte. Hierarchique : on demande a son superieur de l annuler."
+  },
+  {
+    "question": "Qu est-ce que l exception d illegalite en droit administratif ?",
+    "options": [
+      "A) Impossibilite d attaquer un acte apres 2 mois",
+      "B) La possibilite de soulever l illegalite d un acte reglementaire de facon incidente lors d un litige meme hors delai de recours",
+      "C) L annulation automatique de tout acte illegal",
+      "D) Un recours special devant le Conseil Constitutionnel"
+    ],
+    "answer": "B",
+    "explanation": "L exception d illegalite est imprescriptible pour les actes reglementaires."
+  },
+  {
+    "question": "Qu est-ce que le pouvoir discrecionnaire de l administration ?",
+    "options": [
+      "A) Le droit d agir en dehors de la loi",
+      "B) La liberte de choix dont dispose l administration dans les limites fixees par la loi",
+      "C) Le droit de ne pas repondre aux requetes",
+      "D) La possibilite d ignorer les jugements"
+    ],
+    "answer": "B",
+    "explanation": "Le pouvoir discrecionnaire permet de choisir comment agir dans un cadre legal."
+  },
+  {
+    "question": "Quelles sont les trois lois de Rolland du service public ?",
+    "options": [
+      "A) Gratuite impartialite efficacite",
+      "B) Continuite egalite mutabilite",
+      "C) Rapidite transparence accessibilite",
+      "D) Neutralite gratuite universalite"
+    ],
+    "answer": "B",
+    "explanation": "Lois de Rolland : continuite (pas d interruption) egalite (traitement egaux) mutabilite (adaptation aux besoins)."
+  },
+  {
+    "question": "Piege : le service public peut-il etre gere par une personne privee ?",
+    "options": [
+      "A) Non seul l Etat peut gerer un service public",
+      "B) Oui via la delegation de service public (concession affermage)",
+      "C) Oui mais uniquement les services industriels",
+      "D) Non c est inconstitutionnel"
+    ],
+    "answer": "B",
+    "explanation": "La delegation de service public permet de confier la gestion a un prive."
+  },
+  {
+    "question": "Qu est-ce qu un contrat de concession de service public ?",
+    "options": [
+      "A) Un contrat de travail d un fonctionnaire",
+      "B) Un contrat par lequel une personne publique confie a un prive la gestion d un service public a ses risques et perils",
+      "C) Un accord international",
+      "D) Un marche public de fournitures"
+    ],
+    "answer": "B",
+    "explanation": "Le concessionnaire est remunere par les usagers et assume le risque d exploitation."
+  },
+  {
+    "question": "Quelle est la distinction fondamentale entre marche public et delegation de service public ?",
+    "options": [
+      "A) Aucune distinction",
+      "B) Marche public : remuneration par l administration ; delegation : remuneration par les usagers ou les resultats",
+      "C) Marche public = travaux delegation = services",
+      "D) La delegation s applique uniquement aux communes"
+    ],
+    "answer": "B",
+    "explanation": "La difference : le mode de remuneration et le transfert du risque d exploitation."
+  },
+  {
+    "question": "Qu est-ce que l IGE en CI ?",
+    "options": [
+      "A) Un tribunal administratif",
+      "B) Un corps de controle charge d inspecter les services de l Etat et de lutter contre la corruption",
+      "C) Le service de securite de la presidence",
+      "D) Un organe de l Assemblee nationale"
+    ],
+    "answer": "B",
+    "explanation": "L Inspection Generale d Etat placee aupres du President controle l utilisation des ressources publiques."
+  },
+  {
+    "question": "Qu est-ce que la titularisation dans la fonction publique ivoirienne ?",
+    "options": [
+      "A) Le recrutement initial",
+      "B) La confirmation definitive du statut de fonctionnaire apres la periode de stage",
+      "C) La promotion a un grade superieur",
+      "D) La mutation vers une autre administration"
+    ],
+    "answer": "B",
+    "explanation": "La titularisation met fin au statut de stagiaire et confere le statut definitif de fonctionnaire."
+  },
+  {
+    "question": "Piege : un fonctionnaire peut-il refuser d obeir a un ordre manifestement illegal ?",
+    "options": [
+      "A) Non l obeissance hierarchique est absolue",
+      "B) Oui il peut et doit refuser un ordre manifestement illegal comprometant serieusement un interet public",
+      "C) Oui mais uniquement avec accord du syndicat",
+      "D) Non il doit obeir et signaler apres"
+    ],
+    "answer": "B",
+    "explanation": "Le devoir de refuser un ordre manifestement illegal est un principe fondamental de la deontologie fonctionnaire."
+  },
+  {
+    "question": "Qu est-ce que la disponibilite dans la fonction publique ivoirienne ?",
+    "options": [
+      "A) La periode de conge annuel",
+      "B) La position ou un fonctionnaire cesse temporairement ses fonctions sans perdre son statut",
+      "C) Le droit au teletravail",
+      "D) Une sanction disciplinaire"
+    ],
+    "answer": "B",
+    "explanation": "La disponibilite est une position administrative temporaire sans remuneration de l Etat."
+  },
+  {
+    "question": "Qu est-ce que le detachement dans la fonction publique ?",
+    "options": [
+      "A) La mise a la retraite anticipee",
+      "B) La position du fonctionnaire qui exerce dans une autre administration en conservant ses droits dans son corps d origine",
+      "C) Une mutation definitive",
+      "D) Un conge pour raisons personnelles"
+    ],
+    "answer": "B",
+    "explanation": "Le detachement : exercice temporaire ailleurs avec conservation des droits dans le corps d origine."
+  },
+  {
+    "question": "Piege tres difficile : un acte nul et un acte inexistant sont-ils identiques ?",
+    "options": [
+      "A) Oui synonymes",
+      "B) Non : l acte nul a une apparence juridique et doit etre annule ; l acte inexistant n a aucune valeur et peut etre ignore",
+      "C) Oui memes effets juridiques",
+      "D) Non l acte inexistant entraine des sanctions penales"
+    ],
+    "answer": "B",
+    "explanation": "Acte nul : existe juridiquement mais vicie doit etre annule. Acte inexistant : aucune realite juridique."
+  },
+  {
+    "question": "Qu est-ce que le recours en cassation devant la chambre administrative de la Cour Supreme ?",
+    "options": [
+      "A) Un appel qui rejuge les faits",
+      "B) Un recours qui controle uniquement la legalite de la decision sans reexaminer les faits",
+      "C) Un recours reserve aux etrangers",
+      "D) Un recours en responsabilite de l Etat"
+    ],
+    "answer": "B",
+    "explanation": "La cassation verifie que la loi a ete correctement appliquee sans rejuger les faits."
+  },
+  {
+    "question": "Qu est-ce que le principe de proportionnalite dans l action administrative ?",
+    "options": [
+      "A) L administration traite les fonctionnaires proportionnellement a leur salaire",
+      "B) Les mesures de l administration doivent etre adaptees et proportionnees a l objectif poursuivi",
+      "C) Les taxes sont proportionnelles aux revenus",
+      "D) Les sanctions sont proportionnelles au grade"
+    ],
+    "answer": "B",
+    "explanation": "La proportionnalite empeche les mesures excessives par rapport au but recherche."
+  },
+  {
+    "question": "Qu est-ce que le detournement de pouvoir en droit administratif ?",
+    "options": [
+      "A) Utiliser un droit dans un but autre que celui pour lequel il a ete accorde",
+      "B) Refuser d appliquer la loi",
+      "C) Depasser son budget",
+      "D) Utiliser un droit legal de facon financierement abusive"
+    ],
+    "answer": "A",
+    "explanation": "Detournement de pouvoir : une autorite utilise un pouvoir legal a des fins autres que celles prevues."
+  },
+  {
+    "question": "Piege : la force majeure exonere-t-elle toujours l Etat de sa responsabilite ?",
+    "options": [
+      "A) Oui toujours et totalement",
+      "B) Non l Etat reste responsable pour certains services dangereux meme en cas de force majeure",
+      "C) Oui si l evenement est imprevisible et irresistible",
+      "D) Non la force majeure n existe pas en droit administratif"
+    ],
+    "answer": "B",
+    "explanation": "Pour les activites dangereuses la responsabilite sans faute peut subsister meme en cas de force majeure."
+  },
+  {
+    "question": "Qu est-ce que le principe de continuite de l Etat ?",
+    "options": [
+      "A) L Etat dure indefiniment et ses engagements subsistent au-dela des gouvernements successifs",
+      "B) Le President ne peut pas demissionner",
+      "C) Les lois ne peuvent pas etre abrogees",
+      "D) Les fonctionnaires restent en poste independamment des elections"
+    ],
+    "answer": "A",
+    "explanation": "La continuite de l Etat : ses engagements juridiques et financiers subsistent malgre les changements de gouvernement."
+  },
+  {
+    "question": "Qu est-ce que la faute personnelle detachable du service ?",
+    "options": [
+      "A) Un fonctionnaire ne peut jamais etre poursuivi penalement",
+      "B) La faute grave qui revele un comportement incompatible avec les obligations du service exposant le fonctionnaire a des poursuites",
+      "C) Seul le ministre peut etre poursuivi",
+      "D) La faute personnelle engage l Etat"
+    ],
+    "answer": "B",
+    "explanation": "La faute personnelle detachable engage la responsabilite personnelle du fonctionnaire (ex corruption violence deliberee)."
+  },
+  {
+    "question": "Piege : l annulation d un acte administratif par le juge a-t-elle un effet retroactif ?",
+    "options": [
+      "A) Non l annulation ne vaut que pour l avenir",
+      "B) Oui l annulation a un effet retroactif : l acte est cense n avoir jamais existe",
+      "C) Oui mais seulement pour les actes individuels",
+      "D) Non sauf si le juge le decide expressement"
+    ],
+    "answer": "B",
+    "explanation": "L annulation par le juge administratif a un effet retroactif (ex tunc) : l acte est cense n avoir jamais produit d effets."
+  },
+  {
+    "question": "Qu est-ce que le principe d egalite de traitement dans la fonction publique ?",
+    "options": [
+      "A) Tous les fonctionnaires ont le meme salaire",
+      "B) Des agents dans des situations identiques doivent etre traites de maniere identique sans discrimination",
+      "C) Le meme travail est effectue par le meme nombre d agents",
+      "D) Tous les grades sont equivalents"
+    ],
+    "answer": "B",
+    "explanation": "Le principe d egalite de traitement interdit toute discrimination dans la gestion des carrieres."
+  },
+  {
+    "question": "Qu est-ce que le controle de legalite interne d un acte administratif ?",
+    "options": [
+      "A) Verifier la signature",
+      "B) Verifier le fond : le but les motifs de droit et de fait et l objet de l acte",
+      "C) Verifier si l acte a ete publie",
+      "D) Verifier la competence de l auteur"
+    ],
+    "answer": "B",
+    "explanation": "Le controle interne porte sur le fond : but motifs de droit motifs de fait contenu."
+  },
+  {
+    "question": "Qu est-ce que le pouvoir de tutelle administrative en CI ?",
+    "options": [
+      "A) La supervision des orphelins",
+      "B) Le controle exerce par l Etat sur les collectivites locales et EPN pour garantir la legalite",
+      "C) La supervision des entreprises etrangeres",
+      "D) Le controle du President sur les ministres"
+    ],
+    "answer": "B",
+    "explanation": "La tutelle administrative permet a l Etat de controler les actes des collectivites locales et EPN."
+  },
+  {
+    "question": "Piege : un fonctionnaire detache peut-il etre discipline par son administration d accueil ET son corps d origine ?",
+    "options": [
+      "A) Non seule l administration d accueil est competente",
+      "B) Non seul le corps d origine l est",
+      "C) Oui : administration d accueil pour fautes liees au poste ; corps d origine pour manquements au statut",
+      "D) Oui les deux peuvent sanctionner pour les memes faits"
+    ],
+    "answer": "C",
+    "explanation": "La discipline en detachement est partagee selon la nature de la faute."
+  },
+  {
+    "question": "Qu est-ce que la responsabilite de l Etat du fait des lois ?",
+    "options": [
+      "A) L Etat ne peut jamais etre condamne pour une loi",
+      "B) Une loi ne peut pas engager la responsabilite de l Etat",
+      "C) L Etat peut etre condamne si une loi cause un prejudice anormal et special meme si elle est legale",
+      "D) Seul le Parlement est responsable des lois"
+    ],
+    "answer": "C",
+    "explanation": "Responsabilite sans faute du legislateur : meme une loi valide peut creer une rupture d egalite devant les charges publiques."
+  },
+  {
+    "question": "Qu est-ce que le principe de bonne foi dans l administration publique ?",
+    "options": [
+      "A) Les agents doivent etre de confession chretienne",
+      "B) L administration doit agir avec loyaute et sincerite dans ses relations avec les administres",
+      "C) Les contrats administratifs n engagent pas l administration",
+      "D) Les agents doivent croire en leur mission"
+    ],
+    "answer": "B",
+    "explanation": "La bonne foi implique que l administration agit loyalement et respecte les expectatives legitimes creees."
+  },
+  {
+    "question": "Qu est-ce que le principe d accessibilite du service public ?",
+    "options": [
+      "A) Le service doit etre gratuit pour tous",
+      "B) Le service doit etre physiquement et financierement accessible a tous les usagers de maniere egale",
+      "C) Le service doit etre disponible 24h/24",
+      "D) Le service doit etre numerique"
+    ],
+    "answer": "B",
+    "explanation": "L accessibilite est une expression du principe d egalite : le service public doit etre accessible a tous sans discrimination."
+  },
+  {
+    "question": "Qu est-ce qu un acte reglementaire en droit administratif ?",
+    "options": [
+      "A) Un acte individuel visant une personne nommement designee",
+      "B) Un acte a portee generale et impersonnelle qui s applique a tous",
+      "C) Un acte du Parlement",
+      "D) Un acte des collectivites locales uniquement"
+    ],
+    "answer": "B",
+    "explanation": "L acte reglementaire a une portee generale : il s applique a toutes les personnes dans la situation qu il definit."
+  },
+  {
+    "question": "Quelle est la difference entre un acte administratif unilateral et un contrat administratif ?",
+    "options": [
+      "A) Aucune difference",
+      "B) L acte unilateral est impose sans consentement du destinataire ; le contrat implique un accord de volontes entre les parties",
+      "C) Le contrat est superieur a l acte unilateral",
+      "D) L acte unilateral est reserved au President"
+    ],
+    "answer": "B",
+    "explanation": "L acte unilateral s impose sans accord ; le contrat resulte d un accord de volontes entre personne publique et cocontractant."
+  },
+  {
+    "question": "Qu est-ce que la prescription quadriennale des creances contre l Etat ?",
+    "options": [
+      "A) L Etat doit payer ses dettes en 4 mois",
+      "B) Les creances non reclamees contre l Etat se prescrivent (s eteignent) apres 4 ans",
+      "C) Les impots non payes se prescrivent apres 4 ans",
+      "D) Les contrats administratifs expirent apres 4 ans"
+    ],
+    "answer": "B",
+    "explanation": "La prescription quadriennale (4 ans en droit francais inspire le droit ivoirien) eteint les creances non reclamees contre l Etat."
+  },
+  {
+    "question": "Qu est-ce qu un acte administratif declaratif ?",
+    "options": [
+      "A) Un acte qui cree des droits nouveaux",
+      "B) Un acte qui constate l existence d une situation juridique prexistante sans creer de droits nouveaux",
+      "C) Un acte qui punit un administre",
+      "D) Un acte qui nomme un fonctionnaire"
+    ],
+    "answer": "B",
+    "explanation": "Un acte declaratif (ex diplome reconnaissance de nationalite) constate ; il ne cree pas de droits nouveaux contrairement a l acte constitutif."
+  },
+  {
+    "question": "Qu est-ce que le droit de retrait d un acte administratif ?",
+    "options": [
+      "A) L administre peut retirer son dossier",
+      "B) L administration peut supprimer retroactivement un acte illegal dans un delai limite",
+      "C) L administre peut ignorer un acte avec lequel il n est pas d accord",
+      "D) L annulation par un juge"
+    ],
+    "answer": "B",
+    "explanation": "Le droit de retrait permet a l autorite administrative de supprimer retroactivement un acte illegal. Le delai est en general de 4 mois."
+  },
+  {
+    "question": "Qu est-ce que l abrogation d un acte administratif ?",
+    "options": [
+      "A) L annulation retroactive par un juge",
+      "B) La suppression de l acte pour l avenir seulement sans retroactivite",
+      "C) La modification de l acte",
+      "D) Le remplacement de l acte par un autre"
+    ],
+    "answer": "B",
+    "explanation": "L abrogation supprime l acte pour l avenir (ex tunc) contrairement au retrait qui est retroactif (ex tunc)."
+  },
+  {
+    "question": "Piege : retrait et abrogation d un acte administratif ont-ils les memes effets ?",
+    "options": [
+      "A) Oui identiques",
+      "B) Non : retrait = effet retroactif (l acte est cense n avoir jamais existe) ; abrogation = effet seulement pour l avenir",
+      "C) Le retrait est plus favorable a l administre",
+      "D) L abrogation est plus grave que le retrait"
+    ],
+    "answer": "B",
+    "explanation": "Retrait = retroactif (ex tunc). Abrogation = pour l avenir (ex nunc)."
+  },
+  {
+    "question": "Qu est-ce que le principe de la securite des relations juridiques ?",
+    "options": [
+      "A) L Etat garantit la securite physique des citoyens",
+      "B) Les relations juridiques etablies ne peuvent pas etre remises en cause indefiniment ; il faut des delais de stabilisation",
+      "C) Les contrats ne peuvent pas etre modifies",
+      "D) Les lois ne peuvent pas etre changees"
+    ],
+    "answer": "B",
+    "explanation": "La securite juridique exige que les relations et les actes acquierent une certaine stabilite apres expiration des delais de recours."
+  },
+  {
+    "question": "Qu est-ce que l erreur manifeste d appreciation en droit administratif ?",
+    "options": [
+      "A) Une erreur de calcul dans un acte administratif",
+      "B) Une erreur grossiere dans l appreciation des faits par l administration qui entraine l illegalite de l acte",
+      "C) Une faute professionnelle d un fonctionnaire",
+      "D) Un acte redige avec des erreurs de forme"
+    ],
+    "answer": "B",
+    "explanation": "L erreur manifeste d appreciation est un controle restreint du juge : il censure les erreurs grossieres dans l appreciation des faits par l administration."
+  },
+  {
+    "question": "Qu est-ce que le pouvoir de substitution d action en droit administratif ?",
+    "options": [
+      "A) Remplacer un agent par un autre",
+      "B) Le pouvoir du superieur de se substituer a l autorite inferieure defaillante pour agir a sa place",
+      "C) Le droit de l administre de faire appel",
+      "D) La delegation de signature"
+    ],
+    "answer": "B",
+    "explanation": "La substitution d action permet au superieur (ex prefet) d agir a la place d une autorite locale defaillante pour garantir l execution des obligations legales."
+  },
+  {
+    "question": "Qu est-ce que le principe de la responsabilite pour risque en droit administratif ?",
+    "options": [
+      "A) L Etat est responsable uniquement si ses agents ont commis une faute",
+      "B) L Etat est responsable du simple fait de la creation d une situation dangereuse meme sans faute",
+      "C) L Etat n est jamais responsable pour risque",
+      "D) La responsabilite pour risque n existe qu en droit prive"
+    ],
+    "answer": "B",
+    "explanation": "La responsabilite pour risque engage l Etat du fait d activites dangereuses (armes explosifs) meme en l absence de faute."
+  },
+  {
+    "question": "Qu est-ce que la Commission Administrative Paritaire (CAP) dans la fonction publique ivoirienne ?",
+    "options": [
+      "A) Un tribunal pour fonctionnaires",
+      "B) Un organisme consultatif paritaire (autant d elus du personnel que de representants de l administration) consulte sur les decisions individuelles (mutations avancement sanctions)",
+      "C) Un syndicat de fonctionnaires",
+      "D) Une instance de controle budgetaire"
+    ],
+    "answer": "B",
+    "explanation": "La CAP est consultee sur les decisions individuelles concernant la carriere des fonctionnaires."
+  },
+  {
+    "question": "Qu est-ce que le droit disciplinaire dans la fonction publique ?",
+    "options": [
+      "A) Le droit du fonctionnaire de refuser des sanctions",
+      "B) L ensemble des regles relatives aux sanctions pouvant etre infligees a un fonctionnaire qui a manque a ses obligations professionnelles",
+      "C) Le droit de retraite des fonctionnaires",
+      "D) Le droit de greve des fonctionnaires"
+    ],
+    "answer": "B",
+    "explanation": "Le droit disciplinaire fixe les fautes professionnelles et les sanctions applicables (avertissement bleme suspension revocation)."
+  },
+  {
+    "question": "Piege : un fonctionnaire condamne penalement peut-il etre aussi sanctionne disciplinairement pour les memes faits ?",
+    "options": [
+      "A) Non le principe non bis in idem l interdit",
+      "B) Oui les deux procedures sont independantes",
+      "C) Non il faut choisir l une ou l autre",
+      "D) Oui mais uniquement si la peine est superieure a 6 mois"
+    ],
+    "answer": "B",
+    "explanation": "Les procedures penale et disciplinaire sont independantes. Un meme fait peut donner lieu a une sanction penale et a une sanction disciplinaire."
+  },
+  {
+    "question": "Qu est-ce que l avancement a l anciennete dans la fonction publique ivoirienne ?",
+    "options": [
+      "A) La promotion automatique basee uniquement sur la duree de service",
+      "B) L avancement qui tient compte du temps de service et parfois des notes mais sans selection rigoureuse",
+      "C) La promotion uniquement au merite",
+      "D) L avancement accorde par le Parlement"
+    ],
+    "answer": "B",
+    "explanation": "L avancement a l anciennete (increments) est automatique ou semi-automatique en fonction du temps de service."
+  },
+  {
+    "question": "Qu est-ce que l avancement au choix (ou au merite) dans la fonction publique ivoirienne ?",
+    "options": [
+      "A) L avancement automatique annuel",
+      "B) L avancement decide par l administration apres evaluation des performances et choix parmi les agents eligibles",
+      "C) L avancement par concours interne",
+      "D) L avancement accorde au plus anciens"
+    ],
+    "answer": "B",
+    "explanation": "L avancement au choix est decide par l administration parmi les agents eligibles en tenant compte de leurs merites et de leurs notes."
+  },
+  {
+    "question": "Qu est-ce que la mise en non-activite d un fonctionnaire ivoirien ?",
+    "options": [
+      "A) Le conge annuel",
+      "B) La position administrative ou le fonctionnaire est suspendu temporairement de ses fonctions en attendant une decision (ex enquete disciplinaire)",
+      "C) La retraite",
+      "D) Le detachement"
+    ],
+    "answer": "B",
+    "explanation": "La mise en non-activite est une suspension temporaire des fonctions dans l attente d une decision disciplinaire ou judiciaire."
+  },
+  {
+    "question": "Piege : un fonctionnaire suspendu pendant une enquete disciplinaire a-t-il droit a son salaire ?",
+    "options": [
+      "A) Non il perd tout droit a remuneration",
+      "B) Oui il conserve sa remuneration pendant la periode de suspension dans l attente de la decision",
+      "C) Il recoit 50% de son salaire",
+      "D) Cela depend de la gravite des faits"
+    ],
+    "answer": "B",
+    "explanation": "Pendant la suspension provisoire en attente de decision disciplinaire le fonctionnaire conserve generalement sa remuneration."
+  },
+  {
+    "question": "Qu est-ce que le principe d impartialite de l administration ?",
+    "options": [
+      "A) L administration n a aucune opinion",
+      "B) L administration traite toutes les situations similaires de la meme maniere sans favoritisme ni discrimination",
+      "C) L administration ne peut pas donner d avis",
+      "D) L administration doit toujours donner raison au citoyen"
+    ],
+    "answer": "B",
+    "explanation": "L impartialite garantit l absence de favoritisme : les agents de l administration ne peuvent pas avantager ou penaliser arbitrairement les administres."
+  },
+  {
+    "question": "Qu est-ce que la notion de service public en reseau ?",
+    "options": [
+      "A) Un service gere via internet",
+      "B) Un service public organise en infrastructure nationale (eau electricite transport rail) qui necessite des investissements lourds et un acces universel",
+      "C) Un service public gerant les reseaux sociaux",
+      "D) Un service prive de telecommunications"
+    ],
+    "answer": "B",
+    "explanation": "Les services en reseau (eau electricite routes ferrees) sont des services publics a acces universel necessitant des infrastructures nationales."
+  },
+  {
+    "question": "Qu est-ce que le pouvoir de police administrative ?",
+    "options": [
+      "A) Le pouvoir de la police judiciaire de poursuivre les criminels",
+      "B) Le pouvoir des autorites administratives de restreindre les libertes individuelles pour maintenir l ordre public",
+      "C) Le pouvoir du Parlement de voter des lois securitaires",
+      "D) Le pouvoir des communes de creer des services de securite"
+    ],
+    "answer": "B",
+    "explanation": "La police administrative permet a l administration de prevenir les troubles a l ordre public en imposant des restrictions aux libertes."
+  },
+  {
+    "question": "Quels sont les trois elements de l ordre public en police administrative ?",
+    "options": [
+      "A) Surete tranquillite salubrité",
+      "B) Surete securite efficacite",
+      "C) Egalite liberte fraternite",
+      "D) Ordre paix justice"
+    ],
+    "answer": "A",
+    "explanation": "L ordre public en police administrative comprend la surete (securite des personnes et biens) la tranquillite (absence de troubles) et la salubrite (hygiene publique)."
+  },
+  {
+    "question": "Piege : la police administrative peut-elle etre exercee par une personne privee ?",
+    "options": [
+      "A) Non seul l Etat peut l exercer",
+      "B) Oui dans le cadre de la delegation de service public si la personne privee en est chargee",
+      "C) Oui toujours",
+      "D) Non meme en cas de delegation"
+    ],
+    "answer": "B",
+    "explanation": "En principe la police administrative est une prerogative de puissance publique. Elle peut dans certains cas etre exercee par un prive dans le cadre d une delegation."
+  },
+  {
+    "question": "Qu est-ce que le domaine public en droit administratif ivoirien ?",
+    "options": [
+      "A) L ensemble des biens prives de l Etat",
+      "B) L ensemble des biens affectes a l usage direct du public ou a un service public et soumis a un regime de protection special",
+      "C) Les terres agricoles de l Etat",
+      "D) Les immeubles des ministeres uniquement"
+    ],
+    "answer": "B",
+    "explanation": "Le domaine public est insaisissable inalienable et imprescriptible. Il comprend les routes les ponts les cours d eau navigables etc."
+  },
+  {
+    "question": "Piege : l Etat peut-il vendre un bien du domaine public ivoirien ?",
+    "options": [
+      "A) Oui librement",
+      "B) Non le domaine public est inalienable ; il faut d abord le desaffecter du domaine public pour le vendre",
+      "C) Oui avec l accord du Parlement",
+      "D) Oui mais uniquement a une personne publique"
+    ],
+    "answer": "B",
+    "explanation": "L inalienabilite du domaine public interdit sa vente directe. La desaffectation prealable est obligatoire avant toute cession."
+  },
+  {
+    "question": "Qu est-ce que le droit de preemption de l Etat en CI ?",
+    "options": [
+      "A) Le droit de l Etat d acheter en priorite certains biens mis en vente",
+      "B) Le droit de l Etat de prendre les biens sans indemnisation",
+      "C) Le droit de l Etat de louer des proprietes privees",
+      "D) Le droit de l Etat de reclamer des impots en priorite"
+    ],
+    "answer": "A",
+    "explanation": "Le droit de preemption permet a l Etat d acquerir en priorite certains biens mis en vente notamment dans le cadre de l amenagement du territoire."
+  },
+  {
+    "question": "Qu est-ce que l expropriation pour cause d utilite publique ?",
+    "options": [
+      "A) La confiscation des biens des criminels",
+      "B) La procedure permettant a l Etat de prendre propriete d un bien prive contre une indemnisation juste et prealable pour un projet d interet general",
+      "C) La saisie des biens en cas de dettes fiscales",
+      "D) La nationalisation d une entreprise"
+    ],
+    "answer": "B",
+    "explanation": "L expropriation est encadree : elle necessite une utilite publique reconnue une procedure legale et une indemnisation juste et prealable."
+  },
+  {
+    "question": "Piege : l expropriation sans indemnisation est-elle possible en CI ?",
+    "options": [
+      "A) Oui en cas d urgence nationale",
+      "B) Non elle est inconstitutionnelle : l indemnisation juste et prealable est une garantie constitutionnelle",
+      "C) Oui avec l accord du Conseil Constitutionnel",
+      "D) Oui uniquement pour les etrangers"
+    ],
+    "answer": "B",
+    "explanation": "La Constitution garantit le droit de propriete. L expropriation n est possible qu avec une juste et prealable indemnisation."
+  },
+  {
+    "question": "Qu est-ce que le principe de continuite de l activite administrative ?",
+    "options": [
+      "A) L administration ne ferme jamais",
+      "B) Les services administratifs essentiels doivent fonctionner de maniere continue sans interruption injustifiee",
+      "C) Les fonctionnaires travaillent 24h/24",
+      "D) Les lois ne peuvent pas suspendre les services"
+    ],
+    "answer": "B",
+    "explanation": "La continuite administrative garantit que les services publics essentiels (sante securite eau) ne s interrompent pas meme lors de greves."
+  },
+  {
+    "question": "Qu est-ce que le recours de plein contentieux (ou recours de pleine juridiction) ?",
+    "options": [
+      "A) Un recours qui ne peut annuler un acte",
+      "B) Un recours ou le juge peut annuler reformer ou condamner l administration a payer des dommages et interets",
+      "C) Un recours reserve aux etrangers",
+      "D) Un recours devant le Conseil Constitutionnel"
+    ],
+    "answer": "B",
+    "explanation": "Le recours de plein contentieux va au-dela de la simple annulation : le juge peut reformer l acte et accorder des dommages et interets."
+  },
+  {
+    "question": "Qu est-ce qu un arrete ministeriel ?",
+    "options": [
+      "A) Un arrete pris par le Premier ministre",
+      "B) Un acte reglementaire ou individuel pris par un ministre dans le cadre de ses attributions",
+      "C) Une loi adoptee par le Parlement",
+      "D) Un decret presidentiel"
+    ],
+    "answer": "B",
+    "explanation": "L arrete ministeriel est un acte de l executif pris par un ministre. Il a une portee inferieure aux decrets."
+  },
+  {
+    "question": "Qu est-ce que la hierarchie des actes administratifs en CI ?",
+    "options": [
+      "A) Les decrets > les arretes ministeriels > les arretes prefectoraux > les arretes municipaux",
+      "B) Les arretes municipaux > les arretes prefectoraux",
+      "C) Les arretes ministeriels > les decrets",
+      "D) Tous les actes administratifs ont la meme valeur"
+    ],
+    "answer": "A",
+    "explanation": "La hierarchie : decrets presidetiels > decrets en conseil des ministres > arretes ministeriels > arretes prefectoraux > arretes municipaux."
+  },
+  {
+    "question": "Qu est-ce que la competence liee de l administration ?",
+    "options": [
+      "A) L administration a une totale liberte de choix",
+      "B) L administration n a pas de liberte de choix : la loi definit precisement ce qu elle doit faire et comment",
+      "C) La competence exclusive d un ministere",
+      "D) La competence partagee entre deux autorites"
+    ],
+    "answer": "B",
+    "explanation": "La competence liee s oppose au pouvoir discrecionnaire : l administration doit agir d une certaine maniere sans avoir le choix."
+  },
+  {
+    "question": "Piege : l administration peut-elle abroger un reglement en vigueur a tout moment ?",
+    "options": [
+      "A) Non elle doit maintenir les reglements en vigueur indefiniment",
+      "B) Oui l administration peut abroger ses propres reglements a tout moment sauf si l abrogation porte atteinte aux droits acquis",
+      "C) Oui mais uniquement avec l accord du Parlement",
+      "D) Non seul le juge peut abroger un reglement"
+    ],
+    "answer": "B",
+    "explanation": "L administration a le droit et parfois l obligation d abroger ses reglements illegaux. Cependant l abrogation ne peut pas porter atteinte a des droits acquis legitimes."
+  },
+  {
+    "question": "Qu est-ce que le principe de la hierarchie administrative ?",
+    "options": [
+      "A) Les fonctionnaires sont ordonnes par salaire",
+      "B) Le superieur hierarchique peut donner des instructions a ses subordonnes et exercer sur eux un pouvoir de controle et de sanction",
+      "C) Tous les agents ont la meme autorite",
+      "D) Le plus ancien commande toujours"
+    ],
+    "answer": "B",
+    "explanation": "La hierarchie administrative implique que le superieur peut donner des instructions des ordres et exercer un pouvoir disciplinaire sur ses subordonnes."
+  },
+  {
+    "question": "Qu est-ce qu une autorite administrative independante (AAI) ?",
+    "options": [
+      "A) Un tribunal administratif",
+      "B) Une structure administrative dotee d une independance vis-a-vis du gouvernement creee pour reguler des secteurs sensibles",
+      "C) Un ministere autonome",
+      "D) Une collectivite territoriale"
+    ],
+    "answer": "B",
+    "explanation": "Les AAI (ex ARTCI HACA CMI) sont des structures administratives independantes du gouvernement chargees de reguler des secteurs qui necessitent une neutralite politique."
+  },
+  {
+    "question": "Qu est-ce que la HACA en CI ?",
+    "options": [
+      "A) Haute Autorite des Collectivites Administratives",
+      "B) Haute Autorite de la Communication Audiovisuelle : autorite qui regule les medias audiovisuels en CI",
+      "C) Haute Assemblee des Citoyens Africains",
+      "D) Haute Administration des Charges et Achats"
+    ],
+    "answer": "B",
+    "explanation": "La HACA est l autorite administrative independante chargee de reguler la communication audiovisuelle (television radio) en Cote d Ivoire."
+  },
+  {
+    "question": "Piege : les AAI (autorites administratives independantes) font-elles partie de l Etat ?",
+    "options": [
+      "A) Non elles sont totalement independantes",
+      "B) Oui elles font partie de l Etat mais disposent d une independance organique et fonctionnelle vis-a-vis du gouvernement",
+      "C) Non elles sont des organismes prives",
+      "D) Oui elles sont sous l autorite directe du President"
+    ],
+    "answer": "B",
+    "explanation": "Les AAI font partie de l Etat mais avec une independance institutionnelle garantissant leur neutralite par rapport au gouvernement du jour."
+  },
+  {
+    "question": "Qu est-ce que le contentieux de la responsabilite administrative ?",
+    "options": [
+      "A) La responsabilite penale des fonctionnaires",
+      "B) Le litige devant le juge administratif tendant a obtenir la reparation d un dommage cause par une personne publique",
+      "C) Le contentieux fiscal entre l Etat et les entreprises",
+      "D) Les litiges entre fonctionnaires"
+    ],
+    "answer": "B",
+    "explanation": "Le contentieux de la responsabilite administrative permet aux victimes d actes ou de comportements fautifs de l administration d obtenir une indemnisation."
+  },
+  {
+    "question": "Qu est-ce que la rupture d egalite devant les charges publiques ?",
+    "options": [
+      "A) Une inegalite de traitement entre fonctionnaires",
+      "B) Le fait qu une decision ou une action de l administration fait supporter a un particulier un prejudice anormal et special que les autres citoyens ne supportent pas",
+      "C) Une inegalite fiscale",
+      "D) Une discrimination a l embauche dans la fonction publique"
+    ],
+    "answer": "B",
+    "explanation": "La rupture d egalite fonde la responsabilite sans faute : si l action de l Etat cree un prejudice anormal et special l Etat doit indemniser meme sans avoir commis de faute."
+  },
+  {
+    "question": "Qu est-ce que le recours indemnitaire en droit administratif ?",
+    "options": [
+      "A) Un recours pour annuler un acte",
+      "B) Un recours tendant a obtenir une compensation financiere pour un prejudice subi du fait de l administration",
+      "C) Un recours pour obtenir un logement social",
+      "D) Un recours contre les impots"
+    ],
+    "answer": "B",
+    "explanation": "Le recours indemnitaire (ou de plein contentieux) permet d obtenir la condamnation de l administration a payer des dommages et interets."
+  },
+  {
+    "question": "Qu est-ce que la mise en demeure de l administration ?",
+    "options": [
+      "A) Une sanction administrative",
+      "B) Un acte par lequel l administre ou le juge somme l administration d executer ses obligations dans un delai determine",
+      "C) Une convocation disciplinaire",
+      "D) Un ordre de paiement"
+    ],
+    "answer": "B",
+    "explanation": "La mise en demeure invite l administration a remplir ses obligations. Si elle ne s execute pas le juge peut prononcer des astreintes."
+  },
+  {
+    "question": "Qu est-ce que l astreinte en droit administratif ?",
+    "options": [
+      "A) Une peine privative de liberte pour un fonctionnaire",
+      "B) Une sanction financiere prononcee par le juge pour contraindre l administration a executer une decision de justice",
+      "C) Une amende fiscale",
+      "D) Une retenue sur salaire"
+    ],
+    "answer": "B",
+    "explanation": "L astreinte est une condamnation financiere par jour de retard : elle vise a contraindre l administration a executer les decisions de justice."
+  },
+  {
+    "question": "Piege : le juge administratif peut-il adresser des injonctions a l administration en CI ?",
+    "options": [
+      "A) Non le juge ne peut qu annuler les actes",
+      "B) Oui depuis les reformes recentes le juge administratif peut adresser des injonctions et prononcer des astreintes pour assurer l execution de ses decisions",
+      "C) Non le juge administratif n a aucun pouvoir d execution",
+      "D) Oui mais uniquement en matiere financiere"
+    ],
+    "answer": "B",
+    "explanation": "Les reformes du droit administratif modeme reconnaissent au juge le pouvoir d injonction et d astreinte pour faire executer ses decisions."
+  },
+  {
+    "question": "Qu est-ce que le principe de publicite des actes administratifs ?",
+    "options": [
+      "A) Tous les actes doivent passer a la television",
+      "B) Pour etre opposables les actes administratifs doivent etre portes a la connaissance de leurs destinataires par publication ou notification",
+      "C) Les actes administratifs sont confidentiels",
+      "D) Seuls les decrets presidentiels doivent etre publies"
+    ],
+    "answer": "B",
+    "explanation": "La publicite des actes administratifs est une condition de leur opposabilite : les reglements doivent etre publies les actes individuels notifies."
+  },
+  {
+    "question": "Qu est-ce que le principe du service minimum en cas de greve dans les services publics essentiels ?",
+    "options": [
+      "A) Les greves sont interdites dans les services publics",
+      "B) En cas de greve dans les services essentiels (hopitaux transports) un service minimum doit etre maintenu pour proteger la continuite",
+      "C) Les fonctionnaires greves doivent assurer 100% du service",
+      "D) Le service minimum n existe pas en CI"
+    ],
+    "answer": "B",
+    "explanation": "Le service minimum concilie le droit de greve et la continuite des services essentiels. Des agents doivent maintenir un service de base."
+  },
+  {
+    "question": "Qu est-ce que le principe de l autorite de la chose jugee en droit administratif ?",
+    "options": [
+      "A) Un acte administratif ne peut jamais etre modifie",
+      "B) Une decision de justice devient definitive et lie les parties une fois les voies de recours epuisees",
+      "C) L administration doit obeir aux jugements uniquement si elle le souhaite",
+      "D) Seul le Conseil Constitutionnel peut rendre des decisions definitives"
+    ],
+    "answer": "B",
+    "explanation": "L autorite de la chose jugee signifie qu une decision definitive s impose a tous y compris a l administration."
+  },
+  {
+    "question": "Qu est-ce que le pouvoir reglementaire autonome en CI ?",
+    "options": [
+      "A) Le pouvoir du Parlement de prendre des reglements",
+      "B) Le pouvoir du President et du gouvernement de prendre des reglements dans des matieres non reservees a la loi",
+      "C) Le pouvoir des communes de voter leurs propres lois",
+      "D) Le pouvoir du Conseil Constitutionnel de reguler les lois"
+    ],
+    "answer": "B",
+    "explanation": "Le pouvoir reglementaire autonome permet a l executif de regler les matieres qui ne sont pas du domaine de la loi defini par la Constitution."
   }
 ];
 
