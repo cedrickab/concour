@@ -1,4 +1,5 @@
-// Quiz Data - 493 questions
+// Quiz Data - auto-generated from quiz_data.py
+// 615 questions across 7 themes
 
 const THEME_1 = [
   {
@@ -937,6 +938,171 @@ const THEME_1 = [
     ],
     "answer": "B",
     "explanation": "Un arrêté est un acte administratif pris par un ministre, un préfet ou un maire."
+  },
+  {
+    "question": "Quelle est la definition de la rhetorique ?",
+    "options": [
+      "A) L'etude d'une langue fondee sur l'analyse des textes",
+      "B) L'etude de la religion",
+      "C) L'art du discours et de l'eloquence",
+      "D) La science des sons"
+    ],
+    "answer": "C",
+    "explanation": "La rhetorique est l'art du discours, de l'eloquence."
+  },
+  {
+    "question": "Quel mot est mal orthographie ?",
+    "options": [
+      "A) echapattoire",
+      "B) alveole",
+      "C) anagramme",
+      "D) peregrination"
+    ],
+    "answer": "A",
+    "explanation": "La bonne orthographe est ecchappatoire avec deux p."
+  },
+  {
+    "question": "Quelle est la nature de Fatiguees dans : Fatiguees, les femmes se reposent ?",
+    "options": [
+      "A) Participe passe epithete",
+      "B) Adjectif qualificatif epithete",
+      "C) Participe passe mis en apposition",
+      "D) Adjectif attribut"
+    ],
+    "answer": "C",
+    "explanation": "Fatiguees est un participe passe mis en apposition, detache par une virgule."
+  },
+  {
+    "question": "Quel mot n'appartient pas a la meme famille que les autres ?",
+    "options": [
+      "A) ingenieur",
+      "B) geniteur",
+      "C) genese",
+      "D) generation"
+    ],
+    "answer": "A",
+    "explanation": "Ingenieur vient du latin ingenium, tandis que les autres viennent de gignere (engendrer)."
+  },
+  {
+    "question": "Choisissez le complement correct pour le verbe Luter :",
+    "options": [
+      "A) une fissure",
+      "B) un vase",
+      "C) un trou",
+      "D) une bouteille"
+    ],
+    "answer": "B",
+    "explanation": "Luter signifie fermer hermetiquement avec du lut. On lute un vase, un creuset."
+  },
+  {
+    "question": "Que signifie le sigle HLM ?",
+    "options": [
+      "A) Habitation de longueur moyenne",
+      "B) Habitation a loyer modere",
+      "C) Habitation de location moderne",
+      "D) Habitation legere et modulable"
+    ],
+    "answer": "B",
+    "explanation": "HLM signifie Habitation a Loyer Modere, type de logement social."
+  },
+  {
+    "question": "Quel terme designe un nom identique pour les deux genres ?",
+    "options": [
+      "A) Invariable",
+      "B) Epicene",
+      "C) Commun",
+      "D) Neutre"
+    ],
+    "answer": "B",
+    "explanation": "Un nom epicene a la meme forme au masculin et au feminin (ex : enfant, artiste)."
+  },
+  {
+    "question": "Comment ecrit-on correctement 80 en lettres ?",
+    "options": [
+      "A) Quatre-vingt",
+      "B) Quatre-vingts",
+      "C) Quatre vingt",
+      "D) Quatre-vingts-s"
+    ],
+    "answer": "B",
+    "explanation": "Quatre-vingts s'ecrit avec un s final quand il n'est pas suivi d'un autre nombre."
+  },
+  {
+    "question": "Quelle phrase est correcte apres la conjonction bien que ?",
+    "options": [
+      "A) Bien qu'il a termine son travail.",
+      "B) Bien qu'il ait termine son travail.",
+      "C) Bien qu'il termina son travail.",
+      "D) Bien qu'il terminera son travail."
+    ],
+    "answer": "B",
+    "explanation": "Bien que impose le subjonctif : bien qu'il ait termine."
+  },
+  {
+    "question": "Quelle phrase est correcte apres la conjonction apres que ?",
+    "options": [
+      "A) Apres qu'il soit venu",
+      "B) Apres qu'il ait ete la",
+      "C) Apres qu'il est venu",
+      "D) Apres qu'il viendrait"
+    ],
+    "answer": "C",
+    "explanation": "Contrairement a avant que, apres que se construit avec l'indicatif."
+  },
+  {
+    "question": "L'expression Il n'est pas mecontent pour dire qu'il est ravi est une :",
+    "options": [
+      "A) Hyperbole",
+      "B) Litote",
+      "C) Metaphore",
+      "D) Euphemisme"
+    ],
+    "answer": "B",
+    "explanation": "La litote dit moins pour exprimer davantage : il n'est pas mecontent = il est tres content."
+  },
+  {
+    "question": "La diplomatie est le bras arme de la politique est une :",
+    "options": [
+      "A) Metaphore",
+      "B) Comparaison",
+      "C) Metonymie",
+      "D) Synecdoque"
+    ],
+    "answer": "A",
+    "explanation": "C'est une metaphore : assimilation directe sans terme comparatif."
+  },
+  {
+    "question": "Comment s'accorde l'adjectif de couleur dans elle a achete des jupes orange ?",
+    "options": [
+      "A) orange (invariable)",
+      "B) oranges",
+      "C) orangee",
+      "D) orangees"
+    ],
+    "answer": "A",
+    "explanation": "Les adjectifs de couleur issus d'un nom (orange, marron, kaki) sont invariables."
+  },
+  {
+    "question": "Trouvez l'orthographe correcte :",
+    "options": [
+      "A) Peregrination",
+      "B) Piregrination",
+      "C) Perigrination",
+      "D) Peregrination"
+    ],
+    "answer": "A",
+    "explanation": "Le mot correct est peregrination avec accent sur le premier e."
+  },
+  {
+    "question": "Le mot navigant est l'adjectif verbal de naviguer. Il est :",
+    "options": [
+      "A) Variable",
+      "B) Invariable",
+      "C) Uniquement masculin",
+      "D) Uniquement feminin"
+    ],
+    "answer": "A",
+    "explanation": "L'adjectif verbal navigant est variable : des personnels navigants."
   }
 ];
 
@@ -1825,6 +1991,116 @@ const THEME_2 = [
     ],
     "answer": "C",
     "explanation": "C'est une catachrèse : une métaphore figée dans l'usage courant."
+  },
+  {
+    "question": "Dans la phrase Sa bouche est une rose, quelle figure de style est utilisee ?",
+    "options": [
+      "A) Comparaison",
+      "B) Metaphore",
+      "C) Metonymie",
+      "D) Synecdoque"
+    ],
+    "answer": "B",
+    "explanation": "C'est une metaphore : assimilation directe sans terme comparatif."
+  },
+  {
+    "question": "Quelle figure de style se termine par une pointe satirique ?",
+    "options": [
+      "A) Metaphore",
+      "B) Epigramme",
+      "C) Hyperbole",
+      "D) Anaphore"
+    ],
+    "answer": "B",
+    "explanation": "L'epigramme est une courte composition poetique a caractere satirique."
+  },
+  {
+    "question": "avocat (fruit) et avocat (profession) sont des :",
+    "options": [
+      "A) Mots polysemiques",
+      "B) Homonymes",
+      "C) Paronymes",
+      "D) Synonymes"
+    ],
+    "answer": "B",
+    "explanation": "Ce sont des homonymes parfaits, de sens et d'origines totalement differents."
+  },
+  {
+    "question": "Les mots cession et session sont des :",
+    "options": [
+      "A) Synonymes",
+      "B) Homographes",
+      "C) Paronymes",
+      "D) Antonymes"
+    ],
+    "answer": "C",
+    "explanation": "Ces mots se ressemblent fortement mais ont des sens differents : ce sont des paronymes."
+  },
+  {
+    "question": "Dans pied de la jambe et pied d'une montagne, le mot pied illustre :",
+    "options": [
+      "A) Homonymie",
+      "B) Polysemie",
+      "C) Meronymie",
+      "D) Antonymie"
+    ],
+    "answer": "B",
+    "explanation": "C'est de la polysemie : meme mot, sens differents mais lies par l'origine."
+  },
+  {
+    "question": "L'expression Je meurs de faim est :",
+    "options": [
+      "A) Un euphemisme",
+      "B) Une litote",
+      "C) Une hyperbole",
+      "D) Une metaphore"
+    ],
+    "answer": "C",
+    "explanation": "C'est une hyperbole : exageration deliberee pour produire un effet d'intensite."
+  },
+  {
+    "question": "Les mots imaginer et migraine sont des :",
+    "options": [
+      "A) Palindromes",
+      "B) Homophones",
+      "C) Anagrammes",
+      "D) Paronymes"
+    ],
+    "answer": "C",
+    "explanation": "On peut former migraine en reordonnant les lettres d'imaginer : ce sont des anagrammes."
+  },
+  {
+    "question": "Quelle paire illustre l'heteronymie ?",
+    "options": [
+      "A) chaud / froid",
+      "B) oncle / tante",
+      "C) voiture / automobile",
+      "D) fleur / rose"
+    ],
+    "answer": "B",
+    "explanation": "L'heteronymie concerne des mots a sens lies mais de radicaux differents : oncle/tante, cheval/jument."
+  },
+  {
+    "question": "Quelle est la bonne definition de la meronymie ?",
+    "options": [
+      "A) Relation de sens proche",
+      "B) Relation partie/tout",
+      "C) Relation de ressemblance formelle",
+      "D) Relation d'opposition"
+    ],
+    "answer": "B",
+    "explanation": "La meronymie decrit la relation d'inclusion partie/tout : roue est le meronyme de voiture."
+  },
+  {
+    "question": "Quel terme designe les cohyponymes de animal ?",
+    "options": [
+      "A) Plante, arbre",
+      "B) Chien, chat",
+      "C) Jambe, bras",
+      "D) Table, chaise"
+    ],
+    "answer": "B",
+    "explanation": "Chien et chat partagent le meme hyperonyme animal : ce sont des cohyponymes."
   }
 ];
 
@@ -3225,6 +3501,171 @@ const THEME_3 = [
     ],
     "answer": "C",
     "explanation": "Les reins filtrent le sang pour éliminer les déchets sous forme d'urine."
+  },
+  {
+    "question": "Dans quelle articulation du corps se situe la rotule ?",
+    "options": [
+      "A) La hanche",
+      "B) L'epaule",
+      "C) Le genou",
+      "D) Le coude"
+    ],
+    "answer": "C",
+    "explanation": "La rotule est l'os qui protege l'articulation du genou."
+  },
+  {
+    "question": "Si je suis la bru de Michelle, qui est Michelle pour moi ?",
+    "options": [
+      "A) Ma soeur",
+      "B) Ma tante",
+      "C) Ma belle-mere",
+      "D) Ma belle-soeur"
+    ],
+    "answer": "C",
+    "explanation": "La bru est l'epouse du fils : Michelle est donc la belle-mere."
+  },
+  {
+    "question": "Quel nom d'oiseau designe un auteur de lettres anonymes ?",
+    "options": [
+      "A) Aigle",
+      "B) Perroquet",
+      "C) Corbeau",
+      "D) Hibou"
+    ],
+    "answer": "C",
+    "explanation": "Un corbeau est familierement une personne qui envoie des lettres anonymes."
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "options": [
+      "A) Casablanca",
+      "B) Marrakech",
+      "C) Fes",
+      "D) Rabat"
+    ],
+    "answer": "D",
+    "explanation": "Rabat est la capitale officielle du Maroc."
+  },
+  {
+    "question": "Quelle est la capitale de la Cote d'Ivoire ?",
+    "options": [
+      "A) Abidjan",
+      "B) Yamoussoukro",
+      "C) Bouake",
+      "D) San-Pedro"
+    ],
+    "answer": "B",
+    "explanation": "Yamoussoukro est la capitale politique de la Cote d'Ivoire depuis 1983."
+  },
+  {
+    "question": "Quel est le plus grand pays du monde ?",
+    "options": [
+      "A) La Russie",
+      "B) Le Canada",
+      "C) Les Etats-Unis",
+      "D) La Chine"
+    ],
+    "answer": "A",
+    "explanation": "La Russie est le plus grand pays du monde avec environ 17,1 millions de km2."
+  },
+  {
+    "question": "Quel pays a pour monnaie le Shekel ?",
+    "options": [
+      "A) Israel",
+      "B) Jordanie",
+      "C) Liban",
+      "D) Syrie"
+    ],
+    "answer": "A",
+    "explanation": "Le nouveau Shekel est la monnaie officielle d'Israel."
+  },
+  {
+    "question": "Quelle traversee Louis Bleriot a-t-il reussie en avion le 25 juillet 1909 ?",
+    "options": [
+      "A) La Mediterranee",
+      "B) La Manche",
+      "C) Le Rhin",
+      "D) Le detroit de Gibraltar"
+    ],
+    "answer": "B",
+    "explanation": "Louis Bleriot a traverse la Manche en avion pour la premiere fois le 25 juillet 1909."
+  },
+  {
+    "question": "Quel est le nom de la maladie qui entraine un battement trop rapide du coeur ?",
+    "options": [
+      "A) Tachycardie",
+      "B) Bradycardie",
+      "C) Arythmie",
+      "D) Angine"
+    ],
+    "answer": "A",
+    "explanation": "La tachycardie est une frequence cardiaque anormalement elevee (plus de 100 battements par minute)."
+  },
+  {
+    "question": "Dans quelle ville siege l'OPEP ?",
+    "options": [
+      "A) Ryad",
+      "B) Dubai",
+      "C) Vienne",
+      "D) Geneve"
+    ],
+    "answer": "C",
+    "explanation": "Le siege de l'OPEP est a Vienne, en Autriche, depuis 1965."
+  },
+  {
+    "question": "Qui est l'auteur de Le malade imaginaire ?",
+    "options": [
+      "A) Moliere",
+      "B) Racine",
+      "C) Corneille",
+      "D) La Fontaine"
+    ],
+    "answer": "A",
+    "explanation": "Le malade imaginaire est une comedie-ballet de Moliere (1673)."
+  },
+  {
+    "question": "De quelle region Bouna est-il le chef-lieu ?",
+    "options": [
+      "A) Le Poro",
+      "B) Le Bounkani",
+      "C) Le Hambol",
+      "D) Le Moronou"
+    ],
+    "answer": "B",
+    "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la Cote d'Ivoire."
+  },
+  {
+    "question": "Quelle est la capitale de l'Egypte ?",
+    "options": [
+      "A) Alexandrie",
+      "B) Louxor",
+      "C) Le Caire",
+      "D) Assouan"
+    ],
+    "answer": "C",
+    "explanation": "Le Caire est la capitale de l'Egypte et la ville la plus peuplee d'Afrique."
+  },
+  {
+    "question": "Sur quoi reposent principalement les travaux de Pierre et Marie Curie ?",
+    "options": [
+      "A) La physique quantique",
+      "B) La theorie de la relativite",
+      "C) La radioactivite",
+      "D) L'electromagnetisme"
+    ],
+    "answer": "C",
+    "explanation": "Pierre et Marie Curie ont consacre leurs recherches a la radioactivite."
+  },
+  {
+    "question": "Dans quel ocean navigue-t-on au large de New York ?",
+    "options": [
+      "A) Oceean Indien",
+      "B) Ocean Atlantique",
+      "C) Ocean Pacifique",
+      "D) Ocean Arctique"
+    ],
+    "answer": "B",
+    "explanation": "New York est situee sur la cote est des Etats-Unis, au bord de l'Ocean Atlantique."
   }
 ];
 
@@ -4314,6 +4755,226 @@ const THEME_4 = [
     ],
     "answer": "B",
     "explanation": "L'ACEUM (ou USMCA en anglais) a remplacé l'ALENA en 2020."
+  },
+  {
+    "question": "En quelle annee l'ONU a-t-elle ete creee ?",
+    "options": [
+      "A) 24 octobre 1945",
+      "B) 8 mai 1945",
+      "C) 26 juin 1945",
+      "D) 1er janvier 1946"
+    ],
+    "answer": "A",
+    "explanation": "L'ONU a officiellement ete creee le 24 octobre 1945, date d'entree en vigueur de la Charte des Nations Unies."
+  },
+  {
+    "question": "Combien d'Etats membres compte l'ONU ?",
+    "options": [
+      "A) 185",
+      "B) 193",
+      "C) 197",
+      "D) 200"
+    ],
+    "answer": "B",
+    "explanation": "L'ONU compte actuellement 193 Etats membres."
+  },
+  {
+    "question": "Quel est le dernier pays a avoir integre l'ONU ?",
+    "options": [
+      "A) Kosovo",
+      "B) Soudan du Sud",
+      "C) Timor oriental",
+      "D) Montenegro"
+    ],
+    "answer": "B",
+    "explanation": "Le Soudan du Sud est le 193e et dernier Etat a integrer l'ONU, en juillet 2011."
+  },
+  {
+    "question": "Quelle est la nationalite de l'actuel Secretaire General des Nations Unies ?",
+    "options": [
+      "A) Ghaneenne",
+      "B) Portugaise",
+      "C) Bresilienne",
+      "D) Canadienne"
+    ],
+    "answer": "B",
+    "explanation": "Antonio Guterres, Secretaire General de l'ONU depuis janvier 2017, est Portugais."
+  },
+  {
+    "question": "Quel Secretaire General de l'ONU a obtenu le prix Nobel de la Paix en 2001 ?",
+    "options": [
+      "A) Boutros Boutros-Ghali",
+      "B) Kofi Annan",
+      "C) Ban Ki-moon",
+      "D) Javier Perez de Cuellar"
+    ],
+    "answer": "B",
+    "explanation": "Kofi Annan et l'ONU ont conjointement recu le prix Nobel de la Paix le 10 decembre 2001."
+  },
+  {
+    "question": "En quelle annee l'OTAN a-t-elle ete creee ?",
+    "options": [
+      "A) 4 avril 1949",
+      "B) 5 mai 1950",
+      "C) 24 octobre 1945",
+      "D) 14 aout 1941"
+    ],
+    "answer": "A",
+    "explanation": "L'OTAN a ete creee le 4 avril 1949 par le traite de Washington."
+  },
+  {
+    "question": "Ou se trouve le siege de l'OTAN ?",
+    "options": [
+      "A) Bruxelles",
+      "B) Paris",
+      "C) Londres",
+      "D) Geneve"
+    ],
+    "answer": "A",
+    "explanation": "Le siege de l'OTAN est a Bruxelles, en Belgique."
+  },
+  {
+    "question": "Quel est l'actuel Secretaire General de l'OTAN ?",
+    "options": [
+      "A) Jens Stoltenberg",
+      "B) Anders Fogh Rasmussen",
+      "C) Mark Rutte",
+      "D) George Robertson"
+    ],
+    "answer": "C",
+    "explanation": "Mark Rutte est l'actuel Secretaire General de l'OTAN depuis octobre 2024."
+  },
+  {
+    "question": "Quel est le dernier Etat a avoir adhre a l'OTAN ?",
+    "options": [
+      "A) La Finlande",
+      "B) La Suede",
+      "C) L'Ukraine",
+      "D) La Georgie"
+    ],
+    "answer": "B",
+    "explanation": "La Suede a rejoint l'OTAN le 7 mars 2024, devenant le 32e Etat membre."
+  },
+  {
+    "question": "Combien d'Etats membres compte l'Union Europeenne ?",
+    "options": [
+      "A) 25",
+      "B) 27",
+      "C) 28",
+      "D) 30"
+    ],
+    "answer": "B",
+    "explanation": "L'UE compte 27 Etats membres depuis le Brexit en 2020."
+  },
+  {
+    "question": "Ou siege principalement le Parlement europeen ?",
+    "options": [
+      "A) Bruxelles",
+      "B) Luxembourg",
+      "C) Strasbourg",
+      "D) Paris"
+    ],
+    "answer": "C",
+    "explanation": "Le Parlement europeen siege principalement a Strasbourg."
+  },
+  {
+    "question": "La CEDEAO a ete creee en :",
+    "options": [
+      "A) 1960",
+      "B) 1975",
+      "C) 1980",
+      "D) 1990"
+    ],
+    "answer": "B",
+    "explanation": "La CEDEAO a ete creee en 1975 par le traite de Lagos."
+  },
+  {
+    "question": "Combien de pays membres compte la CEDEAO aujourd'hui ?",
+    "options": [
+      "A) 15",
+      "B) 12",
+      "C) 16",
+      "D) 10"
+    ],
+    "answer": "B",
+    "explanation": "Suite aux suspensions et retraits (Mali, Burkina Faso, Niger), la CEDEAO compte actuellement 12 membres."
+  },
+  {
+    "question": "Ou se trouve le siege de l'UEMOA ?",
+    "options": [
+      "A) Abidjan",
+      "B) Ouagadougou",
+      "C) Dakar",
+      "D) Lome"
+    ],
+    "answer": "B",
+    "explanation": "Le siege de l'UEMOA est a Ouagadougou, au Burkina Faso."
+  },
+  {
+    "question": "La Banque africaine de developpement (BAD) a son siege a :",
+    "options": [
+      "A) Abidjan",
+      "B) Addis-Abeba",
+      "C) Le Caire",
+      "D) Nairobi"
+    ],
+    "answer": "A",
+    "explanation": "Le siege permanent de la BAD est a Abidjan, en Cote d'Ivoire."
+  },
+  {
+    "question": "Quel organisme a obtenu le prix Nobel de la Paix en 2012 ?",
+    "options": [
+      "A) L'ONU",
+      "B) L'Union Europeenne",
+      "C) L'OTAN",
+      "D) L'OMS"
+    ],
+    "answer": "B",
+    "explanation": "L'Union Europeenne a ete couronnee du prix Nobel de la Paix en 2012."
+  },
+  {
+    "question": "L'Union africaine a succede a :",
+    "options": [
+      "A) La CEDEAO",
+      "B) L'OUA",
+      "C) La CEMAC",
+      "D) L'UEMOA"
+    ],
+    "answer": "B",
+    "explanation": "L'UA a succede a l'Organisation de l'Unite Africaine (OUA) en 2002."
+  },
+  {
+    "question": "Quel est le statut juridique de l'AES (Alliance des Etats du Sahel) ?",
+    "options": [
+      "A) Une federation",
+      "B) Une confederation d'Etats",
+      "C) Une communaute economique",
+      "D) Une alliance militaire"
+    ],
+    "answer": "B",
+    "explanation": "L'AES regroupe le Mali, le Burkina Faso et le Niger sous forme de confederation d'Etats."
+  },
+  {
+    "question": "La ZLECAF releve de :",
+    "options": [
+      "A) La CEDEAO",
+      "B) L'Union Africaine",
+      "C) L'ONU",
+      "D) La Banque mondiale"
+    ],
+    "answer": "B",
+    "explanation": "La Zone de Libre-Echange Continentale Africaine (ZLECAF) est un accord sous l'egide de l'Union Africaine."
+  },
+  {
+    "question": "Combien d'Etats membres compte l'UEMOA ?",
+    "options": [
+      "A) 5",
+      "B) 8",
+      "C) 10",
+      "D) 12"
+    ],
+    "answer": "B",
+    "explanation": "L'UEMOA compte 8 Etats membres partageant le franc CFA."
   }
 ];
 
@@ -5405,5 +6066,703 @@ const THEME_5 = [
     ],
     "answer": "B",
     "explanation": "Short adjectives: comparative = adjective + '-er'. Never 'more + -er'."
+  },
+  {
+    "question": "'You ___ to see a doctor. You look ill.' (conseil)",
+    "options": [
+      "A) ought",
+      "B) must",
+      "C) might",
+      "D) can"
+    ],
+    "answer": "A",
+    "explanation": "'Ought to' expresses advice, similar to 'should'."
+  },
+  {
+    "question": "'___ dogs are loyal animals.' (generalite)",
+    "options": [
+      "A) A",
+      "B) The",
+      "C) An",
+      "D) No article"
+    ],
+    "answer": "D",
+    "explanation": "No article for generalities with plural countable nouns."
+  },
+  {
+    "question": "'If water reaches 0 degrees, it ___.'",
+    "options": [
+      "A) freezes",
+      "B) will freeze",
+      "C) would freeze",
+      "D) froze"
+    ],
+    "answer": "A",
+    "explanation": "Type Zero conditional for scientific truths: If + Present, Present."
+  },
+  {
+    "question": "'He ___ be at home. His car is in the driveway.' (deduction forte)",
+    "options": [
+      "A) might",
+      "B) must",
+      "C) should",
+      "D) could"
+    ],
+    "answer": "B",
+    "explanation": "'Must' expresses strong logical deduction based on evidence."
+  },
+  {
+    "question": "'I was sitting ___ the train when I saw him.'",
+    "options": [
+      "A) by",
+      "B) in",
+      "C) on",
+      "D) at"
+    ],
+    "answer": "C",
+    "explanation": "Use 'on' for public/collective transport: on the train, on the bus."
+  },
+  {
+    "question": "'You ___ park here. It is forbidden.'",
+    "options": [
+      "A) mustn't",
+      "B) needn't",
+      "C) don't have to",
+      "D) shouldn't"
+    ],
+    "answer": "A",
+    "explanation": "'Mustn't' expresses prohibition. 'Needn't/don't have to' express absence of obligation."
+  },
+  {
+    "question": "Complete: 'If I had studied harder, I ___ the exam.'",
+    "options": [
+      "A) would pass",
+      "B) will have passed",
+      "C) would have passed",
+      "D) passed"
+    ],
+    "answer": "C",
+    "explanation": "Type 3 conditional: If + Past Perfect, Would have + Past Participle."
+  },
+  {
+    "question": "Which sentence uses the correct article?",
+    "options": [
+      "A) She plays the tennis every morning.",
+      "B) She plays tennis every morning.",
+      "C) She plays a tennis every morning.",
+      "D) She plays an tennis every morning."
+    ],
+    "answer": "B",
+    "explanation": "No article before sports: she plays tennis."
+  },
+  {
+    "question": "Complete: 'By next year, she ___ her degree.'",
+    "options": [
+      "A) will finish",
+      "B) will have finished",
+      "C) finishes",
+      "D) would finish"
+    ],
+    "answer": "B",
+    "explanation": "Future perfect: actions completed before a future point in time."
+  },
+  {
+    "question": "Complete: '___ honest man always tells the truth.'",
+    "options": [
+      "A) A",
+      "B) An",
+      "C) The",
+      "D) No article"
+    ],
+    "answer": "B",
+    "explanation": "Use 'an' before vowel sounds. 'Honest' starts with a silent h."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "A) He doesn't know nothing.",
+      "B) He knows nothing.",
+      "C) He don't know nothing.",
+      "D) He knows not nothing."
+    ],
+    "answer": "B",
+    "explanation": "In standard English, double negatives are incorrect. Use 'He knows nothing.'"
+  },
+  {
+    "question": "'She ___ speak three languages.' (capacite presente)",
+    "options": [
+      "A) can",
+      "B) could",
+      "C) may",
+      "D) might"
+    ],
+    "answer": "A",
+    "explanation": "'Can' expresses present ability. 'Could' is for past ability or polite requests."
   }
+];
+
+const THEME_6 = [
+  {
+    "question": "Quelle est la différence entre une loi et un règlement ?",
+    "options": [
+      "A) Une loi est générale et abstraite, le règlement précise son application",
+      "B) Le règlement est supérieur à la loi",
+      "C) Une loi ne s'applique qu'aux entreprises",
+      "D) Il n'y a pas de différence"
+    ],
+    "answer": "A",
+    "explanation": "La loi fixe les principes généraux, tandis que les règlements les appliquent au niveau technique et administratif."
+  },
+  {
+    "question": "Quel est le rôle principal du Conseil constitutionnel en France ?",
+    "options": [
+      "A) Gérer le budget",
+      "B) Contrôler la constitutionnalité des lois",
+      "C) Diriger les administrations",
+      "D) Nommer les juges"
+    ],
+    "answer": "B",
+    "explanation": "Le Conseil constitutionnel veille à la conformité des lois à la Constitution."
+  },
+  {
+    "question": "Que signifie le principe de laïcité ?",
+    "options": [
+      "A) L'État impose une religion",
+      "B) La séparation des Églises et de l'État",
+      "C) L'abolition des droits fondamentaux",
+      "D) L'État ne protège que les croyants"
+    ],
+    "answer": "B",
+    "explanation": "La laïcité garantit la neutralité religieuse de l'État et la liberté de conscience."
+  },
+  {
+    "question": "Quel est le devoir citoyen le plus directement lié au vote ?",
+    "options": [
+      "A) Le respect des horaires",
+      "B) La participation politique",
+      "C) Le paiement des impôts",
+      "D) Le port de l'uniforme"
+    ],
+    "answer": "B",
+    "explanation": "Le vote est un acte central de participation à la vie politique et de citoyenneté."
+  },
+  {
+    "question": "Qui est titulaire du pouvoir exécutif en France ?",
+    "options": [
+      "A) Le Parlement",
+      "B) Le Président de la République et le Gouvernement",
+      "C) Le Conseil d'État",
+      "D) Le Tribunal administratif"
+    ],
+    "answer": "B",
+    "explanation": "Le pouvoir exécutif est exercé par le Président et le Gouvernement, dans le cadre de la Constitution."
+  },
+  {
+    "question": "Qu'est-ce qu'un citoyen ?",
+    "options": [
+      "A) Un individu soumis uniquement aux règles fiscales",
+      "B) Un membre d'une communauté politique jouissant de droits et devoirs",
+      "C) Une personne ayant un passeport",
+      "D) Un fonctionnaire"
+    ],
+    "answer": "B",
+    "explanation": "Le citoyen est inscrit dans une communauté politique et bénéficie de droits, avec des devoirs corrélatifs."
+  },
+  {
+    "question": "Quel document fonde les droits fondamentaux en France ?",
+    "options": [
+      "A) Le Code civil",
+      "B) La Constitution",
+      "C) Le règlement intérieur",
+      "D) Le code du travail"
+    ],
+    "answer": "B",
+    "explanation": "La Constitution et la Déclaration des droits de l'homme placent les droits fondamentaux au cœur de l'ordre juridique."
+  },
+  {
+    "question": "Que garantit le principe d'égalité ?",
+    "options": [
+      "A) Une égalité totale de fortune",
+      "B) Une égalité devant la loi et l'accès aux droits",
+      "C) L'absence de différences sociales",
+      "D) Une égalité des compétences"
+    ],
+    "answer": "B",
+    "explanation": "L'égalité juridique ne signifie pas l'uniformité des situations, mais une même protection devant la loi."
+  },
+  {
+    "question": "Qu'est-ce qu'une institution ?",
+    "options": [
+      "A) Un objet de décoration",
+      "B) Une organisation dotée d'un rôle public",
+      "C) Un simple document administratif",
+      "D) Une loi fiscale"
+    ],
+    "answer": "B",
+    "explanation": "Une institution est une structure organisée qui assure un rôle au sein de la société et de l'État."
+  },
+  {
+    "question": "Quel est le rôle du Parlement ?",
+    "options": [
+      "A) Dire le droit en dernier ressort",
+      "B) Élaborer et voter les lois",
+      "C) Nommer les maires",
+      "D) Gérer la police"
+    ],
+    "answer": "B",
+    "explanation": "Le Parlement a pour fonction principale la préparation, le vote et le contrôle des lois."
+  },
+  {
+    "question": "Qu'est-ce que la separation des pouvoirs ?",
+    "options": [
+      "A) Un regime ou une seule personne detient tous les pouvoirs",
+      "B) Le principe selon lequel le pouvoir executif, legislatif et judiciaire sont distincts",
+      "C) Un mode d'organisation des partis politiques",
+      "D) La separation de l'Eglise et de l'Etat"
+    ],
+    "answer": "B",
+    "explanation": "La separation des pouvoirs (Montesquieu) garantit que les pouvoirs legislatif, executif et judiciaire sont exerces par des organes distincts."
+  },
+  {
+    "question": "Qu'est-ce que le suffrage universel ?",
+    "options": [
+      "A) Le droit de vote reserve aux proprietaires",
+      "B) Le droit de vote accorde a tous les citoyens sans condition de fortune",
+      "C) Le droit de vote reserve aux hommes",
+      "D) Le vote au sein des parlements"
+    ],
+    "answer": "B",
+    "explanation": "Le suffrage universel accorde le droit de vote a tous les citoyens majeurs, sans distinction."
+  },
+  {
+    "question": "Qu'est-ce que la presomption d'innocence ?",
+    "options": [
+      "A) Toute personne est coupable jusqu'a preuve du contraire",
+      "B) Toute personne est presumee innocente jusqu'a preuve de sa culpabilite",
+      "C) Les accuses n'ont pas droit a un avocat",
+      "D) Les condamnations ne peuvent pas etre contestees"
+    ],
+    "answer": "B",
+    "explanation": "La presomption d'innocence est un droit fondamental : nul n'est coupable sans jugement."
+  },
+  {
+    "question": "Qu'est-ce qu'une constitution ?",
+    "options": [
+      "A) Un reglement interne d'une entreprise",
+      "B) Un code penal",
+      "C) La loi fondamentale qui organise l'Etat et protege les droits fondamentaux",
+      "D) Un traite international"
+    ],
+    "answer": "C",
+    "explanation": "La constitution est la norme supreme d'un Etat organisant les pouvoirs publics et garantissant les droits fondamentaux."
+  },
+  {
+    "question": "Qu'est-ce que le droit de greve ?",
+    "options": [
+      "A) Le droit de refuser de payer des impots",
+      "B) Le droit pour les travailleurs de cesser le travail pour defendre leurs interets",
+      "C) Le droit de manifester contre le gouvernement",
+      "D) Le droit de quitter son emploi"
+    ],
+    "answer": "B",
+    "explanation": "Le droit de greve est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
+  },
+  {
+    "question": "Quel organe detient le pouvoir legislatif en Cote d'Ivoire ?",
+    "options": [
+      "A) Le gouvernement",
+      "B) L'Assemblee nationale et le Senat",
+      "C) La Cour supreme",
+      "D) Le Conseil des ministres"
+    ],
+    "answer": "B",
+    "explanation": "Le Parlement ivoirien est bicameral : il comprend l'Assemblee nationale et le Senat."
+  },
+  {
+    "question": "Quelle institution ivoirienne controle la constitutionnalite des lois ?",
+    "options": [
+      "A) Le Tribunal de Premiere Instance",
+      "B) La Cour d'Appel",
+      "C) Le Conseil Constitutionnel",
+      "D) La Cour des Comptes"
+    ],
+    "answer": "C",
+    "explanation": "Le Conseil Constitutionnel ivoirien veille a la conformite des lois a la Constitution."
+  },
+  {
+    "question": "Combien de districts compte la Cote d'Ivoire ?",
+    "options": [
+      "A) 10",
+      "B) 12",
+      "C) 14",
+      "D) 33"
+    ],
+    "answer": "C",
+    "explanation": "La Cote d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro)."
+  },
+  {
+    "question": "Qu'est-ce qu'un referendum ?",
+    "options": [
+      "A) Un vote reserve au Parlement",
+      "B) Une procedure par laquelle les citoyens se prononcent directement sur une question",
+      "C) L'election du President de la Republique",
+      "D) Un vote de confiance au gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "Le referendum est un mecanisme de democratie directe."
+  },
+  {
+    "question": "Qu'est-ce que le Defenseur des droits en France ?",
+    "options": [
+      "A) Il defend la France devant les juridictions internationales",
+      "B) Il protege les droits fondamentaux des citoyens face aux administrations",
+      "C) Il gere le budget de l'Etat",
+      "D) Il nomme les juges"
+    ],
+    "answer": "B",
+    "explanation": "Le Defenseur des droits veille au respect des droits et libertes des citoyens."
+  },
+  {
+    "question": "Qu est-ce que la separation des pouvoirs ?",
+    "options": [
+      "A) Un regime ou une seule personne detient tous les pouvoirs",
+      "B) Le principe selon lequel executif, legislatif et judiciaire sont distincts",
+      "C) Un mode d organisation des partis politiques",
+      "D) La separation de l Eglise et de l Etat"
+    ],
+    "answer": "B",
+    "explanation": "La separation des pouvoirs (Montesquieu) garantit que les trois pouvoirs sont exerces par des organes distincts."
+  },
+  {
+    "question": "Qu est-ce que le suffrage universel ?",
+    "options": [
+      "A) Le droit de vote reserve aux proprietaires",
+      "B) Le droit de vote accorde a tous les citoyens sans condition de fortune",
+      "C) Le droit de vote reserve aux hommes",
+      "D) Le vote au sein des parlements"
+    ],
+    "answer": "B",
+    "explanation": "Le suffrage universel accorde le droit de vote a tous les citoyens majeurs, sans distinction."
+  },
+  {
+    "question": "Qu est-ce que la presomption d innocence ?",
+    "options": [
+      "A) Toute personne est coupable jusqu a preuve du contraire",
+      "B) Toute personne est presumee innocente jusqu a preuve de sa culpabilite",
+      "C) Les accuses n ont pas droit a un avocat",
+      "D) Les condamnations ne peuvent pas etre contestees"
+    ],
+    "answer": "B",
+    "explanation": "La presomption d innocence : nul n est coupable sans jugement."
+  },
+  {
+    "question": "Qu est-ce qu une constitution ?",
+    "options": [
+      "A) Un reglement interne d une entreprise",
+      "B) Un code penal",
+      "C) La loi fondamentale qui organise l Etat et protege les droits fondamentaux",
+      "D) Un traite international"
+    ],
+    "answer": "C",
+    "explanation": "La constitution est la norme supreme d un Etat organisant les pouvoirs publics."
+  },
+  {
+    "question": "Qu est-ce que le droit de greve ?",
+    "options": [
+      "A) Le droit de refuser de payer des impots",
+      "B) Le droit pour les travailleurs de cesser le travail pour defendre leurs interets",
+      "C) Le droit de manifester contre le gouvernement",
+      "D) Le droit de quitter son emploi"
+    ],
+    "answer": "B",
+    "explanation": "Le droit de greve est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
+  },
+  {
+    "question": "Quel organe detient le pouvoir legislatif en Cote d Ivoire ?",
+    "options": [
+      "A) Le gouvernement",
+      "B) L Assemblee nationale et le Senat",
+      "C) La Cour supreme",
+      "D) Le Conseil des ministres"
+    ],
+    "answer": "B",
+    "explanation": "Le Parlement ivoirien est bicameral : Assemblee nationale et Senat."
+  },
+  {
+    "question": "Quelle institution ivoirienne controle la constitutionnalite des lois ?",
+    "options": [
+      "A) Le Tribunal de Premiere Instance",
+      "B) La Cour d Appel",
+      "C) Le Conseil Constitutionnel",
+      "D) La Cour des Comptes"
+    ],
+    "answer": "C",
+    "explanation": "Le Conseil Constitutionnel ivoirien veille a la conformite des lois a la Constitution."
+  },
+  {
+    "question": "Combien de districts compte la Cote d Ivoire ?",
+    "options": [
+      "A) 10",
+      "B) 12",
+      "C) 14",
+      "D) 33"
+    ],
+    "answer": "C",
+    "explanation": "La Cote d Ivoire compte 14 districts, dont 2 districts autonomes."
+  },
+  {
+    "question": "Qu est-ce qu un referendum ?",
+    "options": [
+      "A) Un vote reserve au Parlement",
+      "B) Une procedure par laquelle les citoyens se prononcent directement sur une question",
+      "C) L election du President de la Republique",
+      "D) Un vote de confiance au gouvernement"
+    ],
+    "answer": "B",
+    "explanation": "Le referendum est un mecanisme de democratie directe."
+  },
+  {
+    "question": "Quel est le role du Defenseur des droits ?",
+    "options": [
+      "A) Il defend la France devant les juridictions internationales",
+      "B) Il protege les droits fondamentaux des citoyens face aux administrations",
+      "C) Il gere le budget de l Etat",
+      "D) Il nomme les juges"
+    ],
+    "answer": "B",
+    "explanation": "Le Defenseur des droits veille au respect des droits et libertes des citoyens face aux administrations."
+  }
+];
+
+const THEME_7 = [
+  {
+    "question": "Quelle est la source historique du droit administratif français ?",
+    "options": [
+      "A) L'arrêt Blanco",
+      "B) Le droit civil",
+      "C) Le Code pénal",
+      "D) La Constitution de 1848"
+    ],
+    "answer": "A",
+    "explanation": "L'arrêt Blanco (1873) fonde la spécificité du droit administratif français et la responsabilité de l'État."
+  },
+  {
+    "question": "Quelle juridiction est la plus haute dans l'ordre administratif français ?",
+    "options": [
+      "A) Le tribunal judiciaire",
+      "B) Le Conseil d'État",
+      "C) La Cour de cassation",
+      "D) Le tribunal de commerce"
+    ],
+    "answer": "B",
+    "explanation": "Le Conseil d'État est la juridiction suprême de l'ordre administratif en France."
+  },
+  {
+    "question": "Quel principe signifie que l'administration doit agir dans le cadre de la loi ?",
+    "options": [
+      "A) Le principe de légalité",
+      "B) Le principe de gratuité",
+      "C) Le principe de hiérarchie",
+      "D) Le principe d'efficacité"
+    ],
+    "answer": "A",
+    "explanation": "Le principe de légalité impose à l'administration d'agir conformément à la loi et à la Constitution."
+  },
+  {
+    "question": "Qu'est-ce qu'une personne publique ?",
+    "options": [
+      "A) Un individu privé",
+      "B) Un organisme de droit public exerçant une mission d'intérêt général",
+      "C) Une entreprise commerciale",
+      "D) Une association de loisirs"
+    ],
+    "answer": "B",
+    "explanation": "Les personnes publiques (État, collectivités, établissements publics) sont à la base de l'organisation administrative."
+  },
+  {
+    "question": "Quel est le rôle du préfet ?",
+    "options": [
+      "A) Représenter le gouvernement dans le département",
+      "B) Gérer uniquement les impôts",
+      "C) Juger les litiges privés",
+      "D) Diriger les tribunaux administratifs"
+    ],
+    "answer": "A",
+    "explanation": "Le préfet représente l'État au niveau départemental et assure le contrôle administratif."
+  },
+  {
+    "question": "Que signifie le principe de non-rétroactivité de la loi pénale ?",
+    "options": [
+      "A) Une loi nouvelle ne peut pas s'appliquer rétroactivement",
+      "B) Une loi ne s'applique qu'après son vote",
+      "C) Une loi peut toujours être appliquée avec effet immédiat",
+      "D) Une loi ne s'applique jamais aux personnes publiques"
+    ],
+    "answer": "A",
+    "explanation": "Le principe de non-rétroactivité est un principe fondamental du droit, surtout en matière pénale."
+  },
+  {
+    "question": "Quel acte administratif est généralement pris par le pouvoir exécutif pour un cas particulier ?",
+    "options": [
+      "A) La norme générale",
+      "B) L'acte individuel",
+      "C) Le contrat privé",
+      "D) Le code civil"
+    ],
+    "answer": "B",
+    "explanation": "Un acte individuel vise un cas particulier, par exemple une nomination, une autorisation ou une sanction."
+  },
+  {
+    "question": "Qu'est-ce que le contrôle de légalité ?",
+    "options": [
+      "A) Le contrôle de la moralité des agents",
+      "B) Le contrôle de la conformité d'un acte à la loi",
+      "C) Le contrôle de la qualité des produits",
+      "D) Le contrôle du budget privé"
+    ],
+    "answer": "B",
+    "explanation": "Le contrôle de légalité consiste à vérifier si un acte administratif est conforme aux normes supérieures."
+  },
+  {
+    "question": "Qui est le gardien du droit administratif en France ?",
+    "options": [
+      "A) La Cour de cassation",
+      "B) Le Conseil d'État",
+      "C) Le ministère de la Justice",
+      "D) Le Tribunal de grande instance"
+    ],
+    "answer": "B",
+    "explanation": "Le Conseil d'État a une place centrale dans l'interprétation et le développement du droit administratif."
+  },
+  {
+    "question": "Que signifie le principe de sécurité juridique ?",
+    "options": [
+      "A) L'État peut agir sans limites",
+      "B) Les citoyens doivent pouvoir connaître les règles et leurs conséquences",
+      "C) La loi ne s'applique qu'aux entreprises",
+      "D) L'administration ne doit jamais expliquer ses décisions"
+    ],
+    "answer": "B",
+    "explanation": "La sécurité juridique garantit la prévisibilité du droit et la protection contre l'arbitraire."
+  },
+  {
+    "question": "Qu est-ce que le service public selon le droit administratif ?",
+    "options": [
+      "A) Toute entreprise commerciale",
+      "B) Une activite d interet general assuree ou controlee par la puissance publique",
+      "C) Un service rendu uniquement aux fonctionnaires",
+      "D) Un tribunal administratif"
+    ],
+    "answer": "B",
+    "explanation": "Le service public est une activite d interet general prise en charge par une personne publique."
+  },
+  {
+    "question": "Quel principe du service public signifie qu il doit fonctionner sans interruption ?",
+    "options": [
+      "A) Le principe de mutabilite",
+      "B) Le principe de continuite",
+      "C) Le principe d egalite",
+      "D) Le principe de neutralite"
+    ],
+    "answer": "B",
+    "explanation": "La continuite du service public impose que le service ne soit pas interrompu."
+  },
+  {
+    "question": "Quel principe du service public impose son adaptation aux besoins de la societe ?",
+    "options": [
+      "A) La neutralite",
+      "B) L egalite",
+      "C) La mutabilite",
+      "D) La gratuite"
+    ],
+    "answer": "C",
+    "explanation": "Le principe de mutabilite oblige le service public a evoluer en fonction des besoins."
+  },
+  {
+    "question": "Qu est-ce qu un etablissement public ?",
+    "options": [
+      "A) Une entreprise privee",
+      "B) Une personne morale de droit public chargee d une mission de service public",
+      "C) Un tribunal administratif",
+      "D) Un service deconcentre"
+    ],
+    "answer": "B",
+    "explanation": "Un etablissement public est une personne morale de droit public gerant une mission de service public."
+  },
+  {
+    "question": "Quelle est la difference entre deconcentration et decentralisation ?",
+    "options": [
+      "A) Aucune",
+      "B) La deconcentration transfere des pouvoirs a des agents de l Etat, la decentralisation a des collectivites autonomes",
+      "C) La decentralisation est au profit des agents de l Etat",
+      "D) La deconcentration concerne uniquement les communes"
+    ],
+    "answer": "B",
+    "explanation": "La deconcentration deplace des competences au sein de l Etat, la decentralisation les transfere a des entites distinctes."
+  },
+  {
+    "question": "Qu est-ce qu un recours pour exces de pouvoir ?",
+    "options": [
+      "A) Un recours visant a obtenir une indemnite",
+      "B) Un recours en annulation d un acte administratif illegal",
+      "C) Un recours contre les decisions judiciaires",
+      "D) Un recours en interpretation"
+    ],
+    "answer": "B",
+    "explanation": "Le recours pour exces de pouvoir permet l annulation d un acte administratif illegal."
+  },
+  {
+    "question": "Qu est-ce que la hierarchie des normes ?",
+    "options": [
+      "A) L organisation des ministeres",
+      "B) L organisation pyramidale des regles juridiques, avec la Constitution au sommet",
+      "C) Le classement des juges par anciennete",
+      "D) L ordre alphabetique des lois"
+    ],
+    "answer": "B",
+    "explanation": "La hierarchie des normes place la Constitution au sommet, suivie des traites, des lois et des reglements."
+  },
+  {
+    "question": "Qu est-ce que la responsabilite sans faute de l Etat ?",
+    "options": [
+      "A) L Etat ne peut jamais etre condamne",
+      "B) L Etat peut etre condamne a indemniser meme sans avoir commis de faute",
+      "C) La responsabilite personnelle des fonctionnaires",
+      "D) L Etat est responsable uniquement des accidents"
+    ],
+    "answer": "B",
+    "explanation": "La responsabilite sans faute repose sur le principe d egalite devant les charges publiques."
+  },
+  {
+    "question": "Qu est-ce qu un acte unilateral de l administration ?",
+    "options": [
+      "A) Un acte signe par deux parties",
+      "B) Un acte par lequel l administration cree des obligations sans le consentement du destinataire",
+      "C) Un contrat administratif",
+      "D) Une loi votee par le Parlement"
+    ],
+    "answer": "B",
+    "explanation": "L acte unilateral est pris par l administration seule et s impose aux administres sans leur consentement."
+  },
+  {
+    "question": "Qu est-ce qu un contrat administratif ?",
+    "options": [
+      "A) Un contrat entre deux entreprises privees",
+      "B) Un contrat conclu par une personne publique dans le cadre d une mission de service public",
+      "C) Un acte unilateral de l administration",
+      "D) Un accord entre deux Etats"
+    ],
+    "answer": "B",
+    "explanation": "Le contrat administratif implique au moins une personne publique et presente des clauses exorbitantes du droit commun."
+  }
+];
+
+const THEME_CATALOG = [
+  { name: "Culture Générale — Langue française", questions: THEME_1 },
+  { name: "Aptitude Verbale — Phénomènes lexicaux", questions: THEME_2 },
+  { name: "Culture Générale — Géographie et connaissances", questions: THEME_3 },
+  { name: "Organisations Internationales", questions: THEME_4 },
+  { name: "English Grammar", questions: THEME_5 },
+  { name: "Culture Générale — Institutions et citoyenneté", questions: THEME_6 },
+  { name: "Droit administratif", questions: THEME_7 }
 ];

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -8,40 +8,66 @@
 </head>
 <body>
     <div class="container">
-        <!-- Page d'accueil -->
+        <!-- Page d accueil -->
         <div id="home-page" class="page active">
             <div class="header">
-                <h1>🎓 Quiz Interactif</h1>
-                <h2>Préparation Concours</h2>
-                <p class="subtitle"></p>
+                <h1>&#127891; Quiz Interactif</h1>
+                <h2>Préparation Concours ENA</h2>
+                <p class="subtitle">École Nationale d Administration — Côte d Ivoire</p>
             </div>
             
             <div class="content">
                 <div class="welcome-box">
                     <h3>Bienvenue !</h3>
-                    <p>Testez vos connaissances avec ce quiz interactif couvrant 5 thèmes essentiels :</p>
+                    <p>Testez vos connaissances avec ce quiz interactif couvrant 7 thèmes essentiels :</p>
                     <ul class="themes-list">
-                        <li>📚 Culture Générale — Langue française</li>
-                        <li>🔤 Aptitude Verbale — Phénomènes lexicaux</li>
-                        <li>🌍 Culture Générale — Géographie</li>
-                        <li>🌐 Organisations Internationales</li>
-                        <li>🇬🇧 English Grammar</li>
+                        <li>&#128218; Culture Générale — Langue française</li>
+                        <li>&#128288; Aptitude Verbale — Phénomènes lexicaux</li>
+                        <li>&#127757; Culture Générale — Géographie</li>
+                        <li>&#127760; Organisations Internationales</li>
+                        <li>&#127468;&#127463; English Grammar</li>
+                        <li>&#127963; Institutions et citoyenneté</li>
+                        <li>&#9878; Droit administratif</li>
                     </ul>
+                    <p style="margin-top:12px;font-size:0.9em;color:#7f8c8d;">&#128208; <strong>615 questions</strong> — Règle : +1 bonne, -1 fausse, 0 sautée</p>
                 </div>
                 
                 <div class="start-box">
-                    <label for="num-questions">Nombre de questions :</label>
+                    <label>Nombre de questions :</label>
                     <div class="question-count-options">
-                        <button class="count-btn" data-count="10">10</button>
-                        <button class="count-btn active" data-count="20">20</button>
+                        <button class="count-btn active" data-count="10">10</button>
+                        <button class="count-btn" data-count="20">20</button>
                         <button class="count-btn" data-count="30">30</button>
                         <button class="count-btn" data-count="50">50</button>
                         <button class="count-btn" data-count="100">100</button>
                     </div>
-                    <p class="question-count-info" id="count-info">📋 20 questions aléatoires sur les 5 thèmes</p>
+                    <p class="question-count-info" id="count-info">&#128203; 10 questions aléatoires sur les 7 thèmes</p>
+
+                    <div class="quiz-mode-section">
+                        <p><strong>Mode de quiz :</strong></p>
+                        <label>
+                            <input type="radio" name="quiz-mode" id="mode-random" value="random" checked>
+                            &#127922; Test aléatoire sur tous les thèmes
+                        </label>
+                        <label>
+                            <input type="radio" name="quiz-mode" id="mode-selected" value="selected">
+                            &#127919; Choisir un ou plusieurs thèmes
+                        </label>
+                    </div>
+
+                    <div id="theme-selection" class="theme-selection hidden">
+                        <p><strong>Thèmes à inclure :</strong></p>
+                        <label><input type="checkbox" class="theme-checkbox" value="Culture Générale — Langue française"> Culture Générale — Langue française</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Aptitude Verbale — Phénomènes lexicaux"> Aptitude Verbale — Phénomènes lexicaux</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Culture Générale — Géographie et connaissances"> Culture Générale — Géographie et connaissances</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Organisations Internationales"> Organisations Internationales</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="English Grammar"> English Grammar</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Culture Générale — Institutions et citoyenneté"> Culture Générale — Institutions et citoyenneté</label>
+                        <label><input type="checkbox" class="theme-checkbox" value="Droit administratif"> Droit administratif</label>
+                    </div>
                     
                     <button id="start-btn" class="btn btn-primary">
-                        🚀 Commencer le Quiz
+                        &#128640; Commencer le Quiz
                     </button>
                 </div>
             </div>
@@ -50,7 +76,7 @@
         <!-- Page du quiz -->
         <div id="quiz-page" class="page">
             <div class="header">
-                <h1>🎓 Quiz ENA</h1>
+                <h1>&#127891; Quiz ENA</h1>
                 <div class="progress-info">
                     <div class="progress-bar">
                         <div id="progress-fill" class="progress-fill"></div>
@@ -66,6 +92,10 @@
                     
                     <div id="options-container" class="options-container">
                     </div>
+
+                    <button id="skip-btn" class="btn btn-secondary" type="button">
+                        &#9197; Je passe
+                    </button>
                     
                     <div id="feedback-box" class="feedback-box hidden">
                         <div id="feedback-content"></div>
@@ -84,7 +114,7 @@
         <!-- Page des résultats -->
         <div id="results-page" class="page">
             <div class="header">
-                <h1>🎉 Quiz Terminé !</h1>
+                <h1>&#127881; Quiz Terminé !</h1>
             </div>
             
             <div class="content">
@@ -97,18 +127,18 @@
                     <p id="encouragement-message" class="message"></p>
                     
                     <div class="stats-section">
-                        <h3>📈 Statistiques par thème</h3>
+                        <h3>&#128200; Statistiques par thème</h3>
                         <div id="themes-stats"></div>
                     </div>
                     
                     <div class="recap-section">
-                        <h3>📋 Récapitulatif des réponses</h3>
+                        <h3>&#128203; Récapitulatif des réponses</h3>
                         <div id="answers-recap"></div>
                     </div>
                     
                     <div class="action-buttons">
                         <button id="retry-btn" class="btn btn-primary">
-                            🔄 Refaire un quiz
+                            &#128260; Refaire un quiz
                         </button>
                     </div>
                 </div>
