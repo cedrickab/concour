@@ -1,11 +1,15 @@
-# 📚 Concours ENA (Côte d'Ivoire) - Fiche de Révision Complète
+# 📚 Concours ENA (Côte d'Ivoire 2027) - Fiche de Révision & Support IA
 
-Ce document constitue la **base de connaissances unique et exhaustive** pour la préparation au concours de l'ENA.
-Il consolide l'ensemble des cours, règles, exemples, jurisprudences et définitions tirés de la documentation PDF (`DATA/`).
+Ce document constitue la **base de connaissances unique et exhaustive** pour la préparation aux concours direct et professionnel de l'**ENA Côte d'Ivoire (Session 2027)**.
+
+> [!IMPORTANT]
+> **DIRECTIVE IMPÉRATIVE POUR L'IA (AI TUTOR INSTRUCTIONS) :**
+> - **Contexte temporel & géographique** : Tout contenu, génération de questions, actualités, institutions et jurisprudences doivent être rigoureusement **mis à jour pour l'année 2027** en **Côte d'Ivoire**.
+> - **Champs d'application** : Intégrer les réformes récentes (Constitution de 2016 modifiée en 2020, PND 2021-2025, nouvelles institutions de la IIIe République, actualités récentes des organisations sous-régionales CEDEAO/UEMOA/UA).
+> - **Niveau d'exigence** : Les questions doivent inclure des pièges techniques, des nuances jurisprudentielles et du vocabulaire soutenu adaptés au niveau d'exigence du concours de l'ENA.
 
 > [!NOTE]
-> Les milliers de QCM d'entraînement ont été extraits et intégrés dans la base de données interactive. 
-> Utilisez l'application web pour vous entraîner sur les QCM de manière aléatoire.
+> Les milliers de QCM d'entraînement dynamiques (+2 100 questions) sont hébergés et synchronisés dans la base de données interactive (`quiz_data.py` et `docs/quiz_data.js`). Utilisez l'application web pour vos tests.
 
 ---
 
