@@ -156,34 +156,16 @@ THEME_1 = [
         "explanation": "« Pingre » signifie avare, son antonyme est « généreux »."
     },
     {
-        "question": "Quel pluriel est correct ?",
-        "options": ["A) Des arcs-en-ciels", "B) Des passes-partout", "C) Des avant-premières", "D) Tous sont corrects"],
-        "answer": "C",
-        "explanation": "« Des avant-premières » est correct. « Arcs-en-ciel » et « passe-partout » restent invariables."
-    },
-    {
         "question": "Dans quelle phrase n'y a-t-il pas de pléonasme ?",
         "options": ["A) Le jeune lavandier travaille dans la laverie", "B) Pour la police, c'est un petit détail", "C) Ils vont tous se rencontrer ensemble"],
         "answer": "B",
         "explanation": "Cette phrase n'a pas de redondance, contrairement aux autres."
     },
     {
-        "question": "Trouvez l'orthographe correcte :",
-        "options": ["A) Pérégrination", "B) Pirégrination", "C) Perigrination", "D) Pérégrinassion"],
-        "answer": "A",
-        "explanation": "Le mot correct est « pérégrination » (voyage lointain)."
-    },
-    {
         "question": "Quel complément convient au verbe « luter » ?",
         "options": ["A) Une fissure", "B) Un vase", "C) Un trou", "D) Une fenêtre"],
         "answer": "B",
         "explanation": "« Luter » signifie boucher hermétiquement avec du lut (mastic). On lute un vase."
-    },
-    {
-        "question": "Quel mot n'appartient pas à la même famille ?",
-        "options": ["A) Ingénieur", "B) Géniteur", "C) Genèse", "D) Génération"],
-        "answer": "A",
-        "explanation": "« Ingénieur » vient de « ingenium » (talent), les autres de « genesis » (naissance)."
     },
     {
         "question": "Quelle est la définition de la « rhétorique » ?",
@@ -474,18 +456,6 @@ THEME_1 = [
         "explanation": "« Encaustique » est féminin : une encaustique."
     },
     {
-        "question": "Quelle est la bonne orthographe ?",
-        "options": ["A) Imbécilité", "B) Imbécillité", "C) Imbésilité", "D) Imbescilité"],
-        "answer": "A",
-        "explanation": "Depuis la réforme de 1990, « imbécilité » s'écrit avec un seul l (anciennement deux)."
-    },
-    {
-        "question": "Quelle est la bonne orthographe ?",
-        "options": ["A) Acolade", "B) Accollade", "C) Accolade", "D) Acollade"],
-        "answer": "C",
-        "explanation": "Le mot s'écrit « accolade » avec deux c et un seul l."
-    },
-    {
         "question": "Que signifie « promulguer une loi » ?",
         "options": ["A) Proposer une loi", "B) Rendre une loi officielle et applicable", "C) Abroger une loi", "D) Modifier une loi"],
         "answer": "B",
@@ -558,12 +528,6 @@ THEME_1 = [
         "explanation": "Luter signifie fermer hermetiquement avec du lut. On lute un vase, un creuset."
     },
     {
-        "question": "Que signifie le sigle HLM ?",
-        "options": ["A) Habitation de longueur moyenne", "B) Habitation a loyer modere", "C) Habitation de location moderne", "D) Habitation legere et modulable"],
-        "answer": "B",
-        "explanation": "HLM signifie Habitation a Loyer Modere, type de logement social."
-    },
-    {
         "question": "Quel terme designe un nom identique pour les deux genres ?",
         "options": ["A) Invariable", "B) Epicene", "C) Commun", "D) Neutre"],
         "answer": "B",
@@ -606,12 +570,6 @@ THEME_1 = [
         "explanation": "Les adjectifs de couleur issus d'un nom (orange, marron, kaki) sont invariables."
     },
     {
-        "question": "Trouvez l'orthographe correcte :",
-        "options": ["A) Peregrination", "B) Piregrination", "C) Perigrination", "D) Peregrination"],
-        "answer": "A",
-        "explanation": "Le mot correct est peregrination avec accent sur le premier e."
-    },
-    {
         "question": "Le mot navigant est l'adjectif verbal de naviguer. Il est :",
         "options": ["A) Variable", "B) Invariable", "C) Uniquement masculin", "D) Uniquement feminin"],
         "answer": "A",
@@ -634,12 +592,6 @@ THEME_1 = [
         "options": ["A) Un instrument de musique", "B) Un proverbe", "C) Un texte de loi", "D) Une formule mathématique"],
         "answer": "B",
         "explanation": "Un adage est un proverbe ou une maxime populaire transmettant une vérité pratique."
-    },
-    {
-        "question": "Quelle est la bonne orthographe ?",
-        "options": ["A) Grammaire", "B) Graммaire", "C) Gramaire", "D) Grammères"],
-        "answer": "A",
-        "explanation": "Le mot s'écrit « grammaire » avec deux m."
     },
     {
         "question": "Quel mot est l'antonyme de « loquace » ?",
@@ -882,12 +834,6 @@ THEME_1 = [
         "explanation": "L'anaphore est la répétition d'un mot ou groupe en tête de propositions successives."
     },
     {
-        "question": "Quelle est l'orthographe correcte ?",
-        "options": ["A) Parcimonieux", "B) Parscimonieux", "C) Parsimonieux", "D) Parcimmonieux"],
-        "answer": "C",
-        "explanation": "Le mot correct est « parcimonieux » (qui dépense peu, économe à l'excès)."
-    },
-    {
         "question": "Que désigne « l'ellipse » en stylistique ?",
         "options": ["A) Une figure géométrique", "B) Une omission volontaire d'éléments grammaticaux sans ambiguïté", "C) Une répétition de sons", "D) Une exagération"],
         "answer": "B",
@@ -948,12 +894,6 @@ THEME_1 = [
         "explanation": "'Pallier' est un verbe transitif direct, on pallie quelque chose, pas 'à' quelque chose."
     },
     {
-        "question": "Quelle est la bonne orthographe ?",
-        "options": ["A) Des choux-fleurs", "B) Des chou-fleur", "C) Des chous-fleurs", "D) Des chou-fleurs"],
-        "answer": "A",
-        "explanation": "Les deux mots sont des noms, ils prennent tous les deux la marque du pluriel."
-    },
-    {
         "question": "Complétez : 'Même s'il ___ raison, je ne l'écouterais pas.'",
         "options": ["A) a", "B) ait", "C) avait", "D) aurait"],
         "answer": "C",
@@ -1008,12 +948,6 @@ THEME_1 = [
         "explanation": "Concordance des temps : verbe de la principale au passé (a dit), l'action future dans la subordonnée se met au conditionnel (futur dans le passé)."
     },
     {
-        "question": "Quelle est la forme correcte ?",
-        "options": ["A) Quoi qu'il dise...", "B) Quoiqu'il dise...", "C) Quoi qui dise...", "D) Quoi que il dise..."],
-        "answer": "A",
-        "explanation": "'Quoi que' en deux mots signifie 'quelle que soit la chose que'."
-    },
-    {
         "question": "Quel est le participe présent du verbe 'savoir' ?",
         "options": ["A) savant", "B) sachant", "C) saveur", "D) savantement"],
         "answer": "B",
@@ -1026,22 +960,10 @@ THEME_1 = [
         "explanation": "L'adverbe 'mal' est invariable."
     },
     {
-        "question": "Quelle est la bonne orthographe ?",
-        "options": ["A) Des abat-jours", "B) Des abats-jour", "C) Des abats-jours", "D) Des abat-jour"],
-        "answer": "D",
-        "explanation": "'Abat' est un verbe et 'jour' prend un pluriel dans la nouvelle orthographe, mais traditionnellement invariable, ou 'des abat-jours' selon les réformes, mais ici la réponse D est souvent acceptée comme invariable traditionnelle ou A selon la réforme. On retiendra l'invariabilité ou pluriel classique. (Attention: rectification de 1990: des abat-jours. Traditionnel: des abat-jour). Choisissons D."
-    },
-    {
         "question": "Complétez : '___ intelligents qu'ils soient.'",
         "options": ["A) Tout", "B) Tous", "C) Toute", "D) Toutes"],
         "answer": "A",
         "explanation": "'Tout' devant un adjectif masculin pluriel commençant par une voyelle est adverbe et invariable."
-    },
-    {
-        "question": "Laquelle de ces phrases est correcte ?",
-        "options": ["A) C'est à moi de jouer.", "B) C'est de moi de jouer.", "C) C'est moi à jouer.", "D) C'est à moi qui joue."],
-        "answer": "A",
-        "explanation": "L'expression consacrée est 'C'est à [pronom] de [infinitif]'."
     },
     {
         "question": "Complétez : 'Les enfants se sont ___ lavés.'",
@@ -1110,12 +1032,6 @@ THEME_1 = [
         "explanation": "Le pronom relatif 'où' indique le lieu."
     },
     {
-        "question": "Quelle est la bonne orthographe ?",
-        "options": ["A) exhorbitant", "B) exorbitant", "C) excorbitant", "D) exhorbitent"],
-        "answer": "B",
-        "explanation": "'Exorbitant' s'écrit sans 'h'."
-    },
-    {
         "question": "Quel est le participe passé de 'moudre' ?",
         "options": ["A) moudit", "B) moulé", "C) moulu", "D) moudé"],
         "answer": "C",
@@ -1162,12 +1078,6 @@ THEME_1 = [
         "options": ["A) acheté", "B) achetés", "C) achetée", "D) achetées"],
         "answer": "B",
         "explanation": "Accord du participe avec 'qu'' (mis pour 'livres', masculin pluriel)."
-    },
-    {
-        "question": "Laquelle de ces phrases est correcte ?",
-        "options": ["A) J'ai plus pire que ça.", "B) J'ai pire que ça.", "C) J'ai moins pire que ça.", "D) J'ai très pire que ça."],
-        "answer": "B",
-        "explanation": "'Pire' est déjà un comparatif (plus mauvais), on ne dit pas 'plus pire'."
     },
     {
         "question": "Complétez : 'Ces femmes se sont ___ compte de la situation.'",
@@ -1258,324 +1168,6 @@ THEME_1 = [
         "options": ["A) chou-fleur", "B) chous-fleurs", "C) choux-fleur", "D) choux-fleurs"],
         "answer": "D",
         "explanation": "Nom + Nom = pluriel pour les deux."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) gratte-ciel", "B) gratte-ciels", "C) grattes-ciel", "D) grattes-ciels"],
-        "answer": "B",
-        "explanation": "Rectifications 1990: prend la marque du pluriel final."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) arcs-en-ciels", "B) arc-en-ciels", "C) arcs-en-ciel", "D) arc-en-ciel"],
-        "answer": "C",
-        "explanation": "Seul le premier nom s'accorde (Nom + prép + Nom)."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) laissez-passer", "B) laissez-passers", "C) laisse-passer", "D) laisses-passers"],
-        "answer": "A",
-        "explanation": "Verbe + verbe = invariable."
-    },
-    {
-        "question": "___ ses remarques.",
-        "options": ["A) Nonobstant", "B) Non obstant", "C) Non-obstant", "D) N'obstant"],
-        "answer": "A",
-        "explanation": "Préposition invariable."
-    },
-    {
-        "question": "Les années se sont ___.",
-        "options": ["A) écoulées", "B) écoulé", "C) écoulés", "D) écoulée"],
-        "answer": "A",
-        "explanation": "Verbe essentiellement pronominal, accord sujet."
-    },
-    {
-        "question": "Ils se sont ___ compte de l'erreur.",
-        "options": ["A) rendus", "B) rendues", "C) rendu", "D) rendue"],
-        "answer": "C",
-        "explanation": "COD (compte) postposé."
-    },
-    {
-        "question": "La robe qu'elle s'est ___.",
-        "options": ["A) acheté", "B) achetée", "C) achetés", "D) achetées"],
-        "answer": "B",
-        "explanation": "COD (que = la robe) antéposé."
-    },
-    {
-        "question": "La chaleur qu'il a ___.",
-        "options": ["A) fait", "B) faite", "C) faits", "D) faites"],
-        "answer": "A",
-        "explanation": "Faire impersonnel toujours invariable."
-    },
-    {
-        "question": "Les efforts qu'il a ___.",
-        "options": ["A) fallu", "B) fallus", "C) fallue", "D) fallues"],
-        "answer": "A",
-        "explanation": "Falloir impersonnel invariable."
-    },
-    {
-        "question": "Elles sont ___ surprises.",
-        "options": ["A) tout", "B) toute", "C) toutes", "D) tous"],
-        "answer": "C",
-        "explanation": "Tout s'accorde devant adj féminin commençant par consonne."
-    },
-    {
-        "question": "Elle était ___ étonnée.",
-        "options": ["A) tout", "B) toute", "C) toutes", "D) tous"],
-        "answer": "A",
-        "explanation": "Tout devant adj féminin commençant par voyelle = invariable."
-    },
-    {
-        "question": "Des enfants ___ à partir.",
-        "options": ["A) près", "B) prêts", "C) prêt", "D) prêtent"],
-        "answer": "B",
-        "explanation": "Prêt à s'accorde avec le sujet."
-    },
-    {
-        "question": "Il habite ___ de l'école.",
-        "options": ["A) prêts", "B) près", "C) prêt", "D) prête"],
-        "answer": "B",
-        "explanation": "Près de = invariable."
-    },
-    {
-        "question": "Il a agi ___.",
-        "options": ["A) sciemment", "B) siemment", "C) csiemment", "D) sciement"],
-        "answer": "A",
-        "explanation": "Dérivé de scient, deux m."
-    },
-    {
-        "question": "Il l'a demandé ___.",
-        "options": ["A) instamment", "B) instament", "C) instantamment", "D) instamant"],
-        "answer": "A",
-        "explanation": "Adverbe de instant (faux, de instamment) -amment."
-    },
-    {
-        "question": "Il faut qu'il ___.",
-        "options": ["A) conclu", "B) conclue", "C) conclus", "D) conclut"],
-        "answer": "B",
-        "explanation": "Subjonctif de conclure."
-    },
-    {
-        "question": "Bien qu'il ___ malade.",
-        "options": ["A) est", "B) était", "C) soit", "D) fut"],
-        "answer": "C",
-        "explanation": "Bien que + subjonctif."
-    },
-    {
-        "question": "Après qu'il ___ parti.",
-        "options": ["A) soit", "B) est", "C) fût", "D) serait"],
-        "answer": "B",
-        "explanation": "Après que + indicatif."
-    },
-    {
-        "question": "Le document ___ je parlais.",
-        "options": ["A) que", "B) dont", "C) qui", "D) auquel"],
-        "answer": "B",
-        "explanation": "Parler de -> dont."
-    },
-    {
-        "question": "Le collègue ___ je me suis adressé.",
-        "options": ["A) au quel", "B) à qui", "C) de qui", "D) dont"],
-        "answer": "B",
-        "explanation": "S'adresser à une personne -> à qui."
-    },
-    {
-        "question": "Il a ___ faim.",
-        "options": ["A) grand", "B) grande", "C) grands", "D) grandement"],
-        "answer": "A",
-        "explanation": "Expression figée, invariable."
-    },
-    {
-        "question": "Une chaleur ___.",
-        "options": ["A) fatigante", "B) fatiguante", "C) fatigantes", "D) fatiguantes"],
-        "answer": "A",
-        "explanation": "Adjectif verbal sans u."
-    },
-    {
-        "question": "Des arguments ___.",
-        "options": ["A) convainquants", "B) convaincants", "C) convainquant", "D) convaincant"],
-        "answer": "B",
-        "explanation": "Adjectif verbal avec c."
-    },
-    {
-        "question": "Il s'est coupé les cheveux ___.",
-        "options": ["A) court", "B) courts", "C) cour", "D) courre"],
-        "answer": "A",
-        "explanation": "Adverbe invariable dans cette locution."
-    },
-    {
-        "question": "C'est la ___ fois.",
-        "options": ["A) vingt-et-unième", "B) vingt et unième", "C) vingtième et un", "D) vingt-unième"],
-        "answer": "A",
-        "explanation": "Traits d'union pour numéraux composés."
-    },
-    {
-        "question": "Elles se sont ___ des fleurs.",
-        "options": ["A) lancées", "B) lancés", "C) lancé", "D) lancée"],
-        "answer": "C",
-        "explanation": "COD (fleurs) postposé."
-    },
-    {
-        "question": "Les pompiers, ___ preuve de courage.",
-        "options": ["A) faisant", "B) faisants", "C) faisantes", "D) fait"],
-        "answer": "A",
-        "explanation": "Participe présent invariable."
-    },
-    {
-        "question": "Quoi que tu ___.",
-        "options": ["A) fait", "B) fais", "C) fasse", "D) fasses"],
-        "answer": "D",
-        "explanation": "Quoi que + subjonctif."
-    },
-    {
-        "question": "Il l'a fait ___.",
-        "options": ["A) exprès", "B) express", "C) expresse", "D) expressément"],
-        "answer": "A",
-        "explanation": "Adverbe invariable."
-    },
-    {
-        "question": "Les documents ci-___.",
-        "options": ["A) joint", "B) joints", "C) jointe", "D) jointes"],
-        "answer": "B",
-        "explanation": "Placé après le nom, s'accorde."
-    },
-    {
-        "question": "Ci-___, les documents.",
-        "options": ["A) joint", "B) joints", "C) jointe", "D) jointes"],
-        "answer": "A",
-        "explanation": "En tête de phrase, invariable."
-    },
-    {
-        "question": "De ___ en mieux.",
-        "options": ["A) mieu", "B) mieux", "C) meilleur", "D) meilleurs"],
-        "answer": "B",
-        "explanation": "Invariable."
-    },
-    {
-        "question": "Il a fui ___.",
-        "options": ["A) nuitamment", "B) nuitement", "C) nuitament", "D) nuitemment"],
-        "answer": "A",
-        "explanation": "De nuit, 2 m."
-    },
-    {
-        "question": "Des enfants ___-nés.",
-        "options": ["A) nouveau", "B) nouveaux", "C) nouvelle", "D) nouvelles"],
-        "answer": "B",
-        "explanation": "Nouveau s'accorde avec nés."
-    },
-    {
-        "question": "Des fleurs ___-écloses.",
-        "options": ["A) fraiches", "B) fraîche", "C) fraîches", "D) fraichement"],
-        "answer": "C",
-        "explanation": "Fraîches s'accorde en genre et nombre avec écloses."
-    },
-    {
-        "question": "La femme que j'ai ___ chanter.",
-        "options": ["A) entendu", "B) entendue", "C) entendus", "D) entendues"],
-        "answer": "B",
-        "explanation": "La femme fait l'action de chanter, s'accorde."
-    },
-    {
-        "question": "Ils ont acheté de ___ beaux fruits.",
-        "options": ["A) très", "B) de", "C) de très", "D) bien"],
-        "answer": "C",
-        "explanation": "Des devient de devant un adjectif pluriel."
-    },
-    {
-        "question": "C'est l'une des filles qui ___ venues.",
-        "options": ["A) est", "B) sont", "C) ont", "D) a"],
-        "answer": "B",
-        "explanation": "L'antécédent de qui est filles, donc pluriel."
-    },
-    {
-        "question": "Il y a un grand nombre d'élèves qui ___.",
-        "options": ["A) participe", "B) participent", "C) participés", "D) participé"],
-        "answer": "B",
-        "explanation": "L'accord se fait avec le complément du collectif (élèves)."
-    },
-    {
-        "question": "Une foule de curieux ___.",
-        "options": ["A) approchait", "B) approchaient", "C) Les deux", "D) Aucun"],
-        "answer": "C",
-        "explanation": "Accord possible avec le collectif ou le complément."
-    },
-    {
-        "question": "La plupart ___ d'accord.",
-        "options": ["A) est", "B) sont", "C) était", "D) sera"],
-        "answer": "B",
-        "explanation": "La plupart impose l'accord au pluriel."
-    },
-    {
-        "question": "Elles se sont ___ les mains.",
-        "options": ["A) lavé", "B) lavés", "C) lavées", "D) lavée"],
-        "answer": "A",
-        "explanation": "COD (les mains) postposé, donc invariable."
-    },
-    {
-        "question": "Les musiciens que j'ai ___ jouer.",
-        "options": ["A) entendu", "B) entendus", "C) entendue", "D) entendues"],
-        "answer": "B",
-        "explanation": "Le COD fait l'action de jouer, accord."
-    },
-    {
-        "question": "Les chansons que j'ai ___ chanter.",
-        "options": ["A) entendu", "B) entendus", "C) entendue", "D) entendues"],
-        "answer": "A",
-        "explanation": "Le COD subit l'action, invariable."
-    },
-    {
-        "question": "Ils se sont ___.",
-        "options": ["A) succédés", "B) succédé", "C) succédées", "D) succédée"],
-        "answer": "B",
-        "explanation": "Transitif indirect (succéder à), invariable."
-    },
-    {
-        "question": "Des robes ___.",
-        "options": ["A) bleu clair", "B) bleues claires", "C) bleues clair", "D) bleu claires"],
-        "answer": "A",
-        "explanation": "Adjectifs de couleur composés invariables."
-    },
-    {
-        "question": "Des chaussures ___.",
-        "options": ["A) marrons", "B) marrons foncé", "C) marron", "D) marronnes"],
-        "answer": "C",
-        "explanation": "Nom employé comme adjectif, invariable."
-    },
-    {
-        "question": "___ que soient ses excuses.",
-        "options": ["A) Quel", "B) Quelles", "C) Quelque", "D) Quelques"],
-        "answer": "B",
-        "explanation": "Quel que s'accorde avec le sujet postposé."
-    },
-    {
-        "question": "Des efforts, ___ intenses qu'ils soient.",
-        "options": ["A) quelque", "B) quelques", "C) quel que", "D) quels que"],
-        "answer": "A",
-        "explanation": "Quelque adverbe devant adjectif = invariable."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) chou-fleur", "B) chous-fleurs", "C) choux-fleur", "D) choux-fleurs"],
-        "answer": "D",
-        "explanation": "Nom + Nom = pluriel pour les deux."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) gratte-ciel", "B) gratte-ciels", "C) grattes-ciel", "D) grattes-ciels"],
-        "answer": "B",
-        "explanation": "Rectifications 1990: prend la marque du pluriel final."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) arcs-en-ciels", "B) arc-en-ciels", "C) arcs-en-ciel", "D) arc-en-ciel"],
-        "answer": "C",
-        "explanation": "Seul le premier nom s'accorde (Nom + prép + Nom)."
-    },
-    {
-        "question": "Des ___.",
-        "options": ["A) laissez-passer", "B) laissez-passers", "C) laisse-passer", "D) laisses-passers"],
-        "answer": "A",
-        "explanation": "Verbe + verbe = invariable."
     },
     {
         "question": "___ ses remarques.",
@@ -1807,278 +1399,278 @@ THEME_1 = [
     },
     {
         "question": "Choisissez la forme correcte :",
-        "options": ["Ils se sont dit la vérité.", "Ils se sont dits la vérité.", "Ils se sont dite la vérité.", "Ils se sont dis la vérité."],
-        "answer": "Ils se sont dit la vérité.",
+        "options": ["A) Ils se sont dit la vérité.", "B) Ils se sont dits la vérité.", "C) Ils se sont dite la vérité.", "D) Ils se sont dis la vérité."],
+        "answer": "A",
         "explanation": "'Se' est COI (ils ont dit la vérité à eux-mêmes). 'la vérité', COD, est placé après, donc invariable."
     },
     {
         "question": "Trouvez la phrase correcte :",
-        "options": ["Quoiqu'il soit riche, il est avare.", "Quoi qu'il soit riche, il est avare.", "Quoi qu'il est riche, il est avare.", "Quoiqu'il est riche, il est avare."],
-        "answer": "Quoiqu'il soit riche, il est avare.",
+        "options": ["A) Quoiqu'il soit riche, il est avare.", "B) Quoi qu'il soit riche, il est avare.", "C) Quoi qu'il est riche, il est avare.", "D) Quoiqu'il est riche, il est avare."],
+        "answer": "A",
         "explanation": "'Quoique' en un seul mot signifie 'bien que' et appelle le subjonctif."
     },
     {
         "question": "Laquelle de ces phrases contient une erreur d'accord ?",
-        "options": ["Les lettres qu'ils se sont envoyées.", "Elles se sont rendu compte de leur erreur.", "Les années se sont succédées rapidement.", "Ils se sont plu immédiatement."],
-        "answer": "Les années se sont succédées rapidement.",
+        "options": ["A) Les lettres qu'ils se sont envoyées.", "B) Elles se sont rendu compte de leur erreur.", "C) Les années se sont succédées rapidement.", "D) Ils se sont plu immédiatement."],
+        "answer": "C",
         "explanation": "Le verbe 'se succéder' n'a jamais de COD (succéder à), le participe passé est donc toujours invariable : se sont succédé."
     },
     {
         "question": "Accord des adjectifs de couleur. Lequel est correct ?",
-        "options": ["Des robes bleues claires", "Des robes bleu clair", "Des robes bleues clair", "Des robes bleu claires"],
-        "answer": "Des robes bleu clair",
+        "options": ["A) Des robes bleues claires", "B) Des robes bleu clair", "C) Des robes bleues clair", "D) Des robes bleu claires"],
+        "answer": "B",
         "explanation": "Les adjectifs de couleur composés sont invariables."
     },
     {
         "question": "Comment écrit-on le nombre 300 en toutes lettres lorsqu'il n'est suivi d'aucun autre chiffre ?",
-        "options": ["Trois cent", "Trois-cent", "Trois cents", "Trois-cents"],
-        "answer": "Trois cents",
+        "options": ["A) Trois cent", "B) Trois-cent", "C) Trois cents", "D) Trois-cents"],
+        "answer": "C",
         "explanation": "Vingt et cent prennent la marque du pluriel quand ils sont multipliés par un nombre et qu'ils terminent l'adjectif numéral."
     },
     {
         "question": "Comment écrit-on 80 en toutes lettres ?",
-        "options": ["Quatre-vingt", "Quatre-vingts", "Quatre vingts", "Quatre vingt"],
-        "answer": "Quatre-vingts",
+        "options": ["A) Quatre-vingt", "B) Quatre-vingts", "C) Quatre vingts", "D) Quatre vingt"],
+        "answer": "B",
         "explanation": "'Vingts' prend un 's' car il est multiplié par quatre et n'est suivi d'aucun autre nombre."
     },
     {
         "question": "Quel est le pluriel du mot composé 'un compte-gouttes' ?",
-        "options": ["Des comptes-gouttes", "Des compte-gouttes", "Des comptes-goutte", "Des compte-goutte"],
-        "answer": "Des compte-gouttes",
+        "options": ["A) Des comptes-gouttes", "B) Des compte-gouttes", "C) Des comptes-goutte", "D) Des compte-goutte"],
+        "answer": "B",
         "explanation": "'compte' est un verbe (invariable), 'gouttes' prend le pluriel (qui est d'ailleurs déjà présent au singulier)."
     },
     {
         "question": "Quel est le pluriel de 'chef-d'œuvre' ?",
-        "options": ["Chefs-d'œuvre", "Chefs-d'œuvres", "Chef-d'œuvres", "Chef-d'œuvre"],
-        "answer": "Chefs-d'œuvre",
+        "options": ["A) Chefs-d'œuvre", "B) Chefs-d'œuvres", "C) Chef-d'œuvres", "D) Chef-d'œuvre"],
+        "answer": "A",
         "explanation": "Seul le premier nom prend la marque du pluriel dans un nom composé d'un nom et de son complément prépositionnel."
     },
     {
         "question": "Identifiez la phrase sans erreur :",
-        "options": ["Elles se sont arrogées des droits.", "Elles se sont arrogé des droits.", "Elles se sont arrogé de droits.", "Elles se sont arrogées de droits."],
-        "answer": "Elles se sont arrogé des droits.",
+        "options": ["A) Elles se sont arrogées des droits.", "B) Elles se sont arrogé des droits.", "C) Elles se sont arrogé de droits.", "D) Elles se sont arrogées de droits."],
+        "answer": "B",
         "explanation": "Le verbe s'arroger (arroger à soi). 'des droits' est COD placé après, donc invariable."
     },
     {
         "question": "Laquelle de ces formes est correcte ?",
-        "options": ["Des arc-en-ciels", "Des arcs-en-ciels", "Des arcs-en-ciel", "Des arc-en-ciel"],
-        "answer": "Des arcs-en-ciel",
+        "options": ["A) Des arc-en-ciels", "B) Des arcs-en-ciels", "C) Des arcs-en-ciel", "D) Des arc-en-ciel"],
+        "answer": "B",
         "explanation": "Nom + préposition + nom : seul le premier nom varie. Les arcs qui sont dans le ciel."
     },
     {
         "question": "Choisissez la bonne graphie :",
-        "options": ["Il faut qu'il résoud le problème.", "Il faut qu'il résolve le problème.", "Il faut qu'il résout le problème.", "Il faut qu'il résolusse le problème."],
-        "answer": "Il faut qu'il résolve le problème.",
+        "options": ["A) Il faut qu'il résoud le problème.", "B) Il faut qu'il résolve le problème.", "C) Il faut qu'il résout le problème.", "D) Il faut qu'il résolusse le problème."],
+        "answer": "B",
         "explanation": "Subjonctif présent du verbe résoudre."
     },
     {
         "question": "Quel est le participe passé de 's'enfuir' à la 3ème personne du pluriel au féminin ?",
-        "options": ["se sont enfuies", "se sont enfui", "se sont enfuit", "se sont enfuis"],
-        "answer": "se sont enfuies",
+        "options": ["A) se sont enfuies", "B) se sont enfui", "C) se sont enfuit", "D) se sont enfuis"],
+        "answer": "A",
         "explanation": "Verbe essentiellement pronominal, s'accorde avec le sujet."
     },
     {
         "question": "Sélectionnez l'orthographe correcte pour 300 000 :",
-        "options": ["Trois cents mille", "Trois-cents mille", "Trois cent mille", "Trois-cent mille"],
-        "answer": "Trois cent mille",
+        "options": ["A) Trois cents mille", "B) Trois-cents mille", "C) Trois cent mille", "D) Trois-cent mille"],
+        "answer": "C",
         "explanation": "Cent est invariable s'il est suivi d'un autre nombre (ici, mille, qui est un adjectif numéral invariable)."
     },
     {
         "question": "Quel est l'accord correct ?",
-        "options": ["Les pommes que j'ai vu tomber.", "Les pommes que j'ai vues tomber.", "Les pommes que j'ai vue tomber.", "Les pommes que j'ai vus tomber."],
-        "answer": "Les pommes que j'ai vues tomber.",
+        "options": ["A) Les pommes que j'ai vu tomber.", "B) Les pommes que j'ai vues tomber.", "C) Les pommes que j'ai vue tomber.", "D) Les pommes que j'ai vus tomber."],
+        "answer": "B",
         "explanation": "Le COD 'que' (mis pour pommes) précède, et les pommes font l'action de tomber (sujet de l'infinitif), l'accord se fait."
     },
     {
         "question": "Accord avec laisser :",
-        "options": ["Les arbres que j'ai laissé abattre.", "Les arbres que j'ai laissés abattre.", "Les arbres que j'ai laissées abattre.", "Les arbres que j'ai laissé abattus."],
-        "answer": "Les arbres que j'ai laissé abattre.",
+        "options": ["A) Les arbres que j'ai laissé abattre.", "B) Les arbres que j'ai laissés abattre.", "C) Les arbres que j'ai laissées abattre.", "D) Les arbres que j'ai laissé abattus."],
+        "answer": "A",
         "explanation": "Depuis la réforme de 1990, 'fait' et 'laissé' suivis d'un infinitif sont invariables."
     },
     {
         "question": "Laquelle de ces propositions est juste ?",
-        "options": ["Ils se sont parler pendant des heures.", "Ils se sont parlés pendant des heures.", "Ils se sont parlé pendant des heures.", "Ils se sont parlées pendant des heures."],
-        "answer": "Ils se sont parlé pendant des heures.",
+        "options": ["A) Ils se sont parler pendant des heures.", "B) Ils se sont parlés pendant des heures.", "C) Ils se sont parlé pendant des heures.", "D) Ils se sont parlées pendant des heures."],
+        "answer": "C",
         "explanation": "Se parler à soi-même ou à l'un l'autre (COI). Donc invariable."
     },
     {
         "question": "Pluriel des mots composés : 'nouveau-né'.",
-        "options": ["nouveaux-né", "nouveau-nés", "nouveaux-nés", "nouveau-nées"],
-        "answer": "nouveaux-nés",
+        "options": ["A) nouveaux-né", "B) nouveau-nés", "C) nouveaux-nés", "D) nouveau-nées"],
+        "answer": "C",
         "explanation": "Les deux éléments (adjectif + participe passé/adjectif) s'accordent au pluriel."
     },
     {
         "question": "Laquelle de ces orthographes est correcte concernant le verbe asseoir ?",
-        "options": ["Je m'assoies", "Je m'assied", "Je m'assois", "Je m'assié"],
-        "answer": "Je m'assois",
+        "options": ["A) Je m'assoies", "B) Je m'assied", "C) Je m'assois", "D) Je m'assié"],
+        "answer": "C",
         "explanation": "Les deux formes 'je m'assois' et 'je m'assieds' sont valables, mais 'je m'assied' sans 's' est fautif."
     },
     {
         "question": "Identifiez l'erreur :",
-        "options": ["Elle a l'air bête.", "Elle a l'air bêtes.", "Elle a l'air gentille.", "Ils ont l'air fatigués."],
-        "answer": "Elle a l'air bêtes.",
+        "options": ["A) Elle a l'air bête.", "B) Elle a l'air bêtes.", "C) Elle a l'air gentille.", "D) Ils ont l'air fatigués."],
+        "answer": "B",
         "explanation": "L'adjectif s'accorde avec le sujet (Elle) ou avec 'air', mais ne prend pas de 's' si le sujet est singulier."
     },
     {
         "question": "Complétez la phrase : Il travaille d'arrache-...",
-        "options": ["pieds", "pied", "pié", "piéd"],
-        "answer": "pied",
+        "options": ["A) pieds", "B) pied", "C) pié", "D) piéd"],
+        "answer": "A",
         "explanation": "La locution est 'd'arrache-pied' (invariable)."
     },
     {
         "question": "Trouvez la phrase correcte avec 'quelque' :",
-        "options": ["Quelque soient vos raisons.", "Quelles que soient vos raisons.", "Quelques que soient vos raisons.", "Quels que soient vos raisons."],
-        "answer": "Quelles que soient vos raisons.",
+        "options": ["A) Quelque soient vos raisons.", "B) Quelles que soient vos raisons.", "C) Quelques que soient vos raisons.", "D) Quels que soient vos raisons."],
+        "answer": "B",
         "explanation": "'Quel que' s'écrit en deux mots devant le verbe être et s'accorde avec le sujet 'raisons' (féminin pluriel)."
     },
     {
         "question": "Orthographe des couleurs :",
-        "options": ["Des yeux marrons", "Des yeux marron", "Des yeux marront", "Des yeux marrones"],
-        "answer": "Des yeux marron",
+        "options": ["A) Des yeux marrons", "B) Des yeux marron", "C) Des yeux marront", "D) Des yeux marrones"],
+        "answer": "A",
         "explanation": "Marron vient d'un nom de fruit et est donc invariable en tant qu'adjectif de couleur."
     },
     {
         "question": "Accord avec 'avoir' :",
-        "options": ["La chanson que j'ai entendu chanter.", "La chanson que j'ai entendue chanter.", "La chanson que j'ai entendue chantée.", "La chanson que j'ai entendu chantée."],
-        "answer": "La chanson que j'ai entendu chanter.",
+        "options": ["A) La chanson que j'ai entendu chanter.", "B) La chanson que j'ai entendue chanter.", "C) La chanson que j'ai entendue chantée.", "D) La chanson que j'ai entendu chantée."],
+        "answer": "A",
         "explanation": "Le sujet de l'infinitif n'est pas la chanson (la chanson ne chante pas), donc le participe 'entendu' reste invariable."
     },
     {
         "question": "Sélectionnez la phrase contenant une erreur :",
-        "options": ["Même les plus forts tombent.", "Ils sont arrivés eux-même.", "Nous l'avons fait nous-mêmes.", "Mêmes ses amis l'ont abandonné."],
-        "answer": "Mêmes ses amis l'ont abandonné.",
+        "options": ["A) Même les plus forts tombent.", "B) Ils sont arrivés eux-même.", "C) Nous l'avons fait nous-mêmes.", "D) Mêmes ses amis l'ont abandonné."],
+        "answer": "D",
         "explanation": "'Même' placé avant un nom/pronom et signifiant 'y compris' est un adverbe invariable. On écrit 'Même ses amis'."
     },
     {
         "question": "Accord de 'tout' :",
-        "options": ["Elle est tout étonnée.", "Elle est toute étonnée.", "Elle est toutes étonnée.", "Elle est touts étonnée."],
-        "answer": "Elle est tout étonnée.",
+        "options": ["A) Elle est tout étonnée.", "B) Elle est toute étonnée.", "C) Elle est toutes étonnée.", "D) Elle est touts étonnée."],
+        "answer": "A",
         "explanation": "'Tout' adverbe ne s'accorde devant un adjectif féminin que si celui-ci commence par une consonne ou un h aspiré. 'étonnée' commence par une voyelle."
     },
     {
         "question": "Cochez la bonne forme :",
-        "options": ["Des fleurs fraîches écloses", "Des fleurs fraîchement écloses", "Des fleurs fraîches éclose", "Des fleurs fraîche écloses"],
-        "answer": "Des fleurs fraîches écloses",
+        "options": ["A) Des fleurs fraîches écloses", "B) Des fleurs fraîchement écloses", "C) Des fleurs fraîches éclose", "D) Des fleurs fraîche écloses"],
+        "answer": "A",
         "explanation": "'Frais' employé adverbialement s'accorde exceptionnellement avec l'adjectif qui suit."
     },
     {
         "question": "Quelle phrase est correcte ?",
-        "options": ["C'est nous qui avons décidé.", "C'est nous qui ont décidé.", "C'est nous qui a décidé.", "C'est nous qui avez décidé."],
-        "answer": "C'est nous qui avons décidé.",
+        "options": ["A) C'est nous qui avons décidé.", "B) C'est nous qui ont décidé.", "C) C'est nous qui a décidé.", "D) C'est nous qui avez décidé."],
+        "answer": "A",
         "explanation": "Le verbe s'accorde avec l'antécédent du pronom relatif 'qui', soit 'nous' (1ère personne du pluriel)."
     },
     {
         "question": "Quel verbe est au conditionnel passé ?",
-        "options": ["J'aurai fini", "J'avais fini", "J'aurais fini", "J'eus fini"],
-        "answer": "J'aurais fini",
+        "options": ["A) J'aurai fini", "B) J'avais fini", "C) J'aurais fini", "D) J'eus fini"],
+        "answer": "C",
         "explanation": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent (j'aurais) et le participe passé."
     },
     {
         "question": "Accord des participes passés :",
-        "options": ["Les efforts qu'il a fallus", "Les efforts qu'il a fallu", "Les efforts qu'ils a fallu", "Les efforts qu'il as fallu"],
-        "answer": "Les efforts qu'il a fallu",
+        "options": ["A) Les efforts qu'il a fallus", "B) Les efforts qu'il a fallu", "C) Les efforts qu'ils a fallu", "D) Les efforts qu'il as fallu"],
+        "answer": "A",
         "explanation": "Le participe passé des verbes impersonnels (il a fallu, il a plu) est toujours invariable."
     },
     {
         "question": "Identifiez l'orthographe correcte du pluriel :",
-        "options": ["Des gratte-ciels", "Des grattes-ciels", "Des gratte-ciel", "Des grattes-ciel"],
-        "answer": "Des gratte-ciel",
+        "options": ["A) Des gratte-ciels", "B) Des grattes-ciels", "C) Des gratte-ciel", "D) Des grattes-ciel"],
+        "answer": "A",
         "explanation": "'Gratte' (verbe invariable) + 'ciel' (invariable car il n'y a qu'un ciel qu'on gratte)."
     },
     {
         "question": "Lequel de ces mots est féminin ?",
-        "options": ["un tentacule", "un tubercule", "une scolopendre", "un termite"],
-        "answer": "une scolopendre",
+        "options": ["A) un tentacule", "B) un tubercule", "C) une scolopendre", "D) un termite"],
+        "answer": "C",
         "explanation": "Scolopendre est de genre féminin, contrairement aux autres qui sont souvent confondus."
     },
     {
         "question": "Quel mot peut être masculin OU féminin (double genre) selon son sens ou nombre ?",
-        "options": ["Orgue", "Termite", "Augure", "Aucun des trois"],
-        "answer": "Orgue",
+        "options": ["A) Orgue", "B) Termite", "C) Augure", "D) Aucun des trois"],
+        "answer": "A",
         "explanation": "Orgue (comme amour et délice) est masculin au singulier et généralement féminin au pluriel (de belles orgues)."
     },
     {
         "question": "Complétez : 'Ces femmes se sont...'",
-        "options": ["souri", "souris", "souries", "sourire"],
-        "answer": "souri",
+        "options": ["A) souri", "B) souris", "C) souries", "D) sourire"],
+        "answer": "A",
         "explanation": "Se sourire à soi ou à un autre (COI), le participe passé reste invariable."
     },
     {
         "question": "Quelle phrase contient un verbe transitif direct ?",
-        "options": ["Il parle à son frère.", "Elle mange une pomme.", "Nous allons à Paris.", "Ils obéissent aux règles."],
-        "answer": "Elle mange une pomme.",
+        "options": ["A) Il parle à son frère.", "B) Elle mange une pomme.", "C) Nous allons à Paris.", "D) Ils obéissent aux règles."],
+        "answer": "B",
         "explanation": "Manger quelque chose (ici une pomme, COD) -> verbe transitif direct."
     },
     {
         "question": "Que signifie la locution 'a priori' ?",
-        "options": ["Au premier abord, avant toute expérience.", "A posteriori, après réflexion.", "Une priorité absolue.", "Une excuse non fondée."],
-        "answer": "Au premier abord, avant toute expérience.",
+        "options": ["A) Au premier abord, avant toute expérience.", "A posteriori, après réflexion.", "C) Une priorité absolue.", "D) Une excuse non fondée."],
+        "answer": "A",
         "explanation": "'a priori' (du latin) signifie au premier abord, en se fondant sur des données antérieures à l'expérience."
     },
     {
         "question": "Choisissez la proposition exacte :",
-        "options": ["Il l'a convaincu.", "Il l'a convaincue.", "Il l'a convaincues.", "Cela dépend du contexte."],
-        "answer": "Cela dépend du contexte.",
+        "options": ["A) Il l'a convaincu.", "B) Il l'a convaincue.", "C) Il l'a convaincues.", "D) Cela dépend du contexte."],
+        "answer": "D",
         "explanation": "Le participe s'accorde avec le pronom 'l'', il s'écrira 'convaincue' si 'l'' remplace une femme, et 'convaincu' si c'est un homme."
     },
     {
         "question": "Quelle est la bonne orthographe pour 92 ?",
-        "options": ["Quatre-vingts-deux", "Quatre-vingt-deux", "Quatre-vingt deux", "Quatre-vingts deux"],
-        "answer": "Quatre-vingt-deux",
+        "options": ["A) Quatre-vingts-deux", "B) Quatre-vingt-deux", "C) Quatre-vingt deux", "D) Quatre-vingts deux"],
+        "answer": "B",
         "explanation": "Le 's' de vingts tombe lorsqu'il est suivi d'un autre adjectif numéral (deux)."
     },
     {
         "question": "Parmi ces phrases, laquelle est correcte ?",
-        "options": ["Les enfants dont je t'ai parlé sont ici.", "Les enfants dont je t'ai parlés sont ici.", "Les enfants dont je t'ai parlées sont ici.", "Les enfants que je t'ai parlé sont ici."],
-        "answer": "Les enfants dont je t'ai parlé sont ici.",
+        "options": ["A) Les enfants dont je t'ai parlé sont ici.", "B) Les enfants dont je t'ai parlés sont ici.", "C) Les enfants dont je t'ai parlées sont ici.", "D) Les enfants que je t'ai parlé sont ici."],
+        "answer": "A",
         "explanation": "Parler de quelqu'un (COI), donc pas d'accord. Le pronom relatif 'dont' remplace un COI."
     },
     {
         "question": "Comment conjuguer au conditionnel présent (1ère pers. singulier) : 'courir' ?",
-        "options": ["Je courrais", "Je courais", "Je courrai", "Je courai"],
-        "answer": "Je courrais",
+        "options": ["A) Je courrais", "B) Je courais", "C) Je courrai", "D) Je courai"],
+        "answer": "A",
         "explanation": "Le conditionnel présent de courir prend deux 'r' : je courrais (radical du futur + terminaisons de l'imparfait)."
     },
     {
         "question": "Indiquez l'accord correct :",
-        "options": ["Des fleurs rouge sang", "Des fleurs rouges sang", "Des fleurs rouge sangs", "Des fleurs rouges sangs"],
-        "answer": "Des fleurs rouge sang",
+        "options": ["A) Des fleurs rouge sang", "B) Des fleurs rouges sang", "C) Des fleurs rouge sangs", "D) Des fleurs rouges sangs"],
+        "answer": "A",
         "explanation": "Les adjectifs de couleur composés (rouge sang) sont toujours invariables."
     },
     {
         "question": "Quelle phrase présente un pléonasme ?",
-        "options": ["Monter en haut.", "Sortir dehors.", "Descendre en bas.", "Toutes les réponses."],
-        "answer": "Toutes les réponses.",
+        "options": ["A) Monter en haut.", "B) Sortir dehors.", "C) Descendre en bas.", "D) Toutes les réponses."],
+        "answer": "D",
         "explanation": "Monter implique d'aller en haut, sortir implique d'aller dehors, descendre d'aller en bas. Ce sont tous des pléonasmes."
     },
     {
         "question": "Identifiez la proposition correcte pour le subjonctif imparfait :",
-        "options": ["Que je fisse", "Que je fis", "Que je faisait", "Que je fasse"],
-        "answer": "Que je fisse",
+        "options": ["A) Que je fisse", "B) Que je fis", "C) Que je faisait", "D) Que je fasse"],
+        "answer": "A",
         "explanation": "'Fisse' est la 1ère personne du singulier de l'imparfait du subjonctif du verbe faire."
     },
     {
         "question": "Quel est le pluriel de 'passe-partout' ?",
-        "options": ["passe-partouts", "passes-partouts", "passe-partout", "passes-partout"],
-        "answer": "passe-partout",
+        "options": ["A) passe-partouts", "B) passes-partouts", "C) passe-partout", "D) passes-partout"],
+        "answer": "A",
         "explanation": "Mot composé d'un verbe (passe) et d'un adverbe (partout). Le nom entier est donc invariable."
     },
     {
         "question": "Quelle locution est correcte pour dire 'à condition que' (avec subjonctif) ?",
         "options": ["A condition que tu viens.", "A condition que tu viennes.", "A condition que tu viendras.", "A condition que tu vienne."],
-        "answer": "A condition que tu viennes.",
+        "answer": "A",
         "explanation": "'A condition que' exige le subjonctif (tu viennes)."
     },
     {
         "question": "Orthographe correcte du pluriel de 'coffre-fort' ?",
-        "options": ["coffre-forts", "coffres-fort", "coffres-forts", "coffre-fort"],
-        "answer": "coffres-forts",
+        "options": ["A) coffre-forts", "B) coffres-fort", "C) coffres-forts", "D) coffre-fort"],
+        "answer": "C",
         "explanation": "Nom + adjectif : les deux s'accordent au pluriel."
     },
     {
         "question": "Laquelle de ces phrases contient une faute d'orthographe ?",
-        "options": ["Ils se sont rendu compte de l'erreur.", "Elle s'est lavé les mains.", "Elles se sont permises de répondre.", "Ils se sont écrit des lettres."],
-        "answer": "Elles se sont permises de répondre.",
+        "options": ["A) Ils se sont rendu compte de l'erreur.", "B) Elle s'est lavé les mains.", "C) Elles se sont permises de répondre.", "D) Ils se sont écrit des lettres."],
+        "answer": "C",
         "explanation": "Permettre à soi (COI) de faire quelque chose. Le participe passé doit être invariable : se sont permis."
     },
 ]
@@ -2583,18 +2175,6 @@ THEME_2 = [
         "explanation": "L'epigramme est une courte composition poetique a caractere satirique."
     },
     {
-        "question": "avocat (fruit) et avocat (profession) sont des :",
-        "options": ["A) Mots polysemiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
-        "answer": "B",
-        "explanation": "Ce sont des homonymes parfaits, de sens et d'origines totalement differents."
-    },
-    {
-        "question": "Les mots cession et session sont des :",
-        "options": ["A) Synonymes", "B) Homographes", "C) Paronymes", "D) Antonymes"],
-        "answer": "C",
-        "explanation": "Ces mots se ressemblent fortement mais ont des sens differents : ce sont des paronymes."
-    },
-    {
         "question": "Dans pied de la jambe et pied d'une montagne, le mot pied illustre :",
         "options": ["A) Homonymie", "B) Polysemie", "C) Meronymie", "D) Antonymie"],
         "answer": "B",
@@ -2725,12 +2305,6 @@ THEME_2 = [
         "options": ["A) Acronyme", "B) Apocope", "C) Aphérèse", "D) Troncation"],
         "answer": "D",
         "explanation": "La troncation supprime une partie du mot. « Ciné » est une apocope (troncation finale)."
-    },
-    {
-        "question": "Le mot « radar » est un exemple de :",
-        "options": ["A) Palindrome", "B) Acronyme", "C) Néologisme", "D) Emprunt"],
-        "answer": "B",
-        "explanation": "Radar est un acronyme : Radio Detection And Ranging."
     },
     {
         "question": "Quelle relation existe entre « rapide » et « lent » ?",
@@ -3129,12 +2703,6 @@ THEME_2 = [
         "explanation": "Un cataclysme est un grand bouleversement destructeur."
     },
     {
-        "question": "Que signifie 'ubiquité' ?",
-        "options": ["A) La capacité à lire vite", "B) Le fait d'être présent partout à la fois", "C) L'absence totale de lieu", "D) Le fait de se tromper"],
-        "answer": "B",
-        "explanation": "L'ubiquité est la faculté divine ou magique d'être présent en plusieurs lieux en même temps."
-    },
-    {
         "question": "Analogie : Pédiatre est à enfant ce que gériatre est à ___",
         "options": ["A) Femme", "B) Vieillard", "C) Animal", "D) Homme"],
         "answer": "B",
@@ -3457,318 +3025,6 @@ THEME_2 = [
         "options": ["A) N'être plus utilisé", "B) Se casser", "C) Être populaire", "D) Disparaître subitement"],
         "answer": "A",
         "explanation": "Ne plus être en usage."
-    },
-    {
-        "question": "Qu'est-ce qu'un 'Solécisme' ?",
-        "options": ["A) Faute de syntaxe", "B) Mot inventé", "C) Figure de style", "D) Ponctuation"],
-        "answer": "A",
-        "explanation": "Erreur de construction."
-    },
-    {
-        "question": "Qu'est-ce qu'un 'Barbarisme' ?",
-        "options": ["A) Mot déformé", "B) Faute de syntaxe", "C) Acte violent", "D) Figure de style"],
-        "answer": "A",
-        "explanation": "Faute de vocabulaire (mot inexistant ou déformé)."
-    },
-    {
-        "question": "Intrus parmi synonymes de 'Pusillanime' :",
-        "options": ["A) Hardi", "B) Timoré", "C) Couard", "D) Peureux"],
-        "answer": "A",
-        "explanation": "Hardi est l'antonyme (audacieux)."
-    },
-    {
-        "question": "Que signifie 'Idoine' ?",
-        "options": ["A) Approprié", "B) Stupide", "C) Ignorant", "D) Vaste"],
-        "answer": "A",
-        "explanation": "Qui convient parfaitement à la situation."
-    },
-    {
-        "question": "Antonyme de 'Altruiste' :",
-        "options": ["A) Égoïste", "B) Généreux", "C) Bon", "D) Saint"],
-        "answer": "A",
-        "explanation": "Contraire du dévouement à autrui."
-    },
-    {
-        "question": "Propos 'Acerbe' :",
-        "options": ["A) Blessant", "B) Doux", "C) Calme", "D) Court"],
-        "answer": "A",
-        "explanation": "Dur, piquant, acide."
-    },
-    {
-        "question": "'Pécuniaire' est relatif à :",
-        "options": ["A) L'argent", "B) La loi", "C) La santé", "D) L'art"],
-        "answer": "A",
-        "explanation": "De la pecunia (monnaie)."
-    },
-    {
-        "question": "Il ne faut pas ___ la faute à d'autres.",
-        "options": ["A) imputer", "B) amputer", "C) empoter", "D) impacter"],
-        "answer": "A",
-        "explanation": "Attribuer une faute."
-    },
-    {
-        "question": "'Inhérent' :",
-        "options": ["A) Lié de façon intime", "B) Extérieur", "C) Passager", "D) Lointain"],
-        "answer": "A",
-        "explanation": "Uni de façon inséparable."
-    },
-    {
-        "question": "'Subreptice' :",
-        "options": ["A) Furtif", "B) Légal", "C) Bruyant", "D) Long"],
-        "answer": "A",
-        "explanation": "Fait en cachette."
-    },
-    {
-        "question": "Que désigne 'Apathie' ?",
-        "options": ["A) Indifférence/Manque d'énergie", "B) Empathie", "C) Haine", "D) Peur"],
-        "answer": "A",
-        "explanation": "Absence de volonté et d'émotion."
-    },
-    {
-        "question": "Une réponse 'Ambiguë' :",
-        "options": ["A) À double sens", "B) Claire", "C) Longue", "D) Courte"],
-        "answer": "A",
-        "explanation": "Peut s'interpréter de plusieurs façons."
-    },
-    {
-        "question": "'Véloce' :",
-        "options": ["A) Rapide", "B) Lourd", "C) Méchant", "D) Fort"],
-        "answer": "A",
-        "explanation": "Agile, rapide."
-    },
-    {
-        "question": "Qu'est-ce qu'un 'Pléonasme' ?",
-        "options": ["A) Répétition de mots de même sens", "B) Mots contraires", "C) Rime", "D) Contresens"],
-        "answer": "A",
-        "explanation": "Exemple: descendre en bas."
-    },
-    {
-        "question": "Un 'Syllogisme' :",
-        "options": ["A) Raisonnement en 3 temps", "B) Poème", "C) Insulte", "D) Figure d'opposition"],
-        "answer": "A",
-        "explanation": "Déduction logique (prémisses + conclusion)."
-    },
-    {
-        "question": "'Synergies' :",
-        "options": ["A) Actions coordonnées", "B) Conflits", "C) Divergences", "D) Échecs"],
-        "answer": "A",
-        "explanation": "Effet combiné supérieur aux effets isolés."
-    },
-    {
-        "question": "Que signifie 'Ajourner' ?",
-        "options": ["A) Remettre à plus tard", "B) Annuler définitivement", "C) Accélérer", "D) Mettre au jour"],
-        "answer": "A",
-        "explanation": "Reporter à un autre jour."
-    },
-    {
-        "question": "Que signifie 'Abstrus' ?",
-        "options": ["A) Obscur", "B) Clair", "C) Lourd", "D) Triste"],
-        "answer": "A",
-        "explanation": "Difficile à comprendre."
-    },
-    {
-        "question": "Antonyme de 'Prolixe' :",
-        "options": ["A) Bavard", "B) Concis", "C) Sombre", "D) Vaste"],
-        "answer": "B",
-        "explanation": "Bref dans ses discours."
-    },
-    {
-        "question": "Ciel est à Bleu ce que Sang est à :",
-        "options": ["A) Rouge", "B) Cœur", "C) Liquide", "D) Veine"],
-        "answer": "A",
-        "explanation": "Couleur caractéristique."
-    },
-    {
-        "question": "Que signifie 'Conjoncture' ?",
-        "options": ["A) Hypothèse", "B) Situation globale", "C) Maladie", "D) Articulation"],
-        "answer": "B",
-        "explanation": "La situation économique ou politique."
-    },
-    {
-        "question": "Il a fait une ___.",
-        "options": ["A) conjecture", "B) conjoncture", "C) conjuration", "D) conjonctive"],
-        "answer": "A",
-        "explanation": "Une hypothèse."
-    },
-    {
-        "question": "Il a su ___ l'argent.",
-        "options": ["A) recouvrir", "B) recouvrer", "C) récupérer", "D) couvrir"],
-        "answer": "B",
-        "explanation": "Rentrer en possession (finances, santé)."
-    },
-    {
-        "question": "Son arrivée est ___.",
-        "options": ["A) éminente", "B) imminente", "C) iminente", "D) émanente"],
-        "answer": "B",
-        "explanation": "Qui va se produire bientôt."
-    },
-    {
-        "question": "Un professeur ___.",
-        "options": ["A) imminent", "B) éminent", "C) aminent", "D) émanent"],
-        "answer": "B",
-        "explanation": "Remarquable, supérieur."
-    },
-    {
-        "question": "Que signifie 'Pallier' ?",
-        "options": ["A) Résoudre", "B) Remédier provisoirement", "C) Remplacer", "D) Détruire"],
-        "answer": "B",
-        "explanation": "Remède temporaire (sans 'à')."
-    },
-    {
-        "question": "Phrase correcte :",
-        "options": ["A) Pallier au problème", "B) Pallier le problème", "C) Pallier du problème", "D) Pallier sur le problème"],
-        "answer": "B",
-        "explanation": "Verbe transitif direct."
-    },
-    {
-        "question": "Synonyme de 'Laconique' :",
-        "options": ["A) Bref", "B) Long", "C) Triste", "D) Joyeux"],
-        "answer": "A",
-        "explanation": "Exprimé en peu de mots."
-    },
-    {
-        "question": "Que désigne 'Acception' ?",
-        "options": ["A) Consentement", "B) Sens d'un mot", "C) Refus", "D) Erreur"],
-        "answer": "B",
-        "explanation": "Le sens dans lequel un mot est employé."
-    },
-    {
-        "question": "Le mot 'Acceptation' désigne :",
-        "options": ["A) Sens d'un mot", "B) Fait d'accepter", "C) Définition", "D) Pléonasme"],
-        "answer": "B",
-        "explanation": "L'action de consentir."
-    },
-    {
-        "question": "Un repas organisé à son ___.",
-        "options": ["A) attention", "B) intention", "C) inattention", "D) inttention"],
-        "answer": "B",
-        "explanation": "Pour lui faire honneur."
-    },
-    {
-        "question": "Une lettre à l'___ du chef.",
-        "options": ["A) intention", "B) attention", "C) inttention", "D) attension"],
-        "answer": "B",
-        "explanation": "Pour qu'il la lise."
-    },
-    {
-        "question": "Que signifie 'Apanage' ?",
-        "options": ["A) Privilège", "B) Désavantage", "C) Nourriture", "D) Décoration"],
-        "answer": "A",
-        "explanation": "Un bien ou avantage exclusif."
-    },
-    {
-        "question": "Antonyme de 'Gargantuesque' :",
-        "options": ["A) Frugal", "B) Homérique", "C) Énorme", "D) Dantesque"],
-        "answer": "A",
-        "explanation": "Repas simple et peu abondant."
-    },
-    {
-        "question": "Synonyme de 'Pugnace' :",
-        "options": ["A) Pacifique", "B) Combatif", "C) Lâche", "D) Peureux"],
-        "answer": "B",
-        "explanation": "Qui aime le combat."
-    },
-    {
-        "question": "Un comportement 'Velléitaire' :",
-        "options": ["A) Déterminé", "B) Hésitant", "C) Fort", "D) Rapide"],
-        "answer": "B",
-        "explanation": "Qui n'a pas la volonté de passer à l'acte."
-    },
-    {
-        "question": "Que signifie 'Inanition' ?",
-        "options": ["A) Absence de mouvement", "B) Manque de nourriture", "C) Folie", "D) Silence"],
-        "answer": "B",
-        "explanation": "Épuisement dû au manque de nourriture."
-    },
-    {
-        "question": "Figure: 'Une obscure clarté'",
-        "options": ["A) Oxymore", "B) Euphémisme", "C) Litote", "D) Pléonasme"],
-        "answer": "A",
-        "explanation": "Deux termes de sens contraire liés."
-    },
-    {
-        "question": "Figure: 'Il nous a quittés' (pour mort)",
-        "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Oxymore"],
-        "answer": "A",
-        "explanation": "Atténuation d'une réalité brutale."
-    },
-    {
-        "question": "Figure: 'Je ne te hais point'",
-        "options": ["A) Litote", "B) Euphémisme", "C) Allitération", "D) Comparaison"],
-        "answer": "A",
-        "explanation": "Dire moins pour suggérer plus."
-    },
-    {
-        "question": "Qu'est-ce qu'un 'Acrostiche' ?",
-        "options": ["A) Poème où les initiales forment un mot", "B) Vers de 12 syllabes", "C) Répétition de son", "D) Roman court"],
-        "answer": "A",
-        "explanation": "Initiales des vers lues verticalement."
-    },
-    {
-        "question": "Adjectif 'Obséquieux' :",
-        "options": ["A) Servile", "B) Funèbre", "C) Triste", "D) Rapide"],
-        "answer": "A",
-        "explanation": "Exagère la politesse par hypocrisie."
-    },
-    {
-        "question": "Une 'Invective' :",
-        "options": ["A) Insulte", "B) Compliment", "C) Outil", "D) Solution"],
-        "answer": "A",
-        "explanation": "Discours violent et injurieux."
-    },
-    {
-        "question": "'Volubile' signifie :",
-        "options": ["A) Parle beaucoup", "B) Vole", "C) Rond", "D) Changeant"],
-        "answer": "A",
-        "explanation": "Parle avec abondance et rapidité."
-    },
-    {
-        "question": "Éphémère/Durable : Fictif/___",
-        "options": ["A) Réel", "B) Virtuel", "C) Imaginaire", "D) Faux"],
-        "answer": "A",
-        "explanation": "Relation d'antonymie."
-    },
-    {
-        "question": "Que signifie 'Fiduciaire' ?",
-        "options": ["A) Basé sur la confiance", "B) Légal", "C) Solide", "D) Faux"],
-        "answer": "A",
-        "explanation": "Du latin fiducia, relatif à la confiance (monnaie)."
-    },
-    {
-        "question": "Adjectif 'Bucolique' :",
-        "options": ["A) Campagnard", "B) Marin", "C) Urbain", "D) Céleste"],
-        "answer": "A",
-        "explanation": "Relatif à la campagne, pastoral."
-    },
-    {
-        "question": "Propos 'Dithyrambique' :",
-        "options": ["A) Élogieux", "B) Critique", "C) Triste", "D) Court"],
-        "answer": "A",
-        "explanation": "Éloge très enthousiaste."
-    },
-    {
-        "question": "Antonyme de 'Taciturne' :",
-        "options": ["A) Loquace", "B) Silencieux", "C) Muet", "D) Sombre"],
-        "answer": "A",
-        "explanation": "Taciturne = qui parle peu. Loquace = bavard."
-    },
-    {
-        "question": "'Tomber en désuétude' :",
-        "options": ["A) N'être plus utilisé", "B) Se casser", "C) Être populaire", "D) Disparaître subitement"],
-        "answer": "A",
-        "explanation": "Ne plus être en usage."
-    },
-    {
-        "question": "Qu'est-ce qu'un 'Solécisme' ?",
-        "options": ["A) Faute de syntaxe", "B) Mot inventé", "C) Figure de style", "D) Ponctuation"],
-        "answer": "A",
-        "explanation": "Erreur de construction."
-    },
-    {
-        "question": "Qu'est-ce qu'un 'Barbarisme' ?",
-        "options": ["A) Mot déformé", "B) Faute de syntaxe", "C) Acte violent", "D) Figure de style"],
-        "answer": "A",
-        "explanation": "Faute de vocabulaire (mot inexistant ou déformé)."
     },
     {
         "question": "Intrus parmi synonymes de 'Pusillanime' :",
@@ -4144,272 +3400,272 @@ THEME_2 = [
     },
     {
         "question": "Quel est l'antonyme de 'austère' ?",
-        "options": ["Luxueux", "Sévère", "Péremptoire", "Déluré"],
-        "answer": "Luxueux",
+        "options": ["A) Luxueux", "B) Sévère", "C) Péremptoire", "D) Déluré"],
+        "answer": "A",
         "explanation": "Austère signifie dépourvu d'ornement, rigide. Son antonyme le plus commun dans ce contexte est luxueux ou fastueux."
     },
     {
         "question": "Dans la phrase 'Cette obscure clarté qui tombe des étoiles' (Corneille), quelle est la figure de style ?",
-        "options": ["Oxymore", "Métaphore", "Antithèse", "Hyperbole"],
-        "answer": "Oxymore",
+        "options": ["A) Oxymore", "B) Métaphore", "C) Antithèse", "D) Hyperbole"],
+        "answer": "A",
         "explanation": "L'alliance de deux termes de sens opposés (obscure / clarté) dans un même syntagme est un oxymore."
     },
     {
         "question": "Que signifie l'expression 'péremptoire' ?",
-        "options": ["Silencieux", "Catégorique", "Généreux", "Trompeur"],
-        "answer": "Catégorique",
+        "options": ["A) Silencieux", "B) Catégorique", "C) Généreux", "D) Trompeur"],
+        "answer": "B",
         "explanation": "Péremptoire : qui détruit d'avance toute objection, qui est catégorique."
     },
     {
         "question": "Trouvez le synonyme de 'fallacieux' :",
-        "options": ["Véridique", "Succinct", "Trompeur", "Taciturne"],
-        "answer": "Trompeur",
+        "options": ["A) Véridique", "B) Succinct", "C) Trompeur", "D) Taciturne"],
+        "answer": "C",
         "explanation": "Fallacieux vient du latin 'fallax' (trompeur) ; un argument fallacieux cherche à tromper, à induire en erreur."
     },
     {
         "question": "Que dénonce la locution latine 'casus belli' ?",
-        "options": ["Un motif de guerre", "Un jugement final", "Une paix durable", "La vérité dans le vin"],
-        "answer": "Un motif de guerre",
+        "options": ["A) Un motif de guerre", "B) Un jugement final", "C) Une paix durable", "D) La vérité dans le vin"],
+        "answer": "A",
         "explanation": "Casus belli se traduit par 'cas de guerre', l'acte de nature à déclencher un conflit."
     },
     {
         "question": "Que signifie la locution 'pacta sunt servanda' ?",
-        "options": ["La chose est jugée.", "Les conventions doivent être respectées.", "La vérité est dans le vin.", "Avant toute expérience."],
-        "answer": "Les conventions doivent être respectées.",
+        "options": ["A) La chose est jugée.", "B) Les conventions doivent être respectées.", "C) La vérité est dans le vin.", "D) Avant toute expérience."],
+        "answer": "B",
         "explanation": "C'est un principe fondamental du droit international : les pactes (traités) doivent être respectés."
     },
     {
         "question": "Lequel de ces couples de mots correspond à des paronymes ?",
-        "options": ["Mer / Mère", "Collision / Collusion", "Grand / Petit", "Rapide / Véloce"],
-        "answer": "Collision / Collusion",
+        "options": ["A) Mer / Mère", "B) Collision / Collusion", "C) Grand / Petit", "D) Rapide / Véloce"],
+        "answer": "B",
         "explanation": "Les paronymes sont des mots qui se ressemblent fortement par leur forme ou leur prononciation mais qui n'ont pas le même sens."
     },
     {
         "question": "Quelle est la figure de style dans : 'La nature est un temple où de vivants piliers...' ?",
-        "options": ["Métonymie", "Comparaison", "Métaphore", "Oxymore"],
-        "answer": "Métaphore",
+        "options": ["A) Métonymie", "B) Comparaison", "C) Métaphore", "D) Oxymore"],
+        "answer": "C",
         "explanation": "L'assimilation directe de la nature à un temple sans outil de comparaison ('comme') est une métaphore."
     },
     {
         "question": "Complétez l'analogie. Chien est à aboyer ce que Cheval est à :",
-        "options": ["Hennir", "Bêler", "Mugir", "Rugir"],
-        "answer": "Hennir",
+        "options": ["A) Hennir", "B) Bêler", "C) Mugir", "D) Rugir"],
+        "answer": "A",
         "explanation": "Le cri du chien est l'aboiement, celui du cheval est le hennissement."
     },
     {
         "question": "La confusion entre deux paronymes s'appelle :",
-        "options": ["Un barbarisme", "Une prétérition", "Une amphibologie", "Un solécisme"],
-        "answer": "Un barbarisme",
+        "options": ["A) Un barbarisme", "B) Une prétérition", "C) Une amphibologie", "D) Un solécisme"],
+        "answer": "A",
         "explanation": "Le fait de forger un mot inexistant, de déformer un mot ou de confondre deux paronymes peut être qualifié de barbarisme lexical."
     },
     {
         "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
-        "options": ["Bernard Dadié", "Ahmadou Kourouma", "Mongo Beti", "Ferdinand Oyono"],
-        "answer": "Ahmadou Kourouma",
+        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Mongo Beti", "D) Ferdinand Oyono"],
+        "answer": "B",
         "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma."
     },
     {
         "question": "Dans l'expression 'Je ne vous dirai pas que son intelligence est remarquable', il y a :",
-        "options": ["Une litote", "Une prétérition", "Un euphémisme", "Une métaphore"],
-        "answer": "Une prétérition",
+        "options": ["A) Une litote", "B) Une prétérition", "C) Un euphémisme", "D) Une métaphore"],
+        "answer": "B",
         "explanation": "La prétérition consiste à affirmer que l'on ne va pas dire quelque chose tout en le disant."
     },
     {
         "question": "Que signifie l'adjectif 'taciturne' ?",
-        "options": ["Bruyant", "Silencieux", "Arrogant", "Frivole"],
-        "answer": "Silencieux",
+        "options": ["A) Bruyant", "B) Silencieux", "C) Arrogant", "D) Frivole"],
+        "answer": "B",
         "explanation": "Taciturne se dit d'une personne qui par nature parle peu, qui est silencieuse, souvent d'humeur sombre."
     },
     {
         "question": "Différence de sens entre 'conjoncture' et 'conjecture' :",
-        "options": ["Situation économique / Hypothèse", "Hypothèse / Situation", "Affirmation / Négation", "Vrai / Faux"],
-        "answer": "Situation économique / Hypothèse",
+        "options": ["A) Situation économique / Hypothèse", "B) Hypothèse / Situation", "C) Affirmation / Négation", "D) Vrai / Faux"],
+        "answer": "A",
         "explanation": "Conjoncture : situation, ensemble d'éléments (économiques, politiques). Conjecture : hypothèse, supposition."
     },
     {
         "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
-        "options": ["Camara Laye", "Ferdinand Oyono", "Sembène Ousmane", "Seydou Badian"],
-        "answer": "Ferdinand Oyono",
+        "options": ["A) Camara Laye", "B) Ferdinand Oyono", "C) Sembène Ousmane", "D) Seydou Badian"],
+        "answer": "B",
         "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono."
     },
     {
         "question": "Quelle figure de style est présente dans 'Je meurs de soif' ?",
-        "options": ["La litote", "La prétérition", "L'hyperbole", "La métaphore"],
-        "answer": "L'hyperbole",
+        "options": ["A) La litote", "B) La prétérition", "C) L'hyperbole", "D) La métaphore"],
+        "answer": "C",
         "explanation": "L'hyperbole est une figure d'exagération (on ne meurt pas réellement à l'instant même de soif)."
     },
     {
         "question": "Qui a écrit 'Le Docker noir' ?",
-        "options": ["Sembène Ousmane", "Bernard Dadié", "Mongo Beti", "Ahmadou Kourouma"],
-        "answer": "Sembène Ousmane",
+        "options": ["A) Sembène Ousmane", "B) Bernard Dadié", "C) Mongo Beti", "D) Ahmadou Kourouma"],
+        "answer": "A",
         "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane."
     },
     {
         "question": "Que signifie la locution 'in vino veritas' ?",
-        "options": ["Le vin est un poison.", "La vérité est dans le vin.", "Le vin de la victoire.", "Acheter du vin."],
-        "answer": "La vérité est dans le vin.",
+        "options": ["A) Le vin est un poison.", "B) La vérité est dans le vin.", "C) Le vin de la victoire.", "D) Acheter du vin."],
+        "answer": "B",
         "explanation": "Proverbe latin signifiant qu'une personne ivre a tendance à dire la vérité ou ce qu'elle pense réellement."
     },
     {
         "question": "Si 'arbitraire' correspond à 'discrétionnaire', alors 'succinct' correspond à :",
-        "options": ["Détaillé", "Bref", "Allongé", "Verbeux"],
-        "answer": "Bref",
+        "options": ["A) Détaillé", "B) Bref", "C) Allongé", "D) Verbeux"],
+        "answer": "B",
         "explanation": "Succinct signifie qui est énoncé en peu de mots, bref, concis."
     },
     {
         "question": "Le janotisme ou l'amphibologie désigne :",
-        "options": ["Une construction syntaxique obscure à double sens.", "Un néologisme régional.", "Une figure d'exagération.", "Une faute d'orthographe."],
-        "answer": "Une construction syntaxique obscure à double sens.",
+        "options": ["A) Une construction syntaxique obscure à double sens.", "B) Un néologisme régional.", "C) Une figure d'exagération.", "D) Une faute d'orthographe."],
+        "answer": "A",
         "explanation": "L'amphibologie est un double sens dû à la syntaxe ('J'ai vu un homme avec des jumelles')."
     },
     {
         "question": "Qui est l'auteur de 'Climbié' ?",
-        "options": ["Bernard Dadié", "Camara Laye", "Mongo Beti", "Seydou Badian"],
-        "answer": "Bernard Dadié",
+        "options": ["A) Bernard Dadié", "B) Camara Laye", "C) Mongo Beti", "D) Seydou Badian"],
+        "answer": "A",
         "explanation": "Climbié est un roman largement autobiographique de l'écrivain ivoirien Bernard Dadié, paru en 1956."
     },
     {
         "question": "Le mot 'Kayak' est un exemple de :",
-        "options": ["Métaphore", "Paronyme", "Palindrome", "Pléonasme"],
-        "answer": "Palindrome",
+        "options": ["A) Métaphore", "B) Paronyme", "C) Palindrome", "D) Pléonasme"],
+        "answer": "C",
         "explanation": "Comme 'radar', 'kayak' se lit de la même façon dans les deux sens."
     },
     {
         "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
-        "options": ["Ahmadou Kourouma", "Camara Laye", "Sembène Ousmane", "Cheikh Hamidou Kane"],
-        "answer": "Camara Laye",
+        "options": ["A) Ahmadou Kourouma", "B) Camara Laye", "C) Sembène Ousmane", "D) Cheikh Hamidou Kane"],
+        "answer": "B",
         "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée."
     },
     {
         "question": "Que veut dire l'expression 'res judicata' ?",
-        "options": ["La chose publique", "L'autorité de la chose jugée", "L'affaire en cours", "Le droit de juger"],
-        "answer": "L'autorité de la chose jugée",
+        "options": ["A) La chose publique", "B) L'autorité de la chose jugée", "C) L'affaire en cours", "D) Le droit de juger"],
+        "answer": "B",
         "explanation": "Res judicata pro veritate habetur (la chose jugée est tenue pour vérité), ce qui signifie qu'un jugement définitif ne peut être remis en cause."
     },
     {
         "question": "Complétez l'analogie : Le pauvre Mongo Beti est l'auteur de 'Le Pauvre Christ de Bomba', Seydou Badian est l'auteur de :",
-        "options": ["Une vie de boy", "Sous l'orage", "Docker noir", "Climbié"],
-        "answer": "Sous l'orage",
+        "options": ["A) Une vie de boy", "B) Sous l'orage", "C) Docker noir", "D) Climbié"],
+        "answer": "B",
         "explanation": "Seydou Badian Kouyaté, écrivain et homme politique malien, est l'auteur de 'Sous l'orage'."
     },
     {
         "question": "Quel est le synonyme de l'adjectif 'véloce' ?",
-        "options": ["Lent", "Rapide", "Agréable", "Cruel"],
-        "answer": "Rapide",
+        "options": ["A) Lent", "B) Rapide", "C) Agréable", "D) Cruel"],
+        "answer": "B",
         "explanation": "Véloce (qui a de la vélocité) signifie rapide."
     },
     {
         "question": "Dans 'Elle est belle à mourir', quelle figure de style utilise-t-on ?",
-        "options": ["La litote", "L'hyperbole", "La métaphore", "La métonymie"],
-        "answer": "L'hyperbole",
+        "options": ["A) La litote", "B) L'hyperbole", "C) La métaphore", "D) La métonymie"],
+        "answer": "B",
         "explanation": "L'exagération 'à mourir' souligne l'intensité de la beauté, c'est une hyperbole."
     },
     {
         "question": "Si 'discrétionnaire' = 'arbitraire', alors 'taciturne' =",
-        "options": ["Loquace", "Silencieux", "Affable", "Joyeux"],
-        "answer": "Silencieux",
+        "options": ["A) Loquace", "B) Silencieux", "C) Affable", "D) Joyeux"],
+        "answer": "B",
         "explanation": "Un synonyme direct."
     },
     {
         "question": "Le mot 'mémoire' (le document écrit) est de quel genre ?",
-        "options": ["Féminin", "Masculin", "Neutre", "Variable"],
-        "answer": "Masculin",
+        "options": ["A) Féminin", "B) Masculin", "C) Neutre", "D) Variable"],
+        "answer": "B",
         "explanation": "Un mémoire (document, écrit académique) est masculin. La mémoire (la faculté) est féminine."
     },
     {
         "question": "Que qualifie-t-on d' 'éphémère' ?",
-        "options": ["Ce qui dure toujours", "Ce qui ne dure qu'un jour", "Ce qui est transparent", "Ce qui est lumineux"],
-        "answer": "Ce qui ne dure qu'un jour",
+        "options": ["A) Ce qui dure toujours", "B) Ce qui ne dure qu'un jour", "C) Ce qui est transparent", "D) Ce qui est lumineux"],
+        "answer": "B",
         "explanation": "Éphémère (du grec ephemeros, d'un jour) qualifie ce qui a une durée très courte."
     },
     {
         "question": "Que veut dire le mot 'allégorie' ?",
-        "options": ["Une fausse vérité", "La représentation d'une idée abstraite sous une forme concrète", "Une exagération manifeste", "L'omission d'une conjonction"],
-        "answer": "La représentation d'une idée abstraite sous une forme concrète",
+        "options": ["A) Une fausse vérité", "B) La représentation d'une idée abstraite sous une forme concrète", "C) Une exagération manifeste", "D) L'omission d'une conjonction"],
+        "answer": "B",
         "explanation": "Comme la faucheuse pour la mort, ou la balance pour la justice."
     },
     {
         "question": "Quel paronyme faut-il utiliser dans : 'Il a fait une ... pour expliquer la crise' ?",
-        "options": ["conjoncture", "conjecture", "collision", "collusion"],
-        "answer": "conjecture",
+        "options": ["A) conjoncture", "B) conjecture", "C) collision", "D) collusion"],
+        "answer": "B",
         "explanation": "Conjecture = hypothèse, explication non vérifiée."
     },
     {
         "question": "Quel auteur africain a écrit 'Les Soleils des indépendances' ?",
-        "options": ["Léopold Sédar Senghor", "Ahmadou Kourouma", "Wole Soyinka", "Tchicaya U Tam'si"],
-        "answer": "Ahmadou Kourouma",
+        "options": ["A) Léopold Sédar Senghor", "B) Ahmadou Kourouma", "C) Wole Soyinka", "D) Tchicaya U Tam'si"],
+        "answer": "B",
         "explanation": "Kourouma est l'auteur des Soleils des indépendances."
     },
     {
         "question": "Le mot 'voile' a un double genre. Quel est son sens au masculin ?",
-        "options": ["Pièce de tissu pour faire avancer un bateau", "Pièce de tissu destinée à cacher, à recouvrir", "Le sport nautique", "Le dôme du palais"],
-        "answer": "Pièce de tissu destinée à cacher, à recouvrir",
+        "options": ["A) Pièce de tissu pour faire avancer un bateau", "B) Pièce de tissu destinée à cacher, à recouvrir", "C) Le sport nautique", "D) Le dôme du palais"],
+        "answer": "B",
         "explanation": "Un voile (pour cacher le visage ou mariée). La voile (bateau)."
     },
     {
         "question": "Que signifie l'adjectif 'dithyrambique' ?",
-        "options": ["Très critique", "Élogieux, enthousiaste à l'excès", "Silencieux", "Avare"],
-        "answer": "Élogieux, enthousiaste à l'excès",
+        "options": ["A) Très critique", "B) Élogieux, enthousiaste à l'excès", "C) Silencieux", "D) Avare"],
+        "answer": "B",
         "explanation": "Faire des éloges emphatiques."
     },
     {
         "question": "Complétez la locution latine : 'Errare humanum est, perseverare ...'",
-        "options": ["divinum", "diabolicum", "veritas", "absurdum"],
-        "answer": "diabolicum",
+        "options": ["A) divinum", "B) diabolicum", "C) veritas", "D) absurdum"],
+        "answer": "B",
         "explanation": "L'erreur est humaine, s'entêter [dans son erreur] est diabolique."
     },
     {
         "question": "Le néologisme consiste à :",
-        "options": ["Emprunter un mot à une autre langue", "Créer un nouveau mot ou donner un sens nouveau à un mot existant", "Répéter un mot en fin de phrase", "Inverser l'ordre des mots"],
-        "answer": "Créer un nouveau mot ou donner un sens nouveau à un mot existant",
+        "options": ["A) Emprunter un mot à une autre langue", "B) Créer un nouveau mot ou donner un sens nouveau à un mot existant", "C) Répéter un mot en fin de phrase", "D) Inverser l'ordre des mots"],
+        "answer": "B",
         "explanation": "Néologisme : mot nouveau."
     },
     {
         "question": "Si 'prolixe' = 'bavard', 'laconique' =",
-        "options": ["Triste", "Concis, bref", "Volubile", "Bavard"],
-        "answer": "Concis, bref",
+        "options": ["A) Triste", "B) Concis, bref", "C) Volubile", "D) Bavard"],
+        "answer": "B",
         "explanation": "Laconique : qui s'exprime en peu de mots."
     },
     {
         "question": "L'expression 'c'est mon talon d'Achille' est :",
-        "options": ["Une périphrase", "Une métaphore lexicalisée (ou allusion mythologique)", "Un pléonasme", "Un palindrome"],
-        "answer": "Une métaphore lexicalisée (ou allusion mythologique)",
+        "options": ["A) Une périphrase", "B) Une métaphore lexicalisée (ou allusion mythologique)", "C) Un pléonasme", "D) Un palindrome"],
+        "answer": "B",
         "explanation": "Désigne le point faible de quelqu'un."
     },
     {
         "question": "Que désigne le terme 'synecdoque' ?",
-        "options": ["Prendre le tout pour la partie ou la partie pour le tout", "Exagérer une vérité", "Remplacer un mot par un autre de même sonorité", "Parler de soi à la troisième personne"],
-        "answer": "Prendre le tout pour la partie ou la partie pour le tout",
+        "options": ["A) Prendre le tout pour la partie ou la partie pour le tout", "B) Exagérer une vérité", "C) Remplacer un mot par un autre de même sonorité", "D) Parler de soi à la troisième personne"],
+        "answer": "A",
         "explanation": "C'est un type particulier de métonymie."
     },
     {
         "question": "Parmi ces auteurs, lequel n'est pas ivoirien ?",
-        "options": ["Bernard Dadié", "Ahmadou Kourouma", "Ferdinand Oyono", "Isaie Biton Koulibaly"],
-        "answer": "Ferdinand Oyono",
+        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Ferdinand Oyono", "D) Isaie Biton Koulibaly"],
+        "answer": "C",
         "explanation": "Ferdinand Oyono est d'origine camerounaise."
     },
     {
         "question": "Quel mot n'a pas le double genre ?",
-        "options": ["Manche", "Mémoire", "Livre", "Tentacule"],
-        "answer": "Tentacule",
+        "options": ["A) Manche", "B) Mémoire", "C) Livre", "D) Tentacule"],
+        "answer": "D",
         "explanation": "Tentacule est exclusivement masculin."
     },
     {
         "question": "Un discours 'ampoulé' est un discours :",
-        "options": ["Très clair et concis", "Éclairant et instructif", "Prétentieux, chargé, emphatique", "Dénué de sens"],
-        "answer": "Prétentieux, chargé, emphatique",
+        "options": ["A) Très clair et concis", "B) Éclairant et instructif", "C) Prétentieux, chargé, emphatique", "D) Dénué de sens"],
+        "answer": "C",
         "explanation": "Style emphatique, boursouflé."
     },
     {
         "question": "L'antonyme de 'altruiste' est :",
-        "options": ["Généreux", "Égoïste", "Taciturne", "Habile"],
-        "answer": "Égoïste",
+        "options": ["A) Généreux", "B) Égoïste", "C) Taciturne", "D) Habile"],
+        "answer": "B",
         "explanation": "L'altruisme est le dévouement aux autres, l'égoïsme est le contraire."
     },
     {
         "question": "Quel est le sens figuré de 'jeter l'éponge' ?",
-        "options": ["Nettoyer", "Se fâcher", "Abandonner", "Vaincre"],
-        "answer": "Abandonner",
+        "options": ["A) Nettoyer", "B) Se fâcher", "C) Abandonner", "D) Vaincre"],
+        "answer": "C",
         "explanation": "Issu de la boxe, jeter l'éponge signifie abandonner le combat."
     },
 ]
@@ -5310,12 +4566,6 @@ THEME_3 = [
         "explanation": "Le Brésil possède la plus grande forêt tropicale du monde : l'Amazonie."
     },
     {
-        "question": "Quelle est la capitale du Cameroun ?",
-        "options": ["A) Douala", "B) Yaoundé", "C) Bafoussam", "D) Garoua"],
-        "answer": "B",
-        "explanation": "Yaoundé est la capitale politique du Cameroun ; Douala est la capitale économique."
-    },
-    {
         "question": "Quelle montagne est la plus haute d'Afrique ?",
         "options": ["A) Mont Kenya", "B) Kilimandjaro", "C) Ras Dashen", "D) Mont Cameroun"],
         "answer": "B",
@@ -5350,12 +4600,6 @@ THEME_3 = [
         "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Monrovia"],
         "answer": "A",
         "explanation": "Conakry est la capitale de la République de Guinée."
-    },
-    {
-        "question": "Quelle est la capitale du Mali ?",
-        "options": ["A) Tombouctou", "B) Bamako", "C) Sikasso", "D) Gao"],
-        "answer": "B",
-        "explanation": "Bamako est la capitale du Mali."
     },
     {
         "question": "Quel prix a reçu Nelson Mandela en 1993 ?",
@@ -5400,12 +4644,6 @@ THEME_3 = [
         "explanation": "La Conférence de Berlin (1884-1885) a organisé le partage colonial de l'Afrique entre puissances européennes."
     },
     {
-        "question": "Quelle est la capitale du Bénin ?",
-        "options": ["A) Cotonou", "B) Porto-Novo", "C) Parakou", "D) Abomey"],
-        "answer": "B",
-        "explanation": "Porto-Novo est la capitale constitutionnelle du Bénin ; Cotonou est la capitale économique."
-    },
-    {
         "question": "Quel est le plus grand désert froid du monde ?",
         "options": ["A) Sahara", "B) Gobi", "C) Antarctique", "D) Atacama"],
         "answer": "C",
@@ -5424,22 +4662,10 @@ THEME_3 = [
         "explanation": "Le Port Autonome d'Abidjan (PAA) est le premier port d'Afrique de l'Ouest."
     },
     {
-        "question": "Quelle est la capitale du Niger ?",
-        "options": ["A) Agadez", "B) Zinder", "C) Niamey", "D) Tahoua"],
-        "answer": "C",
-        "explanation": "Niamey est la capitale du Niger."
-    },
-    {
         "question": "Quel est l'arbre emblématique des savanes africaines ?",
         "options": ["A) Baobab", "B) Iroko", "C) Palmier", "D) Acacia"],
         "answer": "A",
         "explanation": "Le baobab est l'arbre emblématique des savanes et régions semi-arides d'Afrique."
-    },
-    {
-        "question": "Quelle est la capitale du Tchad ?",
-        "options": ["A) Moundou", "B) Sarh", "C) N'Djaména", "D) Abeché"],
-        "answer": "C",
-        "explanation": "N'Djaména est la capitale du Tchad."
     },
     {
         "question": "Où se situe la basilique Notre-Dame de la Paix de Yamoussoukro ?",
@@ -5478,12 +4704,6 @@ THEME_3 = [
         "explanation": "L'éléphant est l'animal emblème de la Côte d'Ivoire, d'où le nom « Les Éléphants » pour l'équipe nationale de football."
     },
     {
-        "question": "Quelle est la langue officielle du Brésil ?",
-        "options": ["A) Espagnol", "B) Portugais", "C) Français", "D) Anglais"],
-        "answer": "B",
-        "explanation": "Le portugais est la langue officielle du Brésil, issu de la colonisation portugaise."
-    },
-    {
         "question": "Quel scientifique a établi la théorie de la relativité générale ?",
         "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Niels Bohr", "D) Max Planck"],
         "answer": "B",
@@ -5494,12 +4714,6 @@ THEME_3 = [
         "options": ["A) Abidjanaise", "B) L'Abidjanaise", "C) Côte d'Ivoire", "D) La terre de l'espérance"],
         "answer": "B",
         "explanation": "L'hymne national de la Côte d'Ivoire est « L'Abidjanaise »."
-    },
-    {
-        "question": "Quelle est la capitale du Gabon ?",
-        "options": ["A) Port-Gentil", "B) Libreville", "C) Franceville", "D) Oyem"],
-        "answer": "B",
-        "explanation": "Libreville est la capitale du Gabon."
     },
     {
         "question": "En quelle année a eu lieu la découverte de l'Amérique par Christophe Colomb ?",
@@ -5599,241 +4813,241 @@ THEME_3 = [
     },
     {
         "question": "Question 11",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp 11"
     },
     {
         "question": "Question 12",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp 12"
     },
     {
         "question": "Question 13",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp 13"
     },
     {
         "question": "Question 14",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp 14"
     },
     {
         "question": "Question 15",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp 15"
     },
     {
         "question": "Question 16",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp 16"
     },
     {
         "question": "Question 17",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp 17"
     },
     {
         "question": "Question 18",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp 18"
     },
     {
         "question": "Question 19",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp 19"
     },
     {
         "question": "Question 20",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp 20"
     },
     {
         "question": "Question 21",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 22",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 23",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 24",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 25",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 26",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 27",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 28",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 29",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 30",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 31",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 32",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 33",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 34",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 35",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 36",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 37",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 38",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 39",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 40",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 41",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 42",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 43",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 44",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 45",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 46",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 47",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 48",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 49",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 50",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
@@ -7023,7 +6237,7 @@ THEME_3 = [
         "question": "Quelle est la distance exacte du marathon ?",
         "options": ["A) 41,195 km", "B) 42,195 km", "C) 42,000 km", "D) 43,195 km"],
         "answer": "B",
-        "explanation": "Le marathon mesure 42,195 km."
+        "explanation": "La distance officielle d'un marathon est de 42,195 km."
     },
     {
         "question": "Que récompense le maillot blanc à pois rouges sur le Tour de France ?",
@@ -7099,290 +6313,290 @@ THEME_3 = [
     },
     {
         "question": "Qui a été le premier Directeur Général de l'ENA de Côte d'Ivoire ?",
-        "options": ["Félix Houphouët-Boigny", "Robert Ropion", "Charles Konan Banny", "Alassane Ouattara"],
-        "answer": "Robert Ropion",
+        "options": ["A) Félix Houphouët-Boigny", "B) Robert Ropion", "C) Charles Konan Banny", "D) Alassane Ouattara"],
+        "answer": "B",
         "explanation": "Robert Ropion a été le premier DG de l'École Nationale d'Administration de Côte d'Ivoire à sa création en 1960."
     },
     {
         "question": "En quelle année Yamoussoukro est-elle devenue la capitale politique de la Côte d'Ivoire ?",
-        "options": ["1960", "1983", "1990", "1993"],
-        "answer": "1983",
+        "options": ["A) 1960", "B) 1983", "C) 1990", "D) 1993"],
+        "answer": "B",
         "explanation": "Le transfert de la capitale politique et administrative à Yamoussoukro a été acté par la loi de mars 1983."
     },
     {
         "question": "Qui est l'actuel Vice-Président de la République de Côte d'Ivoire (en 2026/2027) ?",
-        "options": ["Daniel Kablan Duncan", "Amadou Gon Coulibaly", "Tiemoko Meyliet Koné", "Patrick Achi"],
-        "answer": "Tiemoko Meyliet Koné",
+        "options": ["A) Daniel Kablan Duncan", "B) Amadou Gon Coulibaly", "C) Tiemoko Meyliet Koné", "D) Patrick Achi"],
+        "answer": "C",
         "explanation": "Tiemoko Meyliet Koné, ancien gouverneur de la BCEAO, occupe ce poste depuis avril 2022."
     },
     {
         "question": "Laquelle de ces institutions est à la tête de l'ordre juridictionnel administratif en Côte d'Ivoire, instaurant ainsi le dualisme juridictionnel ?",
-        "options": ["La Cour de Cassation", "Le Conseil Constitutionnel", "Le Conseil d'État", "La Cour des Comptes"],
-        "answer": "Le Conseil d'État",
+        "options": ["A) La Cour de Cassation", "B) Le Conseil Constitutionnel", "C) Le Conseil d'État", "D) La Cour des Comptes"],
+        "answer": "C",
         "explanation": "La réforme constitutionnelle a éclaté l'ancienne Cour Suprême. Le Conseil d'État gère le volet administratif, la Cour de Cassation le judiciaire."
     },
     {
         "question": "Qui a été nommée Présidente du Conseil Constitutionnel de Côte d'Ivoire en 2023 ?",
-        "options": ["Henriette Diabaté", "Kandia Camara", "Chantal Nanaba Camara", "Simone Gbagbo"],
-        "answer": "Chantal Nanaba Camara",
+        "options": ["A) Henriette Diabaté", "B) Kandia Camara", "C) Chantal Nanaba Camara", "D) Simone Gbagbo"],
+        "answer": "C",
         "explanation": "Chantal Nanaba Camara est la première femme à présider cette haute institution, nommée par Alassane Ouattara en 2023."
     },
     {
         "question": "Quel pays a remporté la Coupe d'Afrique des Nations (CAN) 2023 organisée en début 2024 ?",
-        "options": ["Nigeria", "Sénégal", "Côte d'Ivoire", "Maroc"],
-        "answer": "Côte d'Ivoire",
+        "options": ["A) Nigeria", "B) Sénégal", "C) Côte d'Ivoire", "D) Maroc"],
+        "answer": "C",
         "explanation": "La Côte d'Ivoire (le pays hôte) a remporté la compétition en battant le Nigeria 2-1 en finale."
     },
     {
         "question": "Lequel de ces joueurs ivoiriens a marqué l'un des buts lors de la finale de la CAN 2023 contre le Nigeria ?",
-        "options": ["Didier Drogba", "Sébastien Haller", "Yaya Touré", "Wilfried Zaha"],
-        "answer": "Sébastien Haller",
+        "options": ["A) Didier Drogba", "B) Sébastien Haller", "C) Yaya Touré", "D) Wilfried Zaha"],
+        "answer": "B",
         "explanation": "Sébastien Haller a marqué le but décisif de la victoire (2-1) en finale, après l'égalisation de Franck Kessié."
     },
     {
         "question": "Quelle ville a accueilli les Jeux Olympiques d'été en 2024 ?",
-        "options": ["Los Angeles", "Londres", "Paris", "Tokyo"],
-        "answer": "Paris",
+        "options": ["A) Los Angeles", "B) Londres", "C) Paris", "D) Tokyo"],
+        "answer": "C",
         "explanation": "Les JO de 2024 se sont déroulés à Paris, en France."
     },
     {
         "question": "Dans le sport du rugby (à XV), combien de points rapporte un essai marqué (avant transformation) ?",
-        "options": ["3 points", "5 points", "7 points", "2 points"],
-        "answer": "5 points",
+        "options": ["A) 3 points", "B) 5 points", "C) 7 points", "D) 2 points"],
+        "answer": "B",
         "explanation": "Un essai vaut 5 points, la transformation 2 points, le drop et la pénalité 3 points."
     },
     {
         "question": "Le judo est un art martial originaire de quel pays ?",
-        "options": ["Chine", "Corée du Sud", "Japon", "Thaïlande"],
-        "answer": "Japon",
+        "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
+        "answer": "C",
         "explanation": "Créé par Jigoro Kano en 1882 au Japon."
     },
     {
         "question": "Le tournoi de tennis de Roland-Garros se joue sur quelle surface ?",
-        "options": ["Gazon", "Terre battue", "Dur", "Moquette"],
-        "answer": "Terre battue",
+        "options": ["A) Gazon", "B) Terre battue", "C) Dur", "D) Moquette"],
+        "answer": "B",
         "explanation": "Roland-Garros est le tournoi du Grand Chelem disputé sur terre battue à Paris."
     },
     {
         "question": "À quelle date Napoléon Bonaparte a-t-il été couronné Empereur des Français ?",
-        "options": ["14 juillet 1789", "2 décembre 1804", "18 juin 1815", "9 novembre 1799"],
-        "answer": "2 décembre 1804",
+        "options": ["A) 14 juillet 1789", "B) 2 décembre 1804", "C) 18 juin 1815", "D) 9 novembre 1799"],
+        "answer": "B",
         "explanation": "Le sacre a eu lieu le 2 décembre 1804 à Notre-Dame de Paris."
     },
     {
         "question": "En quelle année se sont tenus les accords de Bretton Woods instituant le FMI et la Banque Mondiale ?",
-        "options": ["1919", "1944", "1945", "1957"],
-        "answer": "1944",
+        "options": ["A) 1919", "B) 1944", "C) 1945", "D) 1957"],
+        "answer": "B",
         "explanation": "La conférence de Bretton Woods s'est tenue en juillet 1944 aux États-Unis."
     },
     {
         "question": "Quelle est la distance exacte du marathon en athlétisme ?",
-        "options": ["40,000 km", "42,195 km", "45,000 km", "50,000 km"],
-        "answer": "42,195 km",
+        "options": ["A) 40,000 km", "B) 42,195 km", "C) 45,000 km", "D) 50,000 km"],
+        "answer": "B",
         "explanation": "Distance fixée définitivement depuis les JO de Londres en 1908."
     },
     {
         "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
-        "options": ["Le dioxygène", "Le dioxyde de carbone", "Le diazote", "L'argon"],
-        "answer": "Le diazote",
+        "options": ["A) Le dioxygène", "B) Le dioxyde de carbone", "C) Le diazote", "D) L'argon"],
+        "answer": "C",
         "explanation": "Le diazote compose environ 78% de l'air que nous respirons."
     },
     {
         "question": "Quel philosophe grec a fondé l'école appelée 'Le Lycée' ?",
-        "options": ["Socrate", "Platon", "Aristote", "Épicure"],
-        "answer": "Aristote",
+        "options": ["A) Socrate", "B) Platon", "C) Aristote", "D) Épicure"],
+        "answer": "C",
         "explanation": "Platon a fondé l'Académie, Aristote a fondé le Lycée (école péripatéticienne)."
     },
     {
         "question": "De quel courant artistique Pablo Picasso est-il l'un des fondateurs ?",
-        "options": ["L'impressionnisme", "Le surréalisme", "Le cubisme", "Le fauvisme"],
-        "answer": "Le cubisme",
+        "options": ["A) L'impressionnisme", "B) Le surréalisme", "C) Le cubisme", "D) Le fauvisme"],
+        "answer": "C",
         "explanation": "Avec Georges Braque, Picasso a été le pionnier du cubisme au début du XXe siècle (ex: Les Demoiselles d'Avignon)."
     },
     {
         "question": "Dans la mythologie grecque, qui fut condamné à pousser éternellement un lourd rocher au sommet d'une montagne ?",
-        "options": ["Prométhée", "Atlas", "Sisyphe", "Hercule"],
-        "answer": "Sisyphe",
+        "options": ["A) Prométhée", "B) Atlas", "C) Sisyphe", "D) Hercule"],
+        "answer": "C",
         "explanation": "Le châtiment de Sisyphe symbolise le travail absurde et sans fin."
     },
     {
         "question": "Quelle est la capitale de la région de l'Agnéby-Tiassa en Côte d'Ivoire ?",
-        "options": ["Divo", "Agboville", "Adzopé", "Sikensi"],
-        "answer": "Agboville",
+        "options": ["A) Divo", "B) Agboville", "C) Adzopé", "D) Sikensi"],
+        "answer": "B",
         "explanation": "La région de l'Agnéby-Tiassa (sud de la CI) a pour chef-lieu la ville d'Agboville."
     },
     {
         "question": "Le Parlement de la 3ème République ivoirienne est bicaméral. Il comprend l'Assemblée nationale et...",
-        "options": ["Le Conseil Économique et Social", "Le Sénat", "Le Conseil Constitutionnel", "La Cour Suprême"],
-        "answer": "Le Sénat",
+        "options": ["A) Le Conseil Économique et Social", "B) Le Sénat", "C) Le Conseil Constitutionnel", "D) La Cour Suprême"],
+        "answer": "B",
         "explanation": "La Constitution de 2016 a instauré un Sénat, rendant le parlement bicaméral."
     },
     {
         "question": "Qui a été le premier Président du Sénat de Côte d'Ivoire ?",
-        "options": ["Amadou Soumahoro", "Adama Bictogo", "Jeannot Ahoussou Kouadio", "Charles Koffi Diby"],
-        "answer": "Jeannot Ahoussou Kouadio",
+        "options": ["A) Amadou Soumahoro", "B) Adama Bictogo", "C) Jeannot Ahoussou Kouadio", "D) Charles Koffi Diby"],
+        "answer": "C",
         "explanation": "Jeannot Ahoussou Kouadio a été élu premier président du Sénat ivoirien en 2018."
     },
     {
         "question": "L'élection présidentielle d'octobre 2025 en Côte d'Ivoire a été remportée, selon la CEI, par :",
-        "options": ["Tidjane Thiam", "Jean-Louis Billon", "Alassane Ouattara", "Simone Gbagbo"],
-        "answer": "Alassane Ouattara",
+        "options": ["A) Tidjane Thiam", "B) Jean-Louis Billon", "C) Alassane Ouattara", "D) Simone Gbagbo"],
+        "answer": "C",
         "explanation": "Le président sortant, Alassane Ouattara (RHDP), a été réélu pour un quatrième mandat dès le premier tour avec environ 89,7% des suffrages."
     },
     {
         "question": "En 2025, trois pays ouest-africains ont officialisé leur retrait de la CEDEAO pour former la Confédération des États du Sahel (AES). Lesquels ?",
-        "options": ["Mali, Sénégal, Guinée", "Mali, Burkina Faso, Niger", "Burkina Faso, Togo, Bénin", "Niger, Tchad, Mauritanie"],
-        "answer": "Mali, Burkina Faso, Niger",
+        "options": ["A) Mali, Sénégal, Guinée", "B) Mali, Burkina Faso, Niger", "C) Burkina Faso, Togo, Bénin", "D) Niger, Tchad, Mauritanie"],
+        "answer": "B",
         "explanation": "Le Mali, le Burkina Faso et le Niger ont quitté la CEDEAO en janvier 2025 et institutionnalisé l'AES."
     },
     {
         "question": "Qui a remporté le Prix Nobel de Littérature en 2024 ?",
-        "options": ["Annie Ernaux", "Jon Fosse", "Han Kang", "Haruki Murakami"],
-        "answer": "Han Kang",
+        "options": ["A) Annie Ernaux", "B) Jon Fosse", "C) Han Kang", "D) Haruki Murakami"],
+        "answer": "C",
         "explanation": "L'autrice sud-coréenne Han Kang a remporté le prix Nobel de littérature en 2024."
     },
     {
         "question": "Combien d'États membres compte la CEDEAO depuis le retrait définitif des pays de l'AES en 2025 ?",
-        "options": ["15", "12", "10", "14"],
-        "answer": "12",
+        "options": ["A) 15", "B) 12", "C) 10", "D) 14"],
+        "answer": "B",
         "explanation": "Avec le retrait du Mali, du Burkina Faso et du Niger, la CEDEAO est passée de 15 à 12 membres actifs."
     },
     {
         "question": "Lors des JO de Paris 2024, quel sportif détient encore historiquement le record absolu du nombre de médailles olympiques toutes éditions confondues ?",
-        "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Léon Marchand"],
-        "answer": "Michael Phelps",
+        "options": ["A) Usain Bolt", "B) Michael Phelps", "C) Carl Lewis", "D) Léon Marchand"],
+        "answer": "B",
         "explanation": "Le nageur américain Michael Phelps détient le record absolu avec 28 médailles, dont 23 en or."
     },
     {
         "question": "Laquelle de ces institutions n'appartient pas au pouvoir judiciaire en Côte d'Ivoire ?",
-        "options": ["La Cour de Cassation", "La Haute Cour de Justice", "La Cour des Comptes", "Le Conseil des Ministres"],
-        "answer": "Le Conseil des Ministres",
+        "options": ["A) La Cour de Cassation", "B) La Haute Cour de Justice", "C) La Cour des Comptes", "D) Le Conseil des Ministres"],
+        "answer": "D",
         "explanation": "Le Conseil des ministres est l'organe du pouvoir exécutif. La Cour des Comptes appartient à l'ordre juridictionnel financier."
     },
     {
         "question": "L'athlète jamaïcain Usain Bolt est célèbre pour son record du monde sur 100m. Quel est son temps record ?",
-        "options": ["9,69 s", "9,72 s", "9,58 s", "9,52 s"],
-        "answer": "9,58 s",
+        "options": ["A) 9,69 s", "B) 9,72 s", "C) 9,58 s", "D) 9,52 s"],
+        "answer": "C",
         "explanation": "Il a établi le record de 9,58 s lors des championnats du monde d'athlétisme à Berlin en 2009."
     },
     {
         "question": "Où se situe le siège de l'Union Économique et Monétaire Ouest-Africaine (UEMOA) ?",
-        "options": ["Dakar", "Abidjan", "Lomé", "Ouagadougou"],
-        "answer": "Ouagadougou",
+        "options": ["A) Dakar", "B) Abidjan", "C) Lomé", "D) Ouagadougou"],
+        "answer": "D",
         "explanation": "Le siège de la Commission de l'UEMOA est à Ouagadougou (Burkina Faso)."
     },
     {
         "question": "Où se trouve le siège de la BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) ?",
-        "options": ["Abidjan", "Dakar", "Lomé", "Niamey"],
-        "answer": "Dakar",
+        "options": ["A) Abidjan", "B) Dakar", "C) Lomé", "D) Niamey"],
+        "answer": "B",
         "explanation": "Le siège de la BCEAO est situé à Dakar au Sénégal (bien que son gouverneur actuel, Jean-Claude Kassi Brou, soit de nationalité ivoirienne)."
     },
     {
         "question": "Lors de la CAN 2023, quelle équipe la Côte d'Ivoire a-t-elle éliminée en demi-finale ?",
-        "options": ["Sénégal", "Mali", "RD Congo", "Guinée équatoriale"],
-        "answer": "RD Congo",
+        "options": ["A) Sénégal", "B) Mali", "C) RD Congo", "D) Guinée équatoriale"],
+        "answer": "C",
         "explanation": "La Côte d'Ivoire a battu la RD Congo 1-0 en demi-finale, grâce à un but de Sébastien Haller."
     },
     {
         "question": "En Côte d'Ivoire, l'Autorité Nationale de la Presse (ANP) remplace :",
-        "options": ["Le CNP", "La HACA", "Le CICG", "Le Conseil d'État"],
-        "answer": "Le CNP",
+        "options": ["A) Le CNP", "B) La HACA", "C) Le CICG", "D) Le Conseil d'État"],
+        "answer": "A",
         "explanation": "L'ANP (Autorité Nationale de la Presse) a remplacé le Conseil National de la Presse (CNP) comme organe de régulation de la presse écrite."
     },
     {
         "question": "Le 7 août 1960 marque pour la Côte d'Ivoire :",
-        "options": ["La proclamation de la République", "L'indépendance", "L'adoption de l'hymne national", "Le transfert de la capitale"],
-        "answer": "L'indépendance",
+        "options": ["A) La proclamation de la République", "B) L'indépendance", "C) L'adoption de l'hymne national", "D) Le transfert de la capitale"],
+        "answer": "B",
         "explanation": "C'est la date officielle de l'accession de la Côte d'Ivoire à l'indépendance."
     },
     {
         "question": "Quel est le nom de l'hymne national de la Côte d'Ivoire ?",
-        "options": ["La Concorde", "L'Abidjanaise", "Le Ditanyè", "La Dessalinienne"],
-        "answer": "L'Abidjanaise",
+        "options": ["A) La Concorde", "B) L'Abidjanaise", "C) Le Ditanyè", "D) La Dessalinienne"],
+        "answer": "B",
         "explanation": "L'Abidjanaise a été adoptée comme hymne national en 1960."
     },
     {
         "question": "Laquelle de ces villes n'est pas un chef-lieu de district autonome en Côte d'Ivoire ?",
-        "options": ["Abidjan", "Yamoussoukro", "San-Pédro", "Bocanda"],
-        "answer": "Bocanda",
+        "options": ["A) Abidjan", "B) Yamoussoukro", "C) San-Pédro", "D) Bocanda"],
+        "answer": "D",
         "explanation": "Bocanda est un département situé dans la région du N'Zi, ce n'est pas un chef-lieu de district autonome (comme Abidjan, Yamoussoukro, etc.)."
     },
     {
         "question": "En août 2026, l'Alliance des États du Sahel (AES) a officiellement installé son Parlement confédéral dans quelle ville ?",
-        "options": ["Bamako", "Ouagadougou", "Niamey", "Agadez"],
-        "answer": "Niamey",
+        "options": ["A) Bamako", "B) Ouagadougou", "C) Niamey", "D) Agadez"],
+        "answer": "C",
         "explanation": "Le parlement confédéral de l'AES (45 députés) a été installé à Niamey au Niger fin août 2026."
     },
     {
         "question": "En histoire, quel traité a mis fin à la Première Guerre mondiale en 1919 ?",
-        "options": ["Le Traité de Vienne", "Le Traité de Versailles", "Le Traité de Rome", "Le Traité de Tordesillas"],
-        "answer": "Le Traité de Versailles",
+        "options": ["A) Le Traité de Vienne", "B) Le Traité de Versailles", "C) Le Traité de Rome", "D) Le Traité de Tordesillas"],
+        "answer": "B",
         "explanation": "Signé le 28 juin 1919 dans la galerie des Glaces du château de Versailles."
     },
     {
         "question": "Qui a succédé à Henri Konan Bédié à la tête du PDCI-RDA après son décès ?",
-        "options": ["Maurice Kakou Guikahué", "Tidjane Thiam", "Jean-Louis Billon", "Thierry Tanoh"],
-        "answer": "Tidjane Thiam",
+        "options": ["A) Maurice Kakou Guikahué", "B) Tidjane Thiam", "C) Jean-Louis Billon", "D) Thierry Tanoh"],
+        "answer": "B",
         "explanation": "Tidjane Thiam a été élu président du PDCI-RDA en décembre 2023."
     },
     {
         "question": "Quel était le taux de participation officiel selon la CEI lors de l'élection présidentielle ivoirienne d'octobre 2025 ?",
-        "options": ["Environ 35%", "Environ 50%", "Environ 75%", "Environ 90%"],
-        "answer": "Environ 50%",
+        "options": ["A) Environ 35%", "B) Environ 50%", "C) Environ 75%", "D) Environ 90%"],
+        "answer": "B",
         "explanation": "La CEI a enregistré un taux de participation d'environ 50,10 % lors de ce scrutin."
     },
     {
         "question": "Dans le cadre de l'exécution du PND (Plan National de Développement), quelle est la période couverte par le dernier plan en cours avant 2026 ?",
-        "options": ["2012-2015", "2016-2020", "2021-2025", "2025-2030"],
-        "answer": "2021-2025",
+        "options": ["A) 2012-2015", "B) 2016-2020", "C) 2021-2025", "D) 2025-2030"],
+        "answer": "C",
         "explanation": "Le gouvernement ivoirien a exécuté le PND sur la période 2021-2025 visant la transformation structurelle de l'économie."
     },
     {
         "question": "Lors de la phase de groupes de la CAN 2023, la Côte d'Ivoire a subi une lourde défaite (0-4) face à quelle équipe ?",
-        "options": ["Le Nigeria", "La Guinée-Bissau", "La Guinée équatoriale", "Le Sénégal"],
-        "answer": "La Guinée équatoriale",
+        "options": ["A) Le Nigeria", "B) La Guinée-Bissau", "C) La Guinée équatoriale", "D) Le Sénégal"],
+        "answer": "C",
         "explanation": "Le 'Nzalang Nacional' de la Guinée équatoriale a battu les Éléphants 4 à 0 lors de leur 3e match de poule."
     },
     {
         "question": "Quel fleuve ivoirien donne son nom à une région dont le chef-lieu est Sassandra ?",
-        "options": ["Le Bandama", "Le Cavally", "Le Sassandra", "La Comoé"],
-        "answer": "Le Sassandra",
+        "options": ["A) Le Bandama", "B) Le Cavally", "C) Le Sassandra", "D) La Comoé"],
+        "answer": "C",
         "explanation": "Le fleuve Sassandra traverse l'ouest du pays et se jette dans le golfe de Guinée au niveau de la ville de Sassandra (région du Gbôklè)."
     },
     {
         "question": "Quelle est la devise de la République de Côte d'Ivoire ?",
-        "options": ["Union - Travail - Justice", "Union - Discipline - Travail", "Paix - Travail - Patrie", "Fraternité - Travail - Progrès"],
-        "answer": "Union - Discipline - Travail",
+        "options": ["A) Union - Travail - Justice", "B) Union - Discipline - Travail", "C) Paix - Travail - Patrie", "D) Fraternité - Travail - Progrès"],
+        "answer": "B",
         "explanation": "C'est la devise officielle figurant sur les armoiries de la CI."
     },
     {
         "question": "La Basilique Notre-Dame de la Paix, l'édifice religieux chrétien le plus grand du monde, se trouve à :",
-        "options": ["Abidjan", "Rome", "Yamoussoukro", "Korhogo"],
-        "answer": "Yamoussoukro",
+        "options": ["A) Abidjan", "B) Rome", "C) Yamoussoukro", "D) Korhogo"],
+        "answer": "C",
         "explanation": "Construite sous la présidence de Félix Houphouët-Boigny, elle a été consacrée en 1990 par le Pape Jean-Paul II."
     },
     {
         "question": "Dans quel sport évolue l'athlète ivoirienne Marie-Josée Ta Lou-Smith ?",
-        "options": ["Saut en longueur", "Taekwondo", "Sprint (Athlétisme)", "Natation"],
-        "answer": "Sprint (Athlétisme)",
+        "options": ["A) Saut en longueur", "B) Taekwondo", "C) Sprint (Athlétisme)", "D) Natation"],
+        "answer": "C",
         "explanation": "Elle est une sprinteuse spécialiste des 100m et 200m."
     },
     {
         "question": "Qui fut le fondateur du célèbre empire de Kong au nord de la Côte d'Ivoire au XVIIIe siècle ?",
-        "options": ["Samory Touré", "Sékou Ouattara", "Osei Tutu", "Abla Pokou"],
-        "answer": "Sékou Ouattara",
+        "options": ["A) Samory Touré", "B) Sékou Ouattara", "C) Osei Tutu", "D) Abla Pokou"],
+        "answer": "B",
         "explanation": "Sékou Ouattara a fondé l'Empire de Kong vers 1710."
     },
     {
         "question": "L'organisation sous-régionale CEDEAO a pour siège principal :",
-        "options": ["Abidjan", "Dakar", "Abuja", "Accra"],
-        "answer": "Abuja",
+        "options": ["A) Abidjan", "B) Dakar", "C) Abuja", "D) Accra"],
+        "answer": "C",
         "explanation": "Le siège de la Commission de la CEDEAO se trouve à Abuja, la capitale du Nigeria."
     },
     {
         "question": "Dans le contexte de la crise du Sahel, l'opération militaire française qui a pris fin en 2022 s'appelait :",
-        "options": ["Serval", "Sangaris", "Barkhane", "Takuba"],
-        "answer": "Barkhane",
+        "options": ["A) Serval", "B) Sangaris", "C) Barkhane", "D) Takuba"],
+        "answer": "C",
         "explanation": "Lancée en 2014 pour succéder à Serval, Barkhane s'est achevée officiellement en novembre 2022 suite aux retraits successifs du Mali puis du Burkina."
     },
 ]
@@ -8139,12 +7353,6 @@ THEME_4 = [
         "explanation": "L'OMC est basée à Genève, en Suisse."
     },
     {
-        "question": "En quelle année a été créée la CEDEAO ?",
-        "options": ["A) 1965", "B) 1975", "C) 1980", "D) 1985"],
-        "answer": "B",
-        "explanation": "La CEDEAO a été fondée le 28 mai 1975 par le Traité de Lagos."
-    },
-    {
         "question": "Quel est le siège de la CEDEAO ?",
         "options": ["A) Dakar", "B) Accra", "C) Abuja", "D) Lagos"],
         "answer": "C",
@@ -8221,12 +7429,6 @@ THEME_4 = [
         "options": ["A) Produire l'énergie nucléaire", "B) Promouvoir l'usage pacifique du nucléaire et prévenir sa prolifération", "C) Gérer les déchets nucléaires mondiaux", "D) Financer les centrales nucléaires"],
         "answer": "B",
         "explanation": "L'AIEA, basée à Vienne, promeut l'utilisation pacifique du nucléaire et surveille la non-prolifération."
-    },
-    {
-        "question": "Quel est le siège de l'Organisation Mondiale de la Santé (OMS) ?",
-        "options": ["A) Paris", "B) New York", "C) Genève", "D) Washington"],
-        "answer": "C",
-        "explanation": "L'OMS a son siège à Genève, Suisse."
     },
     {
         "question": "Quelle institution internationale a pour mission l'éradication de la pauvreté dans le monde ?",
@@ -8309,8 +7511,8 @@ THEME_4 = [
     {
         "question": "Combien de langues officielles compte l'Union Africaine ?",
         "options": ["A) 2", "B) 4", "C) 6", "D) 11"],
-        "answer": "B",
-        "explanation": "L'UA a 4 langues de travail : arabe, anglais, français, portugais (+ swahili et espagnol en cours d'officialisation)."
+        "answer": "C",
+        "explanation": "L'Union Africaine compte 6 langues officielles de travail : l'arabe, l'anglais, le français, le portugais, l'espagnol et le kiswahili (adopté officiellement en 2022)."
     },
     {
         "question": "Quel est le siège de la Banque Africaine de Développement (BAD) ?",
@@ -8967,591 +8169,291 @@ THEME_4 = [
         "explanation": "The UN Charter was signed on 26 June 1945 in San Francisco."
     },
     {
-        "question": "What year did the revised ECOWAS treaty, which created the ECOWAS Parliament and Court of Justice, get signed in Cotonou?",
-        "options": ["A) 1975", "B) 1981", "C) 1993", "D) 1999"],
-        "answer": "C",
-        "explanation": "The revised treaty was signed on July 24, 1993."
-    },
-    {
-        "question": "Which specific protocol or treaty established the ECOWAS specialized agency WAHO (West African Health Organization) in 1987, merging OCCGE and WAHC?",
-        "options": ["A) Protocol A/P1/7/87", "B) Protocol A/P2/7/87", "C) Treaty of Lagos", "D) Revised Treaty of Cotonou"],
-        "answer": "B",
-        "explanation": "WAHO was created by Protocol A/P2/7/87 signed in Abuja in 1987."
-    },
-    {
-        "question": "Where is the headquarters of the African Union Development Agency (AUDA-NEPAD) located?",
-        "options": ["A) Addis Ababa", "B) Johannesburg", "C) Midrand", "D) Abuja"],
-        "answer": "C",
-        "explanation": "AUDA-NEPAD is headquartered in Midrand, South Africa."
-    },
-    {
-        "question": "Which UN specialized agency is responsible for intellectual property services and is headquartered in Geneva?",
-        "options": ["A) ITU", "B) WIPO (OMPI)", "C) UPU", "D) WMO (OMM)"],
-        "answer": "B",
-        "explanation": "The World Intellectual Property Organization (WIPO/OMPI) is based in Geneva."
-    },
-    {
-        "question": "The African Development Bank (AfDB) approved the Abidjan Urban Transport Project (PTUA). In which year did the AfDB relocate its headquarters temporarily to Tunis before returning to Abidjan?",
-        "options": ["A) 1999", "B) 2003", "C) 2011", "D) 2014"],
-        "answer": "B",
-        "explanation": "The AfDB temporarily relocated to Tunis in 2003 due to the Ivorian Civil War, returning in 2014."
-    },
-    {
-        "question": "Which AU organ is the highest decision-making organ, replacing the OAU Assembly of Heads of State and Government?",
-        "options": ["A) The Executive Council", "B) The Pan-African Parliament", "C) The Assembly of the Union", "D) The Peace and Security Council"],
-        "answer": "C",
-        "explanation": "The Assembly of the Union is the supreme organ of the AU."
-    },
-    {
-        "question": "What is the primary function of the Inter-Governmental Action Group against Money Laundering in West Africa (GIABA)?",
-        "options": ["A) Public Health", "B) Peacekeeping", "C) Anti-Money Laundering", "D) Telecommunications"],
-        "answer": "C",
-        "explanation": "GIABA is an ECOWAS institution responsible for strengthening the capacity of member states towards the prevention and control of money laundering."
-    },
-    {
-        "question": "The World Meteorological Organization (OMM) originated from which former organization created in 1873?",
-        "options": ["A) International Meteorological Organization", "B) World Weather Watch", "C) Global Atmospheric Research Program", "D) League of Nations Meteorology Bureau"],
-        "answer": "A",
-        "explanation": "WMO originated from the International Meteorological Organization (IMO)."
-    },
-    {
-        "question": "Under the ECOWAS Protocol relating to Free Movement of Persons, Residence and Establishment, what is the maximum duration a citizen can stay in a member state without a visa?",
-        "options": ["A) 30 days", "B) 60 days", "C) 90 days", "D) 120 days"],
-        "answer": "C",
-        "explanation": "The Protocol grants community citizens the right to enter and reside in any member state without a visa for up to 90 days."
-    },
-    {
-        "question": "Which UN body has the primary responsibility for the maintenance of international peace and security?",
-        "options": ["A) General Assembly", "B) Security Council", "C) Economic and Social Council", "D) International Court of Justice"],
-        "answer": "B",
-        "explanation": "The UN Security Council holds this primary responsibility."
-    },
-    {
-        "question": "In which city is the headquarters of the ECOWAS Bank for Investment and Development (EBID) located?",
-        "options": ["A) Abuja", "B) Lome", "C) Abidjan", "D) Dakar"],
-        "answer": "B",
-        "explanation": "EBID is headquartered in Lome, Togo."
-    },
-    {
-        "question": "Which African Union treaty established the African Continental Free Trade Area (AfCFTA)?",
-        "options": ["A) Abuja Treaty", "B) Maputo Protocol", "C) Kigali Declaration", "D) Lagos Plan of Action"],
-        "answer": "C",
-        "explanation": "The AfCFTA agreement was brokered by the African Union and signed in Kigali on 21 March 2018."
-    },
-    {
-        "question": "Which of the following is NOT an official language of the United Nations?",
-        "options": ["A) Arabic", "B) Spanish", "C) Portuguese", "D) Russian"],
-        "answer": "C",
-        "explanation": "The six official languages of the UN are Arabic, Chinese, English, French, Russian, and Spanish."
-    },
-    {
-        "question": "Who was the first Secretary-General of the United Nations?",
-        "options": ["A) Trygve Lie", "B) Dag Hammarskjold", "C) U Thant", "D) Boutros Boutros-Ghali"],
-        "answer": "A",
-        "explanation": "Trygve Lie of Norway was the first Secretary-General, serving from 1946 to 1952."
-    },
-    {
-        "question": "The African Peer Review Mechanism (APRM) is a mutually agreed instrument voluntarily acceded to by the Member States of the African Union. When was it established?",
-        "options": ["A) 1999", "B) 2003", "C) 2007", "D) 2010"],
-        "answer": "B",
-        "explanation": "The APRM was established in 2003 by the NEPAD Heads of State and Government Implementation Committee."
-    },
-    {
-        "question": "How many member states currently constitute the Economic Community of West African States (ECOWAS) following the recent withdrawals?",
-        "options": ["A) 12", "B) 13", "C) 14", "D) 15"],
-        "answer": "A",
-        "explanation": "With the withdrawal of Mali, Burkina Faso, and Niger, ECOWAS currently has 12 members (as of 2024)."
-    },
-    {
-        "question": "What is the acronym for the specialized agency of the UN responsible for information and communication technologies?",
-        "options": ["A) ITU", "B) UPU", "C) ICAO", "D) IMO"],
-        "answer": "A",
-        "explanation": "The International Telecommunication Union (ITU) is the UN specialized agency for ICTs."
-    },
-    {
-        "question": "Where is the Secretariat of the African Continental Free Trade Area (AfCFTA) located?",
-        "options": ["A) Addis Ababa, Ethiopia", "B) Accra, Ghana", "C) Cairo, Egypt", "D) Pretoria, South Africa"],
-        "answer": "B",
-        "explanation": "The AfCFTA Secretariat is located in Accra, Ghana."
-    },
-    {
-        "question": "Which protocol to the African Charter on Human and Peoples' Rights deals specifically with the Rights of Women in Africa?",
-        "options": ["A) Maputo Protocol", "B) Malabo Protocol", "C) Arusha Protocol", "D) Dakar Protocol"],
-        "answer": "A",
-        "explanation": "The Maputo Protocol guarantees comprehensive rights to women in Africa."
-    },
-    {
-        "question": "The ECOWAS military force, ECOMOG, was first deployed in 1990 to intervene in the civil war of which member state?",
-        "options": ["A) Sierra Leone", "B) Guinea-Bissau", "C) Liberia", "D) Côte d'Ivoire"],
-        "answer": "C",
-        "explanation": "ECOMOG was first deployed to Liberia in August 1990."
-    },
-    {
-        "question": "Which UN organ consists of 54 members elected by the General Assembly for three-year terms?",
-        "options": ["A) Trusteeship Council", "B) Security Council", "C) Economic and Social Council (ECOSOC)", "D) International Court of Justice"],
-        "answer": "C",
-        "explanation": "ECOSOC consists of 54 members elected for three-year terms."
-    },
-    {
-        "question": "The African Development Bank (AfDB) Group comprises three distinct entities. Which of the following is NOT one of them?",
-        "options": ["A) African Development Bank", "B) African Development Fund", "C) Nigeria Trust Fund", "D) African Finance Corporation"],
-        "answer": "D",
-        "explanation": "The AfDB Group consists of the AfDB, the ADF, and the NTF. The AFC is a separate entity."
-    },
-    {
-        "question": "What is the primary mandate of the West African Health Organization (WAHO)?",
-        "options": ["A) Military defense", "B) Economic integration", "C) Health protection and improvement", "D) Educational standardization"],
-        "answer": "C",
-        "explanation": "WAHO's objective is the attainment of the highest possible standard and protection of health of the peoples in the sub-region."
-    },
-    {
-        "question": "The Universal Postal Union (UPU), a specialized agency of the UN, is headquartered in which city?",
-        "options": ["A) Geneva", "B) Bern", "C) Paris", "D) Vienna"],
-        "answer": "B",
-        "explanation": "The UPU headquarters is located in Bern, Switzerland."
-    },
-    {
-        "question": "Which AU organ is responsible for the peaceful resolution of conflicts in Africa, established by a protocol adopted in 2002?",
-        "options": ["A) Peace and Security Council (PSC)", "B) African Court of Justice", "C) Pan-African Parliament", "D) Economic, Social and Cultural Council (ECOSOCC)"],
-        "answer": "A",
-        "explanation": "The Peace and Security Council is the standing decision-making organ of the AU for the prevention, management and resolution of conflicts."
-    },
-    {
-        "question": "The ECOWAS Court of Justice is based in which city?",
-        "options": ["A) Lome", "B) Accra", "C) Abuja", "D) Dakar"],
-        "answer": "C",
-        "explanation": "The ECOWAS Court of Justice is headquartered in Abuja, Nigeria."
-    },
-    {
-        "question": "Which organization preceded the African Union?",
-        "options": ["A) Organization of African States", "B) Organization of African Unity", "C) African Economic Community", "D) Pan-African Congress"],
-        "answer": "B",
-        "explanation": "The Organization of African Unity (OAU) preceded the African Union (AU)."
-    },
-    {
-        "question": "The World Intellectual Property Organization (WIPO) administers several treaties. Which treaty specifically deals with the protection of literary and artistic works?",
-        "options": ["A) Paris Convention", "B) Berne Convention", "C) Madrid Agreement", "D) Patent Cooperation Treaty"],
-        "answer": "B",
-        "explanation": "The Berne Convention, adopted in 1886, deals with the protection of works and the rights of their authors."
-    },
-    {
-        "question": "What is the primary currency unit used for accounting by the African Development Bank?",
-        "options": ["A) US Dollar", "B) Euro", "C) Unit of Account (UA)", "D) CFA Franc"],
-        "answer": "C",
-        "explanation": "The AfDB uses the Unit of Account (UA), which is equivalent to the Special Drawing Right (SDR) of the IMF."
-    },
-    {
-        "question": "Which specialized agency of the UN focuses on the promotion of social justice and internationally recognized human and labour rights?",
-        "options": ["A) WHO", "B) ILO", "C) UNESCO", "D) FAO"],
-        "answer": "B",
-        "explanation": "The International Labour Organization (ILO) focuses on labour rights and social justice."
-    },
-    {
-        "question": "The Lome Peace Agreement of 1999 was brokered by ECOWAS to end the civil war in which country?",
-        "options": ["A) Liberia", "B) Sierra Leone", "C) Guinea-Bissau", "D) Côte d'Ivoire"],
-        "answer": "B",
-        "explanation": "The Lome Peace Agreement was signed in 1999 to end the Sierra Leone Civil War."
-    },
-    {
-        "question": "The African Union's Agenda 2063 is a strategic framework for the socio-economic transformation of the continent over a 50-year period. When was it adopted?",
-        "options": ["A) 2013", "B) 2015", "C) 2000", "D) 2020"],
-        "answer": "B",
-        "explanation": "Agenda 2063 was adopted by the AU Assembly in January 2015."
-    },
-    {
-        "question": "Which UN agency is tasked with providing humanitarian and developmental aid to children worldwide?",
-        "options": ["A) UNESCO", "B) UNICEF", "C) UNHCR", "D) WFP"],
-        "answer": "B",
-        "explanation": "The United Nations Children's Fund (UNICEF) focuses on aid to children."
-    },
-    {
-        "question": "The ECOWAS Commission replaced the ECOWAS Secretariat. In what year did this transformation take place?",
-        "options": ["A) 1993", "B) 2000", "C) 2007", "D) 2010"],
-        "answer": "C",
-        "explanation": "The Secretariat was transformed into the Commission in 2007 to enhance the organization's supranational powers."
-    },
-    {
-        "question": "Where is the International Court of Justice (ICJ), the principal judicial organ of the UN, located?",
-        "options": ["A) Geneva", "B) New York", "C) The Hague", "D) Vienna"],
-        "answer": "C",
-        "explanation": "The ICJ is located at the Peace Palace in The Hague, Netherlands."
-    },
-    {
-        "question": "The Constitutive Act of the African Union was adopted in which city?",
-        "options": ["A) Sirte", "B) Lome", "C) Addis Ababa", "D) Lusaka"],
-        "answer": "B",
-        "explanation": "The Constitutive Act was adopted in Lome, Togo, on July 11, 2000."
-    },
-    {
-        "question": "Which institution is the supreme audit institution of ECOWAS?",
-        "options": ["A) ECOWAS Parliament", "B) ECOWAS Court of Justice", "C) ECOWAS Commission", "D) Office of the Auditor General of ECOWAS"],
-        "answer": "D",
-        "explanation": "The Office of the Auditor General ensures transparency and accountability in the management of ECOWAS resources."
-    },
-    {
-        "question": "The World Meteorological Organization (WMO) operates the World Weather Watch. What year was this program launched?",
-        "options": ["A) 1950", "B) 1963", "C) 1975", "D) 1980"],
-        "answer": "B",
-        "explanation": "The World Weather Watch was established in 1963 to combine observing systems, telecommunication facilities, and data-processing."
-    },
-    {
-        "question": "Who represents Côte d'Ivoire on the Board of Governors of the African Development Bank?",
-        "options": ["A) The President of the Republic", "B) The Minister of Economy and Finance", "C) The Governor of the BCEAO", "D) The Minister of Foreign Affairs"],
-        "answer": "B",
-        "explanation": "Each member country is represented on the AfDB Board of Governors by its Minister of Finance or a similar high-ranking official."
-    },
-    {
-        "question": "The ECOWAS single currency project adopted a name for its proposed currency. What is this name?",
-        "options": ["A) Afro", "B) Cedi", "C) Eco", "D) West African Franc"],
-        "answer": "C",
-        "explanation": "The proposed single currency for the ECOWAS region is named the Eco."
-    },
-    {
-        "question": "Which organ of the African Union is intended to provide civil society organizations with a platform to be involved in the AU's programs?",
-        "options": ["A) The Executive Council", "B) The Pan-African Parliament", "C) The Economic, Social and Cultural Council (ECOSOCC)", "D) The Permanent Representatives Committee"],
-        "answer": "C",
-        "explanation": "ECOSOCC is an advisory organ composed of different social and professional groups of the member states."
-    },
-    {
-        "question": "The Food and Agriculture Organization (FAO) of the UN is headquartered in which city?",
-        "options": ["A) Geneva", "B) Rome", "C) Paris", "D) New York"],
-        "answer": "B",
-        "explanation": "The FAO is headquartered in Rome, Italy."
-    },
-    {
-        "question": "Which agreement established the World Intellectual Property Organization (WIPO)?",
-        "options": ["A) Paris Convention", "B) Berne Convention", "C) WIPO Convention", "D) TRIPS Agreement"],
-        "answer": "C",
-        "explanation": "The WIPO Convention, signed in Stockholm in 1967, established WIPO."
-    },
-    {
-        "question": "The African Development Fund (ADF) provides concessional funding. Which countries are eligible for ADF funding?",
-        "options": ["A) All African countries", "B) Only low-income African countries", "C) Only middle-income African countries", "D) Only North African countries"],
-        "answer": "B",
-        "explanation": "The ADF provides concessional resources to low-income regional member countries."
-    },
-    {
-        "question": "The ECOWAS Parliament consists of how many seats?",
-        "options": ["A) 115", "B) 120", "C) 150", "D) 200"],
-        "answer": "A",
-        "explanation": "The ECOWAS Parliament, also known as the Community Parliament, has 115 seats."
-    },
-    {
-        "question": "Which UN agency focuses on the regulation of international civil aviation?",
-        "options": ["A) IMO", "B) ICAO", "C) ITU", "D) WMO"],
-        "answer": "B",
-        "explanation": "The International Civil Aviation Organization (ICAO) manages the administration and governance of the Convention on International Civil Aviation."
-    },
-    {
-        "question": "The African Continental Free Trade Area (AfCFTA) requires member states to remove tariffs from what percentage of goods?",
-        "options": ["A) 50%", "B) 70%", "C) 90%", "D) 100%"],
-        "answer": "C",
-        "explanation": "Members are committed to eliminate tariffs on 90% of goods."
-    },
-    {
-        "question": "Which specialized agency of the UN is responsible for promoting responsible, sustainable and universally accessible tourism?",
-        "options": ["A) UNWTO", "B) UNESCO", "C) UNDP", "D) UNEP"],
-        "answer": "A",
-        "explanation": "The World Tourism Organization (UNWTO) is the UN agency for tourism."
-    },
-    {
-        "question": "The headquarters of the West African Health Organization (WAHO) is located in which city?",
-        "options": ["A) Abuja", "B) Bobo-Dioulasso", "C) Dakar", "D) Abidjan"],
-        "answer": "B",
-        "explanation": "WAHO is headquartered in Bobo-Dioulasso, Burkina Faso."
-    },
-    {
-        "question": "The United Nations Charter was signed in which year?",
-        "options": ["A) 1944", "B) 1945", "C) 1946", "D) 1948"],
-        "answer": "B",
-        "explanation": "The UN Charter was signed on 26 June 1945 in San Francisco."
-    },
-    {
         "question": "A quelle date le retrait du Mali, du Burkina Faso et du Niger de la CEDEAO est-il devenu effectif ?",
         "options": ["A) 28 janvier 2024", "B) 29 janvier 2025", "C) 15 mars 2024", "D) 1er janvier 2025"],
-        "answer": "B) 29 janvier 2025",
+        "answer": "B",
         "explanation": "Le retrait est effectif un an après l'annonce (28 janvier 2024)."
     },
     {
         "question": "Comment s'appelle l'organisation créée par le Mali, le Burkina Faso et le Niger suite à leur retrait de la CEDEAO ?",
         "options": ["A) G5 Sahel", "B) Alliance des États du Sahel (AES)", "C) Union du Fleuve Mano", "D) Liptako-Gourma unifié"],
-        "answer": "B) Alliance des États du Sahel (AES)",
+        "answer": "B",
         "explanation": "L'AES a été formée puis transformée en confédération en 2024."
     },
     {
         "question": "Quel est le siège de la Commission de la CEDEAO ?",
         "options": ["A) Lomé", "B) Dakar", "C) Abuja", "D) Accra"],
-        "answer": "C) Abuja",
+        "answer": "C",
         "explanation": "Le siège de la CEDEAO est à Abuja au Nigeria."
     },
     {
         "question": "Malgré leur retrait de la CEDEAO, le Mali, le Burkina Faso et le Niger sont-ils restés membres de l'UEMOA en 2025 ?",
         "options": ["A) Non, ils ont créé leur propre monnaie", "B) Oui, ils ont maintenu leur adhésion à l'UEMOA", "C) Seulement le Mali est resté", "D) Ils ont été suspendus définitivement"],
-        "answer": "B) Oui, ils ont maintenu leur adhésion à l'UEMOA",
+        "answer": "B",
         "explanation": "Ils n'ont pas quitté l'UEMOA ni la zone Franc CFA en 2025."
     },
     {
         "question": "Où se trouve le siège de la Commission de l'UEMOA ?",
         "options": ["A) Ouagadougou", "B) Dakar", "C) Abidjan", "D) Bamako"],
-        "answer": "A) Ouagadougou",
+        "answer": "A",
         "explanation": "Le siège de l'UEMOA est à Ouagadougou."
     },
     {
         "question": "Où se trouve le siège de la BCEAO ?",
         "options": ["A) Ouagadougou", "B) Dakar", "C) Abidjan", "D) Lomé"],
-        "answer": "B) Dakar",
+        "answer": "B",
         "explanation": "Le siège de la Banque Centrale des États de l'Afrique de l'Ouest est à Dakar."
     },
     {
         "question": "Où se trouve le siège de l'Union Africaine (UA) ?",
         "options": ["A) Johannesburg", "B) Addis-Abeba", "C) Nairobi", "D) Le Caire"],
-        "answer": "B) Addis-Abeba",
+        "answer": "B",
         "explanation": "Le siège de l'UA est en Éthiopie."
     },
     {
         "question": "Comment s'appelle la feuille de route stratégique de l'Union Africaine pour le développement du continent ?",
         "options": ["A) Vision 2030", "B) Agenda 2063", "C) Plan NEPAD 2050", "D) Initiative Afrique 21"],
-        "answer": "B) Agenda 2063",
+        "answer": "B",
         "explanation": "C'est l'Agenda 2063 : L'Afrique que nous voulons."
     },
     {
         "question": "L'Union Africaine a succédé à quelle organisation en 2002 ?",
         "options": ["A) L'Organisation de l'Unité Africaine (OUA)", "B) La Communauté Économique Africaine", "C) Le NEPAD", "D) L'Union Panafricaine"],
-        "answer": "A) L'Organisation de l'Unité Africaine (OUA)",
+        "answer": "A",
         "explanation": "L'OUA a été remplacée par l'UA en 2002."
     },
     {
         "question": "Combien de membres permanents le Conseil de Sécurité de l'ONU compte-il ?",
         "options": ["A) 5", "B) 10", "C) 15", "D) 193"],
-        "answer": "A) 5",
+        "answer": "A",
         "explanation": "Il y a 5 membres permanents avec droit de véto."
     },
     {
         "question": "Parmi ces pays, lequel N'EST PAS un membre permanent du Conseil de Sécurité de l'ONU ?",
         "options": ["A) France", "B) Royaume-Uni", "C) Allemagne", "D) Russie"],
-        "answer": "C) Allemagne",
+        "answer": "C",
         "explanation": "Les 5 sont: USA, Russie, Chine, France, Royaume-Uni."
     },
     {
         "question": "Qui est le Secrétaire Général de l'ONU en 2025 ?",
         "options": ["A) Ban Ki-moon", "B) Kofi Annan", "C) António Guterres", "D) Boutros Boutros-Ghali"],
-        "answer": "C) António Guterres",
+        "answer": "C",
         "explanation": "António Guterres est en poste depuis 2017."
     },
     {
         "question": "Où se trouve le siège de l'OMS ?",
         "options": ["A) Genève", "B) Vienne", "C) Washington", "D) Paris"],
-        "answer": "A) Genève",
+        "answer": "A",
         "explanation": "L'Organisation Mondiale de la Santé siège à Genève."
     },
     {
         "question": "Quelle agence spécialisée de l'ONU a son siège à Paris ?",
         "options": ["A) L'UNICEF", "B) L'UNESCO", "C) Le HCR", "D) L'OIT"],
-        "answer": "B) L'UNESCO",
+        "answer": "B",
         "explanation": "L'Organisation pour l'éducation, la science et la culture est à Paris."
     },
     {
         "question": "Où siège la Banque Africaine de Développement (BAD) ?",
         "options": ["A) Tunis", "B) Dakar", "C) Abidjan", "D) Pretoria"],
-        "answer": "C) Abidjan",
+        "answer": "C",
         "explanation": "Le siège statutaire de la BAD est à Abidjan, Côte d'Ivoire."
     },
     {
         "question": "Qui est le Président de la Banque Africaine de Développement dont le second mandat se termine en 2025 ?",
         "options": ["A) Donald Kaberuka", "B) Akinwumi Adesina", "C) Tidjane Thiam", "D) Ngozi Okonjo-Iweala"],
-        "answer": "B) Akinwumi Adesina",
+        "answer": "B",
         "explanation": "Le Nigérian Akinwumi Adesina a été réélu en 2020 pour 5 ans."
     },
     {
         "question": "En quelle année le second mandat d'António Guterres à la tête de l'ONU se termine-t-il ?",
         "options": ["A) 2025", "B) 2026", "C) 2027", "D) 2030"],
-        "answer": "B) 2026",
+        "answer": "B",
         "explanation": "Son second mandat s'achève le 31 décembre 2026."
     },
     {
         "question": "Quel traité a institué la CEDEAO en 1975 ?",
         "options": ["A) Traité de Lagos", "B) Traité d'Abuja", "C) Traité de Dakar", "D) Traité de Niamey"],
-        "answer": "A) Traité de Lagos",
+        "answer": "A",
         "explanation": "La CEDEAO a été créée par le Traité de Lagos le 28 mai 1975."
     },
     {
         "question": "Quelle est l'agence de l'ONU basée à Montréal ?",
         "options": ["A) OMI", "B) OACI", "C) OMPI", "D) UPU"],
-        "answer": "B) OACI",
+        "answer": "B",
         "explanation": "L'Organisation de l'aviation civile internationale siège à Montréal."
     },
     {
         "question": "Où se trouve le siège de l'Organisation Maritime Internationale (OMI) ?",
         "options": ["A) Hambourg", "B) Londres", "C) Athènes", "D) Genève"],
-        "answer": "B) Londres",
+        "answer": "B",
         "explanation": "L'OMI a son siège à Londres."
     },
     {
         "question": "Quel accord lie les pays d'Afrique, des Caraïbes et du Pacifique (ACP) à l'Union Européenne depuis 2023, remplaçant l'accord de Cotonou ?",
         "options": ["A) L'Accord de Lomé", "B) L'Accord des Samoa", "C) L'Accord de Bruxelles", "D) L'Accord de Dakar"],
-        "answer": "B) L'Accord des Samoa",
+        "answer": "B",
         "explanation": "L'Accord de Samoa a remplacé l'Accord de Cotonou."
     },
     {
         "question": "Quel impact majeur le Brexit a-t-il eu sur le rôle du Royaume-Uni dans le Commonwealth ?",
         "options": ["A) Le Royaume-Uni a quitté le Commonwealth", "B) Le Royaume-Uni a recentré ses accords commerciaux sur les pays du Commonwealth", "C) Le Commonwealth a été dissous", "D) Les pays du Commonwealth ont imposé des visas aux Britanniques"],
-        "answer": "B) Le Royaume-Uni a recentré ses accords commerciaux sur les pays du Commonwealth",
+        "answer": "B",
         "explanation": "Après le Brexit, le RU a cherché à renforcer ses liens avec le Commonwealth (Global Britain)."
     },
     {
         "question": "L'Organisation Mondiale de la Propriété Intellectuelle (OMPI) est basée à :",
         "options": ["A) Paris", "B) New York", "C) Genève", "D) Vienne"],
-        "answer": "C) Genève",
+        "answer": "C",
         "explanation": "L'OMPI est une institution spécialisée des Nations Unies basée à Genève."
     },
     {
         "question": "Quelle cour de justice est l'organe judiciaire principal de l'ONU ?",
         "options": ["A) La Cour Pénale Internationale (CPI)", "B) La Cour Internationale de Justice (CIJ)", "C) Le Tribunal de La Haye", "D) La Cour Européenne des Droits de l'Homme"],
-        "answer": "B) La Cour Internationale de Justice (CIJ)",
+        "answer": "B",
         "explanation": "La CIJ est l'organe judiciaire de l'ONU. La CPI est indépendante."
     },
     {
         "question": "La CPI (Cour Pénale Internationale) fait-elle partie du système de l'ONU ?",
         "options": ["A) Oui, c'est une agence spécialisée", "B) Non, c'est une organisation internationale indépendante", "C) Oui, elle remplace la CIJ", "D) Non, elle dépend de l'Union Européenne"],
-        "answer": "B) Non, c'est une organisation internationale indépendante",
+        "answer": "B",
         "explanation": "Bien qu'elle coopère avec l'ONU, la CPI a été créée par le Statut de Rome et est indépendante."
     },
     {
         "question": "Quel statut l'État de Palestine a-t-il obtenu à l'ONU en 2012, réaffirmé dans les récents débats de 2024-2025 ?",
         "options": ["A) Membre à part entière", "B) État observateur non membre", "C) Membre du Conseil de Sécurité", "D) Territoire sous tutelle"],
-        "answer": "B) État observateur non membre",
+        "answer": "B",
         "explanation": "La Palestine est un État observateur non membre à l'Assemblée générale."
     },
     {
         "question": "Parmi ces organisations, laquelle n'est pas une institution spécialisée de l'ONU ?",
         "options": ["A) Le FMI", "B) Le Groupe de la Banque Mondiale", "C) L'OMC", "D) L'OIT"],
-        "answer": "C) L'OMC",
+        "answer": "C",
         "explanation": "L'Organisation Mondiale du Commerce n'est pas une agence spécialisée de l'ONU, bien qu'elles coopèrent."
     },
     {
         "question": "Dans le cadre des réformes débattues en 2025, quel continent revendique au moins deux sièges permanents avec droit de veto au Conseil de sécurité de l'ONU (Consensus d'Ezulwini) ?",
         "options": ["A) L'Amérique du Sud", "B) L'Afrique", "C) L'Asie", "D) L'Océanie"],
-        "answer": "B) L'Afrique",
+        "answer": "B",
         "explanation": "Le Consensus d'Ezulwini est la position commune africaine revendiquant des sièges permanents."
     },
     {
         "question": "Quel traité fonde l'Union Européenne telle qu'on la connaît aujourd'hui, entré en vigueur en 1993 ?",
         "options": ["A) Traité de Rome", "B) Traité de Maastricht", "C) Traité de Lisbonne", "D) Traité d'Amsterdam"],
-        "answer": "B) Traité de Maastricht",
+        "answer": "B",
         "explanation": "Le Traité de Maastricht a institué l'Union Européenne."
     },
     {
         "question": "Le G20 est composé de 19 pays et de deux unions d'États. Lesquelles ?",
         "options": ["A) L'UE et l'ALENA", "B) L'UE et l'Union Africaine", "C) L'ASEAN et l'UE", "D) Le Mercosur et l'Union Africaine"],
-        "answer": "B) L'UE et l'Union Africaine",
+        "answer": "B",
         "explanation": "L'Union Africaine a été admise comme membre permanent du G20 en 2023."
     },
     {
         "question": "Quelle est l'institution de l'UEMOA chargée de contrôler les comptes de l'Union ?",
         "options": ["A) La Commission de l'UEMOA", "B) La Cour de Justice", "C) La Cour des Comptes", "D) Le Parlement de l'UEMOA"],
-        "answer": "C) La Cour des Comptes",
+        "answer": "C",
         "explanation": "La Cour des Comptes de l'UEMOA contrôle les finances de l'Union."
     },
     {
         "question": "Qui a été élu Secrétaire Général de l'Organisation Internationale de la Francophonie (OIF) en 2018, puis réélue ?",
         "options": ["A) Michaëlle Jean", "B) Louise Mushikiwabo", "C) Abdou Diouf", "D) Boutros Boutros-Ghali"],
-        "answer": "B) Louise Mushikiwabo",
+        "answer": "B",
         "explanation": "La Rwandaise Louise Mushikiwabo dirige l'OIF."
     },
     {
         "question": "Où est le siège de l'OIF ?",
         "options": ["A) Paris", "B) Genève", "C) Bruxelles", "D) Dakar"],
-        "answer": "A) Paris",
+        "answer": "A",
         "explanation": "L'OIF siège à Paris."
     },
     {
         "question": "En 2024, quel nouveau pays a officiellement rejoint les BRICS, aux côtés de l'Égypte, de l'Éthiopie, de l'Iran et des EAU ?",
         "options": ["A) L'Argentine", "B) L'Arabie Saoudite", "C) Le Nigeria", "D) Le Mexique"],
-        "answer": "B) L'Arabie Saoudite",
+        "answer": "B",
         "explanation": "L'Arabie Saoudite a été invitée et a rejoint les BRICS (bien que l'Argentine ait décliné sous Milei)."
     },
     {
         "question": "Combien de pays forment l'Alliance des États du Sahel (AES) ?",
         "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-        "answer": "B) 3",
+        "answer": "B",
         "explanation": "Le Mali, le Burkina Faso et le Niger."
     },
     {
         "question": "L'Agence Internationale de l'Énergie Atomique (AIEA) est basée à :",
         "options": ["A) Genève", "B) Vienne", "C) New York", "D) Londres"],
-        "answer": "B) Vienne",
+        "answer": "B",
         "explanation": "L'AIEA siège en Autriche à Vienne."
     },
     {
         "question": "Le Programme des Nations Unies pour le Développement (PNUD) est dirigé par un :",
         "options": ["A) Directeur Général", "B) Administrateur", "C) Secrétaire Général", "D) Président"],
-        "answer": "B) Administrateur",
+        "answer": "B",
         "explanation": "Le chef du PNUD porte le titre d'Administrateur."
     },
     {
         "question": "Le siège de la Cour Pénale Internationale (CPI) est à :",
         "options": ["A) La Haye", "B) Genève", "C) New York", "D) Rome"],
-        "answer": "A) La Haye",
+        "answer": "A",
         "explanation": "La CPI, bien qu'issue du Statut de Rome, siège à La Haye aux Pays-Bas."
     },
     {
         "question": "Le siège d'INTERPOL se trouve en France. Dans quelle ville ?",
         "options": ["A) Paris", "B) Lyon", "C) Marseille", "D) Strasbourg"],
-        "answer": "B) Lyon",
+        "answer": "B",
         "explanation": "Interpol est basé à Lyon."
     },
     {
         "question": "L'ALENA (NAFTA), l'accord de libre-échange nord-américain, a été remplacé par :",
         "options": ["A) L'USMCA (AEUMC)", "B) Le MERCOSUR", "C) L'AELC", "D) Le Partenariat Transpacifique"],
-        "answer": "A) L'USMCA (AEUMC)",
+        "answer": "A",
         "explanation": "L'Accord États-Unis-Mexique-Canada a remplacé l'ALENA en 2020."
     },
     {
         "question": "Où se trouve le siège du Parlement Européen (les sessions plénières) ?",
         "options": ["A) Bruxelles", "B) Strasbourg", "C) Luxembourg", "D) Francfort"],
-        "answer": "B) Strasbourg",
+        "answer": "B",
         "explanation": "Le siège officiel pour les sessions plénières est à Strasbourg."
     },
     {
         "question": "Quelle est l'institution de l'ONU qui réunit tous les États membres (193 en 2025) ?",
         "options": ["A) Le Conseil de Sécurité", "B) L'Assemblée Générale", "C) L'ECOSOC", "D) Le Secrétariat"],
-        "answer": "B) L'Assemblée Générale",
+        "answer": "B",
         "explanation": "L'AG regroupe tous les États membres avec une voix chacun."
     },
     {
         "question": "Quel est l'objectif principal de la ZLECAf ?",
         "options": ["A) Créer une monnaie unique africaine", "B) Créer une Zone de Libre-Échange Continentale Africaine", "C) Lutter contre le terrorisme au Sahel", "D) Unifier les armées africaines"],
-        "answer": "B) Créer une Zone de Libre-Échange Continentale Africaine",
+        "answer": "B",
         "explanation": "La ZLECAf vise à créer un marché unique pour les biens et services en Afrique."
     },
     {
         "question": "L'Organisation de la Coopération Islamique (OCI) siège à :",
         "options": ["A) Riyad", "B) Djeddah", "C) Doha", "D) Istanbul"],
-        "answer": "B) Djeddah",
+        "answer": "B",
         "explanation": "Le siège de l'OCI est à Djeddah en Arabie Saoudite."
     },
     {
         "question": "Le Conseil de l'Europe (qui n'est pas une institution de l'UE) siège à :",
         "options": ["A) Bruxelles", "B) Genève", "C) Strasbourg", "D) La Haye"],
-        "answer": "C) Strasbourg",
+        "answer": "C",
         "explanation": "Le Conseil de l'Europe, garant de la Cour EDH, siège à Strasbourg."
     },
     {
         "question": "L'OPEP (Organisation des Pays Exportateurs de Pétrole) a son siège à :",
         "options": ["A) Riyad", "B) Vienne", "C) Dubaï", "D) Caracas"],
-        "answer": "B) Vienne",
+        "answer": "B",
         "explanation": "Bien qu'aucun pays européen ne soit membre, le siège est à Vienne, Autriche."
     },
     {
         "question": "Quelle organisation africaine a été suspendue de la CEDEAO en 2022 et s'en est finalement retirée ?",
         "options": ["A) La Mauritanie", "B) Le Mali", "C) Le Sénégal", "D) Le Togo"],
-        "answer": "B) Le Mali",
+        "answer": "B",
         "explanation": "Le Mali s'est retiré de la CEDEAO aux côtés du Burkina et du Niger."
     },
     {
         "question": "Quelle cour a son siège à Arusha, Tanzanie, et est un organe de l'Union Africaine ?",
         "options": ["A) La Cour africaine des droits de l'homme et des peuples", "B) La Cour de justice de la CEDEAO", "C) La Cour suprême panafricaine", "D) Le Tribunal pénal international pour le Rwanda"],
-        "answer": "A) La Cour africaine des droits de l'homme et des peuples",
+        "answer": "A",
         "explanation": "La CADHP siège à Arusha."
     },
 ]
@@ -10032,12 +8934,6 @@ THEME_5 = [
         "explanation": "'Information' is uncountable: 'some information' (never 'informations' in English)."
     },
     {
-        "question": "Which noun is uncountable?",
-        "options": ["A) Advice", "B) Student", "C) Table", "D) Question"],
-        "answer": "A",
-        "explanation": "'Advice' is uncountable: 'a piece of advice' (never 'an advice')."
-    },
-    {
         "question": "'She ___ here for three years.' (and still works here)",
         "options": ["A) worked", "B) works", "C) has been working", "D) was working"],
         "answer": "C",
@@ -10176,12 +9072,6 @@ THEME_5 = [
         "explanation": "'Must' expresses strong logical deduction based on evidence."
     },
     {
-        "question": "'I was sitting ___ the train when I saw him.'",
-        "options": ["A) by", "B) in", "C) on", "D) at"],
-        "answer": "C",
-        "explanation": "Use 'on' for public/collective transport: on the train, on the bus."
-    },
-    {
         "question": "'You ___ park here. It is forbidden.'",
         "options": ["A) mustn't", "B) needn't", "C) don't have to", "D) shouldn't"],
         "answer": "A",
@@ -10222,12 +9112,6 @@ THEME_5 = [
         "options": ["A) can", "B) could", "C) may", "D) might"],
         "answer": "A",
         "explanation": "'Can' expresses present ability. 'Could' is for past ability or polite requests."
-    },
-    {
-        "question": "Choose the correct sentence:",
-        "options": ["A) He is more taller than his brother.", "B) He is taller than his brother.", "C) He is most tall than his brother.", "D) He is the taller than his brother."],
-        "answer": "B",
-        "explanation": "Comparative of short adjectives: -er (never 'more + -er')."
     },
     {
         "question": "'The report ___ by the committee next week.' (future passive)",
@@ -10296,12 +9180,6 @@ THEME_5 = [
         "explanation": "After 'suggest that', use the base form (subjunctive mood in formal English)."
     },
     {
-        "question": "Which sentence is correct?",
-        "options": ["A) I look forward to hear from you.", "B) I look forward to hearing from you.", "C) I look forward hear from you.", "D) I look forward of hearing from you."],
-        "answer": "B",
-        "explanation": "'Look forward to' is followed by a gerund (verb + -ing)."
-    },
-    {
         "question": "What does 'albeit' mean?",
         "options": ["A) Because", "B) Although / even though", "C) Therefore", "D) Unless"],
         "answer": "B",
@@ -10326,12 +9204,6 @@ THEME_5 = [
         "explanation": "Future passive: will + be + past participle."
     },
     {
-        "question": "Choose the correct sentence:",
-        "options": ["A) It's been raining since three hours.", "B) It's been raining for three hours.", "C) It's been raining during three hours.", "D) It's been raining from three hours."],
-        "answer": "B",
-        "explanation": "'For' + duration of time. 'Since' + starting point."
-    },
-    {
         "question": "What does 'henceforth' mean?",
         "options": ["A) In the past", "B) From this point on", "C) Nevertheless", "D) Therefore"],
         "answer": "B",
@@ -10354,12 +9226,6 @@ THEME_5 = [
         "options": ["A) In addition to", "B) Despite / in spite of", "C) Because of", "D) Instead of"],
         "answer": "B",
         "explanation": "'Notwithstanding' is a formal word meaning 'despite' or 'in spite of'."
-    },
-    {
-        "question": "Which sentence is correct?",
-        "options": ["A) She is used to get up early.", "B) She is used to getting up early.", "C) She is used to got up early.", "D) She used to getting up early."],
-        "answer": "B",
-        "explanation": "'Be used to' + gerund = be accustomed to. 'Used to' + base verb = past habit."
     },
     {
         "question": "Complete: '___ hard work, he failed the exam.'",
@@ -10462,12 +9328,6 @@ THEME_5 = [
         "options": ["A) To be very direct", "B) To avoid the main topic", "C) To work hard", "D) To be confused"],
         "answer": "B",
         "explanation": "Idiom: 'to beat around the bush' means to avoid coming to the main point."
-    },
-    {
-        "question": "Choose the correct sentence:",
-        "options": ["A) Despite of the rain, we went out.", "B) In spite of the rain, we went out.", "C) Although the rain, we went out.", "D) Despite the rain but we went out."],
-        "answer": "B",
-        "explanation": "'In spite of' + noun/gerund. 'Despite' also works but without 'of': 'Despite the rain'."
     },
     {
         "question": "What is the gerund form of 'write'?",
@@ -10782,316 +9642,10 @@ THEME_5 = [
         "explanation": "Inversion is required when a sentence starts with 'Only when'."
     },
     {
-        "question": "Which sentence is grammatically correct?",
-        "options": ["A) She enjoys to read books.", "B) She enjoys read books.", "C) She enjoys reading books.", "D) She enjoys for reading books."],
-        "answer": "C",
-        "explanation": "'Enjoy' is followed by a gerund."
-    },
-    {
         "question": "The word 'comprehensive' means:",
         "options": ["A) Understanding", "B) Thorough and complete", "C) Compromising", "D) Complicated"],
         "answer": "B",
         "explanation": "'Comprehensive' is a false friend; it means 'exhaustif' or 'complet' in French, not 'compréhensif'."
-    },
-    {
-        "question": "Complete the sentence: It is crucial that the newly appointed director _____ the upcoming board meeting.",
-        "options": ["A) attends", "B) attend", "C) attending", "D) will attend"],
-        "answer": "B",
-        "explanation": "The subjunctive mood is used after expressions of necessity like 'It is crucial that', requiring the base form of the verb."
-    },
-    {
-        "question": "Hardly _____ the office when the phone started ringing.",
-        "options": ["A) he had entered", "B) did he enter", "C) had he entered", "D) he entered"],
-        "answer": "C",
-        "explanation": "Negative adverbial phrases like 'Hardly' at the beginning of a sentence require subject-auxiliary inversion, typically past perfect 'had + subject + past participle'."
-    },
-    {
-        "question": "If the committee had approved the budget last week, we _____ the project right now.",
-        "options": ["A) would have started", "B) will start", "C) would be starting", "D) had started"],
-        "answer": "C",
-        "explanation": "This is a mixed conditional: a past unreal condition ('had approved') resulting in a present unreal result ('would be starting right now')."
-    },
-    {
-        "question": "The manager decided to _____ the less productive employees due to budget cuts.",
-        "options": ["A) lay off", "B) lay out", "C) put off", "D) call off"],
-        "answer": "A",
-        "explanation": "'Lay off' means to discharge a worker temporarily or permanently because of a shortage of work."
-    },
-    {
-        "question": "Not only _____ the new policy increase efficiency, but it also improves employee morale.",
-        "options": ["A) does", "B) do", "C) has", "D) did"],
-        "answer": "A",
-        "explanation": "Inversion is required after 'Not only' at the beginning of a sentence. Since the second clause uses 'improves' (present tense), 'does' is appropriate."
-    },
-    {
-        "question": "I suggest that the applicant _____ all relevant documents before the deadline.",
-        "options": ["A) submits", "B) submitted", "C) submit", "D) has submitted"],
-        "answer": "C",
-        "explanation": "Verbs like 'suggest', 'recommend', and 'demand' are followed by a 'that' clause with a verb in the subjunctive mood (base form)."
-    },
-    {
-        "question": "She couldn't quite _____ what the speaker was trying to say amidst the noise.",
-        "options": ["A) make up", "B) make out", "C) figure off", "D) take in"],
-        "answer": "B",
-        "explanation": "'Make out' means to manage to see, hear, or understand something."
-    },
-    {
-        "question": "By the time the delegation arrives next week, the necessary preparations _____.",
-        "options": ["A) are completed", "B) will have been completed", "C) will be completing", "D) have been completed"],
-        "answer": "B",
-        "explanation": "The future perfect passive ('will have been completed') is used to describe an action that will be finished before a specific time in the future."
-    },
-    {
-        "question": "The contractor promised that the building _____ by the end of November.",
-        "options": ["A) would be finished", "B) will finish", "C) is finished", "D) finishes"],
-        "answer": "A",
-        "explanation": "Reported speech in the past ('promised') typically shifts future tense ('will be finished') to conditional ('would be finished')."
-    },
-    {
-        "question": "Despite _____ a lack of resources, the team successfully launched the application.",
-        "options": ["A) of facing", "B) facing", "C) to face", "D) they faced"],
-        "answer": "B",
-        "explanation": "'Despite' is a preposition and should be followed by a noun or a gerund ('facing'), without 'of'."
-    },
-    {
-        "question": "We must _____ the fact that our competitors are gaining market share.",
-        "options": ["A) face up to", "B) put up with", "C) get away with", "D) look down on"],
-        "answer": "A",
-        "explanation": "'Face up to' means to accept a difficult situation and deal with it."
-    },
-    {
-        "question": "It is imperative that the regulations _____ strictly enforced to ensure safety.",
-        "options": ["A) are", "B) be", "C) will be", "D) have been"],
-        "answer": "B",
-        "explanation": "'It is imperative that' triggers the subjunctive mood, requiring the base form of the verb ('be')."
-    },
-    {
-        "question": "Were _____ not for his timely intervention, the project would have failed.",
-        "options": ["A) he", "B) it", "C) there", "D) that"],
-        "answer": "B",
-        "explanation": "'Were it not for' is a formal, inverted conditional phrase meaning 'If it were not for'."
-    },
-    {
-        "question": "The CEO decided to step down, _____ paving the way for a younger leadership team.",
-        "options": ["A) thereby", "B) however", "C) moreover", "D) nevertheless"],
-        "answer": "A",
-        "explanation": "'Thereby' means 'as a result of that action', which fits contextually."
-    },
-    {
-        "question": "The company's profits have been declining steadily; _____, they have announced a hiring freeze.",
-        "options": ["A) conversely", "B) consequently", "C) furthermore", "D) nonetheless"],
-        "answer": "B",
-        "explanation": "'Consequently' indicates that the hiring freeze is a result of the declining profits."
-    },
-    {
-        "question": "I would rather you _____ the proposal before submitting it to the client.",
-        "options": ["A) review", "B) reviewed", "C) have reviewed", "D) will review"],
-        "answer": "B",
-        "explanation": "'Would rather' followed by a subject requires the past subjunctive (past simple form) to express a preference about the present or future."
-    },
-    {
-        "question": "The auditor found several discrepancies that need to be _____ immediately.",
-        "options": ["A) looked into", "B) brought up", "C) taken over", "D) passed out"],
-        "answer": "A",
-        "explanation": "'Looked into' means to investigate or examine."
-    },
-    {
-        "question": "Rarely _____ such a dedicated group of professionals.",
-        "options": ["A) have I seen", "B) I have seen", "C) did I saw", "D) I saw"],
-        "answer": "A",
-        "explanation": "Negative adverbial 'Rarely' at the beginning of a sentence requires subject-auxiliary inversion."
-    },
-    {
-        "question": "The new software is designed to _____ the administrative process, making it much faster.",
-        "options": ["A) streamline", "B) undermine", "C) compromise", "D) exacerbate"],
-        "answer": "A",
-        "explanation": "'Streamline' means to make a process more efficient and effective."
-    },
-    {
-        "question": "He was _____ on the spot for his gross misconduct.",
-        "options": ["A) laid off", "B) fired", "C) stepped down", "D) taken back"],
-        "answer": "B",
-        "explanation": "'Fired' implies dismissal for cause, such as misconduct, whereas 'laid off' implies redundancy."
-    },
-    {
-        "question": "If she had known about the traffic, she _____ another route.",
-        "options": ["A) would take", "B) took", "C) would have taken", "D) had taken"],
-        "answer": "C",
-        "explanation": "Third conditional requires 'would have + past participle' in the main clause."
-    },
-    {
-        "question": "The board requires that every member _____ present at the annual general meeting.",
-        "options": ["A) is", "B) be", "C) are", "D) will be"],
-        "answer": "B",
-        "explanation": "'Requires that' is followed by the subjunctive mood, which uses the base form 'be'."
-    },
-    {
-        "question": "The manager had to _____ the meeting because several key participants were unavailable.",
-        "options": ["A) call off", "B) bring about", "C) carry out", "D) set up"],
-        "answer": "A",
-        "explanation": "'Call off' means to cancel an event."
-    },
-    {
-        "question": "We are looking forward to _____ from you soon.",
-        "options": ["A) hear", "B) hearing", "C) be heard", "D) have heard"],
-        "answer": "B",
-        "explanation": "The phrase 'look forward to' is followed by a gerund ('hearing')."
-    },
-    {
-        "question": "Scarcely had the president began his speech _____ the lights went out.",
-        "options": ["A) than", "B) when", "C) that", "D) before"],
-        "answer": "B",
-        "explanation": "The correlative conjunction pair is 'Scarcely... when' (or 'Hardly... when')."
-    },
-    {
-        "question": "The new regulations will _____ effect on January 1st.",
-        "options": ["A) make", "B) take", "C) put", "D) set"],
-        "answer": "B",
-        "explanation": "The correct collocation is 'take effect', meaning to come into operation."
-    },
-    {
-        "question": "She is accustomed _____ working long hours during the tax season.",
-        "options": ["A) with", "B) to", "C) for", "D) in"],
-        "answer": "B",
-        "explanation": "The adjective 'accustomed' is followed by the preposition 'to'."
-    },
-    {
-        "question": "He was accused _____ embezzling company funds.",
-        "options": ["A) for", "B) of", "C) with", "D) about"],
-        "answer": "B",
-        "explanation": "The correct preposition after 'accused' is 'of'."
-    },
-    {
-        "question": "Under no circumstances _____ allowed to leave the premises without permission.",
-        "options": ["A) employees are", "B) are employees", "C) employees will be", "D) have employees"],
-        "answer": "B",
-        "explanation": "Negative prepositional phrases like 'Under no circumstances' at the beginning of a sentence require inversion."
-    },
-    {
-        "question": "The project was completed ahead of schedule, _____ surprised everyone.",
-        "options": ["A) that", "B) which", "C) what", "D) who"],
-        "answer": "B",
-        "explanation": "The relative pronoun 'which' is used to refer back to the entire preceding clause."
-    },
-    {
-        "question": "If it _____ rain tomorrow, we will have to reschedule the outdoor event.",
-        "options": ["A) would", "B) should", "C) might", "D) could"],
-        "answer": "B",
-        "explanation": "'If it should rain' is a formal way to express a conditional future possibility."
-    },
-    {
-        "question": "The committee demanded that the controversial proposal _____ withdrawn immediately.",
-        "options": ["A) is", "B) be", "C) was", "D) has been"],
-        "answer": "B",
-        "explanation": "'Demanded that' requires the subjunctive base form 'be'."
-    },
-    {
-        "question": "She speaks English fluently, _____ a slight accent.",
-        "options": ["A) albeit", "B) despite", "C) whereas", "D) nonetheless"],
-        "answer": "A",
-        "explanation": "'Albeit' is a formal conjunction meaning 'although' or 'even if'."
-    },
-    {
-        "question": "The company has decided to _____ its operations in the Asian market.",
-        "options": ["A) scale back", "B) bring up", "C) pass out", "D) turn down"],
-        "answer": "A",
-        "explanation": "'Scale back' means to reduce the size or extent of something."
-    },
-    {
-        "question": "Having _____ the document, he handed it to the director for signature.",
-        "options": ["A) write", "B) written", "C) wrote", "D) writing"],
-        "answer": "B",
-        "explanation": "A perfect participle clause requires 'Having + past participle'."
-    },
-    {
-        "question": "The instructions were convoluted; I couldn't make _____ of them.",
-        "options": ["A) sense", "B) head nor tail", "C) meaning", "D) understanding"],
-        "answer": "B",
-        "explanation": "'Make head nor tail' is an idiom meaning to be completely unable to understand something."
-    },
-    {
-        "question": "It is high time you _____ looking for a more stable job.",
-        "options": ["A) start", "B) started", "C) are starting", "D) will start"],
-        "answer": "B",
-        "explanation": "'It is high time' is followed by the past simple tense to suggest something should be done now."
-    },
-    {
-        "question": "The speaker _____ the importance of international cooperation during his address.",
-        "options": ["A) emphasized on", "B) emphasized", "C) stressed on", "D) highlighted on"],
-        "answer": "B",
-        "explanation": "The verbs 'emphasize' and 'stress' are transitive and do not take the preposition 'on'."
-    },
-    {
-        "question": "She was totally engrossed _____ her research.",
-        "options": ["A) in", "B) at", "C) on", "D) with"],
-        "answer": "A",
-        "explanation": "The adjective 'engrossed' is followed by the preposition 'in'."
-    },
-    {
-        "question": "No sooner had the minister arrived _____ the meeting commenced.",
-        "options": ["A) when", "B) than", "C) that", "D) before"],
-        "answer": "B",
-        "explanation": "The correlative conjunction pair is 'No sooner... than'."
-    },
-    {
-        "question": "The negotiations broke _____ after neither side was willing to compromise.",
-        "options": ["A) out", "B) down", "C) through", "D) off"],
-        "answer": "B",
-        "explanation": "'Break down' refers to the failure of discussions or negotiations."
-    },
-    {
-        "question": "Had I known about the policy change, I _____ differently.",
-        "options": ["A) will have acted", "B) would act", "C) would have acted", "D) had acted"],
-        "answer": "C",
-        "explanation": "Third conditional requires 'would have + past participle' for the result of a past unfulfilled condition."
-    },
-    {
-        "question": "The new employee is still trying to _____ the ropes.",
-        "options": ["A) learn", "B) pull", "C) hold", "D) cut"],
-        "answer": "A",
-        "explanation": "'Learn the ropes' is an idiom meaning to understand how to do a particular job or task."
-    },
-    {
-        "question": "He will not accept the offer unless it _____ his salary expectations.",
-        "options": ["A) meets", "B) will meet", "C) meet", "D) met"],
-        "answer": "A",
-        "explanation": "'Unless' introduces a conditional clause, which takes the present simple tense ('meets') for future meaning."
-    },
-    {
-        "question": "The company's success is largely contingent _____ securing this contract.",
-        "options": ["A) on", "B) to", "C) with", "D) for"],
-        "answer": "A",
-        "explanation": "The adjective 'contingent' is followed by the preposition 'on' or 'upon'."
-    },
-    {
-        "question": "He was completely taken _____ by the fraudulent scheme.",
-        "options": ["A) back", "B) in", "C) off", "D) up"],
-        "answer": "B",
-        "explanation": "'Take in' in passive voice means to be deceived or cheated."
-    },
-    {
-        "question": "It's essential that the data _____ backed up regularly.",
-        "options": ["A) is", "B) be", "C) are", "D) will be"],
-        "answer": "B",
-        "explanation": "'It's essential that' requires the subjunctive base form 'be'."
-    },
-    {
-        "question": "By the end of this year, she _____ as a diplomat for twenty years.",
-        "options": ["A) will work", "B) will be working", "C) will have been working", "D) has worked"],
-        "answer": "C",
-        "explanation": "The future perfect continuous emphasizes the duration of an ongoing action up to a future point."
-    },
-    {
-        "question": "His reckless behavior is bound to _____ consequences.",
-        "options": ["A) bring about", "B) come across", "C) put off", "D) take after"],
-        "answer": "A",
-        "explanation": "'Bring about' means to cause something to happen."
-    },
-    {
-        "question": "They were _____ the impression that the deadline had been extended.",
-        "options": ["A) in", "B) on", "C) under", "D) with"],
-        "answer": "C",
-        "explanation": "The correct prepositional phrase is 'under the impression'."
     },
     {
         "question": "Complete the sentence: It is crucial that the newly appointed director _____ the upcoming board meeting.",
@@ -11756,301 +10310,301 @@ THEME_5 = [
     {
         "question": "By the time the firemen arrived, the house ____ down.",
         "options": ["A) had burned", "B) burned", "C) has burned", "D) was burning"],
-        "answer": "A) had burned",
+        "answer": "A",
         "explanation": "L'action s'est terminée avant une autre action au passé (past perfect)."
     },
     {
         "question": "Never before ____ such a spectacular sunset.",
         "options": ["A) I have seen", "B) have I seen", "C) I saw", "D) did I saw"],
-        "answer": "B) have I seen",
+        "answer": "B",
         "explanation": "Inversion obligatoire après 'Never' en début de phrase."
     },
     {
         "question": "If I ____ you, I would apply for that job.",
         "options": ["A) was", "B) am", "C) were", "D) had been"],
-        "answer": "C) were",
+        "answer": "C",
         "explanation": "Conditionnel irréel du présent, on utilise toujours 'were' à toutes les personnes."
     },
     {
         "question": "PIÈGE: If he had caught the train yesterday, he ____ here right now.",
         "options": ["A) would be", "B) would have been", "C) will be", "D) had been"],
-        "answer": "A) would be",
+        "answer": "A",
         "explanation": "Mixed conditional: condition passée (Type 3) avec conséquence présente (Type 2, right now)."
     },
     {
         "question": "Not only ____ the exam, but she also got the highest score.",
         "options": ["A) she passed", "B) did she pass", "C) passed she", "D) she did pass"],
-        "answer": "B) did she pass",
+        "answer": "B",
         "explanation": "Inversion sujet/auxiliaire après 'Not only' en tête de phrase."
     },
     {
         "question": "It was in 1998 ____ he started his own company.",
         "options": ["A) when", "B) which", "C) that", "D) where"],
-        "answer": "C) that",
+        "answer": "C",
         "explanation": "Cleft sentence : It is/was [élément souligné] THAT..."
     },
     {
         "question": "I am not used ____ up so early in the morning.",
         "options": ["A) to wake", "B) to waking", "C) waking", "D) wake"],
-        "answer": "B) to waking",
+        "answer": "B",
         "explanation": "BE USED TO est suivi du gérondif (-ing). C'est une habitude actuelle."
     },
     {
         "question": "PIÈGE: He ____ smoke a lot, but he quit last year.",
         "options": ["A) is used to", "B) was used to", "C) used to", "D) would"],
-        "answer": "C) used to",
+        "answer": "C",
         "explanation": "Habitude révolue. 'Would' ne s'emploie pas ici car c'est un état/une habitude globale sans contexte de temps précis."
     },
     {
         "question": "Hardly had I left the building ____ it started to rain.",
         "options": ["A) than", "B) when", "C) that", "D) then"],
-        "answer": "B) when",
+        "answer": "B",
         "explanation": "Corrélation: Hardly... when / No sooner... than."
     },
     {
         "question": "No sooner had we sat down to eat ____ the phone rang.",
         "options": ["A) than", "B) when", "C) that", "D) then"],
-        "answer": "A) than",
+        "answer": "A",
         "explanation": "No sooner est suivi de 'than'."
     },
     {
         "question": "I suggest that he ____ a doctor immediately.",
         "options": ["A) sees", "B) see", "C) saw", "D) is seeing"],
-        "answer": "B) see",
+        "answer": "B",
         "explanation": "Subjonctif présent en anglais après 'suggest', 'recommend', on utilise la base verbale."
     },
     {
         "question": "You ____ be tired after such a long journey! Go to bed.",
         "options": ["A) can", "B) must", "C) should", "D) ought to"],
-        "answer": "B) must",
+        "answer": "B",
         "explanation": "Déduction forte / quasi-certitude (must)."
     },
     {
         "question": "He ____ have committed the crime; he was with me all day.",
         "options": ["A) mustn't", "B) shouldn't", "C) can't", "D) won't"],
-        "answer": "C) can't",
+        "answer": "C",
         "explanation": "La déduction négative passée se forme avec can't / couldn't + have + PP."
     },
     {
         "question": "PIÈGE: Even though the door was locked, he ____ open it.",
         "options": ["A) could", "B) was able to", "C) can", "D) might"],
-        "answer": "B) was able to",
+        "answer": "B",
         "explanation": "Pour une réussite spécifique dans le passé (avec effort), on utilise 'was able to' ou 'managed to', pas 'could'."
     },
     {
         "question": "PIÈGE: I look forward ____ you next week.",
         "options": ["A) to see", "B) to seeing", "C) seeing", "D) for seeing"],
-        "answer": "B) to seeing",
+        "answer": "B",
         "explanation": "Le 'to' de 'look forward to' est une préposition, il est donc suivi d'un gérondif (-ing)."
     },
     {
         "question": "She didn't come to the party, ____ was a pity.",
         "options": ["A) what", "B) which", "C) that", "D) it"],
-        "answer": "B) which",
+        "answer": "B",
         "explanation": "Le pronom relatif 'which' reprend l'ensemble de la proposition précédente."
     },
     {
         "question": "We have been living here ____ ten years.",
         "options": ["A) since", "B) for", "C) during", "D) ago"],
-        "answer": "B) for",
+        "answer": "B",
         "explanation": "For + durée (ten years)."
     },
     {
         "question": "We have been living here ____ 2015.",
         "options": ["A) since", "B) for", "C) in", "D) from"],
-        "answer": "A) since",
+        "answer": "A",
         "explanation": "Since + point de départ dans le temps."
     },
     {
         "question": "He usually travels ____ train, but today he came ____ foot.",
         "options": ["A) by / by", "B) on / on", "C) by / on", "D) with / by"],
-        "answer": "C) by / on",
+        "answer": "C",
         "explanation": "By train (moyen de transport général) mais on foot (exception)."
     },
     {
         "question": "PIÈGE: They arrived ____ the airport at 9 PM.",
         "options": ["A) in", "B) at", "C) on", "D) to"],
-        "answer": "B) at",
+        "answer": "B",
         "explanation": "On arrive AT un point précis (airport, station) et IN un pays/une ville."
     },
     {
         "question": "They arrived ____ Paris yesterday.",
         "options": ["A) at", "B) in", "C) on", "D) to"],
-        "answer": "B) in",
+        "answer": "B",
         "explanation": "Arrive IN pour une ville ou un pays."
     },
     {
         "question": "PIÈGE: He was born ____ the 15th of August, ____ 1990.",
         "options": ["A) in / in", "B) on / in", "C) at / on", "D) on / on"],
-        "answer": "B) on / in",
+        "answer": "B",
         "explanation": "ON devant un jour précis (15th August), IN devant une année."
     },
     {
         "question": "It's strange that she ____ be so rude.",
         "options": ["A) would", "B) should", "C) will", "D) can"],
-        "answer": "B) should",
+        "answer": "B",
         "explanation": "Should d'appréciation après des adjectifs comme strange, surprising, odd."
     },
     {
         "question": "I ____ to work yesterday because it was a public holiday.",
         "options": ["A) didn't have to go", "B) mustn't go", "C) shouldn't go", "D) haven't to go"],
-        "answer": "A) didn't have to go",
+        "answer": "A",
         "explanation": "L'absence d'obligation au passé (have to). Mustn't exprime l'interdiction, pas l'absence d'obligation."
     },
     {
         "question": "The meeting will take place ____ Monday morning.",
         "options": ["A) in", "B) at", "C) on", "D) -"],
-        "answer": "C) on",
+        "answer": "C",
         "explanation": "Dès qu'il y a un jour (Monday), la préposition est ON, même s'il est suivi de 'morning'."
     },
     {
         "question": "We are going ____ home after work.",
         "options": ["A) at", "B) to", "C) towards", "D) -"],
-        "answer": "D) -",
+        "answer": "D",
         "explanation": "Pas de préposition 'to' avant 'home' avec des verbes de mouvement."
     },
     {
         "question": "PIÈGE: He works hard, ____?",
         "options": ["A) isn't he", "B) doesn't he", "C) don't he", "D) does he"],
-        "answer": "B) doesn't he",
+        "answer": "B",
         "explanation": "Question tag avec un verbe d'action au présent régulier (works) nécessite l'auxiliaire do/does."
     },
     {
         "question": "Rarely ____ anyone in the office before 8 AM.",
         "options": ["A) I see", "B) see I", "C) do I see", "D) I do see"],
-        "answer": "C) do I see",
+        "answer": "C",
         "explanation": "Inversion avec auxiliaire (do) après un adverbe de sens négatif (Rarely)."
     },
     {
         "question": "You had better ____ a doctor.",
         "options": ["A) to see", "B) see", "C) seeing", "D) saw"],
-        "answer": "B) see",
+        "answer": "B",
         "explanation": "Had better est suivi de la base verbale sans 'to'."
     },
     {
         "question": "It's time we ____.",
         "options": ["A) leave", "B) left", "C) to leave", "D) are leaving"],
-        "answer": "B) left",
+        "answer": "B",
         "explanation": "It's time / It's high time est suivi du prétérit modal (left)."
     },
     {
         "question": "PIÈGE: I remember ____ the door, but now it's open!",
         "options": ["A) to lock", "B) locking", "C) lock", "D) having lock"],
-        "answer": "B) locking",
+        "answer": "B",
         "explanation": "Remember + V-ing = se souvenir d'avoir fait qqch au passé."
     },
     {
         "question": "Don't forget ____ the door when you leave.",
         "options": ["A) to lock", "B) locking", "C) lock", "D) locked"],
-        "answer": "A) to lock",
+        "answer": "A",
         "explanation": "Forget / Remember + To-V = penser/oublier de faire qqch (action future par rapport au moment de la pensée)."
     },
     {
         "question": "PIÈGE: Neither John nor his brothers ____ coming to the party.",
         "options": ["A) is", "B) are", "C) isn't", "D) aren't"],
-        "answer": "B) are",
+        "answer": "B",
         "explanation": "Avec 'neither... nor', l'accord se fait avec le sujet le plus proche (his brothers = pluriel)."
     },
     {
         "question": "____ I open the window? It's hot in here.",
         "options": ["A) Will", "B) Shall", "C) Would", "D) Do"],
-        "answer": "B) Shall",
+        "answer": "B",
         "explanation": "Pour faire une proposition ou demander un avis avec I ou WE, on utilise 'Shall'."
     },
     {
         "question": "The book ____ published next month.",
         "options": ["A) is to be", "B) is to", "C) will to be", "D) are being"],
-        "answer": "A) is to be",
+        "answer": "A",
         "explanation": "BE + TO-V exprime un programme officiel, ici au passif 'is to be published'."
     },
     {
         "question": "PIÈGE: The committee ____ reached a decision.",
         "options": ["A) have", "B) has", "C) is", "D) are"],
-        "answer": "B) has",
+        "answer": "B",
         "explanation": "En anglais américain, et généralement pour l'action du groupe uni, le collectif prend le singulier (has)."
     },
     {
         "question": "PIÈGE: The police ____ investigating the murder.",
         "options": ["A) is", "B) are", "C) has", "D) does"],
-        "answer": "B) are",
+        "answer": "B",
         "explanation": "Le mot 'police' est toujours suivi d'un verbe au pluriel en anglais."
     },
     {
         "question": "I would rather you ____ me the truth yesterday.",
         "options": ["A) told", "B) had told", "C) tell", "D) have told"],
-        "answer": "B) had told",
+        "answer": "B",
         "explanation": "Would rather + sujet + past perfect pour un regret portant sur le passé."
     },
     {
         "question": "I would rather ____ at home tonight.",
         "options": ["A) to stay", "B) staying", "C) stay", "D) stayed"],
-        "answer": "C) stay",
+        "answer": "C",
         "explanation": "Would rather + base verbale sans 'to' quand les sujets sont identiques (I / stay)."
     },
     {
         "question": "If only I ____ richer!",
         "options": ["A) am", "B) would be", "C) were", "D) have been"],
-        "answer": "C) were",
+        "answer": "C",
         "explanation": "If only s'emploie comme wish avec le prétérit modal (were)."
     },
     {
         "question": "Under no circumstances ____ open this box.",
         "options": ["A) you should", "B) should you", "C) you must", "D) can you to"],
-        "answer": "B) should you",
+        "answer": "B",
         "explanation": "Inversion après 'Under no circumstances' (adverbe restrictif/négatif en tête)."
     },
     {
         "question": "PIÈGE: What ____ when you saw him?",
         "options": ["A) did he do", "B) was he doing", "C) had he done", "D) has he done"],
-        "answer": "B) was he doing",
+        "answer": "B",
         "explanation": "Action en progression (past continuous) interrompue par une action brève (saw)."
     },
     {
         "question": "He told me he ____ call me the next day.",
         "options": ["A) will", "B) would", "C) shall", "D) can"],
-        "answer": "B) would",
+        "answer": "B",
         "explanation": "Discours indirect au passé: 'will' devient 'would'."
     },
     {
         "question": "PIÈGE: If it ____ rain tomorrow, we will cancel the match.",
         "options": ["A) would", "B) will", "C) should", "D) might"],
-        "answer": "C) should",
+        "answer": "C",
         "explanation": "If it should rain = S'il venait à pleuvoir (probabilité faible mais Type 1)."
     },
     {
         "question": "I DO ____ you, believe me!",
         "options": ["A) to love", "B) loving", "C) love", "D) loved"],
-        "answer": "C) love",
+        "answer": "C",
         "explanation": "Emphatic DO: suivi de la base verbale pour insister."
     },
     {
         "question": "The CEO, along with his managers, ____ expected to attend.",
         "options": ["A) are", "B) is", "C) were", "D) have been"],
-        "answer": "B) is",
+        "answer": "B",
         "explanation": "Le sujet est The CEO. 'along with...' est une parenthèse, donc le verbe est au singulier."
     },
     {
         "question": "By this time next year, I ____ my studies.",
         "options": ["A) will finish", "B) finish", "C) will have finished", "D) have finished"],
-        "answer": "C) will have finished",
+        "answer": "C",
         "explanation": "Future perfect (will have + PP) avec une date butoir (By this time)."
     },
     {
         "question": "PIÈGE: It's the first time I ____ this movie.",
         "options": ["A) watch", "B) am watching", "C) watched", "D) have watched"],
-        "answer": "D) have watched",
+        "answer": "D",
         "explanation": "Après 'It's the first time', on utilise TOUJOURS le present perfect."
     },
     {
         "question": "I object to ____ like a child.",
         "options": ["A) be treated", "B) being treated", "C) treat", "D) treating"],
-        "answer": "B) being treated",
+        "answer": "B",
         "explanation": "Object to + V-ing, ici à la forme passive 'being treated'."
     },
     {
         "question": "____ you need any help, please contact the manager.",
         "options": ["A) Would", "B) Could", "C) Should", "D) If only"],
-        "answer": "C) Should",
+        "answer": "C",
         "explanation": "Inversion de la conditionnelle Type 1: 'Should you need...' = 'If you should need...'."
     },
 ]
@@ -12147,12 +10701,6 @@ THEME_6 = [
         "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
     },
     {
-        "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
-        "options": ["A) Le gouvernement", "B) L'Assemblée nationale et le Sénat", "C) La Cour suprême", "D) Le Conseil des ministres"],
-        "answer": "B",
-        "explanation": "Le Parlement ivoirien est bicaméral : il comprend l'Assemblée nationale et le Sénat."
-    },
-    {
         "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
         "options": ["A) Le Tribunal de Première Instance", "B) La Cour d'Appel", "C) Le Conseil constitutionnel", "D) La Cour des Comptes"],
         "answer": "C",
@@ -12177,70 +10725,10 @@ THEME_6 = [
         "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens."
     },
     {
-        "question": "Qu'est-ce que la séparation des pouvoirs ?",
-        "options": ["A) Un régime où une seule personne détient tous les pouvoirs", "B) Le principe selon lequel exécutif, législatif et judiciaire sont distincts", "C) Un mode d'organisation des partis politiques", "D) La séparation de l'Église et de l'État"],
-        "answer": "B",
-        "explanation": "La séparation des pouvoirs (Montesquieu) garantit que les trois pouvoirs sont exercés par des organes distincts."
-    },
-    {
-        "question": "Qu'est-ce que le suffrage universel ?",
-        "options": ["A) Le droit de vote réservé aux propriétaires", "B) Le droit de vote accordé à tous les citoyens sans condition de fortune", "C) Le droit de vote réservé aux hommes", "D) Le vote au sein des parlements"],
-        "answer": "B",
-        "explanation": "Le suffrage universel accorde le droit de vote à tous les citoyens majeurs, sans distinction."
-    },
-    {
-        "question": "Qu'est-ce que la présomption d'innocence ?",
-        "options": ["A) Toute personne est coupable jusqu'à preuve du contraire", "B) Toute personne est présumée innocente jusqu'à preuve de sa culpabilité", "C) Les accusés n'ont pas droit à un avocat", "D) Les condamnations ne peuvent pas être contestées"],
-        "answer": "B",
-        "explanation": "La présomption d'innocence : nul n'est coupable sans jugement."
-    },
-    {
-        "question": "Qu'est-ce qu'une constitution ?",
-        "options": ["A) Un règlement interne d'une entreprise", "B) Un code pénal", "C) La loi fondamentale qui organise l'État et protège les droits fondamentaux", "D) Un traité international"],
-        "answer": "C",
-        "explanation": "La constitution est la norme suprême d'un État organisant les pouvoirs publics."
-    },
-    {
-        "question": "Qu'est-ce que le droit de grève ?",
-        "options": ["A) Le droit de refuser de payer des impôts", "B) Le droit pour les travailleurs de cesser le travail pour défendre leurs intérêts", "C) Le droit de manifester contre le gouvernement", "D) Le droit de quitter son emploi"],
-        "answer": "B",
-        "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
-    },
-    {
-        "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
-        "options": ["A) Le gouvernement", "B) L'Assemblée nationale et le Sénat", "C) La Cour suprême", "D) Le Conseil des ministres"],
-        "answer": "B",
-        "explanation": "Le Parlement ivoirien est bicaméral : Assemblée nationale et Sénat."
-    },
-    {
-        "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
-        "options": ["A) Le Tribunal de Première Instance", "B) La Cour d'Appel", "C) Le Conseil constitutionnel", "D) La Cour des Comptes"],
-        "answer": "C",
-        "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution."
-    },
-    {
-        "question": "Combien de districts compte la Côte d'Ivoire ?",
-        "options": ["A) 10", "B) 12", "C) 14", "D) 33"],
-        "answer": "C",
-        "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes."
-    },
-    {
-        "question": "Qu'est-ce qu'un référendum ?",
-        "options": ["A) Un vote réservé au Parlement", "B) Une procédure par laquelle les citoyens se prononcent directement sur une question", "C) L'élection du Président de la République", "D) Un vote de confiance au gouvernement"],
-        "answer": "B",
-        "explanation": "Le référendum est un mécanisme de démocratie directe."
-    },
-    {
         "question": "Quel est le rôle du Défenseur des droits ?",
         "options": ["A) Il défend la France devant les juridictions internationales", "B) Il protège les droits fondamentaux des citoyens face aux administrations", "C) Il gère le budget de l'État", "D) Il nomme les juges"],
         "answer": "B",
         "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens face aux administrations."
-    },
-    {
-        "question": "Quelle est la capitale administrative de la Côte d'Ivoire ?",
-        "options": ["A) Abidjan", "B) Yamoussoukro", "C) Bouake", "D) San-Pedro"],
-        "answer": "B",
-        "explanation": "Yamoussoukro est la capitale politique depuis 1983. Abidjan reste la capitale économique."
     },
     {
         "question": "En quelle année la CI a-t-elle accédé à l'indépendance ?",
@@ -12862,271 +11350,271 @@ THEME_6 = [
     },
     {
         "question": "Question 56",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 57",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 58",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 59",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 60",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 61",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 62",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 63",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 64",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 65",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 66",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 67",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 68",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 69",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 70",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 71",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 72",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 73",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 74",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 75",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 76",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 77",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 78",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 79",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 80",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 81",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 82",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 83",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 84",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 85",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 86",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 87",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 88",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 89",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 90",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 91",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 92",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 93",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 94",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 95",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 96",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 97",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 98",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 99",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 100",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
@@ -14527,271 +13015,271 @@ THEME_7 = [
     },
     {
         "question": "Question 106",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 107",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 108",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 109",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 110",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 111",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 112",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 113",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 114",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 115",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 116",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 117",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 118",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 119",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 120",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 121",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 122",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 123",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 124",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 125",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 126",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 127",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 128",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 129",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 130",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 131",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 132",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 133",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 134",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 135",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 136",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 137",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 138",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 139",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 140",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 141",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 142",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 143",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 144",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 145",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 146",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
     {
         "question": "Question 147",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "A",
         "explanation": "Exp"
     },
     {
         "question": "Question 148",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "B",
         "explanation": "Exp"
     },
     {
         "question": "Question 149",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "C",
         "explanation": "Exp"
     },
     {
         "question": "Question 150",
-        "options": ["A", "B", "C", "D"],
+        "options": ["A) A", "B) B", "C) C", "D) D"],
         "answer": "D",
         "explanation": "Exp"
     },
@@ -15097,302 +13585,302 @@ THEME_7 = [
     },
     {
         "question": "Le principe de la légalité administrative implique que l’administration doit respecter les textes qui émanent d’elle-même.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "L'administration doit respecter ses propres textes selon le principe de la légalité."
     },
     {
         "question": "Selon l’arrêt Doublet, l’administration a l’obligation de faire respecter la loi.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "L'arrêt Doublet consacre l'obligation pour l'administration de faire respecter la loi."
     },
     {
         "question": "Selon l’Arrêt Compagnie France Amérique, l’administration n’est tenue de respecter la loi.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "L'administration est tenue de respecter la loi."
     },
     {
         "question": "Selon l’Arrêt Société pour l’Estéhétique de France, l’administration a la faculté de faire cesser les situations inégales.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Elle a l'obligation (et non la simple faculté) de faire cesser les situations inégales."
     },
     {
         "question": "Selon l’Arrêt Couitéas, l’administration ne peut jamais refuser d’apporter son concours à l’exécution des décisions de justice.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Elle peut refuser exceptionnellement pour des motifs d'ordre public."
     },
     {
         "question": "L’administration a le pouvoir d’apprécier les faits et les modalités d’exécution d’une obligation qui lui est faite.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Cela découle de son pouvoir d'appréciation et du pouvoir discrétionnaire."
     },
     {
         "question": "L’administration n’est pas soumise au respect du préambule de la constitution.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Le préambule a valeur constitutionnelle et s'impose à l'administration (Arrêt Société EKY)."
     },
     {
         "question": "L’acte inexistant est un acte qui est rentre dans l’ordonnancement juridique avant d’en sortir.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "L'acte inexistant est censé n'avoir jamais existé."
     },
     {
         "question": "Tout pouvoir discrétionnaire comporte une dose de compétence liée.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Il y a toujours un contrôle minimum de légalité (compétence, forme)."
     },
     {
         "question": "Aucun recours n’est possible contre tous les actes de gouvernement.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Exceptionnellement, un recours en indemnité est possible pour rupture d'égalité devant les charges publiques (traités)."
     },
     {
         "question": "C’est l’arrêt Héyriès qui pose les conditions d’application de la théorie des circonstances exceptionnelles.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "L'arrêt Heyriès consacre les atteintes aux règles de forme et de procédure en période exceptionnelle."
     },
     {
         "question": "Le préfet d’Abidjan décide de l’interdiction de manifester sur toute l’étendue du territoire d’Abidjan jusqu’à nouvel ordre. Cette mesure sera confirmée par le juge au regard de la jurisprudence administrative.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Une interdiction générale et absolue est illégale."
     },
     {
         "question": "Les mesures de police prises dans un but de brimade sont légales.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Elles constituent un détournement de pouvoir."
     },
     {
         "question": "Les autorités parlementaires ne prennent jamais des actes administratifs.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Elles en prennent dans le cadre de la gestion de leurs fonctionnaires (CSCA, Anzian Niamiké)."
     },
     {
         "question": "Les autorités administratives peuvent prendre des actes privés.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Oui, dans le cadre de la gestion de leur domaine privé."
     },
     {
         "question": "Les circulaires ne sont jamais des actes administratifs décisoire.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Les circulaires réglementaires peuvent avoir un caractère décisoire."
     },
     {
         "question": "Les décisions du conseil municipal sont des délibérations.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Le conseil municipal prend ses décisions sous forme de délibérations."
     },
     {
         "question": "En CI, le premier ministre peut prendre des ordonnances.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "C'est le Président de la République qui prend des ordonnances."
     },
     {
         "question": "La décision par laquelle l’inspecteur du travail refuse d’autoriser le licenciement d’un délégué du personnel est un acte administratif.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "C'est un acte administratif susceptible de REP."
     },
     {
         "question": "Un particulier personne physique peut prendre des actes administratifs.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Oui, s'il gère un service public et est doté de prérogatives de puissance publique (CE, Monpeurt, Magnier)."
     },
     {
         "question": "La notation des fonctionnaires sont des actes administratifs.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "La notation d'un fonctionnaire est un acte administratif (CSCA, Douka Yao Anderson)."
     },
     {
         "question": "L’appel d’offres a pour dessein d’attribuer le contrat au soumissionnaire le moins-disant.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "L'appel d'offres vise généralement l'offre économiquement la plus avantageuse, souvent la moins-disante."
     },
     {
         "question": "La modification unilatérale du prix du contrat est admise par la jurisprudence administrative.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "L'administration ne peut modifier unilatéralement les clauses financières du contrat."
     },
     {
         "question": "La mise en régie d’office est une matérialisation du pouvoir de sanction de l’autorité contractante.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "C'est une sanction coercitive en cas de défaillance du cocontractant."
     },
     {
         "question": "La force majeure administrative résulte de plusieurs tentatives infructueuses de viabilisation du contrat par l’autorité administrative.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "La force majeure doit être extérieure, imprévisible et irrésistible."
     },
     {
         "question": "Dans la théorie du fait du principe, l’indemnisation du cocontractant est partielle.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Le fait du prince donne droit à une indemnisation intégrale."
     },
     {
         "question": "Le contentieux des contrats administratifs est exclusivement un contentieux de pleine juridiction.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Le REP est possible contre les actes détachables."
     },
     {
         "question": "L'inaliénabilité du domaine public signifie que les biens affectés à l'utilité publique ne peuvent être vendus ou échangés tant qu'ils sont affectés à un service public.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "C'est la définition du principe d'inaliénabilité du domaine public."
     },
     {
         "question": "Qu'est-ce qui distingue le domaine public naturel du domaine public artificiel ?",
-        "options": ["a. L'intervention humaine", "b. Le type de propriété", "c. La taille des biens"],
-        "answer": "a. L'intervention humaine",
+        "options": ["A) a. L'intervention humaine", "B) b. Le type de propriété", "C) c. La taille des biens"],
+        "answer": "A",
         "explanation": "Le domaine public artificiel résulte d'un aménagement humain."
     },
     {
         "question": "Le domaine privé est accessible à tous sans restriction.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Le domaine privé est géré comme la propriété d'un particulier et n'est pas librement accessible à tous."
     },
     {
         "question": "Quel document est nécessaire pour déclencher la procédure d'expropriation ?",
-        "options": ["a. Un contrat de vente", "b. Une déclaration d'utilité publique", "c. Un accord de voisinage"],
-        "answer": "b. Une déclaration d'utilité publique",
+        "options": ["A) a. Un contrat de vente", "B) b. Une déclaration d'utilité publique", "C) c. Un accord de voisinage"],
+        "answer": "B",
         "explanation": "La DUP est l'acte préalable indispensable."
     },
     {
         "question": "L’expropriation pour cause d’utilité publique est chevauchée par une phase administrative et une phase judiciaire.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "L'expropriation comporte une phase administrative (DUP, arrêté de cessibilité) et une phase judiciaire (transfert de propriété, indemnisation)."
     },
     {
         "question": "Dans la permission de voirie, les droits du permissionnaire sont précaires.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "L'autorisation d'occupation du domaine public est par nature précaire et révocable."
     },
     {
         "question": "Quel type de fonctionnaires n'est pas concerné par le statut général des fonctionnaires parmi les propositions suivantes ?",
-        "options": ["a - Les agents de la santé", "b - Les magistrats de l'ordre judiciaire", "c - Les enseignants", "d - Les policiers"],
-        "answer": "b - Les magistrats de l'ordre judiciaire",
+        "options": ["A) a - Les agents de la santé", "B) b - Les magistrats de l'ordre judiciaire", "C) c - Les enseignants", "D) d - Les policiers"],
+        "answer": "B",
         "explanation": "Les magistrats ont un statut autonome particulier."
     },
     {
         "question": "Quel grade est associé aux fonctions de conception et de direction selon la loi portant SGFP ?",
-        "options": ["a - Catégorie C", "b - Catégorie A", "c - Catégorie D", "d - Catégorie B"],
-        "answer": "b - Catégorie A",
+        "options": ["A) a - Catégorie C", "B) b - Catégorie A", "C) c - Catégorie D", "D) d - Catégorie B"],
+        "answer": "B",
         "explanation": "La catégorie A correspond aux fonctions de conception et de direction."
     },
     {
         "question": "Quelle est la différence entre licenciement et révocation parmi les propositions suivantes ?",
-        "options": ["a - Le licenciement peut être pour insuffisance professionnelle, la révocation est une sanction disciplinaire.", "b - Les deux sont des sanctions disciplinaires identiques.", "c - Le licenciement est toujours temporaire, la révocation est définitive.", "d - Le licenciement nécessite un vote, la révocation non"],
-        "answer": "a - Le licenciement peut être pour insuffisance professionnelle, la révocation est une sanction disciplinaire.",
+        "options": ["A) a - Le licenciement peut être pour insuffisance professionnelle, la révocation est une sanction disciplinaire.", "B) b - Les deux sont des sanctions disciplinaires identiques.", "C) c - Le licenciement est toujours temporaire, la révocation est définitive.", "D) d - Le licenciement nécessite un vote, la révocation non"],
+        "answer": "A",
         "explanation": "La révocation est disciplinaire, le licenciement non disciplinaire."
     },
     {
         "question": "Les sanctions de premier degré sont réservées au ministre technique de l’agent.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Le pouvoir disciplinaire pour le 1er degré appartient au Ministre technique, Préfet ou Directeur d'EP."
     },
     {
         "question": "La responsabilité de l’administration est engagée sur la base d’une faute lourde pour les dommages causés à la personne visée au cours d’une opération de police matérielle par l’utilisation d’armes dangereuses est consacrée par l’arrêt AUBERGER ET DUMONT.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "C'est une faute simple si la victime est visée, et sans faute si c'est un tiers."
     },
     {
         "question": "L’arrêt SOCIÉTÉ DES TRANSPORTS DU SUD consacre l’exonération totale de la responsabilité de l’administration en cas de faute de la victime.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "La faute de la victime peut être une cause d'exonération partielle ou totale selon les cas."
     },
     {
         "question": "L’administration dispose d’une action récursoire contre l’agent fautif, mais l’agent n’en dispose pas contre l’administration lorsqu’il a réparé intégralement les dommages causés à la victime en cas de cumul de responsabilité.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "L'agent dispose également d'une action récursoire (Arrêt Delville)."
     },
     {
         "question": "La responsabilité de l’administration est acquise en cas de cumul de fautes.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "La victime peut poursuivre l'administration ou l'agent en cas de cumul de fautes."
     },
     {
         "question": "L’intérêt du principe de cumul de responsabilité est d’octroyer un droit d’option à l’administration.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Le droit d'option est octroyé à la victime, pas à l'administration."
     },
     {
         "question": "Le fait du tiers est une cause d’exonération de la responsabilité de l’administration lorsqu’elle est la cause unique.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Le fait du tiers exonère l'administration dans la responsabilité pour faute s'il est la cause exclusive."
     },
     {
         "question": "Quel type d'intérêt doit être lésé pour qu'il y ait intérêt à agir ?",
-        "options": ["a. Un intérêt personnel", "b. Un intérêt légitime", "c. Un intérêt collectif", "d. Un intérêt anonyme"],
-        "answer": "a. Un intérêt personnel",
+        "options": ["A) a. Un intérêt personnel", "B) b. Un intérêt légitime", "C) c. Un intérêt collectif", "D) d. Un intérêt anonyme"],
+        "answer": "A",
         "explanation": "L'intérêt à agir doit être personnel, direct et certain."
     },
     {
         "question": "En matière de REP, le moyen d'annulation est synonyme de cas d'ouverture.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Les cas d'ouverture (incompétence, vice de forme, violation de la loi, détournement de pouvoir) sont les moyens d'annulation."
     },
     {
         "question": "Sont des conditions de recevabilité du REP, Le détournement de procédure et l’incompétence.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Ce sont des cas d'ouverture au fond, pas des conditions de recevabilité."
     },
     {
         "question": "En matière d’acte inexistant, les délais sont identiques que les actes susceptibles d’être frappés d’une simple nullité.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "Le recours contre un acte inexistant peut être exercé à tout moment, sans condition de délai."
     },
     {
         "question": "Le titre foncier n’est pas susceptible de recours pour excès de pouvoir.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Vrai",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "A",
         "explanation": "Le titre foncier est définitif et inattaquable, sauf cas spécifiques de fraude devant le juge judiciaire."
     },
     {
         "question": "La déchéance du titre de propriété en terre urbaine n'est pas admise en droit ivoirien.",
-        "options": ["Vrai", "Faux"],
-        "answer": "Faux",
+        "options": ["A) Vrai", "B) Faux"],
+        "answer": "B",
         "explanation": "La loi prévoit des hypothèses de déchéance en cas d'insuffisance de mise en valeur."
     },
     {
         "question": "Sont considérés comme insuffisamment mis en valeur :",
-        "options": ["a. Des chantiers de bâtiments inachevés, et laissés à l'abandon", "b. Des terrains faisant uniquement l'objet de clôtures", "c. Des terrains abritant des constructions en matériaux précaires"],
-        "answer": "b. Des terrains faisant uniquement l'objet de clôtures",
+        "options": ["A) a. Des chantiers de bâtiments inachevés, et laissés à l'abandon", "B) b. Des terrains faisant uniquement l'objet de clôtures", "C) c. Des terrains abritant des constructions en matériaux précaires"],
+        "answer": "B",
         "explanation": "Une simple clôture ne constitue pas une mise en valeur suffisante."
     },
     {
