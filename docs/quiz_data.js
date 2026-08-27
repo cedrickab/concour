@@ -11807,3 +11807,17 @@ const QUIZ_QUESTIONS = [
     "explanation": "La délégation interservices permet une coordination efficace entre directions et ministères sur des projets communs."
   }
 ];
+
+const THEME_CATALOG = [
+  { name: "Culture Générale — Langue française", questions: QUIZ_QUESTIONS.slice(0, 150) },
+  { name: "Aptitude Verbale — Phénomènes lexicaux", questions: QUIZ_QUESTIONS.slice(150, 296) },
+  { name: "Culture Générale — Géographie et connaissances", questions: QUIZ_QUESTIONS.slice(296, 483) },
+  { name: "Organisations Internationales", questions: QUIZ_QUESTIONS.slice(483, 646) },
+  { name: "English Grammar", questions: QUIZ_QUESTIONS.slice(646, 802) },
+  { name: "Culture Générale — Institutions et citoyenneté", questions: QUIZ_QUESTIONS.slice(802, 931) },
+  { name: "Droit administratif", questions: QUIZ_QUESTIONS.slice(931, 1076) }
+];
+
+if (THEME_CATALOG.reduce((sum, theme) => sum + theme.questions.length, 0) !== QUIZ_QUESTIONS.length) {
+  throw new Error("Static quiz data is out of sync with theme catalog slices.");
+}
