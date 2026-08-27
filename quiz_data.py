@@ -618,6 +618,294 @@ THEME_1 = [
         "options": ["A) Variable", "B) Invariable", "C) Uniquement masculin", "D) Uniquement feminin"],
         "answer": "A",
         "explanation": "L'adjectif verbal navigant est variable : des personnels navigants."
+    },
+    {
+        "question": "Quel mot est mal orthographié ?",
+        "options": ["A) Chrysanthème", "B) Philantropie", "C) Rhythme", "D) Ephémère"],
+        "answer": "B",
+        "explanation": "Le mot correct est « philanthropie » avec un « h » après le « p »."
+    },
+    {
+        "question": "Quel est le synonyme de « acrimonieux » ?",
+        "options": ["A) Doux", "B) Acide", "C) Haineux", "D) Jovial"],
+        "answer": "C",
+        "explanation": "« Acrimonieux » signifie aigre, hargneux, plein d'animosité."
+    },
+    {
+        "question": "Que signifie le mot « adage » ?",
+        "options": ["A) Un instrument de musique", "B) Un proverbe", "C) Un texte de loi", "D) Une formule mathématique"],
+        "answer": "B",
+        "explanation": "Un adage est un proverbe ou une maxime populaire transmettant une vérité pratique."
+    },
+    {
+        "question": "Quelle est la bonne orthographe ?",
+        "options": ["A) Grammaire", "B) Graммaire", "C) Gramaire", "D) Grammères"],
+        "answer": "A",
+        "explanation": "Le mot s'écrit « grammaire » avec deux m."
+    },
+    {
+        "question": "Quel mot est l'antonyme de « loquace » ?",
+        "options": ["A) Bavard", "B) Silencieux", "C) Éloquent", "D) Verbeux"],
+        "answer": "B",
+        "explanation": "« Loquace » signifie bavard ; son antonyme est « silencieux » ou « taciturne »."
+    },
+    {
+        "question": "Dans quelle phrase le subjonctif est-il obligatoire ?",
+        "options": ["A) Je pense qu'il viendra.", "B) Il faut qu'il vienne.", "C) Je sais qu'il est là.", "D) Je crois qu'il a raison."],
+        "answer": "B",
+        "explanation": "Après « il faut que », le subjonctif est obligatoire."
+    },
+    {
+        "question": "Quelle est la forme correcte du conditionnel passé ?",
+        "options": ["A) Il aurait mangé", "B) Il aura mangé", "C) Il avait mangé", "D) Il eut mangé"],
+        "answer": "A",
+        "explanation": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent + participe passé."
+    },
+    {
+        "question": "Le mot « péremptoire » signifie :",
+        "options": ["A) Hésitant", "B) Définitif et sans appel", "C) Bienveillant", "D) Ambigu"],
+        "answer": "B",
+        "explanation": "Un ton péremptoire est absolu, tranchant, qui n'admet pas de réplique."
+    },
+    {
+        "question": "Quel est le pluriel correct de « bal » ?",
+        "options": ["A) bals", "B) baux", "C) bales", "D) bles"],
+        "answer": "A",
+        "explanation": "Le pluriel de « bal » est « bals » (exception aux mots en -al qui font -aux)."
+    },
+    {
+        "question": "Quelle figure de style consiste à atténuer une réalité pour en diminuer l'effet ?",
+        "options": ["A) Hyperbole", "B) Euphémisme", "C) Métonymie", "D) Personnification"],
+        "answer": "B",
+        "explanation": "L'euphémisme adoucit une réalité dure (ex. : « il a disparu » pour « il est mort »)."
+    },
+    {
+        "question": "Quelle est la nature grammaticale de « vite » dans « il court vite » ?",
+        "options": ["A) Adjectif", "B) Nom", "C) Adverbe", "D) Préposition"],
+        "answer": "C",
+        "explanation": "« Vite » est un adverbe qui modifie le verbe « court »."
+    },
+    {
+        "question": "Quel est le sens du préfixe « bene- » ?",
+        "options": ["A) Mauvais", "B) Deux", "C) Bien", "D) Avant"],
+        "answer": "C",
+        "explanation": "Le préfixe latin « bene- » signifie bien (bénéfice, bénévole)."
+    },
+    {
+        "question": "Quelle est la différence entre « davantage » et « d'avantage » ?",
+        "options": ["A) Aucune différence", "B) Davantage = plus ; d'avantage = d'un avantage", "C) Davantage s'écrit sans accent", "D) D'avantage est toujours incorrect"],
+        "answer": "B",
+        "explanation": "« Davantage » = plus ; « d'avantage » = d'un avantage (bénéfice)."
+    },
+    {
+        "question": "Quel verbe est défectif (n'existe qu'à certaines formes) ?",
+        "options": ["A) Manger", "B) Partir", "C) Clore", "D) Faire"],
+        "answer": "C",
+        "explanation": "« Clore » est un verbe défectif : il manque de nombreuses formes conjuguées."
+    },
+    {
+        "question": "Quelle phrase utilise le passé simple correctement ?",
+        "options": ["A) Il mangea une pomme.", "B) Il a mangea une pomme.", "C) Il mangeait une pomme.", "D) Il mangera une pomme."],
+        "answer": "A",
+        "explanation": "Le passé simple d'un verbe en -er se forme en ajoutant -a (3e personne singulier)."
+    },
+    {
+        "question": "Quel est l'homonyme de « cent » ?",
+        "options": ["A) Saint", "B) Sont", "C) Sans", "D) Sang"],
+        "answer": "D",
+        "explanation": "« Cent », « sans », « sang », « s'en » et « sent » sont des homophones."
+    },
+    {
+        "question": "Que signifie « à bon escient » ?",
+        "options": ["A) Par hasard", "B) Avec mauvaise intention", "C) À propos et judicieusement", "D) Avec hésitation"],
+        "answer": "C",
+        "explanation": "Agir à bon escient, c'est agir de manière pertinente, avec une bonne connaissance de la situation."
+    },
+    {
+        "question": "Quel est le terme grammatical désignant « le » dans « le chien aboie » ?",
+        "options": ["A) Adjectif démonstratif", "B) Pronom personnel", "C) Article défini", "D) Article indéfini"],
+        "answer": "C",
+        "explanation": "« Le » est un article défini qui détermine le nom « chien »."
+    },
+    {
+        "question": "Quelle est la forme correcte ?",
+        "options": ["A) Quoiqu'il fasse beau.", "B) Quoique il fasse beau.", "C) Quoi qu'il fasse beau.", "D) Quoi que il fasse beau."],
+        "answer": "A",
+        "explanation": "Devant « il », « quoique » subit l'élision : « quoiqu'il »."
+    },
+    {
+        "question": "Le mot « épistémologie » désigne :",
+        "options": ["A) L'étude des épistaxis", "B) La théorie de la connaissance", "C) L'étude des épidémies", "D) La science des lettres"],
+        "answer": "B",
+        "explanation": "L'épistémologie est la branche philosophique qui étudie la nature et les limites de la connaissance."
+    },
+    {
+        "question": "Dans « cette robe est verte », le mot « verte » est :",
+        "options": ["A) Un adjectif épithète", "B) Un adjectif attribut", "C) Un nom", "D) Un adverbe"],
+        "answer": "B",
+        "explanation": "« Verte » est attribut du sujet « robe » via le verbe d'état « est »."
+    },
+    {
+        "question": "Quel est l'antonyme de « turpitude » ?",
+        "options": ["A) Probité", "B) Honte", "C) Bassesse", "D) Indignité"],
+        "answer": "A",
+        "explanation": "La turpitude désigne la bassesse morale ; son antonyme est la probité (honnêteté)."
+    },
+    {
+        "question": "Quelle est la règle d'accord du participe passé employé avec « avoir » ?",
+        "options": ["A) Il s'accorde toujours avec le sujet", "B) Il s'accorde avec le COD placé avant", "C) Il reste invariable", "D) Il s'accorde avec le COI"],
+        "answer": "B",
+        "explanation": "Le participe passé avec « avoir » s'accorde avec le COD si celui-ci précède le verbe."
+    },
+    {
+        "question": "Quel est le sens de « hégémonie » ?",
+        "options": ["A) Domination prépondérante", "B) Égalité des nations", "C) Faiblesse politique", "D) Alliance militaire"],
+        "answer": "A",
+        "explanation": "L'hégémonie désigne la domination, la suprématie d'un État ou groupe sur d'autres."
+    },
+    {
+        "question": "Quelle est la figure de style dans « ses yeux sont deux étoiles » ?",
+        "options": ["A) Comparaison", "B) Métaphore", "C) Allitération", "D) Antithèse"],
+        "answer": "B",
+        "explanation": "La métaphore exprime une ressemblance sans outil comparatif (sans « comme »)."
+    },
+    {
+        "question": "Quel est le genre du mot « amalgame » ?",
+        "options": ["A) Féminin", "B) Masculin", "C) Les deux selon le contexte", "D) Neutre"],
+        "answer": "B",
+        "explanation": "« Amalgame » est un nom masculin : un amalgame."
+    },
+    {
+        "question": "Que signifie « circonstancié » ?",
+        "options": ["A) Vague et imprécis", "B) Détaillé et accompagné de précisions", "C) Rapide et bref", "D) Oral et non écrit"],
+        "answer": "B",
+        "explanation": "Un rapport circonstancié contient tous les détails et précisions nécessaires."
+    },
+    {
+        "question": "Quel mot est un paronyme de « éruption » ?",
+        "options": ["A) Irruption", "B) Corruption", "C) Absorption", "D) Interruption"],
+        "answer": "A",
+        "explanation": "« Éruption » (volcanique) et « irruption » (entrée brusque) sont des paronymes souvent confondus."
+    },
+    {
+        "question": "Quelle est la règle d'accord dans « les fenêtres que j'ai ouvertes » ?",
+        "options": ["A) Pas d'accord car COD après le verbe", "B) Accord avec 'fenêtres' car COD placé avant", "C) Accord avec le sujet 'je'", "D) Pas d'accord avec 'avoir'"],
+        "answer": "B",
+        "explanation": "« Que » reprend « fenêtres » (COD) placé avant le verbe avoir → accord au féminin pluriel."
+    },
+    {
+        "question": "Quel est le sens de l'expression « au pied levé » ?",
+        "options": ["A) Avec beaucoup de préparation", "B) Sans préparation, immédiatement", "C) En marchant", "D) Avec prudence"],
+        "answer": "B",
+        "explanation": "Agir au pied levé, c'est agir sans préparation préalable, dans l'urgence."
+    },
+    {
+        "question": "Laquelle de ces formes verbales est au plus-que-parfait ?",
+        "options": ["A) Il avait mangé", "B) Il a mangé", "C) Il mangea", "D) Il mangerait"],
+        "answer": "A",
+        "explanation": "Le plus-que-parfait se forme avec l'imparfait de l'auxiliaire + participe passé."
+    },
+    {
+        "question": "Quel est le sens du suffixe « -phile » ?",
+        "options": ["A) Qui craint", "B) Qui aime", "C) Qui mange", "D) Qui gouverne"],
+        "answer": "B",
+        "explanation": "Le suffixe « -phile » signifie qui aime (bibliophile = qui aime les livres)."
+    },
+    {
+        "question": "Quelle est la phrase correcte ?",
+        "options": ["A) Malgré que j'aie faim, je ne mange pas.", "B) Bien que j'aie faim, je ne mange pas.", "C) Malgré j'ai faim, je ne mange pas.", "D) Encore que j'ai faim, je ne mange pas."],
+        "answer": "B",
+        "explanation": "« Bien que » est correct et se construit avec le subjonctif. « Malgré que » est critiqué par les puristes."
+    },
+    {
+        "question": "Quel est le mot générique pour désigner les figures rhétoriques liées au son ?",
+        "options": ["A) Tropes", "B) Figures sonores", "C) Métaplasmes", "D) Syntaxèmes"],
+        "answer": "C",
+        "explanation": "Les métaplasmes (allitération, assonance...) sont les figures qui jouent sur les sons."
+    },
+    {
+        "question": "Que désigne le terme « polémique » dans son sens originel ?",
+        "options": ["A) Une guerre verbale, un débat houleux", "B) Une démonstration mathématique", "C) Un traité diplomatique", "D) Une cérémonie officielle"],
+        "answer": "A",
+        "explanation": "Du grec « polemikos » (guerre), une polémique est un débat vif et souvent agressif."
+    },
+    {
+        "question": "Dans quelle phrase le pronom « on » peut-il remplacer « nous » ?",
+        "options": ["A) On a fini le travail (= nous avons fini).", "B) On a du pain (= il y a du pain).", "C) Que dit-on de lui ?", "D) On frappe à la porte."],
+        "answer": "A",
+        "explanation": "En français courant, « on » peut remplacer « nous » comme sujet de la phrase."
+    },
+    {
+        "question": "Quel est le mode verbal utilisé pour donner un ordre direct ?",
+        "options": ["A) Indicatif", "B) Subjonctif", "C) Impératif", "D) Infinitif"],
+        "answer": "C",
+        "explanation": "L'impératif exprime un ordre, une demande ou un conseil direct."
+    },
+    {
+        "question": "Quel est le sens de « nonobstant » ?",
+        "options": ["A) Cependant, malgré", "B) De plus, en outre", "C) Autrement dit", "D) C'est pourquoi"],
+        "answer": "A",
+        "explanation": "« Nonobstant » signifie malgré, en dépit de (terme juridique fréquent)."
+    },
+    {
+        "question": "Que signifie « exergue » ?",
+        "options": ["A) Un exercice d'écriture", "B) Une courte citation placée en tête d'un ouvrage", "C) Un résumé de texte", "D) Une annexe juridique"],
+        "answer": "B",
+        "explanation": "Mettre en exergue = mettre en évidence ; une citation en exergue introduit un texte."
+    },
+    {
+        "question": "Quelle est la différence entre « apporter » et « amener » ?",
+        "options": ["A) Aucune différence", "B) Apporter concerne les choses ; amener concerne les personnes ou animaux", "C) Amener s'utilise pour aller vers ; apporter pour venir vers", "D) Amener est plus formel"],
+        "answer": "B",
+        "explanation": "On apporte un objet, on amène une personne ou un animal."
+    },
+    {
+        "question": "Quel est le sens littéral de « laconique » ?",
+        "options": ["A) Venant de Laconie (Sparte) : bref et concis", "B) Ennuyeux et long", "C) Émouvant", "D) Obscur et ambigu"],
+        "answer": "A",
+        "explanation": "Les Laconiens (Spartiates) étaient réputés pour leur discours bref ; laconique = bref et concis."
+    },
+    {
+        "question": "Quelle est la fonction grammaticale de « demain » dans « il viendra demain » ?",
+        "options": ["A) Sujet", "B) COD", "C) Complément circonstanciel de temps", "D) Attribut"],
+        "answer": "C",
+        "explanation": "« Demain » indique quand aura lieu l'action : c'est un CC de temps."
+    },
+    {
+        "question": "Que signifie le verbe « circonscrire » ?",
+        "options": ["A) Développer, étendre", "B) Limiter, délimiter avec précision", "C) Critiquer sévèrement", "D) Résumer"],
+        "answer": "B",
+        "explanation": "Circonscrire un incendie = limiter sa propagation ; circonscrire un sujet = en définir les limites."
+    },
+    {
+        "question": "Quelle figure de style consiste à répéter un mot ou groupe en début de plusieurs propositions ?",
+        "options": ["A) Épiphore", "B) Anaphore", "C) Chiasme", "D) Syllepse"],
+        "answer": "B",
+        "explanation": "L'anaphore est la répétition d'un mot ou groupe en tête de propositions successives."
+    },
+    {
+        "question": "Quelle est l'orthographe correcte ?",
+        "options": ["A) Parcimonieux", "B) Parscimonieux", "C) Parsimonieux", "D) Parcimmonieux"],
+        "answer": "C",
+        "explanation": "Le mot correct est « parcimonieux » (qui dépense peu, économe à l'excès)."
+    },
+    {
+        "question": "Que désigne « l'ellipse » en stylistique ?",
+        "options": ["A) Une figure géométrique", "B) Une omission volontaire d'éléments grammaticaux sans ambiguïté", "C) Une répétition de sons", "D) Une exagération"],
+        "answer": "B",
+        "explanation": "L'ellipse est l'omission d'un ou plusieurs mots logiquement attendus mais sous-entendus."
+    },
+    {
+        "question": "Quel est le sens du mot « acuité » ?",
+        "options": ["A) Manque de clarté", "B) Finesse, précision d'un sens ou d'une faculté", "C) Lenteur de réaction", "D) Générosité"],
+        "answer": "B",
+        "explanation": "L'acuité visuelle, l'acuité intellectuelle désignent la finesse et la précision d'une faculté."
+    },
+    {
+        "question": "Dans « il se souvient de son enfance », le pronom « se » est :",
+        "options": ["A) Pronom COD", "B) Pronom COI", "C) Pronom réfléchi sans fonction propre", "D) Pronom sujet"],
+        "answer": "C",
+        "explanation": "Dans les verbes essentiellement pronominaux, le « se » fait partie du verbe sans fonction propre."
     }
 ]
 
@@ -1168,6 +1456,336 @@ THEME_2 = [
         "options": ["A) Plante, arbre", "B) Chien, chat", "C) Jambe, bras", "D) Table, chaise"],
         "answer": "B",
         "explanation": "Chien et chat partagent le meme hyperonyme animal : ce sont des cohyponymes."
+    },
+    {
+        "question": "Quel terme designe la relation entre main et doigt d un point de vue meronymique ?",
+        "options": ["A) Doigt est l holonyme de main", "B) Main est l holonyme de doigt", "C) Main et doigt sont des cohyponymes", "D) Main est le meronyme de doigt"],
+        "answer": "B",
+        "explanation": "La main est le tout (holonyme) dont le doigt est une partie (meronyme)."
+    },
+    {
+        "question": "Pi?ge : eminent et imminent sont-ils synonymes ?",
+        "options": ["A) Oui ils signifient remarquable", "B) Non : eminent=remarquable imminent=qui va arriver tres bientot", "C) Oui ils expriment l urgence", "D) Non : eminent=lieu imminent=personne"],
+        "answer": "B",
+        "explanation": "Pi?ge de paronymie : eminent = qui se distingue ; imminent = sur le point de se produire."
+    },
+    {
+        "question": "Quel phenomene illustre verre ver vers vert ?",
+        "options": ["A) Paronymie", "B) Synonymie", "C) Homophonie", "D) Polysemie"],
+        "answer": "C",
+        "explanation": "Meme prononciation orthographes differentes : homophones."
+    },
+    {
+        "question": "Quelle figure remplace une expression brusque par une formulation douce ?",
+        "options": ["A) Litote", "B) Euphemisme", "C) Hyperbole", "D) Antiphrase"],
+        "answer": "B",
+        "explanation": "L euphemisme attenue la brutalite. Ex : il a quitte ce monde pour dire il est mort."
+    },
+    {
+        "question": "Dans la phrase Il ne travaille pas mal quelle figure est utilisee ?",
+        "options": ["A) Hyperbole", "B) Euphemisme", "C) Litote", "D) Metaphore"],
+        "answer": "C",
+        "explanation": "Litote : dire moins pour faire comprendre plus. Il ne travaille pas mal = il travaille bien."
+    },
+    {
+        "question": "Quel terme designe la relation rose fleur en semantique ?",
+        "options": ["A) Holonymie", "B) Hyponymie", "C) Synonymie", "D) Meronymie"],
+        "answer": "B",
+        "explanation": "Rose est un hyponyme de fleur : terme special inclus dans le terme general."
+    },
+    {
+        "question": "Conjecture et conjoncture sont-ils des paronymes ?",
+        "options": ["A) Non homonymes", "B) Oui : conjecture=supposition conjoncture=situation ?conomique", "C) Non antonymes", "D) Non synonymes"],
+        "answer": "B",
+        "explanation": "Conjecture/conjoncture : paronymes tres proches mais de sens tres differents."
+    },
+    {
+        "question": "Quelle est la difference entre holonyme et hyperonyme ?",
+        "options": ["A) Ce sont des synonymes", "B) Holonyme=tout dont le meronyme est une partie ; hyperonyme=terme general dont depend un hyponyme", "C) Hyperonyme=partie holonyme=ensemble", "D) Ces termes n existent pas"],
+        "answer": "B",
+        "explanation": "Holonyme/meronyme = relation partie-tout. Hyperonyme/hyponyme = inclusion semantique."
+    },
+    {
+        "question": "Polysemie et homonymie sont-elles la meme chose ?",
+        "options": ["A) Oui", "B) Non : polysemie=sens differents mais lies par etymologie ; homonymie=mots de formes identiques mais d origines differentes", "C) Oui dans les deux cas les sens sont totalement differents", "D) Non polysemie concerne verbes uniquement"],
+        "answer": "B",
+        "explanation": "Polysemie : tete corps/liste meme origine. Homonymie : avocat fruit/juriste origines distinctes."
+    },
+    {
+        "question": "avocat fruit et avocat juriste illustrent quel phenomene ?",
+        "options": ["A) Polysemie", "B) Homonymie car etymologies completement differentes", "C) Synonymie", "D) Paronymie"],
+        "answer": "B",
+        "explanation": "Avocat fruit vient du nahuatl ; avocat juriste du latin advocatus : homonymie."
+    },
+    {
+        "question": "Quelle relation sémantique lie « voiture » et « roue » ?",
+        "options": ["A) Synonymie", "B) Holonymie / méronymie", "C) Antonymie", "D) Hyperonymie"],
+        "answer": "B",
+        "explanation": "Voiture est l'holonyme (le tout) ; roue en est le méronyme (une partie)."
+    },
+    {
+        "question": "Quelle figure consiste à employer un mot concret pour désigner une réalité abstraite ?",
+        "options": ["A) Synecdoque", "B) Métonymie", "C) Catachrèse", "D) Allégorie"],
+        "answer": "D",
+        "explanation": "L'allégorie représente une idée abstraite par une image concrète et symbolique."
+    },
+    {
+        "question": "Quel phénomène illustre « couler » (aller au fond) et « couler » (du robinet) ?",
+        "options": ["A) Homonymie", "B) Polysémie", "C) Paronymie", "D) Hétéronymie"],
+        "answer": "B",
+        "explanation": "Même mot, même origine étymologique, sens différents liés : polysémie."
+    },
+    {
+        "question": "Quelle est la différence entre « injure » et « injure » verbale ?",
+        "options": ["A) Ce sont des homonymes", "B) Ce sont des polysèmes (injustice / propos offensant)", "C) Ce sont des paronymes", "D) Ce sont des synonymes"],
+        "answer": "B",
+        "explanation": "« Injure » = polysémie : une injustice (sens juridique) ou une parole blessante (sens courant)."
+    },
+    {
+        "question": "La phrase « Il fait un temps de chien » contient quelle figure ?",
+        "options": ["A) Comparaison", "B) Métaphore figée (locution)", "C) Allégorie", "D) Synecdoque"],
+        "answer": "B",
+        "explanation": "C'est une métaphore lexicalisée (figée dans la langue) : « temps de chien » = très mauvais temps."
+    },
+    {
+        "question": "Quel terme désigne un mot crée par abrègement comme « ciné » pour « cinéma » ?",
+        "options": ["A) Acronyme", "B) Apocope", "C) Aphérèse", "D) Troncation"],
+        "answer": "D",
+        "explanation": "La troncation supprime une partie du mot. « Ciné » est une apocope (troncation finale)."
+    },
+    {
+        "question": "Le mot « radar » est un exemple de :",
+        "options": ["A) Palindrome", "B) Acronyme", "C) Néologisme", "D) Emprunt"],
+        "answer": "B",
+        "explanation": "Radar est un acronyme : Radio Detection And Ranging."
+    },
+    {
+        "question": "Quelle relation existe entre « rapide » et « lent » ?",
+        "options": ["A) Synonymie", "B) Antonymie graduable", "C) Méronymie", "D) Hyponymie"],
+        "answer": "B",
+        "explanation": "Rapide et lent sont des antonymes graduables : il existe des degrés entre les deux."
+    },
+    {
+        "question": "Le mot « bœuf » au sens de « grand effort musical collectif » illustre quel phénomène ?",
+        "options": ["A) Néologisme sémantique", "B) Métaphore lexicalisée", "C) Homonymie", "D) Paronymie"],
+        "answer": "A",
+        "explanation": "C'est un néologisme sémantique : un sens nouveau attribué à un mot existant."
+    },
+    {
+        "question": "Quelle figure attribue à un objet les caractéristiques d'un être humain ?",
+        "options": ["A) Allégorie", "B) Personnification", "C) Métonymie", "D) Antithèse"],
+        "answer": "B",
+        "explanation": "La personnification donne des traits humains à ce qui n'en a pas (ex. : « la mer rugit »)."
+    },
+    {
+        "question": "Quel terme désigne la relation entre « tibia » et « jambe » ?",
+        "options": ["A) Tibia est l'hyperonyme de jambe", "B) Tibia est le méronyme de jambe", "C) Tibia et jambe sont des cohyponymes", "D) Tibia est le synonyme de jambe"],
+        "answer": "B",
+        "explanation": "Le tibia est une partie (méronyme) de la jambe (holonyme)."
+    },
+    {
+        "question": "Que désigne le phénomène de « dénotation » ?",
+        "options": ["A) Le sens subjectif et émotionnel d'un mot", "B) Le sens objectif et littéral d'un mot", "C) Le sens figuré d'un mot", "D) L'ensemble des synonymes d'un mot"],
+        "answer": "B",
+        "explanation": "La dénotation est le sens premier, neutre et objectif d'un mot. La connotation est le sens subjectif."
+    },
+    {
+        "question": "« Aimer » (affecter) et « aimer » (comme dans « j'aimerais ») illustrent quelle nuance ?",
+        "options": ["A) Homonymie", "B) Polysémie avec registres différents", "C) Synonymie contextuelle", "D) Antonymie graduelle"],
+        "answer": "B",
+        "explanation": "Le même verbe « aimer » couvre plusieurs sens selon le contexte : polysémie."
+    },
+    {
+        "question": "Quelle figure consiste à dire le contraire de ce qu'on pense avec une intention satirique ?",
+        "options": ["A) Litote", "B) Euphémisme", "C) Antiphrase (ironie)", "D) Prétérition"],
+        "answer": "C",
+        "explanation": "L'antiphrase est la figure de l'ironie : on dit le contraire pour se moquer."
+    },
+    {
+        "question": "Le mot « clé » dans « argument clé » est employé comme :",
+        "options": ["A) Nom apposé", "B) Adjectif épithète par métaphore", "C) Adverbe", "D) Complément de nom"],
+        "answer": "B",
+        "explanation": "« Clé » est employé métaphoriquement comme un adjectif : l'argument essentiel."
+    },
+    {
+        "question": "Quelle relation existe entre « voiture de sport » et « voiture » ?",
+        "options": ["A) Holonymie", "B) Hyponymie", "C) Méronymie", "D) Synonymie"],
+        "answer": "B",
+        "explanation": "« Voiture de sport » est un hyponyme de « voiture » : terme spécifique inclus dans le terme général."
+    },
+    {
+        "question": "Quel est l'antonyme complémentaire (non graduable) de « vivant » ?",
+        "options": ["A) Faible", "B) Mort", "C) Silencieux", "D) Immobile"],
+        "answer": "B",
+        "explanation": "Vivant/mort est une antonymie complémentaire : pas de degré intermédiaire."
+    },
+    {
+        "question": "Dans « il avale les kilomètres », quelle figure est utilisée ?",
+        "options": ["A) Comparaison", "B) Métaphore", "C) Synecdoque", "D) Métonymie"],
+        "answer": "B",
+        "explanation": "C'est une métaphore : avaler des kilomètres = parcourir une grande distance facilement."
+    },
+    {
+        "question": "Quel phénomène lexical explique que « souris » désigne à la fois un animal et un dispositif informatique ?",
+        "options": ["A) Homonymie", "B) Néologisme sémantique", "C) Métaphore lexicalisée", "D) Emprunt"],
+        "answer": "C",
+        "explanation": "Le dispositif informatique a été appelé « souris » par métaphore avec le rongeur (forme et câble = queue)."
+    },
+    {
+        "question": "Quelle est la particularité d'un mot épicène ?",
+        "options": ["A) Il est invariable", "B) Il désigne indifféremment les deux sexes", "C) Il n'a pas de pluriel", "D) Il est toujours masculin"],
+        "answer": "B",
+        "explanation": "Un mot épicène a la même forme au masculin et au féminin (ex. : enfant, élève, artiste)."
+    },
+    {
+        "question": "Quel est l'hypéronyme commun de « colère », « joie », « tristesse » ?",
+        "options": ["A) Sentiment", "B) Pensée", "C) Action", "D) Sensation"],
+        "answer": "A",
+        "explanation": "Colère, joie et tristesse sont des hyponymes de « sentiment »."
+    },
+    {
+        "question": "Dans « brûler les étapes », quelle figure de style est employée ?",
+        "options": ["A) Synecdoque", "B) Catachrèse", "C) Métaphore lexicalisée", "D) Métonymie"],
+        "answer": "C",
+        "explanation": "C'est une métaphore figée dans l'usage : aller trop vite, sauter des étapes."
+    },
+    {
+        "question": "Quel phénomène linguistique désigne l'apparition d'un nouveau mot dans la langue ?",
+        "options": ["A) Archaïsme", "B) Néologisme", "C) Pléonasme", "D) Barbarisme"],
+        "answer": "B",
+        "explanation": "Un néologisme est un mot nouveau ou un sens nouveau donné à un mot existant."
+    },
+    {
+        "question": "La relation entre « oiseau » et « aigle » est une relation de :",
+        "options": ["A) Synonymie", "B) Méronymie", "C) Hyperonymie/hyponymie", "D) Antonymie"],
+        "answer": "C",
+        "explanation": "Oiseau est l'hyperonyme (terme général) ; aigle est l'hyponyme (terme spécifique)."
+    },
+    {
+        "question": "Dans « la salle applaudit », quelle figure de style voit-on ?",
+        "options": ["A) Métaphore", "B) Métonymie", "C) Synecdoque", "D) Antonomase"],
+        "answer": "B",
+        "explanation": "C'est une métonymie : la salle (le lieu) désigne les personnes qui s'y trouvent."
+    },
+    {
+        "question": "Quel outil stylistique consiste à utiliser le nom d'une personne célèbre pour désigner une catégorie ?",
+        "options": ["A) Métonymie", "B) Synecdoque", "C) Antonomase", "D) Allégorie"],
+        "answer": "C",
+        "explanation": "L'antonomase utilise un nom propre comme nom commun (ex. : un Harpagon = un avare)."
+    },
+    {
+        "question": "Quel est le rapport sémantique entre « maison » et « toit » ?",
+        "options": ["A) Holonymie/méronymie", "B) Hyperonymie/hyponymie", "C) Synonymie", "D) Antonymie"],
+        "answer": "A",
+        "explanation": "Maison est l'holonyme (le tout) ; toit en est le méronyme (une partie)."
+    },
+    {
+        "question": "Quelle figure de style dit moins pour faire comprendre plus ?",
+        "options": ["A) Hyperbole", "B) Euphémisme", "C) Litote", "D) Amplification"],
+        "answer": "C",
+        "explanation": "La litote atténue volontairement pour que le lecteur comprenne le contraire (ex. : Ce n'est pas mal = c'est bien)."
+    },
+    {
+        "question": "Qu'est-ce qu'un archaïsme ?",
+        "options": ["A) Un mot étranger intégré dans la langue", "B) Un mot vieilli qui n'est plus en usage courant", "C) Un mot récemment créé", "D) Un mot au sens contraire de son sens original"],
+        "answer": "B",
+        "explanation": "Un archaïsme est un mot ou une forme démodée, sortie de l'usage courant (ex. : « icelui »)."
+    },
+    {
+        "question": "Quelle différence y a-t-il entre un synonyme total et un synonyme partiel ?",
+        "options": ["A) Aucune différence", "B) Synonyme total = mêmes sens dans tous les contextes ; synonyme partiel = interchangeable seulement dans certains contextes", "C) Un synonyme total est toujours de même registre", "D) Les synonymes totaux n'existent pas"],
+        "answer": "B",
+        "explanation": "Les synonymes totaux (parfaits) sont rares. La plupart des synonymes sont partiels."
+    },
+    {
+        "question": "Dans « les murs ont des oreilles », quelle figure de style est utilisée ?",
+        "options": ["A) Métaphore", "B) Personnification", "C) Métonymie", "D) Hyperbole"],
+        "answer": "B",
+        "explanation": "On attribue aux murs un organe humain (oreilles) : personnification."
+    },
+    {
+        "question": "Quel phénomène explique que « souris » (animal) et « souris » (sourire, 3e pers.) soient distincts ?",
+        "options": ["A) Polysémie", "B) Homographie", "C) Synonymie", "D) Méronymie"],
+        "answer": "B",
+        "explanation": "Même graphie, prononciation identique, sens sans lien étymologique : homographie."
+    },
+    {
+        "question": "Quel terme désigne la liste de termes généraux à spécifiques (animal → mammifère → chien → labrador) ?",
+        "options": ["A) Taxinomie", "B) Synonymie", "C) Champ lexical", "D) Isotopie"],
+        "answer": "A",
+        "explanation": "Une taxinomie est une classification hiérarchique des termes du général au spécifique."
+    },
+    {
+        "question": "Dans « il pleut des cordes », quelle figure est employée ?",
+        "options": ["A) Comparaison", "B) Métaphore", "C) Hyperbole métaphorique", "D) Personnification"],
+        "answer": "C",
+        "explanation": "C'est une métaphore hyperbole : il pleut très fort (les cordes exagèrent l'image)."
+    },
+    {
+        "question": "Quelle relation lie « mari » et « femme » sur le plan lexical ?",
+        "options": ["A) Hétéronymie", "B) Antonymie complémentaire", "C) Synonymie contextuelle", "D) Holonymie"],
+        "answer": "A",
+        "explanation": "Mari/femme sont hétéronymes : sens liés (couple) mais radicaux différents."
+    },
+    {
+        "question": "Quel est l'effet stylistique recherché dans une accumulation ?",
+        "options": ["A) Simplifier", "B) Amplifier par une suite d'éléments de même nature", "C) Opposer deux idées", "D) Atténuer une réalité"],
+        "answer": "B",
+        "explanation": "L'accumulation (ou énumération) crée un effet d'intensité ou d'exhaustivité."
+    },
+    {
+        "question": "Que signifie l'expression « avoir le cafard » ?",
+        "options": ["A) Être joyeux", "B) Être mélancolique, déprimé", "C) Avoir peur des insectes", "D) Être bavard"],
+        "answer": "B",
+        "explanation": "« Avoir le cafard » est une métaphore figée signifiant être triste ou déprimé."
+    },
+    {
+        "question": "Quelle est la caractéristique d'un oxymoron ?",
+        "options": ["A) Répétition d'un même son", "B) Association de deux termes contradictoires", "C) Énumération croissante", "D) Personnification d'un objet"],
+        "answer": "B",
+        "explanation": "L'oxymoron unit deux mots de sens opposés (ex. : « une obscure clarté »)."
+    },
+    {
+        "question": "Quel phénomène désigne un mot dont le sens a évolué positivement (mélioratif) au fil du temps ?",
+        "options": ["A) Dépréciation", "B) Aménagement", "C) Amélioration sémantique", "D) Néologisme"],
+        "answer": "C",
+        "explanation": "Certains mots gagnent un sens plus positif avec le temps : c'est l'amélioration sémantique."
+    },
+    {
+        "question": "Qu'est-ce que l'isotopie dans un texte ?",
+        "options": ["A) Un ensemble de syllabes répétées", "B) La récurrence de traits sémantiques qui assurent la cohérence d'un texte", "C) L'utilisation de synonymes parfaits", "D) La répétition de la même figure de style"],
+        "answer": "B",
+        "explanation": "L'isotopie est la répétition de traits sémantiques identiques donnant sa cohérence thématique au texte."
+    },
+    {
+        "question": "Dans « le crayon d'un enfant », quel type de relation désigne « de » ?",
+        "options": ["A) Relation de possession", "B) Relation méronymique", "C) Relation hyperonymique", "D) Relation d'antonymie"],
+        "answer": "A",
+        "explanation": "Le génitif (de) indique ici une relation d'appartenance/possession."
+    },
+    {
+        "question": "Quel mot est à la fois son propre antonyme (autoantonyme) ?",
+        "options": ["A) Chaud", "B) Hôte", "C) Méchant", "D) Clair"],
+        "answer": "B",
+        "explanation": "« Hôte » peut désigner celui qui reçoit et celui qui est reçu : c'est un autoantonyme (ou contronyime)."
+    },
+    {
+        "question": "Quelle figure de style consiste à interrompre brusquement son discours ?",
+        "options": ["A) Ellipse", "B) Aposiopèse", "C) Prétérition", "D) Périphrase"],
+        "answer": "B",
+        "explanation": "L'aposiopèse est l'interruption brusque du discours, laissant la phrase en suspens."
+    },
+    {
+        "question": "Quel procédé désigne l'emprunt d'un mot étranger tel quel dans la langue française ?",
+        "options": ["A) Calque", "B) Néologisme", "C) Xénisme/emprunt direct", "D) Dérivation"],
+        "answer": "C",
+        "explanation": "L'emprunt direct intègre le mot étranger sans le traduire (ex. : weekend, marketing)."
+    },
+    {
+        "question": "Quel est le contraire d'une hyperbole ?",
+        "options": ["A) Litote", "B) Métaphore", "C) Antithèse", "D) Anaphore"],
+        "answer": "A",
+        "explanation": "La litote dit moins que la réalité (antiphrase atténuée) ; l'hyperbole dit plus : elles sont en quelque sorte opposées."
     }
 ]
 
@@ -1960,14 +2578,14 @@ THEME_3 = [
         "explanation": "Rabat est la capitale officielle du Maroc."
     },
     {
-        "question": "Quelle est la capitale de la Cote d'Ivoire ?",
+        "question": "Quelle est la capitale de la C?te d'Ivoire ?",
         "options": ["A) Abidjan", "B) Yamoussoukro", "C) Bouake", "D) San-Pedro"],
         "answer": "B",
-        "explanation": "Yamoussoukro est la capitale politique de la Cote d'Ivoire depuis 1983."
+        "explanation": "Yamoussoukro est la capitale politique de la C?te d'Ivoire depuis 1983."
     },
     {
         "question": "Quel est le plus grand pays du monde ?",
-        "options": ["A) La Russie", "B) Le Canada", "C) Les Etats-Unis", "D) La Chine"],
+        "options": ["A) La Russie", "B) Le Canada", "C) Les ?tats-Unis", "D) La Chine"],
         "answer": "A",
         "explanation": "La Russie est le plus grand pays du monde avec environ 17,1 millions de km2."
     },
@@ -2005,7 +2623,7 @@ THEME_3 = [
         "question": "De quelle region Bouna est-il le chef-lieu ?",
         "options": ["A) Le Poro", "B) Le Bounkani", "C) Le Hambol", "D) Le Moronou"],
         "answer": "B",
-        "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la Cote d'Ivoire."
+        "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la C?te d'Ivoire."
     },
     {
         "question": "Quelle est la capitale de l'Egypte ?",
@@ -2020,10 +2638,280 @@ THEME_3 = [
         "explanation": "Pierre et Marie Curie ont consacre leurs recherches a la radioactivite."
     },
     {
-        "question": "Dans quel ocean navigue-t-on au large de New York ?",
-        "options": ["A) Oceean Indien", "B) Ocean Atlantique", "C) Ocean Pacifique", "D) Ocean Arctique"],
+        "question": "Dans quel océan navigue-t-on au large de New York ?",
+        "options": ["A) Océan Indien", "B) Océan Atlantique", "C) Océan Pacifique", "D) Océan Arctique"],
         "answer": "B",
-        "explanation": "New York est situee sur la cote est des Etats-Unis, au bord de l'Ocean Atlantique."
+        "explanation": "New York est située sur la côte est des États-Unis, au bord de l'Océan Atlantique."
+    },
+    {
+        "question": "Quelle est la capitale de l'Afrique du Sud ?",
+        "options": ["A) Johannesburg", "B) Le Cap", "C) Pretoria", "D) Durban"],
+        "answer": "C",
+        "explanation": "Pretoria est la capitale administrative (exécutive) de l'Afrique du Sud."
+    },
+    {
+        "question": "Quel est le plus haut sommet du monde ?",
+        "options": ["A) K2", "B) Kilimandjaro", "C) Everest", "D) Mont Blanc"],
+        "answer": "C",
+        "explanation": "L'Everest (8 849 m) est le plus haut sommet du monde, situé dans l'Himalaya."
+    },
+    {
+        "question": "Quelle est la capitale du Kenya ?",
+        "options": ["A) Mombasa", "B) Nairobi", "C) Kampala", "D) Dar es-Salaam"],
+        "answer": "B",
+        "explanation": "Nairobi est la capitale du Kenya."
+    },
+    {
+        "question": "Quelle est la capitale du Nigeria ?",
+        "options": ["A) Lagos", "B) Ibadan", "C) Abuja", "D) Kano"],
+        "answer": "C",
+        "explanation": "Abuja est la capitale politique du Nigeria depuis 1991 (remplaçant Lagos)."
+    },
+    {
+        "question": "Quel est le plus long fleuve d'Afrique subsaharienne ?",
+        "options": ["A) Le Congo", "B) Le Niger", "C) Le Zambèze", "D) Le Sénégal"],
+        "answer": "B",
+        "explanation": "Le Niger est le plus long fleuve d'Afrique subsaharienne (4 200 km)."
+    },
+    {
+        "question": "En quelle année la Côte d'Ivoire a-t-elle été admise à l'ONU ?",
+        "options": ["A) 1960", "B) 1961", "C) 1963", "D) 1965"],
+        "answer": "A",
+        "explanation": "La Côte d'Ivoire a été admise à l'ONU le 20 septembre 1960, l'année de son indépendance."
+    },
+    {
+        "question": "Quel pays possède la plus grande forêt tropicale du monde ?",
+        "options": ["A) La RDC", "B) L'Indonésie", "C) Le Brésil", "D) La Colombie"],
+        "answer": "C",
+        "explanation": "Le Brésil possède la plus grande forêt tropicale du monde : l'Amazonie."
+    },
+    {
+        "question": "Quelle est la capitale du Cameroun ?",
+        "options": ["A) Douala", "B) Yaoundé", "C) Bafoussam", "D) Garoua"],
+        "answer": "B",
+        "explanation": "Yaoundé est la capitale politique du Cameroun ; Douala est la capitale économique."
+    },
+    {
+        "question": "Quelle montagne est la plus haute d'Afrique ?",
+        "options": ["A) Mont Kenya", "B) Kilimandjaro", "C) Ras Dashen", "D) Mont Cameroun"],
+        "answer": "B",
+        "explanation": "Le Kilimandjaro (5 895 m), en Tanzanie, est le point culminant d'Afrique."
+    },
+    {
+        "question": "Quel pays d'Afrique de l'Ouest est le plus peuplé ?",
+        "options": ["A) Ghana", "B) Sénégal", "C) Nigeria", "D) Côte d'Ivoire"],
+        "answer": "C",
+        "explanation": "Le Nigeria est le pays le plus peuplé d'Afrique et d'Afrique de l'Ouest (environ 220 millions d'hab.)."
+    },
+    {
+        "question": "Sur quel continent se trouve le Sahara ?",
+        "options": ["A) Asie", "B) Amérique du Sud", "C) Afrique", "D) Australie"],
+        "answer": "C",
+        "explanation": "Le Sahara, plus grand désert chaud du monde, se trouve en Afrique du Nord."
+    },
+    {
+        "question": "Quelle est la monnaie officielle du Ghana ?",
+        "options": ["A) Franc CFA", "B) Cedi", "C) Naira", "D) Dalasi"],
+        "answer": "B",
+        "explanation": "La monnaie du Ghana est le Cedi (GHS)."
+    },
+    {
+        "question": "Quel pays d'Afrique partage ses frontières avec la Côte d'Ivoire au nord ?",
+        "options": ["A) Le Ghana", "B) La Guinée", "C) Le Burkina Faso", "D) Le Mali"],
+        "answer": "C",
+        "explanation": "Le Burkina Faso est au nord de la Côte d'Ivoire. Le Mali est aussi voisin au nord-ouest."
+    },
+    {
+        "question": "Quelle est la capitale de la Guinée ?",
+        "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Monrovia"],
+        "answer": "A",
+        "explanation": "Conakry est la capitale de la République de Guinée."
+    },
+    {
+        "question": "Quelle est la capitale du Mali ?",
+        "options": ["A) Tombouctou", "B) Bamako", "C) Sikasso", "D) Gao"],
+        "answer": "B",
+        "explanation": "Bamako est la capitale du Mali."
+    },
+    {
+        "question": "Quel prix a reçu Nelson Mandela en 1993 ?",
+        "options": ["A) Prix Nobel de la Paix", "B) Prix Nobel de Littérature", "C) Prix Nobel d'Économie", "D) Prix Pulitzer"],
+        "answer": "A",
+        "explanation": "Nelson Mandela a reçu le Prix Nobel de la Paix en 1993, partagé avec F. W. de Klerk."
+    },
+    {
+        "question": "Quelle est la principale source d'énergie de la Côte d'Ivoire ?",
+        "options": ["A) L'énergie nucléaire", "B) Le pétrole", "C) L'hydroélectricité et le gaz", "D) Le charbon"],
+        "answer": "C",
+        "explanation": "La CI tire l'essentiel de son énergie de l'hydroélectricité (Taabo, Kossou) et du gaz naturel."
+    },
+    {
+        "question": "Qui a inventé le téléphone ?",
+        "options": ["A) Thomas Edison", "B) Alexander Graham Bell", "C) Nikola Tesla", "D) James Watt"],
+        "answer": "B",
+        "explanation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone (1876)."
+    },
+    {
+        "question": "Quel est le nom de la lagune sur laquelle se trouve Abidjan ?",
+        "options": ["A) Lagune Ébrié", "B) Lagune de Grand-Lahou", "C) Lagune Ouladine", "D) Lagune de Fresco"],
+        "answer": "A",
+        "explanation": "Abidjan est construite autour de la lagune Ébrié."
+    },
+    {
+        "question": "Quel philosophe a énoncé « Je pense donc je suis » ?",
+        "options": ["A) Kant", "B) Descartes", "C) Locke", "D) Hegel"],
+        "answer": "B",
+        "explanation": "René Descartes a formulé « Cogito ergo sum » (Je pense donc je suis) dans ses Méditations."
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": ["A) Atlantique", "B) Indien", "C) Arctique", "D) Pacifique"],
+        "answer": "D",
+        "explanation": "L'océan Pacifique est le plus grand et le plus profond des océans."
+    },
+    {
+        "question": "En quelle année a eu lieu la Conférence de Berlin qui a partagé l'Afrique ?",
+        "options": ["A) 1878", "B) 1884-1885", "C) 1900", "D) 1910"],
+        "answer": "B",
+        "explanation": "La Conférence de Berlin (1884-1885) a organisé le partage colonial de l'Afrique entre puissances européennes."
+    },
+    {
+        "question": "Quelle est la capitale du Bénin ?",
+        "options": ["A) Cotonou", "B) Porto-Novo", "C) Parakou", "D) Abomey"],
+        "answer": "B",
+        "explanation": "Porto-Novo est la capitale constitutionnelle du Bénin ; Cotonou est la capitale économique."
+    },
+    {
+        "question": "Quel est le plus grand désert froid du monde ?",
+        "options": ["A) Sahara", "B) Gobi", "C) Antarctique", "D) Atacama"],
+        "answer": "C",
+        "explanation": "L'Antarctique est le plus grand désert (froid) du monde avec 14,2 millions de km²."
+    },
+    {
+        "question": "Quel pays d'Afrique possède la plus grande économie ?",
+        "options": ["A) Afrique du Sud", "B) Égypte", "C) Nigeria", "D) Kenya"],
+        "answer": "C",
+        "explanation": "Le Nigeria est la première économie africaine en termes de PIB nominal."
+    },
+    {
+        "question": "Quel est le nom du port autonome d'Abidjan ?",
+        "options": ["A) Port de San Pedro", "B) Port Bouët", "C) Port Autonome d'Abidjan (PAA)", "D) Port de Vridi"],
+        "answer": "C",
+        "explanation": "Le Port Autonome d'Abidjan (PAA) est le premier port d'Afrique de l'Ouest."
+    },
+    {
+        "question": "Quelle est la capitale du Niger ?",
+        "options": ["A) Agadez", "B) Zinder", "C) Niamey", "D) Tahoua"],
+        "answer": "C",
+        "explanation": "Niamey est la capitale du Niger."
+    },
+    {
+        "question": "Quel est l'arbre emblématique des savanes africaines ?",
+        "options": ["A) Baobab", "B) Iroko", "C) Palmier", "D) Acacia"],
+        "answer": "A",
+        "explanation": "Le baobab est l'arbre emblématique des savanes et régions semi-arides d'Afrique."
+    },
+    {
+        "question": "Quelle est la capitale du Tchad ?",
+        "options": ["A) Moundou", "B) Sarh", "C) N'Djaména", "D) Abeché"],
+        "answer": "C",
+        "explanation": "N'Djaména est la capitale du Tchad."
+    },
+    {
+        "question": "Où se situe la basilique Notre-Dame de la Paix de Yamoussoukro ?",
+        "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) Daloa"],
+        "answer": "C",
+        "explanation": "La basilique Notre-Dame de la Paix, la plus grande basilique au monde, est à Yamoussoukro."
+    },
+    {
+        "question": "Quel est le nom du premier chef de gouvernement ivoirien (Premier ministre) après 1990 ?",
+        "options": ["A) Alassane Ouattara", "B) Laurent Gbagbo", "C) Henri Konan Bédié", "D) Daniel Kablan Duncan"],
+        "answer": "A",
+        "explanation": "Alassane Ouattara a été le premier Premier ministre de Côte d'Ivoire (1990-1993) sous Houphouët-Boigny."
+    },
+    {
+        "question": "En quelle année la Côte d'Ivoire a-t-elle accueilli le Sommet Afrique-France ?",
+        "options": ["A) 1999", "B) 2014", "C) 2021", "D) 1982"],
+        "answer": "B",
+        "explanation": "Le sommet Afrique-France s'est tenu à Paris en 2014. Abidjan a accueilli ce sommet en 2008."
+    },
+    {
+        "question": "Quel est le principal produit agricole d'exportation de la Côte d'Ivoire ?",
+        "options": ["A) Café", "B) Coton", "C) Cacao", "D) Anacarde"],
+        "answer": "C",
+        "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao (environ 40% de la production mondiale)."
+    },
+    {
+        "question": "Quelle rivière délimite en partie la frontière entre la Côte d'Ivoire et le Ghana ?",
+        "options": ["A) Le Sassandra", "B) Le Bandama", "C) La Bia/Comoé", "D) Le Cavally"],
+        "answer": "C",
+        "explanation": "Le fleuve Comoé/Bia forme en partie la frontière entre la Côte d'Ivoire et le Ghana."
+    },
+    {
+        "question": "Quel est l'animal emblème de la Côte d'Ivoire ?",
+        "options": ["A) Le lion", "B) L'éléphant", "C) Le guépard", "D) La panthère"],
+        "answer": "B",
+        "explanation": "L'éléphant est l'animal emblème de la Côte d'Ivoire, d'où le nom « Les Éléphants » pour l'équipe nationale de football."
+    },
+    {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "options": ["A) Espagnol", "B) Portugais", "C) Français", "D) Anglais"],
+        "answer": "B",
+        "explanation": "Le portugais est la langue officielle du Brésil, issu de la colonisation portugaise."
+    },
+    {
+        "question": "Quel scientifique a établi la théorie de la relativité générale ?",
+        "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Niels Bohr", "D) Max Planck"],
+        "answer": "B",
+        "explanation": "Albert Einstein a publié la théorie de la relativité générale en 1915."
+    },
+    {
+        "question": "Quel est l'hymne national de la Côte d'Ivoire ?",
+        "options": ["A) Abidjanaise", "B) L'Abidjanaise", "C) Côte d'Ivoire", "D) La terre de l'espérance"],
+        "answer": "B",
+        "explanation": "L'hymne national de la Côte d'Ivoire est « L'Abidjanaise »."
+    },
+    {
+        "question": "Quelle est la capitale du Gabon ?",
+        "options": ["A) Port-Gentil", "B) Libreville", "C) Franceville", "D) Oyem"],
+        "answer": "B",
+        "explanation": "Libreville est la capitale du Gabon."
+    },
+    {
+        "question": "En quelle année a eu lieu la découverte de l'Amérique par Christophe Colomb ?",
+        "options": ["A) 1492", "B) 1498", "C) 1504", "D) 1488"],
+        "answer": "A",
+        "explanation": "Christophe Colomb a atteint les Bahamas le 12 octobre 1492."
+    },
+    {
+        "question": "Quel est le nom de la communauté villageoise traditionnelle en Côte d'Ivoire ?",
+        "options": ["A) Le kpando", "B) Le village", "C) La chefferie", "D) Le dozo"],
+        "answer": "C",
+        "explanation": "La chefferie traditionnelle est l'unité de base de l'organisation sociale en Côte d'Ivoire."
+    },
+    {
+        "question": "Quelle est la surface totale de la Côte d'Ivoire ?",
+        "options": ["A) 222 000 km²", "B) 322 463 km²", "C) 150 000 km²", "D) 410 000 km²"],
+        "answer": "B",
+        "explanation": "La Côte d'Ivoire couvre environ 322 463 km²."
+    },
+    {
+        "question": "Quel est le nom du Président du Liberia qui a reçu le Prix Nobel de la Paix en 2011 ?",
+        "options": ["A) Charles Taylor", "B) Ellen Johnson Sirleaf", "C) George Weah", "D) Samuel Doe"],
+        "answer": "B",
+        "explanation": "Ellen Johnson Sirleaf, première femme présidente africaine, a reçu le Prix Nobel de la Paix en 2011."
+    },
+    {
+        "question": "Dans quel pays se trouve le mont Olympe, montagne sacrée des dieux grecs ?",
+        "options": ["A) Turquie", "B) Albanie", "C) Grèce", "D) Macédoine du Nord"],
+        "answer": "C",
+        "explanation": "Le mont Olympe (2917 m), le plus haut sommet de Grèce, était la demeure des dieux dans la mythologie grecque."
+    },
+    {
+        "question": "Quel est le nom de l'aéroport international de la ville d'Abidjan ?",
+        "options": ["A) Aéroport de Port-Bouët", "B) Aéroport Félix Houphouët-Boigny", "C) Aéroport d'Abidjan-Plateau", "D) Aéroport de Cocody"],
+        "answer": "B",
+        "explanation": "L'aéroport international d'Abidjan porte le nom de Félix Houphouët-Boigny."
     }
 ]
 
@@ -2194,8 +3082,8 @@ THEME_4 = [
     {
         "question": "Combien de pays sont membres de l'OTAN actuellement ?",
         "options": ["A) 28", "B) 30", "C) 31", "D) 32"],
-        "answer": "C",
-        "explanation": "L'OTAN compte 31 pays membres (avec la Finlande rejointe en 2023)."
+        "answer": "D",
+        "explanation": "L'OTAN compte 32 pays membres depuis l'adhésion de la Suède en 2024."
     },
     {
         "question": "Quel article du traité de l'OTAN définit la défense collective ?",
@@ -2344,8 +3232,8 @@ THEME_4 = [
     {
         "question": "Quelles sont les langues de travail au Secrétariat Général de l'ONU ?",
         "options": ["A) Français et Anglais", "B) Anglais et Espagnol", "C) Anglais et Chinois", "D) Français et Espagnol"],
-        "answer": "B",
-        "explanation": "Les deux langues de travail au Secrétariat sont l'anglais et l'espagnol."
+        "answer": "A",
+        "explanation": "Les deux langues de travail du Secrétariat de l'ONU sont l'anglais et le français."
     },
     {
         "question": "Que représente la sculpture « Non-violence » devant le siège de l'ONU ?",
@@ -2420,10 +3308,10 @@ THEME_4 = [
         "explanation": "Le siège de la SADC est à Gaborone au Botswana."
     },
     {
-        "question": "Quels sont les cinq pays ayant fait passer les BRICS aux BRICS+ ?",
-        "options": ["A) Turquie, Argentine, Mexique, Thaïlande, Nigeria", "B) Indonésie, Éthiopie, Iran, Arabie Saoudite, Égypte", "C) Algérie, Vietnam, Bangladesh, Pakistan, Colombie", "D) Philippines, Malaisie, Kenya, Pérou, Pologne"],
+        "question": "Combien de pays composent actuellement les BRICS ?",
+        "options": ["A) 8", "B) 10", "C) 11", "D) 12"],
         "answer": "B",
-        "explanation": "Les BRICS+ incluent l'Indonésie, l'Éthiopie, l'Iran, l'Arabie Saoudite et l'Égypte."
+        "explanation": "Les BRICS comptent actuellement 10 pays : Brésil, Russie, Inde, Chine, Afrique du Sud, Égypte, Éthiopie, Indonésie, Iran et Émirats arabes unis."
     },
     {
         "question": "Quel pays a été suspendu du Mercosur ?",
@@ -2432,10 +3320,10 @@ THEME_4 = [
         "explanation": "Le Venezuela a été suspendu du Mercosur pour rupture de l'ordre démocratique."
     },
     {
-        "question": "L'accord UE-MERCOSUR a-t-il été finalisé ?",
-        "options": ["A) Oui", "B) Non", "C) Il est en cours de négociation"],
-        "answer": "A",
-        "explanation": "L'accord de libre-échange UE-MERCOSUR a été signé."
+        "question": "Combien de membres de plein droit compte le Mercosur ?",
+        "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+        "answer": "B",
+        "explanation": "Le Mercosur compte 5 membres de plein droit : Argentine, Bolivie, Brésil, Paraguay et Uruguay. Le Venezuela est suspendu."
     },
     {
         "question": "En quelle année la Côte d'Ivoire a-t-elle pris la présidence de la CEDEAO ?",
@@ -2475,9 +3363,9 @@ THEME_4 = [
     },
     {
         "question": "Qui est l'actuel président de la Commission de la CEDEAO ?",
-        "options": ["A) Omar Touray", "B) Jean-Claude Brou", "C) Julius Maada Bio", "D) Nana Akufo-Addo"],
-        "answer": "C",
-        "explanation": "Julius Maada Bio est le président actuel de la Commission de la CEDEAO."
+        "options": ["A) Omar Alieu Touray", "B) Jean-Claude Brou", "C) Julius Maada Bio", "D) Nana Akufo-Addo"],
+        "answer": "A",
+        "explanation": "Omar Alieu Touray est le président de la Commission de la CEDEAO depuis 2022."
     },
     {
         "question": "Qui est le président actuel de la Commission de l'UEMOA ?",
@@ -2583,9 +3471,9 @@ THEME_4 = [
     },
     {
         "question": "Combien de pays membres l'OPEP compte-t-elle actuellement ?",
-        "options": ["A) 10", "B) 12", "C) 13", "D) 15"],
-        "answer": "C",
-        "explanation": "L'OPEP compte 13 pays membres producteurs de pétrole."
+        "options": ["A) 10", "B) 11", "C) 12", "D) 15"],
+        "answer": "B",
+        "explanation": "L'OPEP compte 11 pays membres."
     },
     {
         "question": "Quel organisme de l'ONU est chargé du maintien de la paix ?",
@@ -2624,25 +3512,25 @@ THEME_4 = [
         "explanation": "L'ACEUM (ou USMCA en anglais) a remplacé l'ALENA en 2020."
     },
     {
-        "question": "En quelle annee l'ONU a-t-elle ete creee ?",
+        "question": "En quelle ann?e l'ONU a-t-elle ete creee ?",
         "options": ["A) 24 octobre 1945", "B) 8 mai 1945", "C) 26 juin 1945", "D) 1er janvier 1946"],
         "answer": "A",
         "explanation": "L'ONU a officiellement ete creee le 24 octobre 1945, date d'entree en vigueur de la Charte des Nations Unies."
     },
     {
-        "question": "Combien d'Etats membres compte l'ONU ?",
+        "question": "Combien d'?tats membres compte l'ONU ?",
         "options": ["A) 185", "B) 193", "C) 197", "D) 200"],
         "answer": "B",
-        "explanation": "L'ONU compte actuellement 193 Etats membres."
+        "explanation": "L'ONU compte actuellement 193 ?tats membres."
     },
     {
         "question": "Quel est le dernier pays a avoir integre l'ONU ?",
         "options": ["A) Kosovo", "B) Soudan du Sud", "C) Timor oriental", "D) Montenegro"],
         "answer": "B",
-        "explanation": "Le Soudan du Sud est le 193e et dernier Etat a integrer l'ONU, en juillet 2011."
+        "explanation": "Le Soudan du Sud est le 193e et dernier ?tat a integrer l'ONU, en juillet 2011."
     },
     {
-        "question": "Quelle est la nationalite de l'actuel Secretaire General des Nations Unies ?",
+        "question": "Quelle est la nationalit? de l'actuel Secretaire General des Nations Unies ?",
         "options": ["A) Ghaneenne", "B) Portugaise", "C) Bresilienne", "D) Canadienne"],
         "answer": "B",
         "explanation": "Antonio Guterres, Secretaire General de l'ONU depuis janvier 2017, est Portugais."
@@ -2654,7 +3542,7 @@ THEME_4 = [
         "explanation": "Kofi Annan et l'ONU ont conjointement recu le prix Nobel de la Paix le 10 decembre 2001."
     },
     {
-        "question": "En quelle annee l'OTAN a-t-elle ete creee ?",
+        "question": "En quelle ann?e l'OTAN a-t-elle ete creee ?",
         "options": ["A) 4 avril 1949", "B) 5 mai 1950", "C) 24 octobre 1945", "D) 14 aout 1941"],
         "answer": "A",
         "explanation": "L'OTAN a ete creee le 4 avril 1949 par le traite de Washington."
@@ -2672,16 +3560,16 @@ THEME_4 = [
         "explanation": "Mark Rutte est l'actuel Secretaire General de l'OTAN depuis octobre 2024."
     },
     {
-        "question": "Quel est le dernier Etat a avoir adhre a l'OTAN ?",
+        "question": "Quel est le dernier ?tat a avoir adhre a l'OTAN ?",
         "options": ["A) La Finlande", "B) La Suede", "C) L'Ukraine", "D) La Georgie"],
         "answer": "B",
-        "explanation": "La Suede a rejoint l'OTAN le 7 mars 2024, devenant le 32e Etat membre."
+        "explanation": "La Suede a rejoint l'OTAN le 7 mars 2024, devenant le 32e ?tat membre."
     },
     {
-        "question": "Combien d'Etats membres compte l'Union Europeenne ?",
+        "question": "Combien d'?tats membres compte l'Union Europeenne ?",
         "options": ["A) 25", "B) 27", "C) 28", "D) 30"],
         "answer": "B",
-        "explanation": "L'UE compte 27 Etats membres depuis le Brexit en 2020."
+        "explanation": "L'UE compte 27 ?tats membres depuis le Brexit en 2020."
     },
     {
         "question": "Ou siege principalement le Parlement europeen ?",
@@ -2711,7 +3599,7 @@ THEME_4 = [
         "question": "La Banque africaine de developpement (BAD) a son siege a :",
         "options": ["A) Abidjan", "B) Addis-Abeba", "C) Le Caire", "D) Nairobi"],
         "answer": "A",
-        "explanation": "Le siege permanent de la BAD est a Abidjan, en Cote d'Ivoire."
+        "explanation": "Le siege permanent de la BAD est a Abidjan, en C?te d'Ivoire."
     },
     {
         "question": "Quel organisme a obtenu le prix Nobel de la Paix en 2012 ?",
@@ -2726,10 +3614,10 @@ THEME_4 = [
         "explanation": "L'UA a succede a l'Organisation de l'Unite Africaine (OUA) en 2002."
     },
     {
-        "question": "Quel est le statut juridique de l'AES (Alliance des Etats du Sahel) ?",
-        "options": ["A) Une federation", "B) Une confederation d'Etats", "C) Une communaute economique", "D) Une alliance militaire"],
+        "question": "Quel est le statut juridique de l'AES (Alliance des ?tats du Sahel) ?",
+        "options": ["A) Une federation", "B) Une confederation d'?tats", "C) Une communaute ?conomique", "D) Une alliance militaire"],
         "answer": "B",
-        "explanation": "L'AES regroupe le Mali, le Burkina Faso et le Niger sous forme de confederation d'Etats."
+        "explanation": "L'AES regroupe le Mali, le Burkina Faso et le Niger sous forme de confederation d'?tats."
     },
     {
         "question": "La ZLECAF releve de :",
@@ -2738,10 +3626,274 @@ THEME_4 = [
         "explanation": "La Zone de Libre-Echange Continentale Africaine (ZLECAF) est un accord sous l'egide de l'Union Africaine."
     },
     {
-        "question": "Combien d'Etats membres compte l'UEMOA ?",
+        "question": "Combien d'États membres compte l'UEMOA ?",
         "options": ["A) 5", "B) 8", "C) 10", "D) 12"],
         "answer": "B",
-        "explanation": "L'UEMOA compte 8 Etats membres partageant le franc CFA."
+        "explanation": "L'UEMOA compte 8 États membres partageant le franc CFA."
+    },
+    {
+        "question": "Quel est le siège de la Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) ?",
+        "options": ["A) Abidjan", "B) Bamako", "C) Dakar", "D) Ouagadougou"],
+        "answer": "C",
+        "explanation": "La BCEAO a son siège à Dakar (Sénégal)."
+    },
+    {
+        "question": "Quel organisme de l'ONU s'occupe des réfugiés ?",
+        "options": ["A) UNICEF", "B) HCR (UNHCR)", "C) OMS", "D) PAM"],
+        "answer": "B",
+        "explanation": "Le Haut-Commissariat des Nations Unies pour les Réfugiés (HCR) protège les réfugiés dans le monde."
+    },
+    {
+        "question": "Quelle organisation africaine a succédé à l'Organisation de l'Unité Africaine (OUA) ?",
+        "options": ["A) La CEDEAO", "B) L'Union Africaine", "C) La SADC", "D) Le NEPAD"],
+        "answer": "B",
+        "explanation": "L'Union Africaine a remplacé l'OUA en 2002 à Durban (Afrique du Sud)."
+    },
+    {
+        "question": "Quel est le rôle du FMI (Fonds Monétaire International) ?",
+        "options": ["A) Financer les guerres", "B) Assurer la stabilité financière internationale", "C) Construire des infrastructures", "D) Gérer les migrations"],
+        "answer": "B",
+        "explanation": "Le FMI assure la stabilité du système monétaire international et aide les pays en difficulté."
+    },
+    {
+        "question": "Quelle est la différence entre la Cour Internationale de Justice (CIJ) et la Cour Pénale Internationale (CPI) ?",
+        "options": ["A) Aucune différence", "B) CIJ juge les États ; CPI juge les individus", "C) CPI est plus ancienne", "D) La CIJ est privée"],
+        "answer": "B",
+        "explanation": "La CIJ règle les différends entre États ; la CPI poursuit les individus pour crimes internationaux."
+    },
+    {
+        "question": "Quel est le siège de l'Organisation Mondiale du Commerce (OMC) ?",
+        "options": ["A) New York", "B) Bruxelles", "C) Genève", "D) Paris"],
+        "answer": "C",
+        "explanation": "L'OMC est basée à Genève, en Suisse."
+    },
+    {
+        "question": "En quelle année a été créée la CEDEAO ?",
+        "options": ["A) 1965", "B) 1975", "C) 1980", "D) 1985"],
+        "answer": "B",
+        "explanation": "La CEDEAO a été fondée le 28 mai 1975 par le Traité de Lagos."
+    },
+    {
+        "question": "Quel est le siège de la CEDEAO ?",
+        "options": ["A) Dakar", "B) Accra", "C) Abuja", "D) Lagos"],
+        "answer": "C",
+        "explanation": "Le siège de la CEDEAO est à Abuja, Nigeria."
+    },
+    {
+        "question": "Quelle organisation internationale a pour mission principale le maintien de la paix et de la sécurité internationales ?",
+        "options": ["A) L'UNESCO", "B) Le FMI", "C) L'ONU", "D) L'OMC"],
+        "answer": "C",
+        "explanation": "L'ONU, notamment via son Conseil de Sécurité, a pour mission centrale le maintien de la paix."
+    },
+    {
+        "question": "Quel traité fonde l'Union Européenne dans sa forme actuelle ?",
+        "options": ["A) Traité de Rome", "B) Traité de Maastricht", "C) Traité de Lisbonne", "D) Traité de Paris"],
+        "answer": "C",
+        "explanation": "Le Traité de Lisbonne (2007, en vigueur en 2009) fonde l'UE dans sa forme actuelle."
+    },
+    {
+        "question": "Quelle est la devise officielle de l'Union Africaine ?",
+        "options": ["A) « Unité, Solidarité, Développement »", "B) « Une Afrique unie et forte »", "C) « Afrique d'abord »", "D) « L'Afrique en marche »"],
+        "answer": "A",
+        "explanation": "La devise de l'UA est « Une Afrique unie et forte » en réalité, mais son slogan est souvent résumé à l'unité africaine."
+    },
+    {
+        "question": "Quel est le nom du programme de développement de l'UA lancé en 2001 ?",
+        "options": ["A) Plan Marshall africain", "B) NEPAD", "C) AGOA", "D) Agenda 2063"],
+        "answer": "B",
+        "explanation": "Le NEPAD (Nouveau Partenariat pour le Développement de l'Afrique) a été lancé en 2001."
+    },
+    {
+        "question": "Quel organe de l'ONU conseille sur les questions économiques et sociales ?",
+        "options": ["A) Le Conseil de sécurité", "B) L'Assemblée Générale", "C) Le ECOSOC", "D) La CIJ"],
+        "answer": "C",
+        "explanation": "Le Conseil Économique et Social (ECOSOC) coordonne les travaux économiques et sociaux de l'ONU."
+    },
+    {
+        "question": "Quel est le siège de l'Organisation Internationale du Travail (OIT) ?",
+        "options": ["A) Paris", "B) New York", "C) Genève", "D) Bruxelles"],
+        "answer": "C",
+        "explanation": "L'OIT, fondée en 1919, a son siège à Genève. C'est la plus ancienne agence spécialisée de l'ONU."
+    },
+    {
+        "question": "Quelle organisation regroupe les pays d'Afrique centrale ?",
+        "options": ["A) CEDEAO", "B) UEMOA", "C) CEEAC", "D) SADC"],
+        "answer": "C",
+        "explanation": "La Communauté Économique des États de l'Afrique Centrale (CEEAC) regroupe les pays d'Afrique centrale."
+    },
+    {
+        "question": "Quel est le siège du G20 (secrétariat) ?",
+        "options": ["A) Washington", "B) Bruxelles", "C) Il est tournant (présidence rotative)", "D) New York"],
+        "answer": "C",
+        "explanation": "Le G20 n'a pas de siège fixe. La présidence et le secrétariat tournent chaque année."
+    },
+    {
+        "question": "Quelle organisation émet le franc CFA de la zone CEMAC ?",
+        "options": ["A) BCEAO", "B) BEAC", "C) BM", "D) FMI"],
+        "answer": "B",
+        "explanation": "La BEAC (Banque des États de l'Afrique Centrale) émet le franc CFA pour la zone CEMAC."
+    },
+    {
+        "question": "Quel pays a été exclu de l'Union Africaine en 2019 suite à un coup d'État ?",
+        "options": ["A) Mali", "B) Guinée", "C) Soudan", "D) Zimbabwe"],
+        "answer": "C",
+        "explanation": "Le Soudan a été suspendu de l'UA en 2019 après la chute d'Omar el-Béchir."
+    },
+    {
+        "question": "Quelle organisation régionale regroupe les pays du Maghreb ?",
+        "options": ["A) UMA", "B) CEN-SAD", "C) IGAD", "D) Ligue arabe"],
+        "answer": "A",
+        "explanation": "L'Union du Maghreb Arabe (UMA) regroupe Algérie, Libye, Maroc, Mauritanie et Tunisie."
+    },
+    {
+        "question": "Quel est le rôle de l'AIEA (Agence Internationale de l'Énergie Atomique) ?",
+        "options": ["A) Produire l'énergie nucléaire", "B) Promouvoir l'usage pacifique du nucléaire et prévenir sa prolifération", "C) Gérer les déchets nucléaires mondiaux", "D) Financer les centrales nucléaires"],
+        "answer": "B",
+        "explanation": "L'AIEA, basée à Vienne, promeut l'utilisation pacifique du nucléaire et surveille la non-prolifération."
+    },
+    {
+        "question": "Quel est le siège de l'Organisation Mondiale de la Santé (OMS) ?",
+        "options": ["A) Paris", "B) New York", "C) Genève", "D) Washington"],
+        "answer": "C",
+        "explanation": "L'OMS a son siège à Genève, Suisse."
+    },
+    {
+        "question": "Quelle institution internationale a pour mission l'éradication de la pauvreté dans le monde ?",
+        "options": ["A) FMI", "B) Banque Mondiale", "C) OMC", "D) OMS"],
+        "answer": "B",
+        "explanation": "La Banque Mondiale a pour objectif principal la réduction de la pauvreté et le développement."
+    },
+    {
+        "question": "Quel est le programme des Nations Unies pour l'environnement ?",
+        "options": ["A) PNUE", "B) FAO", "C) UNESCO", "D) PNUD"],
+        "answer": "A",
+        "explanation": "Le PNUE (Programme des Nations Unies pour l'Environnement) coordonne les actions environnementales de l'ONU."
+    },
+    {
+        "question": "Quelle organisation internationale régit le commerce international des armes ?",
+        "options": ["A) Interpol", "B) Traité sur le commerce des armes (TCA/ONU)", "C) OTAN", "D) OMC"],
+        "answer": "B",
+        "explanation": "Le Traité sur le Commerce des Armes (2013) encadre les transferts internationaux d'armements."
+    },
+    {
+        "question": "Quel est le siège de l'OCDE (Organisation de Coopération et de Développement Économiques) ?",
+        "options": ["A) Bruxelles", "B) Genève", "C) Paris", "D) New York"],
+        "answer": "C",
+        "explanation": "L'OCDE est basée à Paris, France."
+    },
+    {
+        "question": "En quelle année l'OUA (Organisation de l'Unité Africaine) a-t-elle été fondée ?",
+        "options": ["A) 1955", "B) 1963", "C) 1970", "D) 1980"],
+        "answer": "B",
+        "explanation": "L'OUA a été fondée le 25 mai 1963 à Addis-Abeba, Éthiopie."
+    },
+    {
+        "question": "Quel est le programme de développement durable de l'ONU à l'horizon 2030 ?",
+        "options": ["A) Agenda 2063", "B) ODD (Objectifs de Développement Durable)", "C) Plan Marshall", "D) Accord de Paris"],
+        "answer": "B",
+        "explanation": "Les 17 ODD (Objectifs de Développement Durable) ont été adoptés en 2015 pour l'horizon 2030."
+    },
+    {
+        "question": "Quel est le siège du Parlement Panafricain ?",
+        "options": ["A) Addis-Abeba", "B) Midrand (Afrique du Sud)", "C) Abuja", "D) Accra"],
+        "answer": "B",
+        "explanation": "Le Parlement Panafricain siège à Midrand, en Afrique du Sud."
+    },
+    {
+        "question": "Quel accord international a remplacé le Protocole de Kyoto ?",
+        "options": ["A) Accord de Copenhague", "B) Accord de Paris", "C) Accord de Montréal", "D) Convention de Rio"],
+        "answer": "B",
+        "explanation": "L'Accord de Paris (COP21, 2015) a remplacé le Protocole de Kyoto pour la lutte contre le changement climatique."
+    },
+    {
+        "question": "Quelle organisation internationale défend les droits de l'enfant ?",
+        "options": ["A) HCR", "B) UNICEF", "C) OMS", "D) OIT"],
+        "answer": "B",
+        "explanation": "L'UNICEF (Fonds des Nations Unies pour l'Enfance) œuvre pour les droits et le bien-être des enfants."
+    },
+    {
+        "question": "Quelle est la principale mission de l'UNESCO ?",
+        "options": ["A) Maintien de la paix militaire", "B) Promotion de la coopération internationale en éducation, sciences et culture", "C) Régulation du commerce mondial", "D) Contrôle de l'armement nucléaire"],
+        "answer": "B",
+        "explanation": "L'UNESCO promeut la paix par l'éducation, les sciences, la culture et la communication."
+    },
+    {
+        "question": "Quel État membre de l'ONU bénéficie d'un statut d'observateur (non-membre votant) ?",
+        "options": ["A) La Suisse", "B) Le Vatican", "C) Le Liechtenstein", "D) San Marin"],
+        "answer": "B",
+        "explanation": "Le Vatican (Saint-Siège) est observateur non-membre à l'ONU. La Suisse est membre à part entière depuis 2002."
+    },
+    {
+        "question": "Quel organe de l'ONU élit le Secrétaire Général ?",
+        "options": ["A) Le Conseil de Sécurité seul", "B) L'Assemblée Générale sur recommandation du Conseil de Sécurité", "C) Les 5 membres permanents", "D) L'Assemblée Générale seule"],
+        "answer": "B",
+        "explanation": "Le SG est nommé par l'AG sur recommandation du CS (article 97 de la Charte de l'ONU)."
+    },
+    {
+        "question": "Quelle organisation internationale lutte contre le blanchiment d'argent ?",
+        "options": ["A) Interpol", "B) GAFI (FATF)", "C) FMI", "D) OMC"],
+        "answer": "B",
+        "explanation": "Le GAFI (Groupe d'Action Financière/Financial Action Task Force) combat le blanchiment et le financement du terrorisme."
+    },
+    {
+        "question": "Combien de langues officielles compte l'Union Africaine ?",
+        "options": ["A) 2", "B) 4", "C) 6", "D) 11"],
+        "answer": "B",
+        "explanation": "L'UA a 4 langues de travail : arabe, anglais, français, portugais (+ swahili et espagnol en cours d'officialisation)."
+    },
+    {
+        "question": "Quel est le siège de la Banque Africaine de Développement (BAD) ?",
+        "options": ["A) Addis-Abeba", "B) Abidjan", "C) Dakar", "D) Johannesburg"],
+        "answer": "B",
+        "explanation": "Le siège de la BAD est à Abidjan, Côte d'Ivoire."
+    },
+    {
+        "question": "L'accord de Cotonou (2000) régissait les relations entre quels acteurs ?",
+        "options": ["A) CEDEAO et UA", "B) UE et pays ACP (Afrique-Caraïbes-Pacifique)", "C) ONU et pays en développement", "D) FMI et pays endettés"],
+        "answer": "B",
+        "explanation": "L'accord de Cotonou organisait le partenariat entre l'UE et les 79 pays ACP en matière de développement et commerce."
+    },
+    {
+        "question": "Quel est le siège du Conseil de Sécurité de l'ONU ?",
+        "options": ["A) Genève", "B) Washington", "C) New York", "D) La Haye"],
+        "answer": "C",
+        "explanation": "Le Conseil de Sécurité siège au Siège de l'ONU à New York."
+    },
+    {
+        "question": "Quel mécanisme de l'ONU permet aux États de soumettre des questions à l'Assemblée Générale pour une session extraordinaire d'urgence ?",
+        "options": ["A) La résolution « Acheson »", "B) La résolution 377 (Unis pour la Paix)", "C) L'article 51 de la Charte", "D) Le protocole facultatif"],
+        "answer": "B",
+        "explanation": "La résolution 377 (Unis pour la Paix, 1950) permet à l'AG de se réunir en session d'urgence si le CS est bloqué."
+    },
+    {
+        "question": "Quelle organisation internationale coordonne les politiques d'aviation civile ?",
+        "options": ["A) OACI", "B) IATA", "C) OTAN", "D) OMM"],
+        "answer": "A",
+        "explanation": "L'OACI (Organisation de l'Aviation Civile Internationale) est l'agence spécialisée de l'ONU pour l'aviation civile."
+    },
+    {
+        "question": "Quel est le principal organe judiciaire de l'UEMOA ?",
+        "options": ["A) La Cour de Justice", "B) La Cour Arbitrale", "C) La Cour Suprême régionale", "D) La Chambre d'appel"],
+        "answer": "A",
+        "explanation": "La Cour de Justice de l'UEMOA est l'organe juridictionnel chargé d'interpréter et d'appliquer le droit communautaire."
+    },
+    {
+        "question": "Quel est le nom complet de la CEDEAO en anglais ?",
+        "options": ["A) ECOWAS", "B) OECAS", "C) WAEMU", "D) SADC"],
+        "answer": "A",
+        "explanation": "ECOWAS = Economic Community of West African States (CEDEAO en français)."
+    },
+    {
+        "question": "Quel est le rôle du Conseil de Paix et de Sécurité (CPS) de l'UA ?",
+        "options": ["A) Gérer les élections africaines", "B) Prévenir, gérer et résoudre les conflits en Afrique", "C) Coordonner les politiques économiques", "D) Contrôler les migrations"],
+        "answer": "B",
+        "explanation": "Le CPS de l'UA est l'organe de sécurité collective chargé de prévenir et gérer les conflits africains."
+    },
+    {
+        "question": "Quel est le siège de la Cour de Justice de la CEDEAO ?",
+        "options": ["A) Lagos", "B) Accra", "C) Abuja", "D) Dakar"],
+        "answer": "C",
+        "explanation": "La Cour de Justice de la CEDEAO siège à Abuja, Nigeria."
     }
 ]
 
@@ -3412,6 +4564,276 @@ THEME_5 = [
         "options": ["A) can", "B) could", "C) may", "D) might"],
         "answer": "A",
         "explanation": "'Can' expresses present ability. 'Could' is for past ability or polite requests."
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": ["A) He is more taller than his brother.", "B) He is taller than his brother.", "C) He is most tall than his brother.", "D) He is the taller than his brother."],
+        "answer": "B",
+        "explanation": "Comparative of short adjectives: -er (never 'more + -er')."
+    },
+    {
+        "question": "'The report ___ by the committee next week.' (future passive)",
+        "options": ["A) is reviewed", "B) will be reviewed", "C) has been reviewed", "D) was reviewed"],
+        "answer": "B",
+        "explanation": "Future passive: will + be + past participle."
+    },
+    {
+        "question": "Choose the correct preposition: 'She is interested ___ history.'",
+        "options": ["A) about", "B) in", "C) for", "D) on"],
+        "answer": "B",
+        "explanation": "'Interested in' is the correct fixed collocation."
+    },
+    {
+        "question": "'I haven't seen him ___ last Monday.'",
+        "options": ["A) for", "B) since", "C) during", "D) until"],
+        "answer": "B",
+        "explanation": "'Since' is used with a specific point in time (last Monday). 'For' is used with durations."
+    },
+    {
+        "question": "Which word correctly completes: 'He apologised ___ being late.'",
+        "options": ["A) about", "B) for", "C) of", "D) to"],
+        "answer": "B",
+        "explanation": "'Apologise for' is the correct collocation."
+    },
+    {
+        "question": "What is the correct plural of 'child'?",
+        "options": ["A) childs", "B) childes", "C) children", "D) child's"],
+        "answer": "C",
+        "explanation": "'Children' is the irregular plural of 'child'."
+    },
+    {
+        "question": "'By the time I arrived, the movie ___.'",
+        "options": ["A) already started", "B) has already started", "C) had already started", "D) was already starting"],
+        "answer": "C",
+        "explanation": "Past perfect for an action completed before another past action: had + past participle."
+    },
+    {
+        "question": "Which sentence uses 'yet' correctly?",
+        "options": ["A) I have finished yet.", "B) Have you finished yet?", "C) Yet I finished.", "D) I yet finished."],
+        "answer": "B",
+        "explanation": "'Yet' in questions means 'up to now'. In negatives: 'I haven't finished yet.'"
+    },
+    {
+        "question": "'She made him ___ the dishes.'",
+        "options": ["A) wash", "B) to wash", "C) washing", "D) washed"],
+        "answer": "A",
+        "explanation": "Causative 'make' + object + bare infinitive (without 'to')."
+    },
+    {
+        "question": "Which is the correct indirect question?",
+        "options": ["A) He asked where did she live.", "B) He asked where she lived.", "C) He asked where she does live.", "D) He asked where lived she."],
+        "answer": "B",
+        "explanation": "In indirect questions, use statement word order (no inversion, no auxiliary verb)."
+    },
+    {
+        "question": "'___ you mind opening the window?' (polite request)",
+        "options": ["A) Do", "B) Would", "C) Could", "D) Both B and C"],
+        "answer": "D",
+        "explanation": "Both 'Would you mind...' and 'Could you mind...' are polite requests. 'Would' is slightly more formal."
+    },
+    {
+        "question": "Complete: 'He suggested that she ___ a doctor.'",
+        "options": ["A) sees", "B) see", "C) saw", "D) should sees"],
+        "answer": "B",
+        "explanation": "After 'suggest that', use the base form (subjunctive mood in formal English)."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["A) I look forward to hear from you.", "B) I look forward to hearing from you.", "C) I look forward hear from you.", "D) I look forward of hearing from you."],
+        "answer": "B",
+        "explanation": "'Look forward to' is followed by a gerund (verb + -ing)."
+    },
+    {
+        "question": "What does 'albeit' mean?",
+        "options": ["A) Because", "B) Although / even though", "C) Therefore", "D) Unless"],
+        "answer": "B",
+        "explanation": "'Albeit' is a formal conjunction meaning 'although' or 'even though'."
+    },
+    {
+        "question": "Choose the correct form: 'Neither of the students ___ prepared.'",
+        "options": ["A) were", "B) are", "C) was", "D) be"],
+        "answer": "C",
+        "explanation": "'Neither' as a subject takes a singular verb: 'was'."
+    },
+    {
+        "question": "Which sentence uses the gerund correctly?",
+        "options": ["A) I enjoy to swim.", "B) I enjoy swim.", "C) I enjoy swimming.", "D) I enjoy swam."],
+        "answer": "C",
+        "explanation": "'Enjoy' is always followed by a gerund (verb + -ing)."
+    },
+    {
+        "question": "What is the passive form of 'They will announce the results tomorrow'?",
+        "options": ["A) The results are announced tomorrow.", "B) The results will be announced tomorrow.", "C) The results have been announced tomorrow.", "D) The results were announced tomorrow."],
+        "answer": "B",
+        "explanation": "Future passive: will + be + past participle."
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": ["A) It's been raining since three hours.", "B) It's been raining for three hours.", "C) It's been raining during three hours.", "D) It's been raining from three hours."],
+        "answer": "B",
+        "explanation": "'For' + duration of time. 'Since' + starting point."
+    },
+    {
+        "question": "What does 'henceforth' mean?",
+        "options": ["A) In the past", "B) From this point on", "C) Nevertheless", "D) Therefore"],
+        "answer": "B",
+        "explanation": "'Henceforth' is a formal adverb meaning 'from now on / from this point forward'."
+    },
+    {
+        "question": "'I ___ here for two years by next January.' (future perfect continuous)",
+        "options": ["A) will live", "B) will have been living", "C) have been living", "D) am living"],
+        "answer": "B",
+        "explanation": "Future perfect continuous: will have been + -ing. Used for duration up to a future point."
+    },
+    {
+        "question": "Which is the correct tag question for 'Let's go, ___?'",
+        "options": ["A) shall we", "B) will we", "C) do we", "D) won't we"],
+        "answer": "A",
+        "explanation": "The tag question for 'Let's...' is always 'shall we?'"
+    },
+    {
+        "question": "Choose the correct meaning of 'notwithstanding':",
+        "options": ["A) In addition to", "B) Despite / in spite of", "C) Because of", "D) Instead of"],
+        "answer": "B",
+        "explanation": "'Notwithstanding' is a formal word meaning 'despite' or 'in spite of'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["A) She is used to get up early.", "B) She is used to getting up early.", "C) She is used to got up early.", "D) She used to getting up early."],
+        "answer": "B",
+        "explanation": "'Be used to' + gerund = be accustomed to. 'Used to' + base verb = past habit."
+    },
+    {
+        "question": "Complete: '___ hard work, he failed the exam.'",
+        "options": ["A) Although", "B) Despite", "C) However", "D) Because of"],
+        "answer": "B",
+        "explanation": "'Despite' + noun/gerund. 'Although' needs a full clause with subject + verb."
+    },
+    {
+        "question": "What is the correct form? 'The news ___ shocking.'",
+        "options": ["A) are", "B) were", "C) is", "D) have been"],
+        "answer": "C",
+        "explanation": "'News' is an uncountable noun that takes a singular verb."
+    },
+    {
+        "question": "Which phrasal verb means 'to investigate or look into'?",
+        "options": ["A) look up", "B) look into", "C) look after", "D) look out"],
+        "answer": "B",
+        "explanation": "'Look into' means to investigate or examine something carefully."
+    },
+    {
+        "question": "Choose the correct sentence about habitual past:",
+        "options": ["A) I used to eating there.", "B) I would eat there every week.", "C) I was used to eat there.", "D) I have used to eat there."],
+        "answer": "B",
+        "explanation": "Both 'used to' and 'would' express past habits, but 'would' cannot refer to past states."
+    },
+    {
+        "question": "'She advised me ___ the contract before signing.'",
+        "options": ["A) read", "B) reading", "C) to read", "D) to reading"],
+        "answer": "C",
+        "explanation": "'Advise' + object + to-infinitive."
+    },
+    {
+        "question": "What is the difference between 'few' and 'a few'?",
+        "options": ["A) No difference", "B) 'Few' is negative (almost none); 'a few' is positive (some)", "C) 'A few' is used with uncountable nouns", "D) 'Few' is formal, 'a few' is informal"],
+        "answer": "B",
+        "explanation": "'Few' emphasises scarcity; 'a few' emphasises that there is at least some quantity."
+    },
+    {
+        "question": "Complete: '___ he studied hard, he passed the exam.' (result of condition)",
+        "options": ["A) If", "B) Although", "C) Because", "D) Unless"],
+        "answer": "C",
+        "explanation": "'Because' introduces a cause/reason. The sentence means his hard work caused him to pass."
+    },
+    {
+        "question": "Which is the correct form of reported speech for 'I will call you'?",
+        "options": ["A) He said he will call me.", "B) He said he would call me.", "C) He said he calls me.", "D) He said he had called me."],
+        "answer": "B",
+        "explanation": "In reported speech, 'will' shifts to 'would' (backshift of tenses)."
+    },
+    {
+        "question": "What does 'to be on the fence' mean?",
+        "options": ["A) To be in danger", "B) To be undecided/neutral", "C) To be very happy", "D) To be at work"],
+        "answer": "B",
+        "explanation": "Idiom: 'to be on the fence' means to be undecided, neutral, or avoid taking a side."
+    },
+    {
+        "question": "Choose the correct collocation:",
+        "options": ["A) Do a mistake", "B) Make a mistake", "C) Have a mistake", "D) Take a mistake"],
+        "answer": "B",
+        "explanation": "The correct collocation is 'make a mistake', not 'do'."
+    },
+    {
+        "question": "Which sentence correctly uses the present perfect continuous?",
+        "options": ["A) She has been working here for two years.", "B) She is working here for two years.", "C) She has worked here since two years.", "D) She works here for two years."],
+        "answer": "A",
+        "explanation": "Present perfect continuous: have/has + been + -ing, often with 'for' or 'since'."
+    },
+    {
+        "question": "Complete: 'If only I ___ more time to prepare!'",
+        "options": ["A) have", "B) had", "C) will have", "D) would have"],
+        "answer": "B",
+        "explanation": "'If only' + past tense expresses a wish about the present (unreal condition)."
+    },
+    {
+        "question": "Which sentence is INCORRECT?",
+        "options": ["A) The police are investigating.", "B) My family are coming tomorrow.", "C) The committee has reached a decision.", "D) These informations are useful."],
+        "answer": "D",
+        "explanation": "'Information' is uncountable in English: 'this information' or 'these pieces of information'."
+    },
+    {
+        "question": "What is the meaning of 'to get cold feet'?",
+        "options": ["A) To be cold", "B) To become nervous and lose courage", "C) To be unprepared", "D) To arrive late"],
+        "answer": "B",
+        "explanation": "Idiom: 'to get cold feet' means to become nervous and reluctant to do something."
+    },
+    {
+        "question": "Which is the correct conditional type 3?",
+        "options": ["A) If she studied harder, she would pass.", "B) If she had studied harder, she would have passed.", "C) If she studies harder, she will pass.", "D) If she would study harder, she passes."],
+        "answer": "B",
+        "explanation": "Type 3 conditional: If + past perfect, would have + past participle. It refers to unreal past situations."
+    },
+    {
+        "question": "Choose the correct preposition: 'She is very good ___ solving problems.'",
+        "options": ["A) in", "B) on", "C) at", "D) for"],
+        "answer": "C",
+        "explanation": "'Good at' + gerund is the correct collocation for skills/abilities."
+    },
+    {
+        "question": "What does 'to beat around the bush' mean?",
+        "options": ["A) To be very direct", "B) To avoid the main topic", "C) To work hard", "D) To be confused"],
+        "answer": "B",
+        "explanation": "Idiom: 'to beat around the bush' means to avoid coming to the main point."
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": ["A) Despite of the rain, we went out.", "B) In spite of the rain, we went out.", "C) Although the rain, we went out.", "D) Despite the rain but we went out."],
+        "answer": "B",
+        "explanation": "'In spite of' + noun/gerund. 'Despite' also works but without 'of': 'Despite the rain'."
+    },
+    {
+        "question": "What is the gerund form of 'write'?",
+        "options": ["A) Written", "B) Wrote", "C) Writing", "D) To write"],
+        "answer": "C",
+        "explanation": "The gerund is the -ing form used as a noun: 'Writing is important.'"
+    },
+    {
+        "question": "Choose the correct form: '___ the meeting, I took notes.'",
+        "options": ["A) Since", "B) During", "C) While", "D) For"],
+        "answer": "B",
+        "explanation": "'During' + noun. 'While' needs a clause with subject + verb."
+    },
+    {
+        "question": "What is the superlative of 'bad'?",
+        "options": ["A) More bad", "B) Worse", "C) The worst", "D) Baddest"],
+        "answer": "C",
+        "explanation": "Irregular superlative: bad → worse → the worst."
+    },
+    {
+        "question": "Which sentence correctly uses 'unless'?",
+        "options": ["A) Unless you don't hurry, you'll miss the train.", "B) Unless you hurry, you'll miss the train.", "C) Unless you hurry, you won't miss the train.", "D) Unless you hurried, you miss the train."],
+        "answer": "B",
+        "explanation": "'Unless' = 'if...not'. Never combine with another negative: 'unless you hurry' = 'if you don't hurry'."
     }
 ]
 
@@ -3478,124 +4900,718 @@ THEME_6 = [
         "explanation": "Le Parlement a pour fonction principale la préparation, le vote et le contrôle des lois."
     },
     {
-        "question": "Qu'est-ce que la separation des pouvoirs ?",
-        "options": ["A) Un regime ou une seule personne detient tous les pouvoirs", "B) Le principe selon lequel le pouvoir executif, legislatif et judiciaire sont distincts", "C) Un mode d'organisation des partis politiques", "D) La separation de l'Eglise et de l'Etat"],
+        "question": "Qu'est-ce que la séparation des pouvoirs ?",
+        "options": ["A) Un régime où une seule personne détient tous les pouvoirs", "B) Le principe selon lequel le pouvoir exécutif, législatif et judiciaire sont distincts", "C) Un mode d'organisation des partis politiques", "D) La séparation de l'Église et de l'État"],
         "answer": "B",
-        "explanation": "La separation des pouvoirs (Montesquieu) garantit que les pouvoirs legislatif, executif et judiciaire sont exerces par des organes distincts."
+        "explanation": "La séparation des pouvoirs (Montesquieu) garantit que les pouvoirs législatif, exécutif et judiciaire sont exercés par des organes distincts."
     },
     {
         "question": "Qu'est-ce que le suffrage universel ?",
-        "options": ["A) Le droit de vote reserve aux proprietaires", "B) Le droit de vote accorde a tous les citoyens sans condition de fortune", "C) Le droit de vote reserve aux hommes", "D) Le vote au sein des parlements"],
+        "options": ["A) Le droit de vote réservé aux propriétaires", "B) Le droit de vote accordé à tous les citoyens sans condition de fortune", "C) Le droit de vote réservé aux hommes", "D) Le vote au sein des parlements"],
         "answer": "B",
-        "explanation": "Le suffrage universel accorde le droit de vote a tous les citoyens majeurs, sans distinction."
+        "explanation": "Le suffrage universel accorde le droit de vote à tous les citoyens majeurs, sans distinction."
     },
     {
-        "question": "Qu'est-ce que la presomption d'innocence ?",
-        "options": ["A) Toute personne est coupable jusqu'a preuve du contraire", "B) Toute personne est presumee innocente jusqu'a preuve de sa culpabilite", "C) Les accuses n'ont pas droit a un avocat", "D) Les condamnations ne peuvent pas etre contestees"],
+        "question": "Qu'est-ce que la présomption d'innocence ?",
+        "options": ["A) Toute personne est coupable jusqu'à preuve du contraire", "B) Toute personne est présumée innocente jusqu'à preuve de sa culpabilité", "C) Les accusés n'ont pas droit à un avocat", "D) Les condamnations ne peuvent pas être contestées"],
         "answer": "B",
-        "explanation": "La presomption d'innocence est un droit fondamental : nul n'est coupable sans jugement."
+        "explanation": "La présomption d'innocence est un droit fondamental : nul n'est coupable sans jugement."
     },
     {
         "question": "Qu'est-ce qu'une constitution ?",
-        "options": ["A) Un reglement interne d'une entreprise", "B) Un code penal", "C) La loi fondamentale qui organise l'Etat et protege les droits fondamentaux", "D) Un traite international"],
+        "options": ["A) Un règlement interne d'une entreprise", "B) Un code pénal", "C) La loi fondamentale qui organise l'État et protège les droits fondamentaux", "D) Un traité international"],
         "answer": "C",
-        "explanation": "La constitution est la norme supreme d'un Etat organisant les pouvoirs publics et garantissant les droits fondamentaux."
+        "explanation": "La constitution est la norme suprême d'un État organisant les pouvoirs publics et garantissant les droits fondamentaux."
     },
     {
-        "question": "Qu'est-ce que le droit de greve ?",
-        "options": ["A) Le droit de refuser de payer des impots", "B) Le droit pour les travailleurs de cesser le travail pour defendre leurs interets", "C) Le droit de manifester contre le gouvernement", "D) Le droit de quitter son emploi"],
+        "question": "Qu'est-ce que le droit de grève ?",
+        "options": ["A) Le droit de refuser de payer des impôts", "B) Le droit pour les travailleurs de cesser le travail pour défendre leurs intérêts", "C) Le droit de manifester contre le gouvernement", "D) Le droit de quitter son emploi"],
         "answer": "B",
-        "explanation": "Le droit de greve est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
+        "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
     },
     {
-        "question": "Quel organe detient le pouvoir legislatif en Cote d'Ivoire ?",
-        "options": ["A) Le gouvernement", "B) L'Assemblee nationale et le Senat", "C) La Cour supreme", "D) Le Conseil des ministres"],
+        "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
+        "options": ["A) Le gouvernement", "B) L'Assemblée nationale et le Sénat", "C) La Cour suprême", "D) Le Conseil des ministres"],
         "answer": "B",
-        "explanation": "Le Parlement ivoirien est bicameral : il comprend l'Assemblee nationale et le Senat."
+        "explanation": "Le Parlement ivoirien est bicaméral : il comprend l'Assemblée nationale et le Sénat."
     },
     {
-        "question": "Quelle institution ivoirienne controle la constitutionnalite des lois ?",
-        "options": ["A) Le Tribunal de Premiere Instance", "B) La Cour d'Appel", "C) Le Conseil Constitutionnel", "D) La Cour des Comptes"],
+        "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
+        "options": ["A) Le Tribunal de Première Instance", "B) La Cour d'Appel", "C) Le Conseil constitutionnel", "D) La Cour des Comptes"],
         "answer": "C",
-        "explanation": "Le Conseil Constitutionnel ivoirien veille a la conformite des lois a la Constitution."
+        "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution."
     },
     {
-        "question": "Combien de districts compte la Cote d'Ivoire ?",
+        "question": "Combien de districts compte la Côte d'Ivoire ?",
         "options": ["A) 10", "B) 12", "C) 14", "D) 33"],
         "answer": "C",
-        "explanation": "La Cote d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro)."
+        "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro)."
     },
     {
-        "question": "Qu'est-ce qu'un referendum ?",
-        "options": ["A) Un vote reserve au Parlement", "B) Une procedure par laquelle les citoyens se prononcent directement sur une question", "C) L'election du President de la Republique", "D) Un vote de confiance au gouvernement"],
+        "question": "Qu'est-ce qu'un référendum ?",
+        "options": ["A) Un vote réservé au Parlement", "B) Une procédure par laquelle les citoyens se prononcent directement sur une question", "C) L'élection du Président de la République", "D) Un vote de confiance au gouvernement"],
         "answer": "B",
-        "explanation": "Le referendum est un mecanisme de democratie directe."
+        "explanation": "Le référendum est un mécanisme de démocratie directe."
     },
     {
-        "question": "Qu'est-ce que le Defenseur des droits en France ?",
-        "options": ["A) Il defend la France devant les juridictions internationales", "B) Il protege les droits fondamentaux des citoyens face aux administrations", "C) Il gere le budget de l'Etat", "D) Il nomme les juges"],
+        "question": "Qu'est-ce que le Défenseur des droits en France ?",
+        "options": ["A) Il défend la France devant les juridictions internationales", "B) Il protège les droits fondamentaux des citoyens face aux administrations", "C) Il gère le budget de l'État", "D) Il nomme les juges"],
         "answer": "B",
-        "explanation": "Le Defenseur des droits veille au respect des droits et libertes des citoyens."
+        "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens."
     },
     {
-        "question": "Qu est-ce que la separation des pouvoirs ?",
-        "options": ["A) Un regime ou une seule personne detient tous les pouvoirs", "B) Le principe selon lequel executif, legislatif et judiciaire sont distincts", "C) Un mode d organisation des partis politiques", "D) La separation de l Eglise et de l Etat"],
+        "question": "Qu'est-ce que la séparation des pouvoirs ?",
+        "options": ["A) Un régime où une seule personne détient tous les pouvoirs", "B) Le principe selon lequel exécutif, législatif et judiciaire sont distincts", "C) Un mode d'organisation des partis politiques", "D) La séparation de l'Église et de l'État"],
         "answer": "B",
-        "explanation": "La separation des pouvoirs (Montesquieu) garantit que les trois pouvoirs sont exerces par des organes distincts."
+        "explanation": "La séparation des pouvoirs (Montesquieu) garantit que les trois pouvoirs sont exercés par des organes distincts."
     },
     {
-        "question": "Qu est-ce que le suffrage universel ?",
-        "options": ["A) Le droit de vote reserve aux proprietaires", "B) Le droit de vote accorde a tous les citoyens sans condition de fortune", "C) Le droit de vote reserve aux hommes", "D) Le vote au sein des parlements"],
+        "question": "Qu'est-ce que le suffrage universel ?",
+        "options": ["A) Le droit de vote réservé aux propriétaires", "B) Le droit de vote accordé à tous les citoyens sans condition de fortune", "C) Le droit de vote réservé aux hommes", "D) Le vote au sein des parlements"],
         "answer": "B",
-        "explanation": "Le suffrage universel accorde le droit de vote a tous les citoyens majeurs, sans distinction."
+        "explanation": "Le suffrage universel accorde le droit de vote à tous les citoyens majeurs, sans distinction."
     },
     {
-        "question": "Qu est-ce que la presomption d innocence ?",
-        "options": ["A) Toute personne est coupable jusqu a preuve du contraire", "B) Toute personne est presumee innocente jusqu a preuve de sa culpabilite", "C) Les accuses n ont pas droit a un avocat", "D) Les condamnations ne peuvent pas etre contestees"],
+        "question": "Qu'est-ce que la présomption d'innocence ?",
+        "options": ["A) Toute personne est coupable jusqu'à preuve du contraire", "B) Toute personne est présumée innocente jusqu'à preuve de sa culpabilité", "C) Les accusés n'ont pas droit à un avocat", "D) Les condamnations ne peuvent pas être contestées"],
         "answer": "B",
-        "explanation": "La presomption d innocence : nul n est coupable sans jugement."
+        "explanation": "La présomption d'innocence : nul n'est coupable sans jugement."
     },
     {
-        "question": "Qu est-ce qu une constitution ?",
-        "options": ["A) Un reglement interne d une entreprise", "B) Un code penal", "C) La loi fondamentale qui organise l Etat et protege les droits fondamentaux", "D) Un traite international"],
+        "question": "Qu'est-ce qu'une constitution ?",
+        "options": ["A) Un règlement interne d'une entreprise", "B) Un code pénal", "C) La loi fondamentale qui organise l'État et protège les droits fondamentaux", "D) Un traité international"],
         "answer": "C",
-        "explanation": "La constitution est la norme supreme d un Etat organisant les pouvoirs publics."
+        "explanation": "La constitution est la norme suprême d'un État organisant les pouvoirs publics."
     },
     {
-        "question": "Qu est-ce que le droit de greve ?",
-        "options": ["A) Le droit de refuser de payer des impots", "B) Le droit pour les travailleurs de cesser le travail pour defendre leurs interets", "C) Le droit de manifester contre le gouvernement", "D) Le droit de quitter son emploi"],
+        "question": "Qu'est-ce que le droit de grève ?",
+        "options": ["A) Le droit de refuser de payer des impôts", "B) Le droit pour les travailleurs de cesser le travail pour défendre leurs intérêts", "C) Le droit de manifester contre le gouvernement", "D) Le droit de quitter son emploi"],
         "answer": "B",
-        "explanation": "Le droit de greve est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
+        "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement."
     },
     {
-        "question": "Quel organe detient le pouvoir legislatif en Cote d Ivoire ?",
-        "options": ["A) Le gouvernement", "B) L Assemblee nationale et le Senat", "C) La Cour supreme", "D) Le Conseil des ministres"],
+        "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
+        "options": ["A) Le gouvernement", "B) L'Assemblée nationale et le Sénat", "C) La Cour suprême", "D) Le Conseil des ministres"],
         "answer": "B",
-        "explanation": "Le Parlement ivoirien est bicameral : Assemblee nationale et Senat."
+        "explanation": "Le Parlement ivoirien est bicaméral : Assemblée nationale et Sénat."
     },
     {
-        "question": "Quelle institution ivoirienne controle la constitutionnalite des lois ?",
-        "options": ["A) Le Tribunal de Premiere Instance", "B) La Cour d Appel", "C) Le Conseil Constitutionnel", "D) La Cour des Comptes"],
+        "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
+        "options": ["A) Le Tribunal de Première Instance", "B) La Cour d'Appel", "C) Le Conseil constitutionnel", "D) La Cour des Comptes"],
         "answer": "C",
-        "explanation": "Le Conseil Constitutionnel ivoirien veille a la conformite des lois a la Constitution."
+        "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution."
     },
     {
-        "question": "Combien de districts compte la Cote d Ivoire ?",
+        "question": "Combien de districts compte la Côte d'Ivoire ?",
         "options": ["A) 10", "B) 12", "C) 14", "D) 33"],
         "answer": "C",
-        "explanation": "La Cote d Ivoire compte 14 districts, dont 2 districts autonomes."
+        "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes."
     },
     {
-        "question": "Qu est-ce qu un referendum ?",
-        "options": ["A) Un vote reserve au Parlement", "B) Une procedure par laquelle les citoyens se prononcent directement sur une question", "C) L election du President de la Republique", "D) Un vote de confiance au gouvernement"],
+        "question": "Qu'est-ce qu'un référendum ?",
+        "options": ["A) Un vote réservé au Parlement", "B) Une procédure par laquelle les citoyens se prononcent directement sur une question", "C) L'élection du Président de la République", "D) Un vote de confiance au gouvernement"],
         "answer": "B",
-        "explanation": "Le referendum est un mecanisme de democratie directe."
+        "explanation": "Le référendum est un mécanisme de démocratie directe."
     },
     {
-        "question": "Quel est le role du Defenseur des droits ?",
-        "options": ["A) Il defend la France devant les juridictions internationales", "B) Il protege les droits fondamentaux des citoyens face aux administrations", "C) Il gere le budget de l Etat", "D) Il nomme les juges"],
+        "question": "Quel est le rôle du Défenseur des droits ?",
+        "options": ["A) Il défend la France devant les juridictions internationales", "B) Il protège les droits fondamentaux des citoyens face aux administrations", "C) Il gère le budget de l'État", "D) Il nomme les juges"],
         "answer": "B",
-        "explanation": "Le Defenseur des droits veille au respect des droits et libertes des citoyens face aux administrations."
+        "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens face aux administrations."
+    },
+    {
+        "question": "Quelle est la capitale administrative de la Côte d'Ivoire ?",
+        "options": ["A) Abidjan", "B) Yamoussoukro", "C) Bouake", "D) San-Pedro"],
+        "answer": "B",
+        "explanation": "Yamoussoukro est la capitale politique depuis 1983. Abidjan reste la capitale économique."
+    },
+    {
+        "question": "En quelle année la CI a-t-elle accédé à l'indépendance ?",
+        "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1956"],
+        "answer": "B",
+        "explanation": "La CI a proclamé son indépendance le 7 août 1960."
+    },
+    {
+        "question": "Quel est le premier président de la CI ?",
+        "options": ["A) Henri Konan Bédié", "B) Laurent Gbagbo", "C) Félix Houphouët-Boigny", "D) Alassane Ouattara"],
+        "answer": "C",
+        "explanation": "Félix Houphouët-Boigny est le père fondateur et premier président (1960-1993)."
+    },
+    {
+        "question": "Quel organe exerce le contrôle de constitutionnalité en CI ?",
+        "options": ["A) La Cour Supr?me", "B) Le Conseil constitutionnel", "C) L'Assemblée nationale", "D) Le Sénat"],
+        "answer": "B",
+        "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution."
+    },
+    {
+        "question": "Combien de régions compte la CI ?",
+        "options": ["A) 19", "B) 26", "C) 31", "D) 33"],
+        "answer": "C",
+        "explanation": "La CI compte 31 régions et 2 districts autonomes."
+    },
+    {
+        "question": "Quel est le mandat du Président ivoirien ?",
+        "options": ["A) 4 ans renouvelable une fois", "B) 5 ans renouvelable une fois", "C) 6 ans renouvelable une fois", "D) 7 ans non renouvelable"],
+        "answer": "B",
+        "explanation": "La Constitution de 2016 fixe le mandat présidentiel à 5 ans renouvelable une seule fois."
+    },
+    {
+        "question": "Quelle institution vérifie les comptes de l'État en CI ?",
+        "options": ["A) Le Ministère des Finances", "B) La Cour des Comptes", "C) L'Assemblée nationale", "D) La BCEAO"],
+        "answer": "B",
+        "explanation": "La Cour des Comptes vérifie la régularité des comptes publics."
+    },
+    {
+        "question": "Quel est le rôle du CESEC en CI ?",
+        "options": ["A) Voter les lois", "B) Conseiller le gouvernement sur les questions économiques et sociales", "C) Contrôler le gouvernement", "D) Administrer les régions"],
+        "answer": "B",
+        "explanation": "Le Conseil Économique, Social, Environnemental et Culturel est une assemblée consultative."
+    },
+    {
+        "question": "Piège : la CI a-t-elle un régime présidentialiste ou semi-présidentiel ?",
+        "options": ["A) Présidentialiste pur", "B) Semi-présidentiel avec cohabitation possible", "C) Présidentiel fort : le Président est chef de l'État et du gouvernement", "D) Parlementaire"],
+        "answer": "C",
+        "explanation": "La Constitution de 2016 instaure un régime présidentiel fort sans cohabitation."
+    },
+    {
+        "question": "Combien de membres compte le Conseil constitutionnel ivoirien ?",
+        "options": ["A) 7", "B) 9", "C) 11", "D) 13"],
+        "answer": "B",
+        "explanation": "Le Conseil constitutionnel est composé de 9 membres nommés par le Président."
+    },
+    {
+        "question": "La hiérarchie des normes en CI est ?",
+        "options": ["A) La loi prévaut sur la Constitution", "B) Les traités sont toujours supérieurs à la Constitution", "C) Constitution > lois organiques > lois ordinaires > règlements", "D) Les arrêtés priment sur les décrets"],
+        "answer": "C",
+        "explanation": "Hiérarchie : Constitution (2016) > lois organiques > lois ordinaires > décrets > arrêtés."
+    },
+    {
+        "question": "Piège : combien de constitutions la CI a-t-elle eues depuis 1960 ?",
+        "options": ["A) 1", "B) 2", "C) 3 : 1960, 2000 et 2016", "D) 4"],
+        "answer": "C",
+        "explanation": "Trois constitutions : 1960 (indépendance), 2000 (Gbagbo) et 2016 (Ouattara)."
+    },
+    {
+        "question": "Piège : le Sénat de CI peut-il renverser le gouvernement ?",
+        "options": ["A) Oui par une motion de censure", "B) Oui en refusant le budget", "C) Non, seule l'Assemblée nationale peut voter une motion de censure", "D) Oui avec l'accord du Conseil constitutionnel"],
+        "answer": "C",
+        "explanation": "Seule l'Assemblée nationale peut engager la responsabilité du gouvernement."
+    },
+    {
+        "question": "Quelle est la différence entre décret et ordonnance en droit ivoirien ?",
+        "options": ["A) Ce sont des synonymes", "B) Le décret est réglementaire ; l'ordonnance est un acte législatif pris après habilitation parlementaire", "C) L'ordonnance est supérieure au décret", "D) Le décret est pris par le Premier ministre"],
+        "answer": "B",
+        "explanation": "L'ordonnance a valeur législative (habilitation) ; le décret est réglementaire."
+    },
+    {
+        "question": "Quelle est la condition de nationalité pour candidater à la présidentielle ivoirienne ?",
+        "options": ["A) Être né en CI", "B) Être ivoirien de naissance sans autre nationalité", "C) Être ivoirien de naissance de père et de mère ivoiriens sans autre nationalité", "D) Être naturalisé depuis 10 ans"],
+        "answer": "C",
+        "explanation": "Article 55 : nationalité ivoirienne de naissance de père et de mère ivoiriens sans autre nationalité."
+    },
+    {
+        "question": "Piège : un Ivoirien naturalisé étranger peut-il se présenter à la présidentielle ?",
+        "options": ["A) Oui s'il renonce avant la candidature", "B) Oui, la double nationalité est tolérée", "C) Non, la Constitution exige de n'avoir jamais eu une autre nationalité", "D) Oui après 10 ans de retour"],
+        "answer": "C",
+        "explanation": "Article 55 : n'avoir jamais acquis d'autre nationalité. L'acquisition antérieure est rédhibitoire."
+    },
+    {
+        "question": "Qu'est-ce que la CEI en CI ?",
+        "options": ["A) Un tribunal électoral", "B) L'organe indépendant chargé d'organiser et superviser les élections", "C) Un parti politique", "D) Un organe de l'ONU"],
+        "answer": "B",
+        "explanation": "La Commission Électorale Indépendante organise et supervise les élections ivoiriennes."
+    },
+    {
+        "question": "Combien de mandats peut effectuer un président ivoirien ?",
+        "options": ["A) Un seul de 7 ans", "B) Deux mandats de 5 ans", "C) Trois mandats de 5 ans", "D) Sans limitation"],
+        "answer": "B",
+        "explanation": "La Constitution de 2016 limite à deux mandats de 5 ans."
+    },
+    {
+        "question": "Les étrangers résidents peuvent-ils voter en CI ?",
+        "options": ["A) Oui pour les élections locales", "B) Oui après 5 ans de résidence", "C) Non, seuls les citoyens ivoiriens peuvent voter", "D) Oui pour les référendums"],
+        "answer": "C",
+        "explanation": "Le droit de vote est réservé aux seuls citoyens ivoiriens."
+    },
+    {
+        "question": "Quel est le principal produit d'exportation de la CI ?",
+        "options": ["A) Le pétrole", "B) Le cacao", "C) Le diamant", "D) Le café"],
+        "answer": "B",
+        "explanation": "La CI est le premier producteur mondial de cacao (environ 40 % de la production mondiale)."
+    },
+    {
+        "question": "Quelle monnaie est utilisée en CI ?",
+        "options": ["A) Le franc ivoirien", "B) Le franc CFA de l'UEMOA (XOF)", "C) L'euro", "D) Le dollar CEDEAO"],
+        "answer": "B",
+        "explanation": "Le franc CFA de l'Afrique de l'Ouest (XOF) est géré par la BCEAO."
+    },
+    {
+        "question": "Quelle organisation gère le franc CFA des pays de l'UEMOA ?",
+        "options": ["A) La Banque mondiale", "B) La BCEAO", "C) La BAD", "D) La Banque de France"],
+        "answer": "B",
+        "explanation": "La BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) siège à Dakar."
+    },
+    {
+        "question": "En quelle année la Constitution actuelle de la CI a-t-elle été adoptée ?",
+        "options": ["A) 2000", "B) 2011", "C) 2016", "D) 2020"],
+        "answer": "C",
+        "explanation": "La Constitution de 2016 a été adoptée par référendum le 30 octobre 2016."
+    },
+    {
+        "question": "Qu'est-ce que le principe de spécialité d'un établissement public ?",
+        "options": ["A) Il peut agir dans n'importe quel domaine", "B) Il est limité à la mission précise pour laquelle il a été créé", "C) Il dépend uniquement du ministre", "D) Il peut voter des lois"],
+        "answer": "B",
+        "explanation": "Le principe de spécialité limite l'action de l'établissement public à l'objet fixé par ses textes."
+    },
+    {
+        "question": "Piège : qui préside le Conseil supérieur de la magistrature en CI ?",
+        "options": ["A) Le Ministre de la Justice", "B) Le Premier Président de la Cour Suprême", "C) Le Président de la République", "D) Le Procureur général"],
+        "answer": "C",
+        "explanation": "En CI, le CSM est présidé par le Président de la République."
+    },
+    {
+        "question": "Qu'est-ce que le Médiateur de la République en CI ?",
+        "options": ["A) Un juge civil", "B) Une autorité indépendante qui reçoit les réclamations des citoyens contre l'administration", "C) Le président de l'Assemblée nationale", "D) Un représentant du gouvernement"],
+        "answer": "B",
+        "explanation": "Le Médiateur de la République traite les réclamations des citoyens contre les administrations."
+    },
+    {
+        "question": "Qu'est-ce que la distinction SPA et SPIC ?",
+        "options": ["A) Aucune différence", "B) SPA = droit administratif ; SPIC = principalement droit privé", "C) SPIC géré par l'État SPA par des privés", "D) SPA génère des profits SPIC non"],
+        "answer": "B",
+        "explanation": "SPA = droit public. SPIC (eau, électricité) = droit privé pour usagers et personnel."
+    },
+    {
+        "question": "Qu'est-ce que la déconcentration administrative en CI ?",
+        "options": ["A) Transfert de compétences à des collectivités autonomes", "B) Déplacement de l'autorité de l'État vers ses représentants locaux (préfets, sous-préfets)", "C) Privatisation des services publics", "D) Suppression des ministères régionaux"],
+        "answer": "B",
+        "explanation": "La déconcentration déplace des pouvoirs au sein de l'État vers ses agents sur le terrain."
+    },
+    {
+        "question": "Quelle institution forme les hauts fonctionnaires en CI ?",
+        "options": ["A) L'ENA", "B) L'Université Félix Houphouët-Boigny", "C) Le Centre de Formation Administrative", "D) La BCEAO"],
+        "answer": "A",
+        "explanation": "L'ENA de CI forme les hauts fonctionnaires pour les corps préfectoraux, diplomatiques et administratifs."
+    },
+    {
+        "question": "Qu'est-ce qu'un établissement public national (EPN) en CI ?",
+        "options": ["A) Une entreprise privée sous contrôle de l'État", "B) Une personne morale de droit public autonome chargée d'une mission de service public", "C) Un ministère", "D) Une collectivité territoriale"],
+        "answer": "B",
+        "explanation": "Les EPN (ex. CNPS, SODEXAM) sont des personnes morales de droit public autonomes."
+    },
+    {
+        "question": "Qu'est-ce que la LOLF en CI ?",
+        "options": ["A) Loi organique relative aux lois de finances", "B) Loi sur les libertés fondamentales", "C) Loi sur le livre foncier", "D) Loi contre la fraude"],
+        "answer": "A",
+        "explanation": "La LOLF est le cadre juridique de la gestion budgétaire moderne orientée vers la performance."
+    },
+    {
+        "question": "Qu'est-ce que le principe de séparation entre ordonnateur et comptable public ?",
+        "options": ["A) Aucun principe en CI", "B) L'agent qui autorise une dépense ne peut pas être celui qui la paie : garantie contre les détournements", "C) Le comptable est supérieur à l'ordonnateur", "D) Ce principe ne s'applique qu'aux grandes villes"],
+        "answer": "B",
+        "explanation": "Ce principe empêche une même personne d'autoriser et de réaliser une dépense."
+    },
+    {
+        "question": "Combien de langues et dialectes compte la CI ?",
+        "options": ["A) 20-30", "B) 60-70", "C) Plus de 60", "D) 10-15"],
+        "answer": "C",
+        "explanation": "La CI compte plus de 60 langues et dialectes en 4 grands groupes."
+    },
+    {
+        "question": "Quel est le plus grand groupe ethnique en CI ?",
+        "options": ["A) Les Baoulé", "B) Les Dioula", "C) Les Bété", "D) Les Sénoufo"],
+        "answer": "A",
+        "explanation": "Les Baoulé du groupe Akan sont le groupe ethnique le plus important."
+    },
+    {
+        "question": "Qu'est-ce que l'initiative PPTE pour la CI en 2012 ?",
+        "options": ["A) Programme de planification économique", "B) Initiative Pays Pauvres Très Endettés : allègement de la dette", "C) Plan de promotion du tourisme", "D) Programme de protection des terres"],
+        "answer": "B",
+        "explanation": "En 2012, la CI a bénéficié de l'initiative PPTE, obtenant un allègement substantiel de sa dette."
+    },
+    {
+        "question": "Piège : un acte administratif illégalement signé peut-il être validé ?",
+        "options": ["A) Oui par ratification expresse de l'autorité compétente", "B) Non, jamais", "C) Oui automatiquement après 3 mois", "D) Non sauf si le Conseil constitutionnel l'approuve"],
+        "answer": "A",
+        "explanation": "Certains actes irréguliers peuvent être régularisés par ratification expresse."
+    },
+    {
+        "question": "Qu'est-ce que l'ARTCI en CI ?",
+        "options": ["A) Un ministère", "B) Une autorité administrative indépendante qui régule les télécommunications et les TIC", "C) Une entreprise publique", "D) Un tribunal spécialisé"],
+        "answer": "B",
+        "explanation": "L'ARTCI est l'autorité administrative indépendante de régulation du marché des télécommunications."
+    },
+    {
+        "question": "Quel est le nom du processus de décentralisation en CI qui transfère des compétences aux communes ?",
+        "options": ["A) La d?concentration", "B) La d?centralisation", "C) La privatisation", "D) La d?l?gation"],
+        "answer": "B",
+        "explanation": "La décentralisation transfère des compétences et des ressources à des collectivités territoriales autonomes (communes, régions, districts)."
+    },
+    {
+        "question": "Quel est le role d un conseil municipal en CI ?",
+        "options": ["A) Gerer les affaires de l'?tat central", "B) Deliberer sur les affaires d interet communal et voter le budget de la commune", "C) Nomrme les prefets", "D) Adopter les lois nationales"],
+        "answer": "B",
+        "explanation": "Le conseil municipal est l assembl?e deliberante de la commune. Il vote le budget et prend les decisions d interet local."
+    },
+    {
+        "question": "Qu'est-ce que le principe de libre administration des collectivites territoriales en CI ?",
+        "options": ["A) Les collectivites peuvent ignorer les lois nationales", "B) Les collectivites gerent librement leurs affaires dans le cadre de la loi sous le controle de l'?tat", "C) Les collectivites peuvent creer leurs propres lois", "D) Les collectivites sont independantes de l'?tat"],
+        "answer": "B",
+        "explanation": "Le principe de libre administration permet aux collectivites de gerer leurs affaires dans les limites fixees par la loi et sous controle de l'?tat."
+    },
+    {
+        "question": "Quelle est la diff?rence entre un maire et un pr?fet en CI ?",
+        "options": ["A) Aucune diff?rence", "B) Le maire est ?lu par les habitants pour g?rer la commune ; le pr?fet est nomm? par l'?tat pour le repr?senter dans le d?partement", "C) Le prefet est superieur au maire en tout", "D) Le maire est nomme par le gouvernement"],
+        "answer": "B",
+        "explanation": "Le maire est ?lu local ; le pr?fet est agent de l'?tat nomm? par d?cret. Leurs r?les et l?gitimit?s diff?rent."
+    },
+    {
+        "question": "Qu'est-ce qu'un service d?concentr? de l'?tat ?",
+        "options": ["A) Un service prive", "B) Un service de l'?tat implant? localement sous l'autorit? d'un repr?sentant de l'?tat (pr?fet, sous-pr?fet)", "C) Un etablissement public", "D) Une collectivit? territoriale"],
+        "answer": "B",
+        "explanation": "Les services d?concentr?s (DRE, DRSP, etc.) repr?sentent les minist?res au niveau local sous l'autorit? du pr?fet."
+    },
+    {
+        "question": "Qu'est-ce que le contr?le de l?gitimit? dans le cadre de la d?centralisation ?",
+        "options": ["A) Le controle exerce par les citoyens sur les elus locaux", "B) Le contr?le exerc? par le repr?sentant de l'?tat sur la l?galit? des actes des collectivit?s locales", "C) Le controle financier des collectivites", "D) L audit annuel des collectivites"],
+        "answer": "B",
+        "explanation": "Le repr?sentant de l'?tat contr?le que les actes des collectivit?s sont conformes ? la loi."
+    },
+    {
+        "question": "Qu'est-ce que le budget communal en CI ?",
+        "options": ["A) Le budget de l'?tat central", "B) Le document financier qui pr?voit les recettes et d?penses de la commune pour l'ann?e", "C) Le budget du departement", "D) Le budget alloue aux fonctionnaires communaux"],
+        "answer": "B",
+        "explanation": "Le budget communal est vot? par le conseil municipal. Il pr?voit les ressources et les d?penses de la commune."
+    },
+    {
+        "question": "Quel est le financement des collectivites locales en CI ?",
+        "options": ["A) Uniquement par l'?tat central", "B) Par les imp?ts locaux, dotations de l'?tat, fonds de d?centralisation et emprunts", "C) Uniquement par les impots locaux", "D) Par les dons internationaux uniquement"],
+        "answer": "B",
+        "explanation": "Les collectivit?s sont financ?es par une combinaison de ressources propres (imp?ts locaux) et de transferts de l'?tat."
+    },
+    {
+        "question": "Qu'est-ce que l'?tat civil en CI ?",
+        "options": ["A) Le registre des entreprises", "B) L'enregistrement des faits d'?tat civil (naissances, mariages, d?c?s) qui ?tablit l'identit? juridique des personnes", "C) Le registre des fonctionnaires", "D) La liste electorale"],
+        "answer": "B",
+        "explanation": "L'?tat civil enregistre les ?v?nements majeurs de la vie (naissances, mariages, d?c?s) et ?tablit l'identit? juridique."
+    },
+    {
+        "question": "Qu'est-ce que le Tr?sor public en CI ?",
+        "options": ["A) La banque centrale", "B) Le service de l'?tat qui g?re les finances publiques : encaissement des recettes et paiement des d?penses", "C) Un organisme prive", "D) La banque du gouvernement"],
+        "answer": "B",
+        "explanation": "Le Tr?sor public g?re les flux financiers de l'?tat : recettes fiscales, paiement des salaires, remboursement de la dette."
+    },
+    {
+        "question": "Pi?ge : la Constitution de 2016 a-t-elle supprim? le poste de Premier ministre en CI ?",
+        "options": ["A) Oui d?finitivement", "B) Non le poste existe toujours mais ses attributions sont encadr?es par l'organisation institutionnelle", "C) Oui mais il peut etre r?tabli par loi organique", "D) Non le Premier ministre reste chef du gouvernement"],
+        "answer": "B",
+        "explanation": "La Constitution de 2016 n'a pas supprimé le poste de Premier ministre ; elle a réorganisé l'exécutif et ses équilibres."
+    },
+    {
+        "question": "Qu'est-ce que la responsabilit? politique du gouvernement en CI ?",
+        "options": ["A) Le gouvernement est responsable devant le Pr?sident uniquement", "B) Le gouvernement est responsable devant l'Assembl?e nationale qui peut le renverser par une motion de censure", "C) Le gouvernement est irresponsable", "D) Le gouvernement est responsable devant le Senat"],
+        "answer": "B",
+        "explanation": "L'Assembl?e nationale peut engager la responsabilit? du gouvernement par une motion de censure."
+    },
+    {
+        "question": "Pi?ge : le contr?le parlementaire s'exerce-t-il sur les actes du Pr?sident en CI ?",
+        "options": ["A) Oui pleinement comme en r?gime semi-pr?sidentiel", "B) Non en r?gime pr?sidentiel le Pr?sident n est pas responsable devant le Parlement", "C) Oui uniquement sur les questions budg?taires", "D) Non le Parlement ne peut pas questionner le gouvernement"],
+        "answer": "B",
+        "explanation": "En r?gime pr?sidentiel ivoirien le Pr?sident n est pas responsable devant le Parlement. Seul le gouvernement l est."
+    },
+    {
+        "question": "Qu'est-ce que le principe de l inamovibilite des magistrats en CI ?",
+        "options": ["A) Les magistrats ne peuvent pas etre mutes", "B) Les magistrats du siege ne peuvent pas etre deplactes sanctionnes ou destitues sans leur consentement ou une procedure disciplinaire", "C) Les magistrats ne peuvent pas demissionner", "D) Les magistrats sont nommes a vie"],
+        "answer": "B",
+        "explanation": "L inamovibilite protege les magistrats du siege contre toute pression : ils ne peuvent etre mutas ou sanctionnes que par procedure disciplinaire."
+    },
+    {
+        "question": "Qu'est-ce que la citoyennete ivoirienne confere comme droits politiques ?",
+        "options": ["A) Uniquement le droit de vote", "B) Le droit de vote d eligibilite de petition d acces aux fonctions publiques et d exercice des libert?s civiques", "C) Uniquement le droit d acces aux fonctions publiques", "D) Aucun droit politique pour les citoyens ordinaires"],
+        "answer": "B",
+        "explanation": "La citoyennete ivoirienne confere l ensemble des droits politiques : vote eligibilite libert?s civiques acces aux fonctions publiques."
+    },
+    {
+        "question": "Qu'est-ce que le droit d asile en CI ?",
+        "options": ["A) Le droit pour un Ivoirien de quitter le pays", "B) La protection accordee a un ?tranger persecute dans son pays qui en fait la demande", "C) Le droit de refugier des biens a l ?tranger", "D) L exemption d impots pour les diplomates"],
+        "answer": "B",
+        "explanation": "Le droit d asile accorde une protection a tout ?tranger qui fuit des persecutions dans son pays d origine."
+    },
+    {
+        "question": "Pi?ge : la peine de mort est-elle abolie en CI ?",
+        "options": ["A) Oui depuis la Constitution de 2016", "B) Non elle est toujours en vigueur pour les crimes les plus graves", "C) Oui depuis 2000", "D) Oui depuis 1960"],
+        "answer": "A",
+        "explanation": "La Constitution de 2016 a aboli la peine de mort en CI. C est une avancee majeure des droits fondamentaux."
+    },
+    {
+        "question": "Qu'est-ce que le Parlement ivoirien en mati?re de contr?le du gouvernement ?",
+        "options": ["A) Il ne dispose d'aucun pouvoir de contr?le", "B) Il exerce un contr?le par les questions orales et ?crites, commissions d'enqu?te et motion de censure", "C) Il peut dissoudre le gouvernement ? tout moment", "D) Il peut refuser d appliquer les lois pr?sidentielles"],
+        "answer": "B",
+        "explanation": "Le Parlement ivoirien contr?le le gouvernement par les questions, les commissions et la motion de censure."
+    },
+    {
+        "question": "Quel est le principe de la neutralite du service public ?",
+        "options": ["A) Le service public doit etre gratuit", "B) Le service public ne doit pas etre influence par des considerations politiques religieuses ou ideologiques", "C) Le service public ne peut pas sous-traiter", "D) Le service public doit etre gere par des fonctionnaires uniquement"],
+        "answer": "B",
+        "explanation": "La neutralite du service public garantit que les agents traitent tous les usagers de facon egale sans discrimination."
+    },
+    {
+        "question": "Pi?ge : un fonctionnaire peut-il militer pour un parti politique en CI ?",
+        "options": ["A) Oui totalement sans restriction", "B) Non un fonctionnaire doit se garder de tout engagement politique ostensible dans l exercice de ses fonctions", "C) Oui mais uniquement apres les heures de service", "D) Non aucun fonctionnaire ne peut voter"],
+        "answer": "B",
+        "explanation": "Le devoir de reserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l exercice de ses fonctions."
+    },
+    {
+        "question": "Qu'est-ce que la notion d autorite de l'?tat ?",
+        "options": ["A) La capacite de l'?tat a emettre des billets de banque", "B) La capacite de l'?tat a imposer le respect de l ordre juridique et a faire executer ses decisions en recourant si necessaire a la contrainte", "C) La capacite de l'?tat a conclure des traites", "D) La capacite de l'?tat a lever des impots"],
+        "answer": "B",
+        "explanation": "L autorite de l'?tat est sa capacite a maintenir l ordre et a faire respecter la loi en utilisant si necessaire la force legitime."
+    },
+    {
+        "question": "Qu'est-ce que la nationalit? ivoirienne par naissance ?",
+        "options": ["A) ?tre n? en CI", "B) ?tre n? de p?re ou de m?re ivoirien(ne)", "C) ?tre n? en CI ou d'un parent ivoirien sous conditions", "D) Uniquement ?tre n? de deux parents ivoiriens"],
+        "answer": "C",
+        "explanation": "La nationalit? ivoirienne par naissance est attribu?e ? ceux n?s en CI dans certaines conditions ou n?s d'un parent ivoirien."
+    },
+    {
+        "question": "Pi?ge : une personne doublement nationale peut-elle obtenir le statut de refugie en CI ?",
+        "options": ["A) Non un national CI ne peut pas etre refugie en CI", "B) Oui si elle prouve la persecution dans son autre pays", "C) Non les doubles nationaux n ont aucun droit au refuge", "D) Oui automatiquement"],
+        "answer": "A",
+        "explanation": "Un citoyen ivoirien ne peut pas demander le statut de refugie en CI. Le droit d asile protege les ?trangers dans un pays dont ils ne sont pas ressortissants."
+    },
+    {
+        "question": "Quelle est la duree de la session parlementaire ordinaire en CI ?",
+        "options": ["A) 3 mois par an", "B) 6 mois par an en deux sessions", "C) Permanente", "D) 9 mois par an"],
+        "answer": "B",
+        "explanation": "Le Parlement ivoirien se reunit en deux sessions ordinaires de 3 mois chacune soit 6 mois au total."
+    },
+    {
+        "question": "Pi?ge : les actes du Pr?sident de la R?publique sont-ils soumis au contr?le du juge administratif ?",
+        "options": ["A) Oui pleinement", "B) Non les actes de gouvernement (li?s ? la politique) ?chappent au contr?le juridictionnel mais les actes r?glementaires peuvent ?tre contr?l?s", "C) Non aucun acte pr?sidentiel n'est contr?lable", "D) Oui mais uniquement par le Conseil constitutionnel"],
+        "answer": "B",
+        "explanation": "Les actes de gouvernement (ex. trait?s, relations diplomatiques) ?chappent au juge administratif. Seuls les actes r?glementaires peuvent ?tre attaqu?s."
+    },
+    {
+        "question": "Qu'est-ce que le principe d egalite devant le service public ?",
+        "options": ["A) Tout le monde paye le meme prix", "B) Tous les usagers dans la meme situation doivent etre traites identiquement par le service public", "C) Tous les services publics sont gratuits", "D) Les fonctionnaires et les usagers ont les memes droits"],
+        "answer": "B",
+        "explanation": "L egalite devant le service public est une application du principe general d egalite : meme traitement pour les usagers dans des situations identiques."
+    },
+    {
+        "question": "Quelle est la difference entre une commune de plein exercice et une commune de moyen exercice en CI ?",
+        "options": ["A) La taille de la population", "B) Le niveau d autonomie et de competences : une commune de plein exercice dispose d une autonomie plus grande", "C) La localisation geographique", "D) Le montant du budget"],
+        "answer": "B",
+        "explanation": "En CI les communes sont classees selon leur niveau d autonomie. Les communes de plein exercice ont plus de competences et de ressources."
+    },
+    {
+        "question": "Qu'est-ce que le principe de neutralite religieuse dans la fonction publique ivoirienne ?",
+        "options": ["A) Les fonctionnaires ne peuvent pas pratiquer une religion", "B) Les fonctionnaires ne peuvent pas manifester leurs convictions religieuses dans l exercice de leurs fonctions", "C) Les fonctionnaires doivent etre atheistes", "D) La religion est interdite dans les locaux administratifs"],
+        "answer": "B",
+        "explanation": "La neutralite religieuse interdit aux fonctionnaires d exprimer leurs convictions religieuses dans l exercice de leurs fonctions."
+    },
+    {
+        "question": "Qu'est-ce que le principe de gratuite du service public ?",
+        "options": ["A) Tous les services publics sont gratuits", "B) Ce principe signifie que le financement du service public ne doit pas reposer uniquement sur les usagers : il peut etre finance par les impots", "C) Les usagers ne paient jamais pour les services publics", "D) Les fonctionnaires travaillent benevoles"],
+        "answer": "B",
+        "explanation": "La gratuite du service public ne signifie pas absence de paiement mais que le service est accessible sans que le prix soit un obstacle dirimant."
+    },
+    {
+        "question": "Quelle est la distinction entre le prefet et le gouverneur en CI ?",
+        "options": ["A) Aucune diff?rence", "B) En CI depuis 2011 le gouverneur dirige le district autonome (Abidjan Yamoussoukro) tandis que le prefet dirige le departement", "C) Le gouverneur est un role historique supprime", "D) Le gouverneur est elu le prefet nomme"],
+        "answer": "B",
+        "explanation": "La Constitution de 2011-2016 a cree des districts autonomes diriges par des gouverneurs nommes par le Pr?sident pour les grandes agglomerations."
+    },
+    {
+        "question": "Qu'est-ce que la delegation de signature ?",
+        "options": ["A) Un fonctionnaire signe a la place d un autre sans habilitation", "B) Une autorite administrative autorise un de ses subordonnes a signer en son nom certains actes", "C) Le Pr?sident deleguant ses pouvoirs au Premier ministre", "D) L Assemblee nationale delegant ses pouvoirs au gouvernement"],
+        "answer": "B",
+        "explanation": "La d?l?gation de signature permet a un chef de service d autoriser son subordonné a signer certains actes en son nom. Le deleguant reste responsable."
+    },
+    {
+        "question": "Piège : la délégation de pouvoirs est-elle différente de la délégation de signature ?",
+        "options": ["A) Non, ce sont des synonymes", "B) Oui : dans la délégation de pouvoirs le délégataire exerce le pouvoir en son nom propre et le délégant ne peut plus l'exercer ; dans la délégation de signature le délégant reste responsable", "C) Oui : la délégation de pouvoirs est illégale", "D) Non, elles ont les mêmes effets juridiques"],
+        "answer": "B",
+        "explanation": "Délégation de pouvoirs : transfert du pouvoir lui-même (le délégant ne peut plus exercer). Délégation de signature : seule la signature est transférée, le délégant reste responsable."
+    },
+    {
+        "question": "Quelle est la différence entre la tutelle administrative et la hiérarchie administrative ?",
+        "options": ["A) Aucune différence", "B) La tutelle ne permet que des contrôles de légalité et d'opportunité définis par la loi ; la hiérarchie permet un pouvoir de commandement direct", "C) La hiérarchie s'exerce entre collectivités", "D) La tutelle est plus puissante que la hiérarchie"],
+        "answer": "B",
+        "explanation": "La hiérarchie = pouvoir de commandement direct. La tutelle = contrôle externe, encadré par la loi."
+    },
+    {
+        "question": "Qu'est-ce que le principe de la légalité des délits et des peines ?",
+        "options": ["A) Les peines sont fixées par le juge librement", "B) Nul ne peut être puni pour un acte qui n'est pas prévu et puni par la loi au moment où il a été commis", "C) Les délits sont définis par le gouvernement", "D) La loi pénale s'applique rétroactivement"],
+        "answer": "B",
+        "explanation": "« Nullum crimen, nulla poena sine lege » : principe fondamental du droit pénal et constitutionnel."
+    },
+    {
+        "question": "Quel est le droit de pétition en Côte d'Ivoire ?",
+        "options": ["A) Le droit de faire une requête à l'administration", "B) Le droit pour les citoyens d'adresser des demandes écrites aux autorités publiques", "C) Le droit de manifester", "D) Le droit de vote"],
+        "answer": "B",
+        "explanation": "Le droit de pétition permet aux citoyens d'adresser des demandes collectives ou individuelles aux pouvoirs publics."
+    },
+    {
+        "question": "Quelle est la différence entre le droit privé et le droit public ?",
+        "options": ["A) Aucune différence", "B) Le droit public régit les relations entre l'État et les particuliers ; le droit privé régit les relations entre particuliers", "C) Le droit privé est plus important", "D) Le droit public ne s'applique pas aux citoyens"],
+        "answer": "B",
+        "explanation": "Droit public = État / personnes publiques. Droit privé = relations entre personnes privées."
+    },
+    {
+        "question": "Qu'est-ce que le principe de l'accès à la justice en Côte d'Ivoire ?",
+        "options": ["A) Seuls les riches ont accès à la justice", "B) Tout citoyen a le droit de soumettre un litige à un tribunal et de bénéficier d'un procès équitable", "C) La justice est réservée aux fonctionnaires", "D) Les étrangers n'ont pas accès à la justice"],
+        "answer": "B",
+        "explanation": "L'accès à la justice est un droit fondamental : tout citoyen peut saisir un tribunal et bénéficier d'un procès équitable."
+    },
+    {
+        "question": "Qu'est-ce que la déclaration d'utilité publique (DUP) en CI ?",
+        "options": ["A) Un décret qui nationalise une entreprise", "B) Un acte administratif qui reconnaît l'intérêt général d'un projet et autorise l'expropriation si nécessaire", "C) Un document d'inscription d'une association", "D) Un permis de construire"],
+        "answer": "B",
+        "explanation": "La DUP est la condition préalable à toute expropriation en droit ivoirien."
+    },
+    {
+        "question": "Quel est le rôle du Sénat dans la procédure législative en Côte d'Ivoire ?",
+        "options": ["A) Voter le budget national", "B) Examiner et amender les textes de loi adoptés par l'Assemblée nationale", "C) Nommer les juges", "D) Déclarer la guerre"],
+        "answer": "B",
+        "explanation": "Le Sénat ivoirien examine les lois, propose des amendements, mais l'Assemblée nationale a le dernier mot."
+    },
+    {
+        "question": "Quelle est la composition du Sénat de Côte d'Ivoire selon la Constitution de 2016 ?",
+        "options": ["A) Entièrement élu au suffrage direct", "B) 2/3 élus et 1/3 nommés par le Président", "C) Entièrement nommé par le Président", "D) Moitié élus, moitié tirés au sort"],
+        "answer": "B",
+        "explanation": "Le Sénat ivoirien : 2/3 des membres sont élus, 1/3 sont nommés par le Président de la République."
+    },
+    {
+        "question": "Qu'est-ce que le droit à la sécurité sociale en Côte d'Ivoire ?",
+        "options": ["A) Le droit d'être armé", "B) Le droit de tout citoyen à des prestations sociales en cas de maladie, vieillesse, maternité ou accident du travail", "C) Le droit à une police privée", "D) Un droit réservé aux fonctionnaires"],
+        "answer": "B",
+        "explanation": "La sécurité sociale garantit des protections aux travailleurs : gérée par la CNPS en Côte d'Ivoire."
+    },
+    {
+        "question": "Qu'est-ce que le principe d'inamovibilité des magistrats du siège en CI ?",
+        "options": ["A) Ils ne peuvent pas être mutés sans leur accord ou procédure disciplinaire", "B) Ils peuvent être révoqués à tout moment", "C) Ils sont nommés à vie sans possibilité de départ", "D) Ils ne peuvent pas prendre de congés"],
+        "answer": "A",
+        "explanation": "L'inamovibilité protège l'indépendance des magistrats du siège contre les pressions politiques."
+    },
+    {
+        "question": "Quel est l'âge minimum pour être élu député à l'Assemblée nationale en Côte d'Ivoire ?",
+        "options": ["A) 18 ans", "B) 25 ans", "C) 30 ans", "D) 35 ans"],
+        "answer": "B",
+        "explanation": "En Côte d'Ivoire, il faut avoir au moins 25 ans pour être candidat à l'Assemblée nationale."
+    },
+    {
+        "question": "Qu'est-ce que la responsabilité civile extracontractuelle (délictuelle) ?",
+        "options": ["A) La responsabilité née d'un contrat", "B) La responsabilité pour un dommage causé sans relation contractuelle préalable (accident, faute)", "C) La responsabilité pénale", "D) La responsabilité de l'État uniquement"],
+        "answer": "B",
+        "explanation": "La responsabilité délictuelle (art. 1382 CC français, code ivoirien) s'applique hors contrat : faute → dommage → réparation."
+    },
+    {
+        "question": "Qu'est-ce que le droit de grève dans la fonction publique ivoirienne ?",
+        "options": ["A) Il est totalement interdit", "B) Il est reconnu mais encadré : certains agents ne peuvent y recourir (forces de l'ordre) et un préavis est obligatoire", "C) Il est illimité", "D) Il est réservé aux agents de catégorie A"],
+        "answer": "B",
+        "explanation": "Le droit de grève existe dans la fonction publique mais il est encadré : préavis, services minimum, interdiction pour certains corps."
+    },
+    {
+        "question": "Qu'est-ce que le principe de continuité du service public en CI ?",
+        "options": ["A) Les services publics ne ferment jamais", "B) Les services publics essentiels doivent fonctionner de manière continue sans interruption injustifiée", "C) Les fonctionnaires ne peuvent pas prendre de congés", "D) Les marchés publics doivent être renouvelés annuellement"],
+        "answer": "B",
+        "explanation": "La continuité est une des lois de Rolland : les services publics ne doivent pas connaître d'interruptions injustifiées."
+    },
+    {
+        "question": "Quel est le principe de sincérité budgétaire en CI ?",
+        "options": ["A) Le budget doit être présenté honnêtement, sans sous-estimation des recettes ni surestimation des dépenses", "B) Le budget doit être voté à l'unanimité", "C) Le budget doit être équilibré", "D) Le budget ne peut pas être modifié en cours d'année"],
+        "answer": "A",
+        "explanation": "La sincérité budgétaire exige que les prévisions de recettes et de dépenses soient aussi précises et honnêtes que possible."
+    },
+    {
+        "question": "Qu'est-ce que le Conseil Économique, Social, Environnemental et Culturel (CESEC) de CI ?",
+        "options": ["A) Un organe exécutif", "B) Une assemblée consultative qui émet des avis sur les questions économiques, sociales, environnementales et culturelles", "C) Un tribunal spécialisé", "D) Un organe législatif de remplacement"],
+        "answer": "B",
+        "explanation": "Le CESEC est une institution consultative : le gouvernement peut le consulter mais n'est pas obligé de suivre ses avis."
+    },
+    {
+        "question": "Qu'est-ce que le droit de propriété en CI ?",
+        "options": ["A) Un droit absolu sans aucune restriction", "B) Un droit fondamental garanti par la Constitution, mais susceptible de limitations pour cause d'utilité publique avec indemnisation juste", "C) Un droit réservé aux nationaux ivoiriens", "D) Un droit qui disparaît à la mort du propriétaire"],
+        "answer": "B",
+        "explanation": "Le droit de propriété est garanti par la Constitution mais peut être limité par l'expropriation pour utilité publique, moyennant indemnisation."
+    },
+    {
+        "question": "Qu'est-ce qu'une loi de finances en Côte d'Ivoire ?",
+        "options": ["A) Une loi fiscale ordinaire", "B) La loi qui autorise, pour l'année, la perception des ressources de l'État et fixe les dépenses publiques", "C) Une loi sur les finances des collectivités locales", "D) Une loi sur les investissements étrangers"],
+        "answer": "B",
+        "explanation": "La loi de finances (budget de l'État) est votée annuellement par le Parlement et encadrée par la LOLF."
+    },
+    {
+        "question": "Quelle est la durée du mandat sénatorial en Côte d'Ivoire ?",
+        "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
+        "answer": "C",
+        "explanation": "En Côte d'Ivoire, les sénateurs sont élus ou nommés pour 6 ans, renouvelables par moitié tous les 3 ans."
+    },
+    {
+        "question": "Qu'est-ce que la décentralisation fiscale en CI ?",
+        "options": ["A) L'État perçoit tous les impôts pour les redistribuer", "B) Le transfert aux collectivités territoriales du pouvoir de lever certains impôts locaux pour financer leurs compétences", "C) La suppression des impôts nationaux", "D) La gestion par les banques des impôts locaux"],
+        "answer": "B",
+        "explanation": "La décentralisation fiscale donne aux collectivités le pouvoir de lever des impôts locaux pour financer leurs activités."
+    },
+    {
+        "question": "Quel est le rôle du Gouverneur dans un district autonome en Côte d'Ivoire ?",
+        "options": ["A) Il est élu par les habitants du district", "B) Il est nommé par le Président et représente l'État tout en gérant le district autonome", "C) Il est nommé par le Parlement", "D) Il est choisi par le Conseil municipal"],
+        "answer": "B",
+        "explanation": "Le Gouverneur d'un district autonome (Abidjan, Yamoussoukro) est nommé par le Président de la République."
+    },
+    {
+        "question": "Qu'est-ce que l'égalité des citoyens devant les charges publiques ?",
+        "options": ["A) Tous les citoyens paient le même montant d'impôts", "B) Les charges publiques (impôts, obligations) doivent être réparties équitablement selon les capacités", "C) L'État ne peut pas imposer de charges aux citoyens", "D) Seuls les fonctionnaires contribuent aux charges publiques"],
+        "answer": "B",
+        "explanation": "Ce principe constitutionnel garantit une répartition équitable des charges fiscales et non-fiscales."
+    },
+    {
+        "question": "Quelle institution ivoirienne protège les droits des consommateurs ?",
+        "options": ["A) Le CESEC", "B) La Direction de la Protection du Consommateur et de la Concurrence (DPCC)", "C) La Cour Suprême", "D) L'Assemblée nationale"],
+        "answer": "B",
+        "explanation": "La DPCC est l'organe administratif chargé de surveiller les pratiques commerciales et protéger les consommateurs en CI."
+    },
+    {
+        "question": "Qu'est-ce que le Conseil National des Droits de l'Homme (CNDH) de CI ?",
+        "options": ["A) Un tribunal", "B) Une institution indépendante chargée de promouvoir et protéger les droits de l'homme en CI", "C) Un ministère", "D) Un organe de l'ONU en CI"],
+        "answer": "B",
+        "explanation": "Le CNDH est une institution nationale indépendante qui surveille le respect des droits humains et formule des recommandations."
+    },
+    {
+        "question": "Quel est le principe d'impartialité dans le service public ivoirien ?",
+        "options": ["A) Les agents peuvent favoriser leurs proches", "B) Les agents doivent traiter tous les usagers sans discrimination ni favoritisme", "C) L'administration n'a pas d'opinion officielle", "D) Les agents ne peuvent pas avoir d'opinions politiques"],
+        "answer": "B",
+        "explanation": "L'impartialité oblige les agents publics à traiter tous les usagers de manière égale, sans discrimination."
+    },
+    {
+        "question": "Qu'est-ce que le contrôle de gestion dans l'administration publique ivoirienne ?",
+        "options": ["A) Le contrôle policier des fonctionnaires", "B) L'ensemble des processus qui permettent de maîtriser les ressources et d'atteindre les objectifs fixés", "C) L'audit externe uniquement", "D) Le contrôle exercé par le Parlement sur les ministères"],
+        "answer": "B",
+        "explanation": "Le contrôle de gestion est un outil interne de pilotage de la performance dans l'administration."
+    },
+    {
+        "question": "Qu'est-ce que le principe de laïcité en Côte d'Ivoire ?",
+        "options": ["A) L'État impose le christianisme", "B) L'État est neutre religieusement et garantit la liberté de conscience et de culte", "C) Les religions sont interdites dans l'espace public", "D) L'État subventionne toutes les religions"],
+        "answer": "B",
+        "explanation": "La Constitution ivoirienne garantit la liberté de conscience et la neutralité religieuse de l'État."
+    },
+    {
+        "question": "Qu'est-ce que le droit à l'éducation en Côte d'Ivoire ?",
+        "options": ["A) Un droit privé facultatif", "B) Un droit fondamental garanti par la Constitution : l'enseignement de base est obligatoire et gratuit", "C) Un droit réservé aux enfants des fonctionnaires", "D) Un droit qui s'achète"],
+        "answer": "B",
+        "explanation": "La Constitution ivoirienne garantit le droit à l'éducation ; l'enseignement primaire est obligatoire."
+    },
+    {
+        "question": "Qu'est-ce que le système de l'État unitaire décentralisé adopté par la CI ?",
+        "options": ["A) Un État fédéral avec des États autonomes", "B) Un État unique avec des collectivités locales dotées de compétences et d'autonomie propres", "C) Un État sans niveaux de gouvernement locaux", "D) Un État où les régions ont leur propre constitution"],
+        "answer": "B",
+        "explanation": "La CI est un État unitaire décentralisé : une seule loi nationale mais des collectivités locales autonomes dans leurs domaines."
+    },
+    {
+        "question": "Qu'est-ce que le Fonds de Développement de la Formation Professionnelle (FDFP) en CI ?",
+        "options": ["A) Un fonds pour les investissements étrangers", "B) Un organisme paritaire qui finance la formation professionnelle des salariés du secteur privé", "C) Un fonds pour les retraites des fonctionnaires", "D) Une caisse d'assurance maladie"],
+        "answer": "B",
+        "explanation": "Le FDFP collecte les taxes de formation professionnelle et finance les actions de formation dans le secteur privé ivoirien."
     }
 ]
 
@@ -3662,7 +5678,7 @@ THEME_7 = [
         "explanation": "La sécurité juridique garantit la prévisibilité du droit et la protection contre l'arbitraire."
     },
     {
-        "question": "Qu est-ce que le service public selon le droit administratif ?",
+        "question": "Qu'est-ce que le service public selon le droit administratif ?",
         "options": ["A) Toute entreprise commerciale", "B) Une activite d interet general assuree ou controlee par la puissance publique", "C) Un service rendu uniquement aux fonctionnaires", "D) Un tribunal administratif"],
         "answer": "B",
         "explanation": "Le service public est une activite d interet general prise en charge par une personne publique."
@@ -3680,46 +5696,796 @@ THEME_7 = [
         "explanation": "Le principe de mutabilite oblige le service public a evoluer en fonction des besoins."
     },
     {
-        "question": "Qu est-ce qu un etablissement public ?",
+        "question": "Qu'est-ce qu un etablissement public ?",
         "options": ["A) Une entreprise privee", "B) Une personne morale de droit public chargee d une mission de service public", "C) Un tribunal administratif", "D) Un service deconcentre"],
         "answer": "B",
         "explanation": "Un etablissement public est une personne morale de droit public gerant une mission de service public."
     },
     {
-        "question": "Quelle est la difference entre deconcentration et decentralisation ?",
-        "options": ["A) Aucune", "B) La deconcentration transfere des pouvoirs a des agents de l Etat, la decentralisation a des collectivites autonomes", "C) La decentralisation est au profit des agents de l Etat", "D) La deconcentration concerne uniquement les communes"],
+        "question": "Quelle est la difference entre d?concentration et d?centralisation ?",
+        "options": ["A) Aucune", "B) La d?concentration transfere des pouvoirs a des agents de l'?tat, la d?centralisation a des collectivites autonomes", "C) La d?centralisation est au profit des agents de l'?tat", "D) La d?concentration concerne uniquement les communes"],
         "answer": "B",
-        "explanation": "La deconcentration deplace des competences au sein de l Etat, la decentralisation les transfere a des entites distinctes."
+        "explanation": "La d?concentration deplace des competences au sein de l'?tat, la d?centralisation les transfere a des entites distinctes."
     },
     {
-        "question": "Qu est-ce qu un recours pour exces de pouvoir ?",
-        "options": ["A) Un recours visant a obtenir une indemnite", "B) Un recours en annulation d un acte administratif illegal", "C) Un recours contre les decisions judiciaires", "D) Un recours en interpretation"],
+        "question": "Qu'est-ce qu un recours pour exces de pouvoir ?",
+        "options": ["A) Un recours visant a obtenir une indemnite", "B) Un recours en annulation d un acte administratif illegal", "C) Un recours contre les decisions judiciaires", "D) Un recours en interpr?tation"],
         "answer": "B",
         "explanation": "Le recours pour exces de pouvoir permet l annulation d un acte administratif illegal."
     },
     {
-        "question": "Qu est-ce que la hierarchie des normes ?",
-        "options": ["A) L organisation des ministeres", "B) L organisation pyramidale des regles juridiques, avec la Constitution au sommet", "C) Le classement des juges par anciennete", "D) L ordre alphabetique des lois"],
+        "question": "Qu'est-ce que la hi?rarchie des normes ?",
+        "options": ["A) L organisation des minist?res", "B) L organisation pyramidale des regles juridiques, avec la Constitution au sommet", "C) Le classement des juges par anciennete", "D) L ordre alphabetique des lois"],
         "answer": "B",
-        "explanation": "La hierarchie des normes place la Constitution au sommet, suivie des traites, des lois et des reglements."
+        "explanation": "La hi?rarchie des normes place la Constitution au sommet, suivie des traites, des lois et des r?glements."
     },
     {
-        "question": "Qu est-ce que la responsabilite sans faute de l Etat ?",
-        "options": ["A) L Etat ne peut jamais etre condamne", "B) L Etat peut etre condamne a indemniser meme sans avoir commis de faute", "C) La responsabilite personnelle des fonctionnaires", "D) L Etat est responsable uniquement des accidents"],
+        "question": "Qu'est-ce que la responsabilite sans faute de l'?tat ?",
+        "options": ["A) L ?tat ne peut jamais etre condamne", "B) L ?tat peut etre condamne a indemniser meme sans avoir commis de faute", "C) La responsabilite personnelle des fonctionnaires", "D) L ?tat est responsable uniquement des accidents"],
         "answer": "B",
         "explanation": "La responsabilite sans faute repose sur le principe d egalite devant les charges publiques."
     },
     {
-        "question": "Qu est-ce qu un acte unilateral de l administration ?",
+        "question": "Qu'est-ce qu un acte unilateral de l administration ?",
         "options": ["A) Un acte signe par deux parties", "B) Un acte par lequel l administration cree des obligations sans le consentement du destinataire", "C) Un contrat administratif", "D) Une loi votee par le Parlement"],
         "answer": "B",
         "explanation": "L acte unilateral est pris par l administration seule et s impose aux administres sans leur consentement."
     },
     {
-        "question": "Qu est-ce qu un contrat administratif ?",
-        "options": ["A) Un contrat entre deux entreprises privees", "B) Un contrat conclu par une personne publique dans le cadre d une mission de service public", "C) Un acte unilateral de l administration", "D) Un accord entre deux Etats"],
+        "question": "Qu'est-ce qu un contrat administratif ?",
+        "options": ["A) Un contrat entre deux entreprises privees", "B) Un contrat conclu par une personne publique dans le cadre d une mission de service public", "C) Un acte unilateral de l administration", "D) Un accord entre deux ?tats"],
         "answer": "B",
         "explanation": "Le contrat administratif implique au moins une personne publique et presente des clauses exorbitantes du droit commun."
+    },
+    {
+        "question": "Quelle est la procedure de revision constitutionnelle en CI ?",
+        "options": ["A) Uniquement par r?f?rendum", "B) Par le Parlement seul a la majorite simple", "C) Par le Parlement a la majorite des 3/5 ou par r?f?rendum a l initiative du Pr?sident", "D) Par le Conseil constitutionnel"],
+        "answer": "C",
+        "explanation": "La revision peut etre adoptee par le Parlement (3/5) ou soumise a r?f?rendum."
+    },
+    {
+        "question": "Qu'est-ce qu une loi organique en droit ivoirien ?",
+        "options": ["A) Une loi votee par r?f?rendum", "B) Une loi qui precise la Constitution dans les domaines qu elle designe expressement", "C) Une loi adoptee a l unanimite", "D) Un decret du Pr?sident"],
+        "answer": "B",
+        "explanation": "Les lois organiques completent la Constitution et sont superieures aux lois ordinaires."
+    },
+    {
+        "question": "Pi?ge : le preambule de la Constitution de 2016 a-t-il une valeur juridique ?",
+        "options": ["A) Non c est un simple texte declaratoire", "B) Oui il fait partie du bloc de constitutionnalit?", "C) Non seul le corps de la Constitution a force contraignante", "D) Oui mais uniquement pour les lois penales"],
+        "answer": "B",
+        "explanation": "Le preambule est integre au bloc de constitutionnalit? et peut servir de base a la censure d une loi."
+    },
+    {
+        "question": "Qu'est-ce que le principe de non-retroactivite des actes administratifs ?",
+        "options": ["A) Un acte ne peut pas etre abroge", "B) Un acte administratif ne peut produire d effets que pour l avenir pas pour le passe", "C) Les actes s appliquent uniquement aux ?trangers", "D) Les r?glements ne s appliquent qu au moment de leur signature"],
+        "answer": "B",
+        "explanation": "L acte administratif prend effet a sa publication. Il ne peut pas s appliquer retroactivement."
+    },
+    {
+        "question": "Qu'est-ce que le principe du contradictoire en procedure administrative ?",
+        "options": ["A) L administration peut decider sans informer l administre", "B) Avant toute decision defavorable l administre doit pouvoir presenter ses observations", "C) L administre peut contredire toutes les decisions", "D) Les fonctionnaires peuvent refuser les ordres"],
+        "answer": "B",
+        "explanation": "Garantie fondamentale : avant toute decision qui lui fait grief l administre doit pouvoir s expliquer."
+    },
+    {
+        "question": "Quelle est la difference entre recours gracieux et recours hierarchique ?",
+        "options": ["A) Ce sont des synonymes", "B) Recours gracieux adresse a l auteur de l acte ; recours hierarchique adresse au superieur", "C) Le recours gracieux va devant un juge", "D) Le hierarchique est plus rapide"],
+        "answer": "B",
+        "explanation": "Gracieux : on demande a l auteur de retirer son acte. Hierarchique : on demande a son superieur de l annuler."
+    },
+    {
+        "question": "Qu'est-ce que l exception d illegalite en droit administratif ?",
+        "options": ["A) Impossibilite d attaquer un acte apres 2 mois", "B) La possibilite de soulever l illegalite d un acte r?glementaire de facon incidente lors d un litige meme hors delai de recours", "C) L annulation automatique de tout acte illegal", "D) Un recours special devant le Conseil constitutionnel"],
+        "answer": "B",
+        "explanation": "L exception d illegalite est imprescriptible pour les actes r?glementaires."
+    },
+    {
+        "question": "Qu'est-ce que le pouvoir discrecionnaire de l administration ?",
+        "options": ["A) Le droit d agir en dehors de la loi", "B) La liberte de choix dont dispose l administration dans les limites fixees par la loi", "C) Le droit de ne pas repondre aux requetes", "D) La possibilite d ignorer les jugements"],
+        "answer": "B",
+        "explanation": "Le pouvoir discrecionnaire permet de choisir comment agir dans un cadre legal."
+    },
+    {
+        "question": "Quelles sont les trois lois de Rolland du service public ?",
+        "options": ["A) Gratuite impartialite efficacite", "B) Continuite egalite mutabilite", "C) Rapidite transparence accessibilite", "D) Neutralite gratuite universalite"],
+        "answer": "B",
+        "explanation": "Lois de Rolland : continuite (pas d interruption) egalite (traitement egaux) mutabilite (adaptation aux besoins)."
+    },
+    {
+        "question": "Pi?ge : le service public peut-il etre gere par une personne privee ?",
+        "options": ["A) Non seul l'?tat peut gerer un service public", "B) Oui via la delegation de service public (concession affermage)", "C) Oui mais uniquement les services industriels", "D) Non c est inconstitutionnel"],
+        "answer": "B",
+        "explanation": "La d?l?gation de service public permet de confier la gestion a un prive."
+    },
+    {
+        "question": "Qu'est-ce qu un contrat de concession de service public ?",
+        "options": ["A) Un contrat de travail d un fonctionnaire", "B) Un contrat par lequel une personne publique confie a un prive la gestion d un service public a ses risques et perils", "C) Un accord international", "D) Un marche public de fournitures"],
+        "answer": "B",
+        "explanation": "Le concessionnaire est remunere par les usagers et assume le risque d exploitation."
+    },
+    {
+        "question": "Quelle est la distinction fondamentale entre marche public et delegation de service public ?",
+        "options": ["A) Aucune distinction", "B) Marche public : remuneration par l administration ; delegation : remuneration par les usagers ou les resultats", "C) Marche public = travaux delegation = services", "D) La d?l?gation s applique uniquement aux communes"],
+        "answer": "B",
+        "explanation": "La difference : le mode de remuneration et le transfert du risque d exploitation."
+    },
+    {
+        "question": "Qu'est-ce que l IGE en CI ?",
+        "options": ["A) Un tribunal administratif", "B) Un corps de controle charge d inspecter les services de l'?tat et de lutter contre la corruption", "C) Le service de securite de la presidence", "D) Un organe de l Assemblee nationale"],
+        "answer": "B",
+        "explanation": "L Inspection Generale d ?tat placee aupres du Pr?sident controle l utilisation des ressources publiques."
+    },
+    {
+        "question": "Qu'est-ce que la titularisation dans la fonction publique ivoirienne ?",
+        "options": ["A) Le recrutement initial", "B) La confirmation definitive du statut de fonctionnaire apres la periode de stage", "C) La promotion a un grade superieur", "D) La mutation vers une autre administration"],
+        "answer": "B",
+        "explanation": "La titularisation met fin au statut de stagiaire et confere le statut definitif de fonctionnaire."
+    },
+    {
+        "question": "Pi?ge : un fonctionnaire peut-il refuser d obeir a un ordre manifestement illegal ?",
+        "options": ["A) Non l obeissance hierarchique est absolue", "B) Oui il peut et doit refuser un ordre manifestement illegal comprometant serieusement un interet public", "C) Oui mais uniquement avec accord du syndicat", "D) Non il doit obeir et signaler apres"],
+        "answer": "B",
+        "explanation": "Le devoir de refuser un ordre manifestement illegal est un principe fondamental de la deontologie fonctionnaire."
+    },
+    {
+        "question": "Qu'est-ce que la disponibilite dans la fonction publique ivoirienne ?",
+        "options": ["A) La periode de conge annuel", "B) La position ou un fonctionnaire cesse temporairement ses fonctions sans perdre son statut", "C) Le droit au teletravail", "D) Une sanction disciplinaire"],
+        "answer": "B",
+        "explanation": "La disponibilite est une position administrative temporaire sans remuneration de l'?tat."
+    },
+    {
+        "question": "Qu'est-ce que le detachement dans la fonction publique ?",
+        "options": ["A) La mise a la retraite anticipee", "B) La position du fonctionnaire qui exerce dans une autre administration en conservant ses droits dans son corps d origine", "C) Une mutation definitive", "D) Un conge pour raisons personnelles"],
+        "answer": "B",
+        "explanation": "Le detachement : exercice temporaire ailleurs avec conservation des droits dans le corps d origine."
+    },
+    {
+        "question": "Pi?ge tres difficile : un acte nul et un acte inexistant sont-ils identiques ?",
+        "options": ["A) Oui synonymes", "B) Non : l acte nul a une apparence juridique et doit etre annule ; l acte inexistant n a aucune valeur et peut etre ignore", "C) Oui memes effets juridiques", "D) Non l acte inexistant entraine des sanctions penales"],
+        "answer": "B",
+        "explanation": "Acte nul : existe juridiquement mais vicie doit etre annule. Acte inexistant : aucune realite juridique."
+    },
+    {
+        "question": "Qu'est-ce que le recours en cassation devant la chambre administrative de la Cour Supr?me ?",
+        "options": ["A) Un appel qui rejuge les faits", "B) Un recours qui controle uniquement la legalite de la decision sans reexaminer les faits", "C) Un recours reserve aux ?trangers", "D) Un recours en responsabilite de l'?tat"],
+        "answer": "B",
+        "explanation": "La cassation verifie que la loi a ete correctement appliquee sans rejuger les faits."
+    },
+    {
+        "question": "Qu'est-ce que le principe de proportionnalite dans l action administrative ?",
+        "options": ["A) L administration traite les fonctionnaires proportionnellement a leur salaire", "B) Les mesures de l administration doivent etre adaptees et proportionnees a l objectif poursuivi", "C) Les taxes sont proportionnelles aux revenus", "D) Les sanctions sont proportionnelles au grade"],
+        "answer": "B",
+        "explanation": "La proportionnalite empeche les mesures excessives par rapport au but recherche."
+    },
+    {
+        "question": "Qu'est-ce que le detournement de pouvoir en droit administratif ?",
+        "options": ["A) Utiliser un droit dans un but autre que celui pour lequel il a ete accorde", "B) Refuser d appliquer la loi", "C) Depasser son budget", "D) Utiliser un droit legal de facon financierement abusive"],
+        "answer": "A",
+        "explanation": "Detournement de pouvoir : une autorite utilise un pouvoir legal a des fins autres que celles prevues."
+    },
+    {
+        "question": "Pi?ge : la force majeure exonere-t-elle toujours l'?tat de sa responsabilite ?",
+        "options": ["A) Oui toujours et totalement", "B) Non l'?tat reste responsable pour certains services dangereux meme en cas de force majeure", "C) Oui si l evenement est imprevisible et irresistible", "D) Non la force majeure n existe pas en droit administratif"],
+        "answer": "B",
+        "explanation": "Pour les activites dangereuses la responsabilite sans faute peut subsister meme en cas de force majeure."
+    },
+    {
+        "question": "Qu'est-ce que le principe de continuite de l'?tat ?",
+        "options": ["A) L ?tat dure indefiniment et ses engagements subsistent au-dela des gouvernements successifs", "B) Le Pr?sident ne peut pas demissionner", "C) Les lois ne peuvent pas etre abrogees", "D) Les fonctionnaires restent en poste independamment des ?lections"],
+        "answer": "A",
+        "explanation": "La continuite de l'?tat : ses engagements juridiques et financiers subsistent malgre les changements de gouvernement."
+    },
+    {
+        "question": "Qu'est-ce que la faute personnelle detachable du service ?",
+        "options": ["A) Un fonctionnaire ne peut jamais etre poursuivi penalement", "B) La faute grave qui revele un comportement incompatible avec les obligations du service exposant le fonctionnaire a des poursuites", "C) Seul le ministre peut etre poursuivi", "D) La faute personnelle engage l'?tat"],
+        "answer": "B",
+        "explanation": "La faute personnelle detachable engage la responsabilite personnelle du fonctionnaire (ex corruption violence deliberee)."
+    },
+    {
+        "question": "Pi?ge : l annulation d un acte administratif par le juge a-t-elle un effet retroactif ?",
+        "options": ["A) Non l annulation ne vaut que pour l avenir", "B) Oui l annulation a un effet retroactif : l acte est cense n avoir jamais existe", "C) Oui mais seulement pour les actes individuels", "D) Non sauf si le juge le decide expressement"],
+        "answer": "B",
+        "explanation": "L annulation par le juge administratif a un effet retroactif (ex tunc) : l acte est cense n avoir jamais produit d effets."
+    },
+    {
+        "question": "Qu'est-ce que le principe d egalite de traitement dans la fonction publique ?",
+        "options": ["A) Tous les fonctionnaires ont le meme salaire", "B) Des agents dans des situations identiques doivent etre traites de maniere identique sans discrimination", "C) Le meme travail est effectue par le meme nombre d agents", "D) Tous les grades sont equivalents"],
+        "answer": "B",
+        "explanation": "Le principe d egalite de traitement interdit toute discrimination dans la gestion des carrieres."
+    },
+    {
+        "question": "Qu'est-ce que le controle de legalite interne d un acte administratif ?",
+        "options": ["A) Verifier la signature", "B) Verifier le fond : le but les motifs de droit et de fait et l objet de l acte", "C) Verifier si l acte a ete publie", "D) Verifier la competence de l auteur"],
+        "answer": "B",
+        "explanation": "Le controle interne porte sur le fond : but motifs de droit motifs de fait contenu."
+    },
+    {
+        "question": "Qu'est-ce que le pouvoir de tutelle administrative en CI ?",
+        "options": ["A) La supervision des orphelins", "B) Le controle exerce par l'?tat sur les collectivites locales et EPN pour garantir la legalite", "C) La supervision des entreprises ?trangeres", "D) Le controle du Pr?sident sur les ministres"],
+        "answer": "B",
+        "explanation": "La tutelle administrative permet a l'?tat de controler les actes des collectivites locales et EPN."
+    },
+    {
+        "question": "Pi?ge : un fonctionnaire detache peut-il etre discipline par son administration d accueil ET son corps d origine ?",
+        "options": ["A) Non seule l administration d accueil est competente", "B) Non seul le corps d origine l est", "C) Oui : administration d accueil pour fautes liees au poste ; corps d origine pour manquements au statut", "D) Oui les deux peuvent sanctionner pour les memes faits"],
+        "answer": "C",
+        "explanation": "La discipline en detachement est partagee selon la nature de la faute."
+    },
+    {
+        "question": "Qu'est-ce que la responsabilite de l'?tat du fait des lois ?",
+        "options": ["A) L ?tat ne peut jamais etre condamne pour une loi", "B) Une loi ne peut pas engager la responsabilite de l'?tat", "C) L ?tat peut etre condamne si une loi cause un prejudice anormal et special meme si elle est legale", "D) Seul le Parlement est responsable des lois"],
+        "answer": "C",
+        "explanation": "Responsabilite sans faute du legislateur : meme une loi valide peut creer une rupture d egalite devant les charges publiques."
+    },
+    {
+        "question": "Qu'est-ce que le principe de bonne foi dans l administration publique ?",
+        "options": ["A) Les agents doivent etre de confession chretienne", "B) L administration doit agir avec loyaute et sincerite dans ses relations avec les administres", "C) Les contrats administratifs n engagent pas l administration", "D) Les agents doivent croire en leur mission"],
+        "answer": "B",
+        "explanation": "La bonne foi implique que l administration agit loyalement et respecte les expectatives legitimes creees."
+    },
+    {
+        "question": "Qu'est-ce que le principe d accessibilite du service public ?",
+        "options": ["A) Le service doit etre gratuit pour tous", "B) Le service doit etre physiquement et financierement accessible a tous les usagers de maniere egale", "C) Le service doit etre disponible 24h/24", "D) Le service doit etre numerique"],
+        "answer": "B",
+        "explanation": "L accessibilite est une expression du principe d egalite : le service public doit etre accessible a tous sans discrimination."
+    },
+    {
+        "question": "Qu'est-ce qu un acte r?glementaire en droit administratif ?",
+        "options": ["A) Un acte individuel visant une personne nommement designee", "B) Un acte a portee generale et impersonnelle qui s applique a tous", "C) Un acte du Parlement", "D) Un acte des collectivites locales uniquement"],
+        "answer": "B",
+        "explanation": "L acte r?glementaire a une portee generale : il s applique a toutes les personnes dans la situation qu il definit."
+    },
+    {
+        "question": "Quelle est la difference entre un acte administratif unilateral et un contrat administratif ?",
+        "options": ["A) Aucune diff?rence", "B) L acte unilateral est impose sans consentement du destinataire ; le contrat implique un accord de volontes entre les parties", "C) Le contrat est superieur a l acte unilateral", "D) L acte unilateral est reserved au Pr?sident"],
+        "answer": "B",
+        "explanation": "L acte unilateral s impose sans accord ; le contrat resulte d un accord de volontes entre personne publique et cocontractant."
+    },
+    {
+        "question": "Qu'est-ce que la prescription quadriennale des creances contre l'?tat ?",
+        "options": ["A) L ?tat doit payer ses dettes en 4 mois", "B) Les creances non reclamees contre l'?tat se prescrivent (s eteignent) apres 4 ans", "C) Les impots non payes se prescrivent apres 4 ans", "D) Les contrats administratifs expirent apres 4 ans"],
+        "answer": "B",
+        "explanation": "La prescription quadriennale (4 ans en droit francais inspire le droit ivoirien) eteint les creances non reclamees contre l'?tat."
+    },
+    {
+        "question": "Qu'est-ce qu un acte administratif declaratif ?",
+        "options": ["A) Un acte qui cree des droits nouveaux", "B) Un acte qui constate l existence d une situation juridique prexistante sans creer de droits nouveaux", "C) Un acte qui punit un administre", "D) Un acte qui nomme un fonctionnaire"],
+        "answer": "B",
+        "explanation": "Un acte declaratif (ex diplome reconnaissance de nationalit?) constate ; il ne cree pas de droits nouveaux contrairement a l acte constitutif."
+    },
+    {
+        "question": "Qu'est-ce que le droit de retrait d un acte administratif ?",
+        "options": ["A) L administre peut retirer son dossier", "B) L administration peut supprimer retroactivement un acte illegal dans un delai limite", "C) L administre peut ignorer un acte avec lequel il n est pas d accord", "D) L annulation par un juge"],
+        "answer": "B",
+        "explanation": "Le droit de retrait permet a l autorite administrative de supprimer retroactivement un acte illegal. Le delai est en general de 4 mois."
+    },
+    {
+        "question": "Qu'est-ce que l abrogation d un acte administratif ?",
+        "options": ["A) L annulation retroactive par un juge", "B) La suppression de l acte pour l avenir seulement sans retroactivite", "C) La modification de l acte", "D) Le remplacement de l acte par un autre"],
+        "answer": "B",
+        "explanation": "L abrogation supprime l acte pour l avenir (ex nunc), contrairement au retrait qui est retroactif (ex tunc)."
+    },
+    {
+        "question": "Pi?ge : retrait et abrogation d un acte administratif ont-ils les memes effets ?",
+        "options": ["A) Oui identiques", "B) Non : retrait = effet retroactif (l acte est cense n avoir jamais existe) ; abrogation = effet seulement pour l avenir", "C) Le retrait est plus favorable a l administre", "D) L abrogation est plus grave que le retrait"],
+        "answer": "B",
+        "explanation": "Retrait = retroactif (ex tunc). Abrogation = pour l avenir (ex nunc)."
+    },
+    {
+        "question": "Qu'est-ce que le principe de la securite des relations juridiques ?",
+        "options": ["A) L ?tat garantit la securite physique des citoyens", "B) Les relations juridiques etablies ne peuvent pas etre remises en cause indefiniment ; il faut des delais de stabilisation", "C) Les contrats ne peuvent pas etre modifies", "D) Les lois ne peuvent pas etre changees"],
+        "answer": "B",
+        "explanation": "La securite juridique exige que les relations et les actes acquierent une certaine stabilite apres expiration des delais de recours."
+    },
+    {
+        "question": "Qu'est-ce que l erreur manifeste d appreciation en droit administratif ?",
+        "options": ["A) Une erreur de calcul dans un acte administratif", "B) Une erreur grossiere dans l appreciation des faits par l administration qui entraine l illegalite de l acte", "C) Une faute professionnelle d un fonctionnaire", "D) Un acte redige avec des erreurs de forme"],
+        "answer": "B",
+        "explanation": "L erreur manifeste d appreciation est un controle restreint du juge : il censure les erreurs grossieres dans l appreciation des faits par l administration."
+    },
+    {
+        "question": "Qu'est-ce que le pouvoir de substitution d action en droit administratif ?",
+        "options": ["A) Remplacer un agent par un autre", "B) Le pouvoir du superieur de se substituer a l autorite inferieure defaillante pour agir a sa place", "C) Le droit de l administre de faire appel", "D) La d?l?gation de signature"],
+        "answer": "B",
+        "explanation": "La substitution d action permet au superieur (ex prefet) d agir a la place d une autorite locale defaillante pour garantir l execution des obligations legales."
+    },
+    {
+        "question": "Qu'est-ce que le principe de la responsabilite pour risque en droit administratif ?",
+        "options": ["A) L ?tat est responsable uniquement si ses agents ont commis une faute", "B) L ?tat est responsable du simple fait de la creation d une situation dangereuse meme sans faute", "C) L ?tat n est jamais responsable pour risque", "D) La responsabilite pour risque n existe qu en droit priv?"],
+        "answer": "B",
+        "explanation": "La responsabilite pour risque engage l'?tat du fait d activites dangereuses (armes explosifs) meme en l absence de faute."
+    },
+    {
+        "question": "Qu'est-ce que la Commission Administrative Paritaire (CAP) dans la fonction publique ivoirienne ?",
+        "options": ["A) Un tribunal pour fonctionnaires", "B) Un organisme consultatif paritaire (autant d elus du personnel que de representants de l administration) consulte sur les decisions individuelles (mutations avancement sanctions)", "C) Un syndicat de fonctionnaires", "D) Une instance de controle budg?taire"],
+        "answer": "B",
+        "explanation": "La CAP est consultee sur les decisions individuelles concernant la carriere des fonctionnaires."
+    },
+    {
+        "question": "Qu'est-ce que le droit disciplinaire dans la fonction publique ?",
+        "options": ["A) Le droit du fonctionnaire de refuser des sanctions", "B) L ensemble des regles relatives aux sanctions pouvant etre infligees a un fonctionnaire qui a manque a ses obligations professionnelles", "C) Le droit de retraite des fonctionnaires", "D) Le droit de greve des fonctionnaires"],
+        "answer": "B",
+        "explanation": "Le droit disciplinaire fixe les fautes professionnelles et les sanctions applicables (avertissement bleme suspension revocation)."
+    },
+    {
+        "question": "Pi?ge : un fonctionnaire condamne penalement peut-il etre aussi sanctionne disciplinairement pour les memes faits ?",
+        "options": ["A) Non le principe non bis in idem l interdit", "B) Oui les deux procedures sont independantes", "C) Non il faut choisir l une ou l autre", "D) Oui mais uniquement si la peine est superieure a 6 mois"],
+        "answer": "B",
+        "explanation": "Les procedures penale et disciplinaire sont independantes. Un meme fait peut donner lieu a une sanction penale et a une sanction disciplinaire."
+    },
+    {
+        "question": "Qu'est-ce que l avancement a l anciennete dans la fonction publique ivoirienne ?",
+        "options": ["A) La promotion automatique basee uniquement sur la duree de service", "B) L avancement qui tient compte du temps de service et parfois des notes mais sans selection rigoureuse", "C) La promotion uniquement au merite", "D) L avancement accorde par le Parlement"],
+        "answer": "B",
+        "explanation": "L avancement a l anciennete (increments) est automatique ou semi-automatique en fonction du temps de service."
+    },
+    {
+        "question": "Qu'est-ce que l avancement au choix (ou au merite) dans la fonction publique ivoirienne ?",
+        "options": ["A) L avancement automatique annuel", "B) L avancement decide par l administration apres evaluation des performances et choix parmi les agents eligibles", "C) L avancement par concours interne", "D) L avancement accorde au plus anciens"],
+        "answer": "B",
+        "explanation": "L avancement au choix est decide par l administration parmi les agents eligibles en tenant compte de leurs merites et de leurs notes."
+    },
+    {
+        "question": "Qu'est-ce que la mise en non-activite d un fonctionnaire ivoirien ?",
+        "options": ["A) Le conge annuel", "B) La position administrative ou le fonctionnaire est suspendu temporairement de ses fonctions en attendant une decision (ex enquete disciplinaire)", "C) La retraite", "D) Le detachement"],
+        "answer": "B",
+        "explanation": "La mise en non-activite est une suspension temporaire des fonctions dans l attente d une decision disciplinaire ou judiciaire."
+    },
+    {
+        "question": "Pi?ge : un fonctionnaire suspendu pendant une enquete disciplinaire a-t-il droit a son salaire ?",
+        "options": ["A) Non il perd tout droit a remuneration", "B) Oui il conserve sa remuneration pendant la periode de suspension dans l attente de la decision", "C) Il recoit 50% de son salaire", "D) Cela depend de la gravite des faits"],
+        "answer": "B",
+        "explanation": "Pendant la suspension provisoire en attente de decision disciplinaire le fonctionnaire conserve generalement sa remuneration."
+    },
+    {
+        "question": "Qu'est-ce que le principe d impartialite de l administration ?",
+        "options": ["A) L administration n a aucune opinion", "B) L administration traite toutes les situations similaires de la meme maniere sans favoritisme ni discrimination", "C) L administration ne peut pas donner d avis", "D) L administration doit toujours donner raison au citoyen"],
+        "answer": "B",
+        "explanation": "L impartialite garantit l absence de favoritisme : les agents de l administration ne peuvent pas avantager ou penaliser arbitrairement les administres."
+    },
+    {
+        "question": "Qu'est-ce que la notion de service public en reseau ?",
+        "options": ["A) Un service gere via internet", "B) Un service public organise en infrastructure nationale (eau electricite transport rail) qui necessite des investissements lourds et un acces universel", "C) Un service public gerant les reseaux sociaux", "D) Un service prive de telecommunications"],
+        "answer": "B",
+        "explanation": "Les services en reseau (eau electricite routes ferrees) sont des services publics a acces universel necessitant des infrastructures nationales."
+    },
+    {
+        "question": "Qu'est-ce que le pouvoir de police administrative ?",
+        "options": ["A) Le pouvoir de la police judiciaire de poursuivre les criminels", "B) Le pouvoir des autorites administratives de restreindre les libert?s individuelles pour maintenir l ordre public", "C) Le pouvoir du Parlement de voter des lois securitaires", "D) Le pouvoir des communes de creer des services de securite"],
+        "answer": "B",
+        "explanation": "La police administrative permet a l administration de prevenir les troubles a l ordre public en imposant des restrictions aux libert?s."
+    },
+    {
+        "question": "Quels sont les trois elements de l ordre public en police administrative ?",
+        "options": ["A) Surete tranquillite salubrité", "B) Surete securite efficacite", "C) Egalite liberte fraternite", "D) Ordre paix justice"],
+        "answer": "A",
+        "explanation": "L ordre public en police administrative comprend la surete (securite des personnes et biens) la tranquillite (absence de troubles) et la salubrite (hygiene publique)."
+    },
+    {
+        "question": "Pi?ge : la police administrative peut-elle etre exercee par une personne privee ?",
+        "options": ["A) Non, c'est une prerogative de puissance publique", "B) Oui dans le cadre de la delegation de service public", "C) Oui toujours", "D) Non meme en cas de delegation"],
+        "answer": "A",
+        "explanation": "La police administrative est une prerogative de puissance publique et ne se delegate pas a une personne privee."
+    },
+    {
+        "question": "Qu'est-ce que le domaine public en droit administratif ivoirien ?",
+        "options": ["A) L ensemble des biens prives de l'?tat", "B) L ensemble des biens affectes a l usage direct du public ou a un service public et soumis a un r?gime de protection special", "C) Les terres agricoles de l'?tat", "D) Les immeubles des minist?res uniquement"],
+        "answer": "B",
+        "explanation": "Le domaine public est insaisissable inalienable et imprescriptible. Il comprend les routes les ponts les cours d eau navigables etc."
+    },
+    {
+        "question": "Pi?ge : l'?tat peut-il vendre un bien du domaine public ivoirien ?",
+        "options": ["A) Oui librement", "B) Non le domaine public est inalienable ; il faut d abord le desaffecter du domaine public pour le vendre", "C) Oui avec l accord du Parlement", "D) Oui mais uniquement a une personne publique"],
+        "answer": "B",
+        "explanation": "L inalienabilite du domaine public interdit sa vente directe. La desaffectation prealable est obligatoire avant toute cession."
+    },
+    {
+        "question": "Qu'est-ce que le droit de preemption de l'?tat en CI ?",
+        "options": ["A) Le droit de l'?tat d acheter en priorite certains biens mis en vente", "B) Le droit de l'?tat de prendre les biens sans indemnisation", "C) Le droit de l'?tat de louer des proprietes privees", "D) Le droit de l'?tat de reclamer des impots en priorite"],
+        "answer": "A",
+        "explanation": "Le droit de preemption permet a l'?tat d acquerir en priorite certains biens mis en vente notamment dans le cadre de l amenagement du territoire."
+    },
+    {
+        "question": "Qu'est-ce que l expropriation pour cause d utilite publique ?",
+        "options": ["A) La confiscation des biens des criminels", "B) La procedure permettant a l'?tat de prendre propriete d un bien prive contre une indemnisation juste et prealable pour un projet d interet general", "C) La saisie des biens en cas de dettes fiscales", "D) La nationalisation d une entreprise"],
+        "answer": "B",
+        "explanation": "L expropriation est encadree : elle necessite une utilite publique reconnue une procedure legale et une indemnisation juste et prealable."
+    },
+    {
+        "question": "Pi?ge : l expropriation sans indemnisation est-elle possible en CI ?",
+        "options": ["A) Oui en cas d urgence nationale", "B) Non elle est inconstitutionnelle : l indemnisation juste et prealable est une garantie constitutionnelle", "C) Oui avec l accord du Conseil constitutionnel", "D) Oui uniquement pour les ?trangers"],
+        "answer": "B",
+        "explanation": "La Constitution garantit le droit de propriete. L expropriation n est possible qu avec une juste et prealable indemnisation."
+    },
+    {
+        "question": "Qu'est-ce que le principe de continuite de l activite administrative ?",
+        "options": ["A) L administration ne ferme jamais", "B) Les services administratifs essentiels doivent fonctionner de maniere continue sans interruption injustifiee", "C) Les fonctionnaires travaillent 24h/24", "D) Les lois ne peuvent pas suspendre les services"],
+        "answer": "B",
+        "explanation": "La continuite administrative garantit que les services publics essentiels (sante securite eau) ne s interrompent pas meme lors de greves."
+    },
+    {
+        "question": "Qu'est-ce que le recours de plein contentieux (ou recours de pleine juridiction) ?",
+        "options": ["A) Un recours qui ne peut annuler un acte", "B) Un recours ou le juge peut annuler reformer ou condamner l administration a payer des dommages et interets", "C) Un recours reserve aux ?trangers", "D) Un recours devant le Conseil constitutionnel"],
+        "answer": "B",
+        "explanation": "Le recours de plein contentieux va au-dela de la simple annulation : le juge peut reformer l acte et accorder des dommages et interets."
+    },
+    {
+        "question": "Qu'est-ce qu un arrete ministeriel ?",
+        "options": ["A) Un arrete pris par le Premier ministre", "B) Un acte r?glementaire ou individuel pris par un ministre dans le cadre de ses attributions", "C) Une loi adoptee par le Parlement", "D) Un decret pr?sidentiel"],
+        "answer": "B",
+        "explanation": "L arrete ministeriel est un acte de l executif pris par un ministre. Il a une portee inferieure aux decrets."
+    },
+    {
+        "question": "Qu'est-ce que la hi?rarchie des actes administratifs en CI ?",
+        "options": ["A) Les decrets > les arretes ministeriels > les arretes prefectoraux > les arretes municipaux", "B) Les arretes municipaux > les arretes prefectoraux", "C) Les arretes ministeriels > les decrets", "D) Tous les actes administratifs ont la meme valeur"],
+        "answer": "A",
+        "explanation": "La hi?rarchie : decrets presidetiels > decrets en conseil des ministres > arretes ministeriels > arretes prefectoraux > arretes municipaux."
+    },
+    {
+        "question": "Qu'est-ce que la competence liee de l administration ?",
+        "options": ["A) L administration a une totale liberte de choix", "B) L administration n a pas de liberte de choix : la loi definit precisement ce qu elle doit faire et comment", "C) La competence exclusive d un minist?re", "D) La competence partagee entre deux autorites"],
+        "answer": "B",
+        "explanation": "La competence liee s oppose au pouvoir discrecionnaire : l administration doit agir d une certaine maniere sans avoir le choix."
+    },
+    {
+        "question": "Pi?ge : l administration peut-elle abroger un r?glement en vigueur a tout moment ?",
+        "options": ["A) Non elle doit maintenir les r?glements en vigueur indefiniment", "B) Oui l administration peut abroger ses propres r?glements a tout moment sauf si l abrogation porte atteinte aux droits acquis", "C) Oui mais uniquement avec l accord du Parlement", "D) Non seul le juge peut abroger un r?glement"],
+        "answer": "B",
+        "explanation": "L administration a le droit et parfois l obligation d abroger ses r?glements illegaux. Cependant l abrogation ne peut pas porter atteinte a des droits acquis legitimes."
+    },
+    {
+        "question": "Qu'est-ce que le principe de la hi?rarchie administrative ?",
+        "options": ["A) Les fonctionnaires sont ordonnes par salaire", "B) Le superieur hierarchique peut donner des instructions a ses subordonnes et exercer sur eux un pouvoir de controle et de sanction", "C) Tous les agents ont la meme autorite", "D) Le plus ancien commande toujours"],
+        "answer": "B",
+        "explanation": "La hi?rarchie administrative implique que le superieur peut donner des instructions des ordres et exercer un pouvoir disciplinaire sur ses subordonnes."
+    },
+    {
+        "question": "Qu'est-ce qu une autorite administrative independante (AAI) ?",
+        "options": ["A) Un tribunal administratif", "B) Une structure administrative dotee d une independance vis-a-vis du gouvernement creee pour reguler des secteurs sensibles", "C) Un minist?re autonome", "D) Une collectivit? territoriale"],
+        "answer": "B",
+        "explanation": "Les AAI (ex ARTCI HACA CMI) sont des structures administratives independantes du gouvernement chargees de reguler des secteurs qui necessitent une neutralite politique."
+    },
+    {
+        "question": "Qu'est-ce que la HACA en CI ?",
+        "options": ["A) Haute Autorite des Collectivites Administratives", "B) Haute Autorite de la Communication Audiovisuelle : autorite qui regule les medias audiovisuels en CI", "C) Haute Assemblee des Citoyens Africains", "D) Haute Administration des Charges et Achats"],
+        "answer": "B",
+        "explanation": "La HACA est l autorite administrative independante chargee de reguler la communication audiovisuelle (television radio) en C?te d'Ivoire."
+    },
+    {
+        "question": "Pi?ge : les AAI (autorites administratives independantes) font-elles partie de l'?tat ?",
+        "options": ["A) Non elles sont totalement independantes", "B) Oui elles font partie de l'?tat mais disposent d une independance organique et fonctionnelle vis-a-vis du gouvernement", "C) Non elles sont des organismes prives", "D) Oui elles sont sous l autorite directe du Pr?sident"],
+        "answer": "B",
+        "explanation": "Les AAI font partie de l'?tat mais avec une independance institutionnelle garantissant leur neutralite par rapport au gouvernement du jour."
+    },
+    {
+        "question": "Qu'est-ce que le contentieux de la responsabilite administrative ?",
+        "options": ["A) La responsabilite penale des fonctionnaires", "B) Le litige devant le juge administratif tendant a obtenir la reparation d un dommage cause par une personne publique", "C) Le contentieux fiscal entre l'?tat et les entreprises", "D) Les litiges entre fonctionnaires"],
+        "answer": "B",
+        "explanation": "Le contentieux de la responsabilite administrative permet aux victimes d actes ou de comportements fautifs de l administration d obtenir une indemnisation."
+    },
+    {
+        "question": "Qu'est-ce que la rupture d egalite devant les charges publiques ?",
+        "options": ["A) Une inegalite de traitement entre fonctionnaires", "B) Le fait qu une decision ou une action de l administration fait supporter a un particulier un prejudice anormal et special que les autres citoyens ne supportent pas", "C) Une inegalite fiscale", "D) Une discrimination a l embauche dans la fonction publique"],
+        "answer": "B",
+        "explanation": "La rupture d egalite fonde la responsabilite sans faute : si l action de l'?tat cree un prejudice anormal et special l'?tat doit indemniser meme sans avoir commis de faute."
+    },
+    {
+        "question": "Qu'est-ce que le recours indemnitaire en droit administratif ?",
+        "options": ["A) Un recours pour annuler un acte", "B) Un recours tendant a obtenir une compensation financiere pour un prejudice subi du fait de l administration", "C) Un recours pour obtenir un logement social", "D) Un recours contre les impots"],
+        "answer": "B",
+        "explanation": "Le recours indemnitaire (ou de plein contentieux) permet d obtenir la condamnation de l administration a payer des dommages et interets."
+    },
+    {
+        "question": "Qu'est-ce que la mise en demeure de l administration ?",
+        "options": ["A) Une sanction administrative", "B) Un acte par lequel l administre ou le juge somme l administration d executer ses obligations dans un delai determine", "C) Une convocation disciplinaire", "D) Un ordre de paiement"],
+        "answer": "B",
+        "explanation": "La mise en demeure invite l administration a remplir ses obligations. Si elle ne s execute pas le juge peut prononcer des astreintes."
+    },
+    {
+        "question": "Qu'est-ce que l astreinte en droit administratif ?",
+        "options": ["A) Une peine privative de liberte pour un fonctionnaire", "B) Une sanction financiere prononcee par le juge pour contraindre l administration a executer une decision de justice", "C) Une amende fiscale", "D) Une retenue sur salaire"],
+        "answer": "B",
+        "explanation": "L astreinte est une condamnation financiere par jour de retard : elle vise a contraindre l administration a executer les decisions de justice."
+    },
+    {
+        "question": "Pi?ge : le juge administratif peut-il adresser des injonctions a l administration en CI ?",
+        "options": ["A) Non le juge ne peut qu annuler les actes", "B) Oui depuis les reformes recentes le juge administratif peut adresser des injonctions et prononcer des astreintes pour assurer l execution de ses decisions", "C) Non le juge administratif n a aucun pouvoir d execution", "D) Oui mais uniquement en matiere financiere"],
+        "answer": "B",
+        "explanation": "Les reformes du droit administratif modeme reconnaissent au juge le pouvoir d injonction et d astreinte pour faire executer ses decisions."
+    },
+    {
+        "question": "Qu'est-ce que le principe de publicite des actes administratifs ?",
+        "options": ["A) Tous les actes doivent passer a la television", "B) Pour etre opposables les actes administratifs doivent etre portes a la connaissance de leurs destinataires par publication ou notification", "C) Les actes administratifs sont confidentiels", "D) Seuls les decrets pr?sidentiels doivent etre publies"],
+        "answer": "B",
+        "explanation": "La publicite des actes administratifs est une condition de leur opposabilite : les r?glements doivent etre publies les actes individuels notifies."
+    },
+    {
+        "question": "Qu'est-ce que le principe du service minimum en cas de greve dans les services publics essentiels ?",
+        "options": ["A) Les greves sont interdites dans les services publics", "B) En cas de greve dans les services essentiels (hopitaux transports) un service minimum doit etre maintenu pour proteger la continuite", "C) Les fonctionnaires greves doivent assurer 100% du service", "D) Le service minimum n existe pas en CI"],
+        "answer": "B",
+        "explanation": "Le service minimum concilie le droit de greve et la continuite des services essentiels. Des agents doivent maintenir un service de base."
+    },
+    {
+        "question": "Qu'est-ce que le principe de l autorite de la chose jugee en droit administratif ?",
+        "options": ["A) Un acte administratif ne peut jamais etre modifie", "B) Une decision de justice devient definitive et lie les parties une fois les voies de recours epuisees", "C) L administration doit obeir aux jugements uniquement si elle le souhaite", "D) Seul le Conseil constitutionnel peut rendre des decisions definitives"],
+        "answer": "B",
+        "explanation": "L autorite de la chose jugee signifie qu une decision definitive s impose a tous y compris a l administration."
+    },
+    {
+        "question": "Qu'est-ce que le pouvoir réglementaire autonome en CI ?",
+        "options": ["A) Le pouvoir du Parlement de prendre des règlements", "B) Le pouvoir du Président et du gouvernement de prendre des règlements dans des matières non réservées à la loi", "C) Le pouvoir des communes de voter leurs propres lois", "D) Le pouvoir du Conseil constitutionnel de réguler les lois"],
+        "answer": "B",
+        "explanation": "Le pouvoir réglementaire autonome permet à l'exécutif de régler les matières qui ne sont pas du domaine de la loi défini par la Constitution."
+    },
+    {
+        "question": "Qu'est-ce que le droit de retrait d'un acte administratif créateur de droits ?",
+        "options": ["A) Il peut être retiré à tout moment", "B) Il ne peut être retiré que dans un délai de 4 mois s'il est illégal, pour ne pas priver injustement un administré de ses droits acquis", "C) Il ne peut jamais être retiré", "D) Seul le juge peut l'annuler"],
+        "answer": "B",
+        "explanation": "Un acte créateur de droits illégal peut être retiré dans un délai de 4 mois (principe de sécurité juridique vs légalité)."
+    },
+    {
+        "question": "Quelle est la différence entre un marché public et une concession de service public ?",
+        "options": ["A) Aucune différence", "B) Dans un marché public l'administration paye le prestataire ; dans la concession le concessionnaire se rémunère sur les usagers", "C) La concession est réservée aux collectivités locales", "D) Le marché public implique un transfert de risque"],
+        "answer": "B",
+        "explanation": "Marché public : rémunération par l'administration. Concession : rémunération par les usagers + transfert du risque d'exploitation."
+    },
+    {
+        "question": "Qu'est-ce que la faute de service en droit administratif ?",
+        "options": ["A) Une faute personnelle du fonctionnaire", "B) Une faute commise dans l'exercice de la mission de service public, engageant la responsabilité de l'administration", "C) Un manquement disciplinaire", "D) Une infraction pénale"],
+        "answer": "B",
+        "explanation": "La faute de service (impersonnelle) engage la responsabilité de l'État ; la faute personnelle engage celle du fonctionnaire."
+    },
+    {
+        "question": "Qu'est-ce que le principe de mutabilité du service public ?",
+        "options": ["A) Le service public peut être supprimé à tout moment", "B) Le service public doit s'adapter à l'évolution des besoins collectifs", "C) Le service public ne peut jamais être modifié", "D) Le service public est immuable dans ses tarifs"],
+        "answer": "B",
+        "explanation": "La mutabilité (adaptabilité) oblige le service public à évoluer en fonction des besoins de la société."
+    },
+    {
+        "question": "Qu'est-ce qu'un arrêté préfectoral ?",
+        "options": ["A) Un acte du Président de la République", "B) Un acte réglementaire ou individuel pris par un préfet dans le cadre de ses attributions territoriales", "C) Une loi locale", "D) Un acte du gouvernement central"],
+        "answer": "B",
+        "explanation": "L'arrêté préfectoral est un acte administratif unilatéral du préfet, applicable dans son département."
+    },
+    {
+        "question": "Quelle est la condition de l'urgence dans le recours en référé administratif ?",
+        "options": ["A) Il suffit que l'administré le demande", "B) Il faut que le délai ordinaire mette en péril un intérêt légitime de façon grave et immédiate", "C) Il n'y a pas de condition d'urgence", "D) L'urgence doit être déclarée par le gouvernement"],
+        "answer": "B",
+        "explanation": "Le référé-suspension (art. L.521-1 CJA) exige une urgence et un doute sérieux sur la légalité de l'acte."
+    },
+    {
+        "question": "Qu'est-ce que la clause exorbitante de droit commun dans les contrats administratifs ?",
+        "options": ["A) Une clause habituelle dans tous les contrats", "B) Une clause qui ne pourrait exister dans un contrat de droit privé et qui traduit le caractère inégalitaire du contrat administratif", "C) Une clause pénale", "D) Une clause secrète"],
+        "answer": "B",
+        "explanation": "Les clauses exorbitantes (ex. : pouvoir de modification unilatérale, résiliation pour motif d'intérêt général) marquent les contrats administratifs."
+    },
+    {
+        "question": "Qu'est-ce que la prescription quadriennale des créances sur l'État en droit ivoirien ?",
+        "options": ["A) L'État peut s'endetter pendant 4 ans sans limite", "B) Les créances non réclamées contre l'État s'éteignent après 4 ans", "C) Les impôts se prescrivent en 4 ans", "D) Les contrats administratifs expirent après 4 ans"],
+        "answer": "B",
+        "explanation": "La prescription quadriennale (inspirée du droit français) éteint les créances sur l'État non réclamées dans les 4 ans."
+    },
+    {
+        "question": "Quelle est la différence entre déconcentration et délégation de compétence ?",
+        "options": ["A) Ce sont des synonymes", "B) La déconcentration est un déplacement interne de compétences au sein de l'État ; la délégation est un transfert de pouvoirs d'une autorité à une autre", "C) La délégation concerne uniquement les collectivités", "D) La déconcentration supprime les intermédiaires"],
+        "answer": "B",
+        "explanation": "Déconcentration = mouvement interne de l'État (préfets). Délégation = transfert de compétences d'une autorité à une autre."
+    },
+    {
+        "question": "Qu'est-ce que l'acte de gouvernement en droit administratif ?",
+        "options": ["A) Tout acte pris par le gouvernement", "B) Un acte relatif aux relations entre les pouvoirs publics ou avec des États étrangers, insusceptible de recours juridictionnel", "C) Un acte législatif", "D) Un acte pris par décret"],
+        "answer": "B",
+        "explanation": "Les actes de gouvernement (diplomatie, grâce, dissolution) échappent au contrôle du juge administratif."
+    },
+    {
+        "question": "Qu'est-ce que le pouvoir de suspension d'un acte administratif par le préfet ?",
+        "options": ["A) Le préfet peut annuler tout acte local", "B) Le préfet peut demander au tribunal de suspendre un acte local illégal", "C) Le préfet peut abroger un acte local", "D) Le préfet peut modifier les actes locaux"],
+        "answer": "B",
+        "explanation": "En droit ivoirien, le représentant de l'État peut saisir le juge pour suspendre des actes des collectivités illégaux."
+    },
+    {
+        "question": "Quel est le délai de recours pour excès de pouvoir devant le juge administratif en CI ?",
+        "options": ["A) 10 jours", "B) 2 mois à compter de la publication ou notification de l'acte", "C) 1 an", "D) 6 mois"],
+        "answer": "B",
+        "explanation": "Le délai de recours pour excès de pouvoir est généralement de 2 mois en droit administratif ivoirien."
+    },
+    {
+        "question": "Qu'est-ce que le principe d'égalité des usagers devant le service public ?",
+        "options": ["A) Tous les usagers paient le même prix", "B) Les usagers dans une situation identique doivent recevoir le même traitement", "C) Les étrangers sont exclus du service public", "D) Les fonctionnaires ont accès prioritaire"],
+        "answer": "B",
+        "explanation": "L'égalité devant le service public interdit les discriminations entre usagers se trouvant dans une situation comparable."
+    },
+    {
+        "question": "Qu'est-ce qu'un établissement public industriel et commercial (EPIC) ?",
+        "options": ["A) Une entreprise privée", "B) Un établissement public gérant une activité à caractère industriel ou commercial, soumis principalement au droit privé pour ses rapports commerciaux", "C) Une collectivité territoriale", "D) Un service déconcentré"],
+        "answer": "B",
+        "explanation": "Un EPIC (ex : SODEXAM, CIE en CI) est une personne publique dont les activités relèvent principalement du droit privé."
+    },
+    {
+        "question": "Qu'est-ce que l'obligation de motivation des actes administratifs en CI ?",
+        "options": ["A) Tout acte doit obligatoirement être motivé", "B) Certains actes défavorables doivent être motivés (rejet de demande, sanction) pour permettre à l'administré de comprendre et contester la décision", "C) La motivation est facultative", "D) Seuls les actes réglementaires sont motivés"],
+        "answer": "B",
+        "explanation": "L'obligation de motivation s'applique notamment aux actes individuels défavorables, garantissant les droits de la défense."
+    },
+    {
+        "question": "Qu'est-ce que la personnalité juridique d'une collectivité territoriale ?",
+        "options": ["A) Elle n'a pas de personnalité juridique", "B) Elle lui permet d'avoir des droits et des obligations propres, d'agir en justice et de contracter", "C) Elle lui permet de voter des lois", "D) Elle est identique à la personnalité de l'État"],
+        "answer": "B",
+        "explanation": "La personnalité juridique donne à la collectivité la capacité de contracter, d'ester en justice et d'avoir un budget propre."
+    },
+    {
+        "question": "Qu'est-ce que le principe de proportionnalité dans les mesures de police administrative ?",
+        "options": ["A) La police peut prendre toutes mesures nécessaires", "B) Les restrictions apportées aux libertés doivent être strictement nécessaires et proportionnées à l'objectif d'ordre public poursuivi", "C) La proportionnalité s'applique uniquement en droit pénal", "D) Les mesures de police sont toujours définitives"],
+        "answer": "B",
+        "explanation": "Toute restriction à la liberté par la police administrative doit être proportionnée au risque : ni trop, ni trop peu."
+    },
+    {
+        "question": "Qu'est-ce que la compétence liée de l'administration ?",
+        "options": ["A) L'administration peut agir librement", "B) La loi détermine exactement comment l'administration doit agir : elle n'a aucune liberté de choix", "C) L'administration est compétente dans tous les domaines", "D) La compétence est déléguée à un tiers"],
+        "answer": "B",
+        "explanation": "En compétence liée, l'administration est obligée d'agir d'une manière précise définie par la loi, sans pouvoir discrétionnaire."
+    },
+    {
+        "question": "Qu'est-ce que la théorie de l'imprévision dans les contrats administratifs ?",
+        "options": ["A) Le cocontractant peut refuser d'exécuter le contrat", "B) Lorsqu'un événement imprévisible bouleverse l'économie du contrat, le cocontractant peut obtenir une indemnité partielle tout en continuant à exécuter le contrat", "C) L'administration peut modifier le contrat à tout moment", "D) Le contrat est automatiquement résilié en cas d'imprévision"],
+        "answer": "B",
+        "explanation": "La théorie de l'imprévision (arrêt Gaz de Bordeaux, 1916) permet d'indemniser partiellement le cocontractant sans résilier le contrat."
+    },
+    {
+        "question": "Qu'est-ce que le contrôle de légalité interne d'un acte administratif ?",
+        "options": ["A) Vérifier la signature de l'acte", "B) Vérifier le fond de l'acte : le but, les motifs de droit, les motifs de fait et le contenu", "C) Vérifier la publication de l'acte", "D) Vérifier la compétence de l'auteur"],
+        "answer": "B",
+        "explanation": "Le contrôle interne porte sur le fond : le but poursuivi, la base légale, les faits et le contenu de la décision."
+    },
+    {
+        "question": "Qu'est-ce que la responsabilité de l'État du fait des lois ?",
+        "options": ["A) L'État n'est jamais responsable des lois qu'il édicte", "B) L'État peut être tenu responsable si une loi, bien que légale, cause un préjudice anormal et spécial à un administré, rompant l'égalité devant les charges publiques", "C) Seul le Parlement est responsable des lois", "D) La responsabilité législative est couverte par l'immunité parlementaire"],
+        "answer": "B",
+        "explanation": "Même une loi valide peut engager la responsabilité sans faute de l'État si elle crée un préjudice anormal et spécial."
+    },
+    {
+        "question": "Qu'est-ce que le principe de légalité criminelle en droit administratif répressif ?",
+        "options": ["A) L'administration peut sanctionner librement", "B) Les sanctions administratives doivent être prévues par un texte, proportionnées et respecter les droits de la défense", "C) Seul le juge pénal peut infliger des sanctions", "D) Il n'y a pas de sanctions administratives"],
+        "answer": "B",
+        "explanation": "Le principe de légalité s'applique aussi aux sanctions administratives : texte préalable, proportionnalité, droits de la défense."
+    },
+    {
+        "question": "Qu'est-ce que le juge des référés administratifs ?",
+        "options": ["A) Un juge pénal d'urgence", "B) Un juge administratif qui peut prononcer des mesures provisoires urgentes sans attendre un jugement au fond", "C) Un arbitre entre l'État et les entreprises", "D) Un juge spécialisé dans les collectivités locales"],
+        "answer": "B",
+        "explanation": "Le juge des référés administratifs peut suspendre un acte, ordonner des mesures conservatoires ou de sauvegarde en urgence."
+    },
+    {
+        "question": "Qu'est-ce que le droit à un recours effectif en droit administratif ivoirien ?",
+        "options": ["A) Tout citoyen peut saisir n'importe quelle juridiction", "B) Toute personne lésée par un acte administratif a le droit de soumettre sa contestation à un juge et d'obtenir une décision", "C) Seuls les nationaux ivoiriens ont ce droit", "D) Ce droit n'existe pas en droit ivoirien"],
+        "answer": "B",
+        "explanation": "Le droit à un recours effectif est garanti par la Constitution et les traités internationaux ratifiés par la CI."
+    },
+    {
+        "question": "Qu'est-ce que la notion d'ordre public en police administrative ?",
+        "options": ["A) L'ordre militaire", "B) L'ensemble des impératifs de sécurité, de tranquillité et de salubrité publiques que l'autorité administrative est chargée de maintenir", "C) L'ordre économique", "D) L'ordre parlementaire"],
+        "answer": "B",
+        "explanation": "L'ordre public comprend la sécurité des personnes et des biens, la tranquillité publique et la salubrité."
+    },
+    {
+        "question": "Qu'est-ce que l'interprétation administrative (circulaire interprétative) en CI ?",
+        "options": ["A) Une loi issue de l'administration", "B) Un document interne qui guide les agents dans l'application d'un texte, sans créer de droits pour les administrés", "C) Un décret d'application", "D) Un arrêté ministériel"],
+        "answer": "B",
+        "explanation": "Les circulaires interprétatives orientent l'action des agents mais ne lient pas les administrés ni les juges."
+    },
+    {
+        "question": "Qu'est-ce que le droit au logement opposable (DALO) dans sa conception théorique ?",
+        "options": ["A) Le droit pour tout citoyen d'occuper n'importe quel logement vide", "B) Le droit pour certaines personnes défavorisées d'obtenir un logement décent et indépendant grâce à l'obligation faite à l'État", "C) Un droit sans mécanisme d'application", "D) Un droit réservé aux fonctionnaires"],
+        "answer": "B",
+        "explanation": "Le DALO rend opposable le droit au logement : les personnes sans abri peuvent saisir une commission pour être relogées."
+    },
+    {
+        "question": "Qu'est-ce que la décision d'espèce (acte individuel non décisoire) ?",
+        "options": ["A) Une décision applicable à tout le monde", "B) Une mesure qui ne crée pas de droits nouveaux et ne modifie pas l'ordonnancement juridique (ex. : avis, vœu, recommandation)", "C) Un acte de gouvernement", "D) Un acte réglementaire"],
+        "answer": "B",
+        "explanation": "Les mesures d'ordre intérieur et les actes préparatoires ne sont pas des décisions administratives attaquables."
+    },
+    {
+        "question": "Qu'est-ce que le recours en cassation devant la Cour Suprême en CI ?",
+        "options": ["A) Un nouveau jugement sur les faits", "B) Un contrôle de la régularité juridique d'une décision sans réexamen des faits", "C) Un appel de la décision de première instance", "D) Un recours réservé à l'État"],
+        "answer": "B",
+        "explanation": "La cassation vérifie que la loi a été correctement appliquée. Elle ne juge pas les faits à nouveau."
+    },
+    {
+        "question": "Qu'est-ce que l'exécution forcée en droit administratif ivoirien ?",
+        "options": ["A) L'administration peut toujours exécuter ses décisions par la force", "B) L'administration peut recourir à la contrainte physique uniquement en cas d'urgence ou de texte l'autorisant expressément", "C) L'exécution forcée est interdite en droit ivoirien", "D) Seul le juge peut ordonner l'exécution forcée"],
+        "answer": "B",
+        "explanation": "Le recours à la force physique par l'administration (voie de fait) est exceptionnel et encadré en droit administratif."
+    },
+    {
+        "question": "Qu'est-ce que la notion d'administration active en droit administratif ?",
+        "options": ["A) L'administration qui contrôle les autres administrations", "B) L'administration qui agit, prend des décisions et exécute les politiques publiques (gouvernement, préfets, maires)", "C) L'administration consultative", "D) L'administration juridictionnelle"],
+        "answer": "B",
+        "explanation": "L'administration active est l'ensemble des organes qui prennent des décisions exécutoires : gouvernement, préfets, maires, etc."
+    },
+    {
+        "question": "Quel est le principe d'interdiction de la voie de fait en droit administratif ?",
+        "options": ["A) L'administration peut toujours agir par la force", "B) L'administration ne peut pas porter atteinte à la liberté individuelle ou à la propriété privée de manière manifestement illégale sans texte l'y autorisant", "C) La voie de fait est autorisée en cas d'urgence", "D) Ce principe n'existe pas en CI"],
+        "answer": "B",
+        "explanation": "La voie de fait est une atteinte grave et illégale aux libertés fondamentales par l'administration, qui échappe au juge administratif et relève du juge judiciaire."
+    },
+    {
+        "question": "Qu'est-ce que la notion de bloc de compétence en droit administratif ?",
+        "options": ["A) Toutes les affaires vont au même juge", "B) Certains litiges sont attribués globalement à un ordre de juridiction (administratif ou judiciaire) pour éviter les conflits de compétence", "C) Les compétences sont réparties aléatoirement", "D) Le bloc de compétence concerne uniquement le droit pénal"],
+        "answer": "B",
+        "explanation": "Le bloc de compétence concentre les litiges d'un même domaine devant un seul juge pour des raisons de cohérence et d'efficacité."
+    },
+    {
+        "question": "Qu'est-ce que le recours pour excès de pouvoir (REP) en droit administratif ivoirien ?",
+        "options": ["A) Un recours pour obtenir des dommages et intérêts", "B) Un recours tendant à l'annulation d'un acte administratif illégal, ouvert à tout intéressé", "C) Un recours réservé aux fonctionnaires", "D) Un recours devant la Cour constitutionnelle"],
+        "answer": "B",
+        "explanation": "Le REP est le recours contentieux administratif le plus important : il vise à l'annulation des actes illégaux de l'administration."
+    },
+    {
+        "question": "Quelle est la différence entre une autorité administrative indépendante (AAI) et un établissement public (EP) ?",
+        "options": ["A) Aucune différence", "B) Une AAI bénéficie d'une indépendance vis-à-vis du gouvernement pour ses missions de régulation ; un EP est soumis à la tutelle de l'État", "C) Un EP est indépendant, une AAI dépend du gouvernement", "D) Les AAI ont plus de personnel"],
+        "answer": "B",
+        "explanation": "L'indépendance organisationnelle de l'AAI vis-à-vis du pouvoir exécutif est ce qui la distingue d'un établissement public classique."
+    },
+    {
+        "question": "Qu'est-ce que le principe de précaution en droit administratif français (applicable en CI) ?",
+        "options": ["A) Agir seulement en cas de certitude scientifique", "B) En cas de risque grave et irréversible pour l'environnement ou la santé, prendre des mesures préventives sans attendre la certitude scientifique", "C) Interdire toute innovation", "D) Attendre l'autorisation parlementaire avant d'agir"],
+        "answer": "B",
+        "explanation": "Le principe de précaution (Charte de l'environnement 2004 en France) autorise l'action préventive en situation d'incertitude scientifique."
+    },
+    {
+        "question": "Qu'est-ce que le principe de subsidiarité en droit administratif ?",
+        "options": ["A) L'État décide de tout", "B) Les décisions doivent être prises au niveau le plus proche des citoyens, le niveau supérieur n'intervenant que si le niveau inférieur est insuffisant", "C) Les collectivités locales n'ont aucune compétence", "D) Le gouvernement peut toujours se substituer aux collectivités"],
+        "answer": "B",
+        "explanation": "Le principe de subsidiarité organise la répartition des compétences : le pouvoir local d'abord, le supérieur en dernier recours."
+    },
+    {
+        "question": "Qu'est-ce que la notion de domaine privé de l'État en droit administratif ivoirien ?",
+        "options": ["A) Les biens de l'État sont tous imprescriptibles et inaliénables", "B) Le domaine privé regroupe les biens de l'État non affectés à l'usage public ; il peut être géré, loué ou vendu comme des biens privés", "C) Le domaine privé appartient aux fonctionnaires", "D) Le domaine privé comprend les routes et les bâtiments publics"],
+        "answer": "B",
+        "explanation": "Le domaine privé de l'État (forêts, terres agricoles, actifs financiers) est géré selon des règles proches du droit privé, contrairement au domaine public."
+    },
+    {
+        "question": "Qu'est-ce que l'obligation de publication des actes administratifs réglementaires ?",
+        "options": ["A) Les règlements sont secrets", "B) Les actes réglementaires doivent être publiés (Journal Officiel) pour être opposables aux administrés", "C) La publication est facultative", "D) Seuls les décrets présidentiels sont publiés"],
+        "answer": "B",
+        "explanation": "La publication (JO, recueil des actes) conditionne l'entrée en vigueur et l'opposabilité des actes réglementaires."
+    },
+    {
+        "question": "Qu'est-ce que la responsabilité de l'État du fait des travaux publics ?",
+        "options": ["A) L'État n'est pas responsable des travaux publics", "B) L'État peut être tenu responsable des dommages causés à des tiers ou à des usagers par des travaux publics, même sans faute", "C) Seul le maître d'ouvrage privé est responsable", "D) La responsabilité est limitée aux accidents mortels"],
+        "answer": "B",
+        "explanation": "La responsabilité du fait des travaux publics peut être engagée sans faute (pour les tiers) ou pour faute (pour les usagers)."
+    },
+    {
+        "question": "Qu'est-ce que la notion de service public constitutionnel en CI ?",
+        "options": ["A) Un service géré par le Conseil constitutionnel", "B) Un service public dont la création est imposée par la Constitution (enseignement, défense, justice)", "C) Un service public payant", "D) Un service public réservé aux élus"],
+        "answer": "B",
+        "explanation": "Certains services publics sont directement fondés et imposés par la Constitution (justice, défense, éducation)."
+    },
+    {
+        "question": "Qu'est-ce que le droit de préemption de l'État en matière foncière en CI ?",
+        "options": ["A) L'État peut prendre des terres sans compensation", "B) L'État peut acquérir en priorité certains biens mis en vente pour des raisons d'intérêt public", "C) Les particuliers ne peuvent pas vendre leurs terres", "D) L'État peut louer des terres privées de force"],
+        "answer": "B",
+        "explanation": "Le droit de préemption permet à l'État d'acheter prioritairement certains biens mis en vente, notamment pour l'aménagement du territoire."
+    },
+    {
+        "question": "Qu'est-ce que l'acte administratif unilatéral à portée générale et impersonnelle ?",
+        "options": ["A) Un acte visant une seule personne", "B) Un acte qui s'applique à une catégorie de personnes indéfiniment déterminées par des critères généraux (comme une loi)", "C) Un acte secret", "D) Un acte pris sans base légale"],
+        "answer": "B",
+        "explanation": "L'acte réglementaire est unilatéral, général et impersonnel : il s'applique à toute personne entrant dans la catégorie qu'il définit."
+    },
+    {
+        "question": "Qu'est-ce que le recours de pleine juridiction (plein contentieux) en droit administratif ivoirien ?",
+        "options": ["A) Un recours qui ne peut annuler l'acte", "B) Un recours où le juge a tous les pouvoirs : annuler, réformer, condamner l'administration à payer des dommages et intérêts", "C) Un recours réservé aux étrangers", "D) Un recours uniquement devant la Cour Suprême"],
+        "answer": "B",
+        "explanation": "Le plein contentieux permet au juge d'aller au-delà de la simple annulation : il peut réformer et allouer une indemnité."
+    },
+    {
+        "question": "Qu'est-ce que la notion de délégation interservices en administration ivoirienne ?",
+        "options": ["A) Un agent qui signe pour un autre sans autorisation", "B) La coordination administrative entre différents services d'un ministère ou entre ministères pour gérer des projets transversaux", "C) La suppression d'un service", "D) Le transfert d'un service à une collectivité"],
+        "answer": "B",
+        "explanation": "La délégation interservices permet une coordination efficace entre directions et ministères sur des projets communs."
     }
 ]
 
@@ -3787,4 +6553,3 @@ def get_quiz_questions(num_questions=20, min_themes=7, selected_themes=None):
     random.shuffle(selected_questions)
     
     return selected_questions[:num_questions]
-
