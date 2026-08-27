@@ -3584,6 +3584,288 @@ THEME_2 = [
         "answer": "A",
         "explanation": "Reporter à un autre jour."
     },
+    {
+        "question": "Quel est le synonyme de 'Déluré' ?",
+        "options": ["A) Dégourdi", "B) Timide", "C) Hésitant", "D) Naïf"],
+        "answer": "A",
+        "explanation": "Déluré signifie dégourdi."
+    },
+    {
+        "question": "Quel est le synonyme de 'Arbitraire' ?",
+        "options": ["A) Juste", "B) Légal", "C) Discrétionnaire", "D) Logique"],
+        "answer": "C",
+        "explanation": "Arbitraire signifie discrétionnaire."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Prolixe' ?",
+        "options": ["A) Bavard", "B) Laconique", "C) Éloquent", "D) Verbeux"],
+        "answer": "B",
+        "explanation": "Prolixe (bavard) a pour antonyme laconique (bref)."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Coordination' ?",
+        "options": ["A) Entente", "B) Désorganisation", "C) Accord", "D) Harmonie"],
+        "answer": "B",
+        "explanation": "Désorganisation est l'antonyme de coordination."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Estimer' ?",
+        "options": ["A) Évaluer", "B) Déprécier", "C) Juger", "D) Calculer"],
+        "answer": "B",
+        "explanation": "L'antonyme d'estimer est déprécier."
+    },
+    {
+        "question": "Quel est le synonyme de 'Austère' ?",
+        "options": ["A) Joyeux", "B) Luxueux", "C) Sévère", "D) Frivole"],
+        "answer": "C",
+        "explanation": "Austère est synonyme de sévère."
+    },
+    {
+        "question": "Parmi les propositions, quel est l'antonyme de 'Austère' ?",
+        "options": ["A) Sévère", "B) Luxueux", "C) Rigide", "D) Sobre"],
+        "answer": "B",
+        "explanation": "Luxueux ou Frivole sont des antonymes de austère."
+    },
+    {
+        "question": "Quel est le synonyme de 'Magnanime' ?",
+        "options": ["A) Rancunier", "B) Égoïste", "C) Généreux", "D) Cruel"],
+        "answer": "C",
+        "explanation": "Magnanime signifie généreux."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Magnanime' ?",
+        "options": ["A) Généreux", "B) Altruiste", "C) Rancunier", "D) Bienveillant"],
+        "answer": "C",
+        "explanation": "Rancunier est l'antonyme de magnanime."
+    },
+    {
+        "question": "Que signifie le mot 'Taciturne' ?",
+        "options": ["A) Bavard", "B) Bruyant", "C) Silencieux", "D) Expressif"],
+        "answer": "C",
+        "explanation": "Taciturne est synonyme de silencieux."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Taciturne' ?",
+        "options": ["A) Silencieux", "B) Mutique", "C) Bavard", "D) Renfermé"],
+        "answer": "C",
+        "explanation": "L'antonyme de taciturne est bavard."
+    },
+    {
+        "question": "Que veut dire 'Succinct' ?",
+        "options": ["A) Bref", "B) Détaillé", "C) Long", "D) Vaste"],
+        "answer": "A",
+        "explanation": "Succinct signifie bref."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Succinct' ?",
+        "options": ["A) Bref", "B) Court", "C) Concis", "D) Détaillé"],
+        "answer": "D",
+        "explanation": "Détaillé est l'antonyme de succinct."
+    },
+    {
+        "question": "Quel est le synonyme de 'Péremptoire' ?",
+        "options": ["A) Hésitant", "B) Catégorique", "C) Douteux", "D) Souple"],
+        "answer": "B",
+        "explanation": "Péremptoire signifie catégorique."
+    },
+    {
+        "question": "Quel est l'antonyme de 'Fallacieux' ?",
+        "options": ["A) Trompeur", "B) Illusoire", "C) Sincère", "D) Mensonger"],
+        "answer": "C",
+        "explanation": "Sincère est l'antonyme de fallacieux."
+    },
+    {
+        "question": "Comment s'écrit correctement le mot signifiant un choc violent ?",
+        "options": ["A) Collusion", "B) Collision", "C) Colusion", "D) Colision"],
+        "answer": "B",
+        "explanation": "Une collision est un choc, à ne pas confondre avec collusion (entente secrète)."
+    },
+    {
+        "question": "Que signifie le paronyme 'Collusion' ?",
+        "options": ["A) Choc", "B) Accident", "C) Entente secrète", "D) Dispute"],
+        "answer": "C",
+        "explanation": "Une collusion est une entente secrète."
+    },
+    {
+        "question": "Quelle est la définition de 'Conjoncture' ?",
+        "options": ["A) Hypothèse", "B) Supposition", "C) Situation", "D) Conséquence"],
+        "answer": "C",
+        "explanation": "La conjoncture désigne une situation (ex: économique)."
+    },
+    {
+        "question": "Quelle est la définition de 'Conjecture' ?",
+        "options": ["A) Situation", "B) Hypothèse", "C) Fait avéré", "D) Preuve"],
+        "answer": "B",
+        "explanation": "Une conjecture est une hypothèse."
+    },
+    {
+        "question": "Complétez : Des robes ___",
+        "options": ["A) bleues ciel", "B) bleues ciels", "C) bleu ciel", "D) bleu ciels"],
+        "answer": "C",
+        "explanation": "Les adjectifs de couleur composés sont invariables (bleu ciel)."
+    },
+    {
+        "question": "Complétez : Des vestes ___",
+        "options": ["A) rouge sang", "B) rouges sangs", "C) rouges sang", "D) rouge sangs"],
+        "answer": "A",
+        "explanation": "Invariable car adjectif de couleur composé."
+    },
+    {
+        "question": "Comment s'écrit le nombre 300 en lettres ?",
+        "options": ["A) Trois cent", "B) Trois cents", "C) Trois-cents", "D) Trois-cent"],
+        "answer": "B",
+        "explanation": "Cent prend un s s'il est multiplié et termine le nombre (trois cents)."
+    },
+    {
+        "question": "Comment s'écrit 82 en lettres ?",
+        "options": ["A) Quatre-vingt-deux", "B) Quatre-vingts-deux", "C) Quatre-vingt deux", "D) Quatre vingts deux"],
+        "answer": "A",
+        "explanation": "Vingt ne prend pas de s car il ne termine pas le nombre (quatre-vingt-deux)."
+    },
+    {
+        "question": "Comment s'écrit 300 000 en lettres ?",
+        "options": ["A) Trois cents milles", "B) Trois cents mille", "C) Trois cent mille", "D) Trois cent milles"],
+        "answer": "C",
+        "explanation": "Cent est multiplié mais suivi de mille, donc invariable (trois cent mille)."
+    },
+    {
+        "question": "Quel est le pluriel de 'chou-fleur' ?",
+        "options": ["A) chou-fleur", "B) choux-fleur", "C) chou-fleurs", "D) choux-fleurs"],
+        "answer": "D",
+        "explanation": "Nom composé (nom+nom), les deux prennent la marque du pluriel."
+    },
+    {
+        "question": "Quel est le pluriel de 'arc-en-ciel' ?",
+        "options": ["A) arcs-en-ciel", "B) arc-en-ciels", "C) arcs-en-ciels", "D) arcs-en-cieux"],
+        "answer": "A",
+        "explanation": "Le premier mot (nom) prend la marque du pluriel, le second (complément) reste invariable."
+    },
+    {
+        "question": "Quel est le pluriel de 'timbre-poste' ?",
+        "options": ["A) timbre-postes", "B) timbres-postes", "C) timbres-poste", "D) timbre-poste"],
+        "answer": "C",
+        "explanation": "Pluriel : timbres-poste (des timbres pour la poste)."
+    },
+    {
+        "question": "Complétez : Les pommes qu'il a ___",
+        "options": ["A) mangé", "B) mangés", "C) mangées", "D) mangée"],
+        "answer": "C",
+        "explanation": "Le PP avec avoir s'accorde avec le COD placé avant (les pommes = féminin pluriel)."
+    },
+    {
+        "question": "Complétez : Elles se sont ___ les mains.",
+        "options": ["A) lavé", "B) lavés", "C) lavées", "D) lavée"],
+        "answer": "A",
+        "explanation": "Le COD (les mains) est placé après, le participe reste invariable."
+    },
+    {
+        "question": "Complétez : Ils se sont ___ la vérité.",
+        "options": ["A) dit", "B) dits", "C) dite", "D) dites"],
+        "answer": "A",
+        "explanation": "Le pronom 'se' est COI (ils ont dit la vérité à qui ? à eux-mêmes), donc invariable."
+    },
+    {
+        "question": "Quelle figure de style consiste à feindre de ne pas dire ce qu'on exprime néanmoins ?",
+        "options": ["A) Oxymore", "B) Prétérition", "C) Métaphore", "D) Hyperbole"],
+        "answer": "B",
+        "explanation": "C'est la prétérition."
+    },
+    {
+        "question": "L'expression 'obscure clarté' est un exemple de :",
+        "options": ["A) Pléonasme", "B) Litote", "C) Oxymore", "D) Euphémisme"],
+        "answer": "C",
+        "explanation": "Un oxymore relie deux mots de sens opposés."
+    },
+    {
+        "question": "La phrase 'la nature est un temple' est un exemple de :",
+        "options": ["A) Comparaison", "B) Métaphore", "C) Allégorie", "D) Personnification"],
+        "answer": "B",
+        "explanation": "C'est une métaphore car c'est une comparaison sans outil de comparaison."
+    },
+    {
+        "question": "Dire 'je meurs de soif' relève de quelle figure de style ?",
+        "options": ["A) Euphémisme", "B) Hyperbole", "C) Antithèse", "D) Chiasme"],
+        "answer": "B",
+        "explanation": "C'est une exagération, donc une hyperbole."
+    },
+    {
+        "question": "Comment appelle-t-on l'emploi d'un mot déformé (ex: rénumérations) ?",
+        "options": ["A) Solécisme", "B) Néologisme", "C) Barbarisme", "D) Archaïsme"],
+        "answer": "C",
+        "explanation": "C'est un barbarisme."
+    },
+    {
+        "question": "Que désigne un 'janotisme' ou 'amphibologie' ?",
+        "options": ["A) Une faute d'accord", "B) Une construction de phrase ambiguë", "C) Un mot inventé", "D) Une figure d'atténuation"],
+        "answer": "B",
+        "explanation": "C'est une phrase ambiguë prête à double sens."
+    },
+    {
+        "question": "Quel mot parmi ces choix est un palindrome ?",
+        "options": ["A) Avion", "B) Ressasser", "C) Bateau", "D) Refaire"],
+        "answer": "B",
+        "explanation": "Ressasser peut se lire dans les deux sens, c'est un palindrome."
+    },
+    {
+        "question": "Que signifie la locution latine 'A priori' ?",
+        "options": ["A) Après l'expérience", "B) Avant l'expérience", "C) Par conséquent", "D) Sans preuve"],
+        "answer": "B",
+        "explanation": "A priori signifie 'avant l'expérience'."
+    },
+    {
+        "question": "Que signifie 'Casus belli' ?",
+        "options": ["A) Cas de paix", "B) Raison d'État", "C) Motif de guerre", "D) Alliance militaire"],
+        "answer": "C",
+        "explanation": "Casus belli est un motif de guerre."
+    },
+    {
+        "question": "Que signifie 'In vino veritas' ?",
+        "options": ["A) La vie est dans le vin", "B) Le vin rend fort", "C) Le vin est dangereux", "D) La vérité est dans le vin"],
+        "answer": "D",
+        "explanation": "Cela signifie que l'alcool délie les langues et révèle la vérité."
+    },
+    {
+        "question": "Quelle est la traduction de 'Pacta sunt servanda' ?",
+        "options": ["A) Les pactes sont secrets", "B) Les contrats doivent être respectés", "C) Les alliances sont éphémères", "D) La paix est primordiale"],
+        "answer": "B",
+        "explanation": "Cette maxime juridique indique que les contrats lient les parties."
+    },
+    {
+        "question": "Lequel de ces mots possède un double genre ?",
+        "options": ["A) Augure", "B) Amour", "C) Termite", "D) Tubercule"],
+        "answer": "B",
+        "explanation": "Amour est de double genre (masculin au singulier, souvent féminin au pluriel dans la poésie)."
+    },
+    {
+        "question": "Quel est le genre du mot 'scolopendre' ?",
+        "options": ["A) Masculin", "B) Féminin", "C) Neutre", "D) Double genre"],
+        "answer": "B",
+        "explanation": "Scolopendre est de genre féminin (une scolopendre)."
+    },
+    {
+        "question": "Quel est l'auteur de l'œuvre 'Climbié' ?",
+        "options": ["A) Seydou Badian", "B) Sembène Ousmane", "C) Bernard Dadié", "D) Mongo Beti"],
+        "answer": "C",
+        "explanation": "Climbié a été écrit par Bernard Dadié."
+    },
+    {
+        "question": "Qui a rédigé 'Le pauvre Christ de Bomba' ?",
+        "options": ["A) Mongo Beti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Bernard Dadié"],
+        "answer": "A",
+        "explanation": "Le pauvre Christ de Bomba est de Mongo Beti."
+    },
+    {
+        "question": "Quel auteur a écrit 'Une vie de boy' ?",
+        "options": ["A) Sembène Ousmane", "B) Seydou Badian", "C) Ferdinand Oyono", "D) Ahmadou Kourouma"],
+        "answer": "C",
+        "explanation": "L'auteur d'Une vie de boy est Ferdinand Oyono."
+    },
+    {
+        "question": "De qui est l'ouvrage 'L'Enfant noir' ?",
+        "options": ["A) Camara Laye", "B) Mongo Beti", "C) Bernard Dadié", "D) Seydou Badian"],
+        "answer": "A",
+        "explanation": "C'est le chef-d'œuvre de Camara Laye."
+    },
 ]
 
 THEME_3 = [
@@ -6028,6 +6310,246 @@ THEME_3 = [
         "options": ["A) Bruno N. Koné", "B) Moussa Sanogo", "C) Mariatou Koné"],
         "answer": "A",
         "explanation": "Bruno Nabagné Koné occupe ce poste."
+    },
+    {
+        "question": "Qui a été le premier Directeur Général de l'ENA-CI ?",
+        "options": ["A) Félix Houphouët-Boigny", "B) Robert Ropion", "C) Alassane Ouattara", "D) Jeannot Ahoussou Kouadio"],
+        "answer": "B",
+        "explanation": "Robert Ropion fut le premier DG de l'ENA-CI."
+    },
+    {
+        "question": "Depuis quelle année Yamoussoukro est-elle la capitale politique de la Côte d'Ivoire ?",
+        "options": ["A) 1960", "B) 1983", "C) 1990", "D) 1993"],
+        "answer": "B",
+        "explanation": "Yamoussoukro est la capitale politique depuis 1983."
+    },
+    {
+        "question": "De quelles chambres est composé le parlement bicaméral ivoirien ?",
+        "options": ["A) Assemblée Nationale et Conseil Constitutionnel", "B) Sénat et Conseil Économique et Social", "C) Assemblée Nationale et Sénat", "D) Chambre des Députés et Sénat"],
+        "answer": "C",
+        "explanation": "Le parlement est composé de l'Assemblée Nationale et du Sénat."
+    },
+    {
+        "question": "Qui occupe le poste de Vice-Président de la République de Côte d'Ivoire selon les notes ?",
+        "options": ["A) Daniel Kablan Duncan", "B) Tiemoko Meyliet Koné", "C) Patrick Achi", "D) Robert Beugré Mambé"],
+        "answer": "B",
+        "explanation": "Le VP actuel de la République est Tiemoko Meyliet Koné."
+    },
+    {
+        "question": "Quelle est la juridiction administrative suprême en Côte d'Ivoire ?",
+        "options": ["A) La Cour Suprême", "B) La Cour de Cassation", "C) Le Conseil d'État", "D) Le Conseil Constitutionnel"],
+        "answer": "C",
+        "explanation": "Le Conseil d'État est la juridiction administrative suprême."
+    },
+    {
+        "question": "Quelle juridiction judiciaire est considérée comme suprême ?",
+        "options": ["A) Le Conseil d'État", "B) La Cour d'Appel", "C) La Cour d'assises", "D) La Cour de Cassation"],
+        "answer": "D",
+        "explanation": "La Cour de Cassation est la juridiction judiciaire suprême."
+    },
+    {
+        "question": "Comment qualifie-t-on l'ordre juridictionnel ivoirien ?",
+        "options": ["A) Moniste", "B) Unifié", "C) Dualiste", "D) Mixte"],
+        "answer": "C",
+        "explanation": "L'ordre juridictionnel ivoirien est dualiste."
+    },
+    {
+        "question": "Qui préside le Conseil Constitutionnel ivoirien ?",
+        "options": ["A) Mamadou Koné", "B) Chantal Nanaba Camara", "C) Tiemoko Meyliet Koné", "D) René Degni-Ségui"],
+        "answer": "B",
+        "explanation": "Chantal Nanaba Camara est présidente du Conseil Constitutionnel."
+    },
+    {
+        "question": "Par quelle cour sont jugés les crimes graves ?",
+        "options": ["A) Le Tribunal de Première Instance", "B) La Cour de Cassation", "C) La Cour d'assises", "D) Le Conseil d'État"],
+        "answer": "C",
+        "explanation": "Les crimes graves sont jugés par la Cour d'assises."
+    },
+    {
+        "question": "En quelle année eut lieu la prise de la Bastille ?",
+        "options": ["A) 1789", "B) 1792", "C) 1804", "D) 1799"],
+        "answer": "A",
+        "explanation": "La prise de la Bastille date de 1789."
+    },
+    {
+        "question": "À quelle date Napoléon a-t-il été couronné ?",
+        "options": ["A) 14 juillet 1789", "B) 2 décembre 1804", "C) 18 juin 1815", "D) 2 décembre 1851"],
+        "answer": "B",
+        "explanation": "Napoléon a été couronné le 2 décembre 1804."
+    },
+    {
+        "question": "Quand le Traité de Versailles a-t-il été signé ?",
+        "options": ["A) 1914", "B) 1918", "C) 1919", "D) 1945"],
+        "answer": "C",
+        "explanation": "Le Traité de Versailles date de 1919."
+    },
+    {
+        "question": "En quelle année le Soudan du Sud a-t-il obtenu son indépendance ?",
+        "options": ["A) 2010", "B) 2011", "C) 2012", "D) 2013"],
+        "answer": "B",
+        "explanation": "Le Soudan du Sud est devenu indépendant en 2011 suite à un référendum."
+    },
+    {
+        "question": "Quelle ville organise les Jeux Olympiques en 2024 ?",
+        "options": ["A) Londres", "B) Los Angeles", "C) Paris", "D) Tokyo"],
+        "answer": "C",
+        "explanation": "Les JO de 2024 se déroulent à Paris."
+    },
+    {
+        "question": "Quelle est la capitale du Pakistan ?",
+        "options": ["A) Karachi", "B) Lahore", "C) Islamabad", "D) Kaboul"],
+        "answer": "C",
+        "explanation": "La capitale du Pakistan est Islamabad."
+    },
+    {
+        "question": "Quelle est la monnaie de la Russie ?",
+        "options": ["A) Le rouble", "B) L'euro", "C) Le dinar", "D) Le peso"],
+        "answer": "A",
+        "explanation": "La monnaie de la Russie est le rouble."
+    },
+    {
+        "question": "Qui est l'actuelle Secrétaire Générale de la Francophonie ?",
+        "options": ["A) Michaëlle Jean", "B) Louise Mushikiwabo", "C) Aminata Touré", "D) Nkosazana Dlamini-Zuma"],
+        "answer": "B",
+        "explanation": "Louise Mushikiwabo est la SG de la Francophonie."
+    },
+    {
+        "question": "Où s'est déroulée la CAN 2023 ?",
+        "options": ["A) Cameroun", "B) Sénégal", "C) Côte d'Ivoire", "D) Maroc"],
+        "answer": "C",
+        "explanation": "La CAN 2023 a été organisée en Côte d'Ivoire."
+    },
+    {
+        "question": "Quelle célèbre école a été créée par Aristote ?",
+        "options": ["A) L'Académie", "B) Le Lycée", "C) La Sorbonne", "D) Le Portique"],
+        "answer": "B",
+        "explanation": "Aristote a créé Le Lycée."
+    },
+    {
+        "question": "Que l'entomologie étudie-t-elle ?",
+        "options": ["A) Les mots", "B) Les champignons", "C) Les insectes", "D) Les fossiles"],
+        "answer": "C",
+        "explanation": "L'entomologie est l'étude des insectes."
+    },
+    {
+        "question": "Quelle science a pour objet l'étude des fossiles ?",
+        "options": ["A) La paléontologie", "B) L'archéologie", "C) L'entomologie", "D) La géologie"],
+        "answer": "A",
+        "explanation": "La paléontologie étudie les fossiles."
+    },
+    {
+        "question": "Quelle est la proportion approximative de diazote dans l'atmosphère ?",
+        "options": ["A) 21%", "B) 50%", "C) 78%", "D) 90%"],
+        "answer": "C",
+        "explanation": "Le diazote compose environ 78% de l'atmosphère."
+    },
+    {
+        "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
+        "options": ["A) L'impressionnisme", "B) Le surréalisme", "C) Le cubisme", "D) Le fauvisme"],
+        "answer": "C",
+        "explanation": "Pablo Picasso est le cofondateur du cubisme."
+    },
+    {
+        "question": "Qui est l'auteur de l'œuvre 'Les bouts de bois de Dieu' ?",
+        "options": ["A) Ahmadou Kourouma", "B) Léopold Sédar Senghor", "C) Sembène Ousmane", "D) Camara Laye"],
+        "answer": "C",
+        "explanation": "Sembène Ousmane a écrit 'Les bouts de bois de Dieu'."
+    },
+    {
+        "question": "Dans la mythologie grecque, qui a été condamné à pousser éternellement un rocher ?",
+        "options": ["A) Atlas", "B) Prométhée", "C) Sisyphe", "D) Tantale"],
+        "answer": "C",
+        "explanation": "C'est Sisyphe qui fut condamné à pousser un rocher."
+    },
+    {
+        "question": "Qui est la première femme à avoir arbitré un match de football professionnel masculin ?",
+        "options": ["A) Bibiana Steinhaus", "B) Stéphanie Frappart", "C) Salima Mukansanga", "D) Yoshimi Yamashita"],
+        "answer": "B",
+        "explanation": "Stéphanie Frappart est la première femme à arbitrer du foot pro masculin."
+    },
+    {
+        "question": "Quel athlète détient le record du 100m masculin ?",
+        "options": ["A) Tyson Gay", "B) Yohan Blake", "C) Asafa Powell", "D) Usain Bolt"],
+        "answer": "D",
+        "explanation": "Usain Bolt détient le record du 100m masculin."
+    },
+    {
+        "question": "Quelle est la distance exacte du marathon ?",
+        "options": ["A) 41,195 km", "B) 42,195 km", "C) 42,000 km", "D) 43,195 km"],
+        "answer": "B",
+        "explanation": "Le marathon mesure 42,195 km."
+    },
+    {
+        "question": "Que récompense le maillot blanc à pois rouges sur le Tour de France ?",
+        "options": ["A) Le meilleur jeune", "B) Le meilleur sprinteur", "C) Le meilleur grimpeur", "D) Le vainqueur du classement général"],
+        "answer": "C",
+        "explanation": "Il récompense le meilleur grimpeur."
+    },
+    {
+        "question": "Quel pays a été le premier champion du monde de football ?",
+        "options": ["A) L'Italie", "B) Le Brésil", "C) L'Argentine", "D) L'Uruguay"],
+        "answer": "D",
+        "explanation": "L'Uruguay a remporté la première coupe du monde."
+    },
+    {
+        "question": "Quel pays a remporté la Coupe du Monde de football 2022 au Qatar ?",
+        "options": ["A) La France", "B) L'Argentine", "C) Le Brésil", "D) L'Espagne"],
+        "answer": "B",
+        "explanation": "L'Argentine a gagné la Coupe du Monde 2022."
+    },
+    {
+        "question": "De quel pays est originaire le judo ?",
+        "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
+        "answer": "C",
+        "explanation": "Le judo est d'origine japonaise."
+    },
+    {
+        "question": "Sur quelle surface se joue le tournoi de Roland-Garros ?",
+        "options": ["A) Gazon", "B) Dur", "C) Terre battue", "D) Moquette"],
+        "answer": "C",
+        "explanation": "Roland-Garros se joue sur terre battue à Paris."
+    },
+    {
+        "question": "Combien de joueurs par équipe y a-t-il sur un terrain de basketball ?",
+        "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+        "answer": "B",
+        "explanation": "Le basketball se joue à 5 joueurs par équipe."
+    },
+    {
+        "question": "Combien de points vaut un essai au rugby ?",
+        "options": ["A) 3 points", "B) 4 points", "C) 5 points", "D) 7 points"],
+        "answer": "C",
+        "explanation": "Un essai vaut 5 points au rugby."
+    },
+    {
+        "question": "Quel sportif est le plus médaillé de l'histoire des Jeux Olympiques ?",
+        "options": ["A) Usain Bolt", "B) Carl Lewis", "C) Michael Phelps", "D) Mark Spitz"],
+        "answer": "C",
+        "explanation": "Michael Phelps est le sportif le plus médaillé aux JO."
+    },
+    {
+        "question": "Quelle est la capitale politique de la CI ?",
+        "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) Korhogo"],
+        "answer": "C",
+        "explanation": "Yamoussoukro est la capitale politique."
+    },
+    {
+        "question": "Où s'est tenu le référendum d'indépendance de 2011 ?",
+        "options": ["A) Erythrée", "B) Timor oriental", "C) Soudan du Sud", "D) Kosovo"],
+        "answer": "C",
+        "explanation": "Indépendance du Soudan du Sud en 2011 par référendum."
+    },
+    {
+        "question": "Le mouvement 'Printemps arabe' a commencé en...",
+        "options": ["A) 2008", "B) 2010", "C) 2011", "D) 2012"],
+        "answer": "B",
+        "explanation": "Débuté en 2010."
+    },
+    {
+        "question": "Quel évènement sportif majeur se tiendra à Paris en 2024 ?",
+        "options": ["A) La Coupe du monde de Rugby", "B) Les Jeux Olympiques", "C) L'Euro de football", "D) Le championnat du monde d'athlétisme"],
+        "answer": "B",
+        "explanation": "Paris accueille les JO 2024."
     },
 ]
 
@@ -9749,6 +10271,366 @@ THEME_5 = [
         "answer": "C",
         "explanation": "The correct prepositional phrase is 'under the impression'."
     },
+    {
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": ["A) He cans swim.", "B) He can to swim.", "C) He can swim.", "D) He does can swim."],
+        "answer": "C",
+        "explanation": "Modals are invariable and are followed by the base form of the verb without 'to'."
+    },
+    {
+        "question": "How do you form the interrogative of the modal 'can'?",
+        "options": ["A) Do you can?", "B) Can you?", "C) Are you can?", "D) Can you to?"],
+        "answer": "B",
+        "explanation": "Interrogation with modals is formed by inversion, without using the auxiliary 'do'."
+    },
+    {
+        "question": "Choose the correct negative form:",
+        "options": ["A) You don't must go.", "B) You mustn't to go.", "C) You must not go.", "D) You don't must to go."],
+        "answer": "C",
+        "explanation": "Negation with modals is formed directly with 'not' (must not / mustn't), without 'do' and without 'to'."
+    },
+    {
+        "question": "Which form is used to express capability in the future?",
+        "options": ["A) will can", "B) will be able to", "C) shall can", "D) cans"],
+        "answer": "B",
+        "explanation": "Modals like 'can' do not have a future form; 'be able to' is used instead (will be able to)."
+    },
+    {
+        "question": "Despite the heavy fire, they ___ escape from the building.",
+        "options": ["A) could", "B) can", "C) were able to", "D) might"],
+        "answer": "C",
+        "explanation": "For a specific successful achievement in the past (réussite effective), 'was/were able to' must be used instead of 'could'."
+    },
+    {
+        "question": "Which modal is used to ask for formal permission?",
+        "options": ["A) Must I", "B) Might I", "C) May I", "D) Shall I"],
+        "answer": "C",
+        "explanation": "'May' is used for formal permission (e.g., May I?)."
+    },
+    {
+        "question": "Is 'May you swim?' grammatically correct to ask about capability?",
+        "options": ["A) Yes, it is formal.", "B) Yes, in British English.", "C) No, 'can' or 'are you able to' should be used.", "D) No, 'might' should be used."],
+        "answer": "C",
+        "explanation": "'May' expresses permission or possibility, not physical capacity."
+    },
+    {
+        "question": "Which phrase expresses a past reproach?",
+        "options": ["A) You might have told me!", "B) You must tell me!", "C) You can have told me!", "D) You may tell me!"],
+        "answer": "A",
+        "explanation": "'Might have + PP' can express a reproach about a past event."
+    },
+    {
+        "question": "He has a big house and two expensive cars. He ___ be very rich.",
+        "options": ["A) has to", "B) can", "C) ought", "D) must"],
+        "answer": "D",
+        "explanation": "'Must' is used to express a strong subjective deduction (déduction forte)."
+    },
+    {
+        "question": "What is the negative equivalent (negative deduction) of 'He must be at home'?",
+        "options": ["A) He mustn't be at home.", "B) He doesn't have to be at home.", "C) He can't be at home.", "D) He shouldn't be at home."],
+        "answer": "C",
+        "explanation": "The negative deduction of 'must' is 'cannot/can't', not 'mustn't'."
+    },
+    {
+        "question": "I ___ wear a uniform at my new job; it is the company's rule.",
+        "options": ["A) must", "B) have to", "C) may", "D) would"],
+        "answer": "B",
+        "explanation": "'Have to' is used for an external or objective obligation, unlike the subjective 'must'."
+    },
+    {
+        "question": "Which modal is traditionally used in modern English legal documents to express an obligation?",
+        "options": ["A) shall", "B) should", "C) would", "D) might"],
+        "answer": "A",
+        "explanation": "'Shall' is used for legal (juridique) obligations."
+    },
+    {
+        "question": "___ we go out for dinner tonight?",
+        "options": ["A) Will", "B) Shall", "C) Ought", "D) Must"],
+        "answer": "B",
+        "explanation": "'Shall we?' is used to make a suggestion."
+    },
+    {
+        "question": "It's strange that he ___ say such a thing.",
+        "options": ["A) would", "B) shall", "C) should", "D) must"],
+        "answer": "C",
+        "explanation": "'Should' is used to express surprise after certain expressions like 'It's strange that'."
+    },
+    {
+        "question": "Even when I tell him to stop, he ___ keep talking!",
+        "options": ["A) should", "B) will", "C) might", "D) ought to"],
+        "answer": "B",
+        "explanation": "'Will' can be used to express insistence or a persistent present habit."
+    },
+    {
+        "question": "When I was a child, I ___ be very shy.",
+        "options": ["A) would", "B) used to", "C) should", "D) could"],
+        "answer": "B",
+        "explanation": "'Used to' describes a past state. 'Would' cannot replace 'used to' for states (e.g., 'I would be shy' is incorrect)."
+    },
+    {
+        "question": "You ___ to apologize to her; it's your moral duty.",
+        "options": ["A) ought", "B) should", "C) must", "D) have"],
+        "answer": "A",
+        "explanation": "'Ought to' expresses a moral duty or strong advice and is followed by 'to'."
+    },
+    {
+        "question": "___ you use to play football when you were younger?",
+        "options": ["A) Do", "B) Were", "C) Are", "D) Did"],
+        "answer": "D",
+        "explanation": "The interrogative form for a past habit with 'used to' is formed with 'Did' (Did you use to?)."
+    },
+    {
+        "question": "He doesn't ___ to speak in front of the crowd.",
+        "options": ["A) dare", "B) dares", "C) daring", "D) dared"],
+        "answer": "A",
+        "explanation": "When 'dare' is used as an ordinary verb, it uses 'do/does' for negation and takes the infinitive with 'to'."
+    },
+    {
+        "question": "You ___ worry about the exam, it will be easy.",
+        "options": ["A) don't need", "B) needn't to", "C) needn't", "D) needs not"],
+        "answer": "C",
+        "explanation": "When 'need' acts as a modal, it is followed directly by 'not' (needn't) and the base verb without 'to'."
+    },
+    {
+        "question": "You don't ___ worry about it.",
+        "options": ["A) need to", "B) need", "C) needs to", "D) needing"],
+        "answer": "A",
+        "explanation": "When used as an ordinary verb with 'don't', 'need' is followed by 'to' + base verb."
+    },
+    {
+        "question": "I failed the test. I ___ studied more.",
+        "options": ["A) must have", "B) should have", "C) might have", "D) can have"],
+        "answer": "B",
+        "explanation": "'Should have + PP' is used to express a regret about a past action."
+    },
+    {
+        "question": "Her car is not in the driveway. She ___ left already.",
+        "options": ["A) should have", "B) might have", "C) must have", "D) cannot have"],
+        "answer": "C",
+        "explanation": "'Must have + PP' expresses a strong logical deduction about the past."
+    },
+    {
+        "question": "I can't find my keys. I ___ dropped them on the street.",
+        "options": ["A) must to have", "B) might have", "C) should have", "D) can have"],
+        "answer": "B",
+        "explanation": "'Might have + PP' expresses a past possibility."
+    },
+    {
+        "question": "He ___ stolen the money, he was with me the whole time!",
+        "options": ["A) mustn't have", "B) shouldn't have", "C) cannot have", "D) mightn't have"],
+        "answer": "C",
+        "explanation": "'Cannot have + PP' is the negative logical deduction about the past."
+    },
+    {
+        "question": "I will meet you ___ the station.",
+        "options": ["A) in", "B) on", "C) at", "D) by"],
+        "answer": "C",
+        "explanation": "'At' is used for precise points or institutions like the station, school, or work."
+    },
+    {
+        "question": "He is currently working ___ France.",
+        "options": ["A) at", "B) on", "C) in", "D) into"],
+        "answer": "C",
+        "explanation": "'In' is used for countries, cities, and enclosed spaces."
+    },
+    {
+        "question": "The book is ___ the table.",
+        "options": ["A) on", "B) in", "C) at", "D) above"],
+        "answer": "A",
+        "explanation": "'On' is used for surfaces."
+    },
+    {
+        "question": "They opened a new shop ___ Oxford Street.",
+        "options": ["A) at", "B) in", "C) on", "D) by"],
+        "answer": "C",
+        "explanation": "'On' is used for streets."
+    },
+    {
+        "question": "Which of the following is correct?",
+        "options": ["A) at bed", "B) in bed", "C) on bed", "D) to bed"],
+        "answer": "B",
+        "explanation": "'In bed' is the correct exception for this enclosed space concept."
+    },
+    {
+        "question": "I heard the news ___ TV.",
+        "options": ["A) in", "B) at", "C) by", "D) on"],
+        "answer": "D",
+        "explanation": "'On TV' is an idiomatic exception using 'on'."
+    },
+    {
+        "question": "The picture is hanging ___ the sofa.",
+        "options": ["A) above", "B) over", "C) on", "D) under"],
+        "answer": "A",
+        "explanation": "'Above' means a higher position without direct physical contact or movement/covering."
+    },
+    {
+        "question": "The cat ran ___ the table.",
+        "options": ["A) below", "B) under", "C) at", "D) in"],
+        "answer": "B",
+        "explanation": "'Under' is used when there is movement or covering involved."
+    },
+    {
+        "question": "Our flight leaves ___ 6:00 AM.",
+        "options": ["A) in", "B) on", "C) at", "D) by"],
+        "answer": "C",
+        "explanation": "'At' is used for specific times."
+    },
+    {
+        "question": "He likes to read ___ night.",
+        "options": ["A) in", "B) on", "C) at", "D) during"],
+        "answer": "C",
+        "explanation": "'At night' is an exception. (We say 'in the morning', but 'at night')."
+    },
+    {
+        "question": "We usually go to the beach ___ July.",
+        "options": ["A) on", "B) in", "C) at", "D) for"],
+        "answer": "B",
+        "explanation": "'In' is used for months, years, seasons, and centuries."
+    },
+    {
+        "question": "The project will be finished ___ two days.",
+        "options": ["A) at", "B) on", "C) in", "D) by"],
+        "answer": "C",
+        "explanation": "'In' is used to mean 'at the end of a period' (e.g., in two days)."
+    },
+    {
+        "question": "The meeting is scheduled ___ Monday.",
+        "options": ["A) on", "B) in", "C) at", "D) by"],
+        "answer": "A",
+        "explanation": "'On' is used for days of the week and dates."
+    },
+    {
+        "question": "We will have a party ___ 15th August.",
+        "options": ["A) in", "B) at", "C) on", "D) from"],
+        "answer": "C",
+        "explanation": "'On' is used for specific dates."
+    },
+    {
+        "question": "I am leaving for Paris ___ tomorrow.",
+        "options": ["A) on", "B) in", "C) at", "D) (no preposition)"],
+        "answer": "D",
+        "explanation": "No preposition is used before 'tomorrow', 'yesterday', or 'today'."
+    },
+    {
+        "question": "I go ___ school every morning.",
+        "options": ["A) in", "B) at", "C) to", "D) into"],
+        "answer": "C",
+        "explanation": "'To' indicates direction or destination."
+    },
+    {
+        "question": "After work, I usually go ___ home.",
+        "options": ["A) at", "B) to", "C) in", "D) (no preposition)"],
+        "answer": "D",
+        "explanation": "'Home' takes no preposition indicating direction (e.g., 'go home', NOT 'go to home')."
+    },
+    {
+        "question": "He jumped ___ the swimming pool.",
+        "options": ["A) on", "B) into", "C) in", "D) to"],
+        "answer": "B",
+        "explanation": "'Into' shows movement towards the inside of something."
+    },
+    {
+        "question": "The train went ___ the tunnel.",
+        "options": ["A) across", "B) through", "C) along", "D) to"],
+        "answer": "B",
+        "explanation": "'Through' means moving from one side to the other of an enclosed space."
+    },
+    {
+        "question": "We walked ___ the street to reach the bakery on the other side.",
+        "options": ["A) through", "B) across", "C) along", "D) from"],
+        "answer": "B",
+        "explanation": "'Across' means moving from one side to the other."
+    },
+    {
+        "question": "They were walking ___ the river.",
+        "options": ["A) across", "B) along", "C) through", "D) over"],
+        "answer": "B",
+        "explanation": "'Along' means moving parallel to a line (like a river or a road)."
+    },
+    {
+        "question": "This book was written ___ an unknown author.",
+        "options": ["A) from", "B) with", "C) by", "D) of"],
+        "answer": "C",
+        "explanation": "'By' is used to introduce the passive agent."
+    },
+    {
+        "question": "I usually travel to London ___ plane.",
+        "options": ["A) on", "B) by", "C) in", "D) at"],
+        "answer": "B",
+        "explanation": "'By + noun without article' indicates the means of transport (by plane)."
+    },
+    {
+        "question": "He was trembling ___ fear when he saw the ghost.",
+        "options": ["A) of", "B) with", "C) by", "D) from"],
+        "answer": "B",
+        "explanation": "'With' is used for cause in expressions like 'trembling with fear'."
+    },
+    {
+        "question": "I have been living here ___ two years.",
+        "options": ["A) since", "B) for", "C) during", "D) in"],
+        "answer": "B",
+        "explanation": "'For' is used for a duration (e.g., for two years)."
+    },
+    {
+        "question": "I have been working here ___ 2020.",
+        "options": ["A) for", "B) since", "C) from", "D) in"],
+        "answer": "B",
+        "explanation": "'Since' indicates the starting point of an action."
+    },
+    {
+        "question": "He slept ___ the meeting.",
+        "options": ["A) for", "B) during", "C) since", "D) in"],
+        "answer": "B",
+        "explanation": "'During' is used before a period or an event, never followed by a quantified duration."
+    },
+    {
+        "question": "We met some interesting people ___ a bus.",
+        "options": ["A) on", "B) by", "C) in", "D) at"],
+        "answer": "A",
+        "explanation": "'On + article' is used for positioning aboard collective transports (on a bus)."
+    },
+    {
+        "question": "He arrived ___ a taxi.",
+        "options": ["A) by", "B) on", "C) in", "D) at"],
+        "answer": "C",
+        "explanation": "'In + article' is used for individual vehicles like a car or taxi."
+    },
+    {
+        "question": "Most people go to the village ___ foot.",
+        "options": ["A) on", "B) by", "C) with", "D) in"],
+        "answer": "A",
+        "explanation": "'On foot' is the correct exception instead of 'by foot'."
+    },
+    {
+        "question": "He heavily depends ___ his parents.",
+        "options": ["A) of", "B) from", "C) on", "D) to"],
+        "answer": "C",
+        "explanation": "'Depend on' is an idiomatic construction in English."
+    },
+    {
+        "question": "Are you interested ___ modern art?",
+        "options": ["A) on", "B) at", "C) in", "D) by"],
+        "answer": "C",
+        "explanation": "The correct idiomatic preposition is 'interested in'."
+    },
+    {
+        "question": "He is really good ___ mathematics.",
+        "options": ["A) at", "B) in", "C) on", "D) with"],
+        "answer": "A",
+        "explanation": "The idiomatic expression is 'good at'."
+    },
+    {
+        "question": "She is terrified, she is afraid ___ the dark.",
+        "options": ["A) from", "B) at", "C) of", "D) by"],
+        "answer": "C",
+        "explanation": "The correct expression is 'afraid of'."
+    },
+    {
+        "question": "We are going on vacation ___ next week.",
+        "options": ["A) on", "B) in", "C) at", "D) (no preposition)"],
+        "answer": "D",
+        "explanation": "No preposition is used before 'last', 'next', 'this', or 'every'."
+    },
 ]
 
 THEME_6 = [
@@ -12899,6 +13781,330 @@ THEME_7 = [
         "answer": "b. Des terrains faisant uniquement l'objet de clôtures",
         "explanation": "Une simple clôture ne constitue pas une mise en valeur suffisante."
     },
+    {
+        "question": "L'arrêt Dame veuve Trompier-Gravier consacre quel principe général du droit ?",
+        "options": ["A) La non-rétroactivité des actes", "B) Le droit de la défense", "C) L'égalité devant le service public", "D) Le recours pour excès de pouvoir"],
+        "answer": "B",
+        "explanation": "L'arrêt Dame veuve Trompier-Gravier est l'arrêt fondateur du principe général du droit de la défense, obligeant l'administration à entendre toute personne avant de prendre une décision défavorable."
+    },
+    {
+        "question": "Selon l'arrêt Société du journal l'Aurore, quel principe général du droit est dégagé ?",
+        "options": ["A) Le droit de la défense", "B) L'égalité de traitement dans le SP", "C) La non-rétroactivité des actes administratifs", "D) L'accès au service public"],
+        "answer": "C",
+        "explanation": "L'arrêt Société du journal l'Aurore consacre le principe de non-rétroactivité des actes administratifs : un acte administratif ne peut en principe produire d'effets avant sa signature."
+    },
+    {
+        "question": "L'arrêt Dame Lamotte consacre quel principe ?",
+        "options": ["A) L'obligation de motiver les actes", "B) L'existence d'un droit au recours pour excès de pouvoir", "C) Le droit de la défense", "D) La responsabilité sans faute de l'État"],
+        "answer": "B",
+        "explanation": "L'arrêt Dame Lamotte consacre comme principe général du droit le recours pour excès de pouvoir, qui est ouvert même sans texte contre tout acte administratif."
+    },
+    {
+        "question": "Selon l'arrêt Barel, quel principe général du droit est consacré ?",
+        "options": ["A) L'égalité de traitement dans le service public", "B) L'égalité d'accès à la fonction publique", "C) Le droit de la défense", "D) La liberté du commerce et de l'industrie"],
+        "answer": "B",
+        "explanation": "L'arrêt Barel consacre le principe général d'égalité d'accès à la fonction publique, interdisant toute discrimination dans le recrutement des fonctionnaires."
+    },
+    {
+        "question": "L'arrêt Rubin de Servens concerne quel domaine ?",
+        "options": ["A) La responsabilité sans faute de l'État", "B) Les actes de gouvernement échappant au REP", "C) La délégation de compétence", "D) Les circonstances exceptionnelles"],
+        "answer": "B",
+        "explanation": "L'arrêt Rubin de Servens traite des actes de gouvernement, qui sont des actes politiques par nature échappant au contrôle du juge administratif, notamment les actes pris dans les relations entre les pouvoirs constitutionnels."
+    },
+    {
+        "question": "Dans le cadre du principe de légalité, l'arrêt Société EKY établit que :",
+        "options": ["A) Les traités internationaux priment sur la Constitution", "B) Le préambule de la Constitution est source de légalité", "C) Les actes de gouvernement sont inconstitutionnels", "D) Les PGD priment sur les lois"],
+        "answer": "B",
+        "explanation": "L'arrêt Société EKY affirme que le préambule de la Constitution constitue une source de légalité administrative, lui donnant ainsi une valeur juridique contraignante."
+    },
+    {
+        "question": "Lequel de ces arrêts concerne la théorie des circonstances exceptionnelles ?",
+        "options": ["A) Arrêt Barel", "B) Arrêt Heyriès", "C) Arrêt Pariset", "D) Arrêt Pelletier"],
+        "answer": "B",
+        "explanation": "L'arrêt Heyriès (1918) est l'un des arrêts fondateurs de la théorie des circonstances exceptionnelles, permettant à l'administration de s'affranchir temporairement de certaines règles en période de crise."
+    },
+    {
+        "question": "Selon la théorie des circonstances exceptionnelles, laquelle de ces conditions N'EST PAS requise ?",
+        "options": ["A) La situation doit être d'une gravité exceptionnelle", "B) La mesure doit être proportionnée et limitée dans le temps", "C) L'autorité compétente doit obtenir l'accord du Parlement", "D) Les moyens normaux doivent être insuffisants"],
+        "answer": "C",
+        "explanation": "La théorie des circonstances exceptionnelles ne requiert pas l'accord du Parlement. Elle permet à l'administration d'agir au-delà de ses compétences habituelles face à une situation de crise grave, sans texte d'habilitation préalable."
+    },
+    {
+        "question": "Lequel des arrêts suivants n'illustre PAS la théorie des circonstances exceptionnelles ?",
+        "options": ["A) Arrêt Laugier", "B) Arrêt Dame de la murette", "C) Arrêt Adriamisera", "D) Arrêt Casanova"],
+        "answer": "D",
+        "explanation": "L'arrêt Casanova concerne les conditions de recevabilité du REP (l'intérêt pour agir), et non la théorie des circonstances exceptionnelles. Les arrêts Laugier, Dame de la murette et Adriamisera sont tous des arrêts relatifs aux circonstances exceptionnelles."
+    },
+    {
+        "question": "Quel est le délai de recours contentieux contre un acte administratif nul (nullité relative) ?",
+        "options": ["A) 1 mois", "B) 2 mois", "C) 6 mois", "D) Aucun délai"],
+        "answer": "B",
+        "explanation": "Selon la jurisprudence (notamment l'arrêt Dame Cachet), le délai de recours en annulation d'un acte administratif irrégulier est de 2 mois à compter de sa publication ou notification."
+    },
+    {
+        "question": "L'acte inexistant se distingue de l'acte nul notamment parce que :",
+        "options": ["A) L'acte inexistant peut faire l'objet d'un retrait dans les 2 mois", "B) L'acte inexistant n'est soumis à aucun délai de recours", "C) L'acte inexistant produit des effets de droit jusqu'à son annulation", "D) L'acte inexistant ne peut être contesté que par les parties"],
+        "answer": "B",
+        "explanation": "L'acte inexistant est tellement entaché d'illégalité (ex: une usurpation de fonctions) qu'il est réputé n'avoir jamais existé. Il peut donc être contesté à tout moment, sans délai de recours."
+    },
+    {
+        "question": "L'arrêt Rosan Girard illustre quel concept de droit administratif ?",
+        "options": ["A) La faute personnelle", "B) L'acte inexistant", "C) La théorie du fonctionnaire de fait", "D) L'imprévision"],
+        "answer": "B",
+        "explanation": "L'arrêt Rosan Girard, comme les arrêts Laffite et Megevand, illustre la notion d'acte inexistant : un acte si gravement irrégulier qu'il est dépourvu de toute existence juridique."
+    },
+    {
+        "question": "Le critère organique de l'acte administratif unilatéral implique que :",
+        "options": ["A) Seules les autorités administratives peuvent émettre des AAU", "B) Toute autorité administrative émet des actes présumés administratifs, avec exceptions", "C) Les actes des personnes privées ne peuvent jamais être administratifs", "D) Seuls les actes du Président de la République sont des AAU"],
+        "answer": "B",
+        "explanation": "Le critère organique établit une présomption d'administrativité pour les actes des autorités administratives. Mais il existe des exceptions : certains actes d'autorités administratives ne sont pas administratifs (ex: actes de gestion privée), et inversement, certains actes de personnes privées gérant un SP peuvent être administratifs."
+    },
+    {
+        "question": "Selon l'arrêt CE Monpeurt, une personne privée peut émettre des actes administratifs si elle :",
+        "options": ["A) Est mandatée par une autorité publique", "B) Gère un service public industriel et commercial (SPIC)", "C) Gère un service public administratif (SPA)", "D) A reçu une délégation de signature"],
+        "answer": "C",
+        "explanation": "L'arrêt CE Monpeurt établit que les personnes privées gérant un service public administratif (SPA) peuvent être habilitées à prendre des actes administratifs unilatéraux."
+    },
+    {
+        "question": "Parmi les actes suivants, lequel est considéré comme un acte NON-décisoire (non-AAU) ?",
+        "options": ["A) Un arrêté de nomination", "B) Une circulaire interprétative", "C) Un décret d'application d'une loi", "D) Une mise en demeure"],
+        "answer": "B",
+        "explanation": "Selon l'arrêt CE, Institution Notre-Dame du Kreisker, les circulaires purement interprétatives ne créent pas de droits et n'ont pas de caractère décisoire : elles ne font pas grief et sont donc insusceptibles de REP."
+    },
+    {
+        "question": "L'arrêt CSCA, Nado Koutouan illustre le cas des :",
+        "options": ["A) Mesures d'ordre intérieur", "B) Actes confirmatifs", "C) Actes préparatoires", "D) Circulaires réglementaires"],
+        "answer": "C",
+        "explanation": "L'arrêt CSCA Nado Koutouan illustre les actes préparatoires, qui sont des étapes procédurales préalables à un acte définitif. Ils ne font pas grief en eux-mêmes et ne sont donc pas susceptibles de REP."
+    },
+    {
+        "question": "La théorie du fonctionnaire de fait, illustrée par les arrêts Ducastel et Marrion, permet de :",
+        "options": ["A) Poursuivre un agent pour faute personnelle", "B) Valider les actes pris par un agent dont le titre est irrégulier", "C) Déléguer une signature à un subordonné", "D) Permettre à l'administration de se retirer d'un contrat"],
+        "answer": "B",
+        "explanation": "La théorie du fonctionnaire de fait permet de maintenir la validité des actes pris par un agent dont la désignation ou le titre est entaché d'irrégularité, afin de protéger la continuité du service public et la sécurité juridique des administrés."
+    },
+    {
+        "question": "L'arrêt Dame Cachet régit principalement :",
+        "options": ["A) Le retrait des actes irréguliers créateurs de droits (délai 2 mois)", "B) L'abrogation des règlements illégaux", "C) La responsabilité sans faute de l'État", "D) Les conditions de recevabilité du REP"],
+        "answer": "A",
+        "explanation": "L'arrêt Dame Cachet pose la règle du parallélisme des délais pour le retrait des actes irréguliers créateurs de droits : l'administration ne peut les retirer que dans le délai du recours contentieux (2 mois)."
+    },
+    {
+        "question": "En droit des contrats administratifs, le critère matériel alternatif est :",
+        "options": ["A) La présence d'au moins deux personnes publiques au contrat", "B) La clause exorbitante du droit commun OU la participation à l'exécution d'un SP", "C) L'objet financier du contrat supérieur à un seuil fixé par décret", "D) L'approbation préalable du contrôleur financier"],
+        "answer": "B",
+        "explanation": "Pour qu'un contrat soit qualifié d'administratif par le juge, il faut un critère organique (au moins une personne publique) ET un critère matériel alternatif : soit une clause exorbitante du droit commun, soit que le contrat porte sur l'exécution même d'un service public."
+    },
+    {
+        "question": "Le 'fait du prince' en droit des contrats administratifs désigne :",
+        "options": ["A) La décision du chef de l'État de mettre fin à un contrat", "B) Une mesure de l'autorité contractante qui modifie les conditions du contrat hors du champ contractuel", "C) La force majeure imputable à une décision d'État étranger", "D) L'exercice par l'administration de son pouvoir de modification unilatérale"],
+        "answer": "B",
+        "explanation": "Le fait du prince désigne une mesure prise par l'autorité publique contractante (mais en dehors de sa qualité de cocontractant) qui aggrave les charges du cocontractant. Il donne droit à une indemnisation intégrale."
+    },
+    {
+        "question": "La théorie de l'imprévision en droit administratif se distingue de la force majeure car :",
+        "options": ["A) L'imprévision libère le cocontractant de ses obligations", "B) L'imprévision est un bouleversement temporaire, extérieur et imprévisible qui n'exonère pas mais donne droit à une indemnisation partielle", "C) L'imprévision ne donne droit à aucune indemnisation", "D) L'imprévision résulte nécessairement d'une décision de l'administration"],
+        "answer": "B",
+        "explanation": "À la différence de la force majeure qui libère les parties, la théorie de l'imprévision en droit administratif permet de poursuivre le contrat en accordant une indemnité partielle (non intégrale) au cocontractant confronté à un aléa économique extérieur, imprévisible et temporaire."
+    },
+    {
+        "question": "L'arrêt TC Pelletier est le fondement de :",
+        "options": ["A) La responsabilité sans faute pour risque", "B) La distinction entre faute personnelle et faute de service", "C) La théorie de l'imprévision", "D) Le principe d'égalité devant les charges publiques"],
+        "answer": "B",
+        "explanation": "L'arrêt TC Pelletier (1873) est l'arrêt fondateur de la distinction entre faute personnelle (engageant la responsabilité personnelle de l'agent) et faute de service (engageant la responsabilité de l'administration)."
+    },
+    {
+        "question": "L'arrêt CE Anguet consacre :",
+        "options": ["A) L'exonération de l'État en cas de faute de la victime", "B) Le cumul de fautes (personnelle et de service) engageant la double responsabilité", "C) La responsabilité exclusive de l'agent fautif", "D) Le principe de la faute lourde en matière de police judiciaire"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Anguet consacre le cumul des fautes : lorsqu'un même dommage résulte à la fois d'une faute de service et d'une faute personnelle de l'agent, la victime peut choisir de mettre en jeu la responsabilité de l'administration ou celle de l'agent."
+    },
+    {
+        "question": "En matière de responsabilité sans faute pour risque, l'arrêt CE Regnault-Desroziers concerne :",
+        "options": ["A) Les dommages causés lors d'activités sportives", "B) Les dommages résultant de l'utilisation d'armes et engins dangereux", "C) Les dommages causés par des détenus en liberté conditionnelle", "D) Les dommages résultant de travaux publics"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Regnault-Desroziers fonde la responsabilité sans faute de l'État pour les dommages causés par des choses dangereuses (ici, des grenades et obus), établissant ainsi le régime de responsabilité pour risque dû aux armes et engins dangereux."
+    },
+    {
+        "question": "L'arrêt CE La Fleurette consacre la responsabilité de l'État du fait :",
+        "options": ["A) Des traités internationaux", "B) Des lois (rupture d'égalité devant les charges publiques)", "C) Des actes réglementaires", "D) Des décisions de justice"],
+        "answer": "B",
+        "explanation": "L'arrêt CE La Fleurette (1938) engage la responsabilité sans faute de l'État du fait des lois qui, sans en avoir l'intention, causent un préjudice spécial et anormal à certains administrés, rompant l'égalité devant les charges publiques."
+    },
+    {
+        "question": "L'arrêt CE Couitéas engage la responsabilité de l'État sur quel fondement ?",
+        "options": ["A) Faute de service grave", "B) Rupture d'égalité devant les charges publiques (refus d'exécuter une décision de justice)", "C) Risque créé par une chose dangereuse", "D) Faute personnelle d'un agent"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Couitéas engage la responsabilité sans faute de l'État pour refus d'exécuter une décision de justice afin de préserver l'ordre public. Ce refus, justifié, crée néanmoins une rupture d'égalité devant les charges publiques ouvrant droit à indemnisation."
+    },
+    {
+        "question": "En matière de responsabilité administrative, la cause d'exonération de 'faute de la victime' est illustrée par :",
+        "options": ["A) Arrêt CE Regnault-Desroziers", "B) Arrêt CE Amoudruz", "C) Arrêt CE Thouzellier", "D) Arrêt CE Perruche"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Amoudruz traite de la faute de la victime comme cause d'exonération totale ou partielle de la responsabilité de l'administration."
+    },
+    {
+        "question": "Les opérations de police à chaud (interventions immédiates) requièrent, selon la jurisprudence, une faute de quelle nature pour engager la responsabilité de l'État ?",
+        "options": ["A) Faute simple", "B) Faute personnelle détachable", "C) Faute lourde", "D) Aucune faute (responsabilité sans faute)"],
+        "answer": "C",
+        "explanation": "Selon l'arrêt CE Tomaso Grecco et la jurisprudence classique, les opérations de police à chaud (interventions immédiates sur le terrain) engagent la responsabilité de l'État uniquement en cas de faute lourde, compte tenu des difficultés inhérentes à ces interventions."
+    },
+    {
+        "question": "Le recours pour excès de pouvoir (REP) est qualifié de recours :",
+        "options": ["A) De plein contentieux, suspensif et réservé aux personnes lésées", "B) D'utilité publique, d'ordre public et non suspensif", "C) Gracieux, obligatoire et préalable à tout recours contentieux", "D) Exceptionnel, suspensif et à caractère personnel"],
+        "answer": "B",
+        "explanation": "Le REP est un recours d'utilité publique (ouvert à tout intéressé), d'ordre public (le juge peut le soulever d'office) et non suspensif (l'acte continue de produire ses effets pendant le recours)."
+    },
+    {
+        "question": "Dans le REP, la condition d'intérêt pour agir a été précisée par l'arrêt CE Casanova qui étend le droit de recours :",
+        "options": ["A) Aux seuls contribuables nationaux", "B) Aux contribuables locaux pour contester les actes de leur collectivité", "C) Aux seuls agents de l'administration", "D) Aux associations déclarées seulement"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Casanova reconnaît la qualité pour agir des contribuables locaux pour contester la légalité d'actes pris par les collectivités territoriales dès lors qu'ils ont un intérêt à le faire."
+    },
+    {
+        "question": "L'arrêt CE Pariset illustre quel cas d'ouverture du REP ?",
+        "options": ["A) L'incompétence ratione materiae", "B) Le vice de procédure substantielle", "C) Le détournement de pouvoir", "D) L'erreur manifeste d'appréciation"],
+        "answer": "C",
+        "explanation": "L'arrêt CE Pariset est l'arrêt de référence sur le détournement de pouvoir : l'autorité a agi dans les limites de sa compétence, mais dans un but autre que celui pour lequel le pouvoir lui a été conféré."
+    },
+    {
+        "question": "En matière d'organisation administrative, le contrôle de tutelle se distingue du contrôle hiérarchique car :",
+        "options": ["A) La tutelle est plus large que le contrôle hiérarchique", "B) Il ne peut exister de tutelle sans texte, contrairement au contrôle hiérarchique qui est de droit", "C) La tutelle permet de réformer les actes, ce que le contrôle hiérarchique ne permet pas", "D) La tutelle s'exerce sur les agents, et le contrôle hiérarchique sur les actes"],
+        "answer": "B",
+        "explanation": "Selon l'arrêt Commune de Néris-les-Bains, il ne peut exister de tutelle sans texte : la tutelle est d'attribution. En revanche, le contrôle hiérarchique est de droit ; il naît automatiquement de la relation entre supérieur et subordonné."
+    },
+    {
+        "question": "Lequel de ces arrêts concerne le contrôle hiérarchique sur les actes administratifs ?",
+        "options": ["A) Arrêt Queralt", "B) Arrêt Casanova", "C) Arrêt Heyriès", "D) Arrêt Pelletier"],
+        "answer": "A",
+        "explanation": "L'arrêt Queralt est une référence en matière de contrôle hiérarchique, précisant l'étendue du pouvoir du supérieur hiérarchique sur les actes de ses subordonnés (pouvoir d'instruction, de réformation et d'annulation)."
+    },
+    {
+        "question": "La police administrative se distingue de la police judiciaire en ce que :",
+        "options": ["A) La police administrative réprime les infractions déjà commises", "B) La police administrative est une activité préventive qui vise à maintenir l'ordre public", "C) La police judiciaire relève de l'administration et la police administrative du ministère de la justice", "D) La police administrative n'est pas soumise au contrôle du juge"],
+        "answer": "B",
+        "explanation": "Selon l'arrêt CE Consorts Baud, la police administrative est une activité préventive visant à maintenir l'ordre public, tandis que la police judiciaire est répressive et vise à constater les infractions et en poursuivre les auteurs."
+    },
+    {
+        "question": "Le triptyque classique de l'ordre public en police administrative comprend :",
+        "options": ["A) Sécurité, moralité et dignité humaine", "B) Sécurité, tranquillité et salubrité publiques", "C) Liberté, égalité et fraternité", "D) Ordre, neutralité et continuité"],
+        "answer": "B",
+        "explanation": "Le triptyque classique de l'ordre public, objectif de la police administrative, comprend la sécurité, la tranquillité et la salubrité publiques. La jurisprudence a ajouté ultérieurement d'autres composantes comme la moralité, l'esthétique et la dignité humaine."
+    },
+    {
+        "question": "L'arrêt CE Commune de Morsang-sur-Orge (1995) a élargi l'ordre public à :",
+        "options": ["A) La moralité publique", "B) L'esthétique urbaine", "C) La dignité humaine", "D) La protection de l'environnement"],
+        "answer": "C",
+        "explanation": "L'arrêt CE Commune de Morsang-sur-Orge, dit 'arrêt du lancer de nain', a consacré la dignité humaine comme composante de l'ordre public, permettant d'interdire des spectacles portant atteinte à la dignité de la personne humaine, même avec le consentement de la victime."
+    },
+    {
+        "question": "L'arrêt CE Lutetia (1959) a reconnu la moralité publique comme composante de l'ordre public afin de :",
+        "options": ["A) Permettre au maire d'interdire une réunion politique", "B) Permettre au maire d'interdire des films contraires aux bonnes mœurs", "C) Interdire la vente de boissons alcoolisées", "D) Réglementer les horaires des établissements de nuit"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Lutetia reconnaît la moralité publique comme composante de l'ordre public et valide le pouvoir du maire d'interdire la projection d'un film jugé contraire aux bonnes mœurs dans sa commune, même si ce film a reçu le visa ministériel."
+    },
+    {
+        "question": "Selon l'arrêt CE Benjamin, l'exercice du pouvoir de police administrative doit :",
+        "options": ["A) Toujours favoriser l'ordre sur la liberté", "B) Être proportionné au risque de trouble à l'ordre public et respecter les libertés publiques", "C) Être préalablement soumis à l'approbation du préfet", "D) Se fonder exclusivement sur des textes législatifs"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Benjamin pose le principe de proportionnalité en matière de police administrative : les mesures de police doivent être strictement nécessaires et proportionnées au trouble à l'ordre public. L'autorité de police ne peut pas interdire une réunion si des mesures moins restrictives suffisent à maintenir l'ordre."
+    },
+    {
+        "question": "Qui est l'autorité de police administrative générale au niveau national ayant fondé sa compétence sur l'arrêt CE Labonne ?",
+        "options": ["A) Le Premier Ministre", "B) Le Président de la République", "C) Le Ministre de l'Intérieur", "D) Le Préfet"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Labonne reconnaît au Président de la République un pouvoir de police administrative générale au niveau national, même sans texte d'habilitation expresse, sur la base de ses pouvoirs propres d'organisation des services publics."
+    },
+    {
+        "question": "PIÈGE - L'arrêt CE Société des concerts du conservatoire consacre quel principe ?",
+        "options": ["A) L'égalité d'accès à la fonction publique", "B) L'égalité de traitement des usagers au sein du service public", "C) Le droit de la défense dans le service public", "D) La liberté de conscience des agents publics"],
+        "answer": "B",
+        "explanation": "PIÈGE : L'arrêt Société des concerts du conservatoire (à ne pas confondre avec l'arrêt Barel sur l'égalité d'accès à la FP) consacre l'égalité de traitement entre usagers au sein d'un même service public."
+    },
+    {
+        "question": "PIÈGE - L'abrogation d'un acte administratif réglementaire illégal est :",
+        "options": ["A) Facultative pour l'administration", "B) Obligatoire à tout moment sur demande d'un administré", "C) Impossible une fois que l'acte est entré en vigueur", "D) Soumise au délai de 2 mois"],
+        "answer": "B",
+        "explanation": "Selon l'arrêt CE Syndicat national de Meunerie à Seigle, l'administration a l'obligation d'abroger un règlement illégal dès lors qu'un administré en fait la demande. C'est le corollaire du principe de légalité."
+    },
+    {
+        "question": "PIÈGE - En matière de délégation de compétence, la délégation de signature diffère de la délégation de pouvoir car :",
+        "options": ["A) La délégation de signature transfère définitivement la compétence", "B) La délégation de signature n'opère pas de transfert de compétence; le délégant reste responsable", "C) La délégation de pouvoir est toujours révocable", "D) La délégation de signature doit être approuvée par le juge administratif"],
+        "answer": "B",
+        "explanation": "Dans la délégation de signature, l'autorité délégante reste compétente et responsable ; le délégataire signe en son nom. Dans la délégation de pouvoir (ou de compétence), la compétence est réellement transférée au délégataire qui agit en son propre nom."
+    },
+    {
+        "question": "PIÈGE - Un acte administratif 'confirmatif' est-il susceptible de recours pour excès de pouvoir ?",
+        "options": ["A) Oui, car il exprime une nouvelle décision de l'administration", "B) Non, car il ne fait que répéter une décision antérieure sans la modifier, donc sans faire grief", "C) Oui, si la décision initiale était illégale", "D) Non, sauf si le demandeur ignorait la décision initiale"],
+        "answer": "B",
+        "explanation": "Un acte confirmatif répète une décision antérieure sans y ajouter d'éléments nouveaux. Il ne fait donc pas grief par lui-même et n'est pas susceptible de REP. Pour contester, il faut attaquer la décision initiale (dans les délais)."
+    },
+    {
+        "question": "L'arrêt CE Dégni-Segui (CSCA) précise que l'AAU doit avoir un caractère :",
+        "options": ["A) Gracieux et motivé", "B) Exécutoire et décisoire", "C) Réglementaire et normatif", "D) Public et opposable"],
+        "answer": "B",
+        "explanation": "L'arrêt CSCA Dégni-Segui précise que pour qu'un acte soit qualifié d'acte administratif unilatéral, il doit avoir un caractère exécutoire (applicable de droit sans recours au juge) et décisoire (modifier l'ordonnancement juridique)."
+    },
+    {
+        "question": "En droit administratif ivoirien, quel organe est compétent en matière de contentieux administratif ?",
+        "options": ["A) La Cour d'Appel", "B) La Cour de Cassation", "C) Le Conseil d'État", "D) Le Tribunal de Première Instance"],
+        "answer": "C",
+        "explanation": "En Côte d'Ivoire, depuis la réforme de 2018, le Conseil d'État est la juridiction administrative suprême compétente pour connaître des contentieux administratifs. L'ordre juridictionnel ivoirien est dualiste (ordre judiciaire et ordre administratif)."
+    },
+    {
+        "question": "L'ARCOP en Côte d'Ivoire est l'autorité de régulation compétente pour :",
+        "options": ["A) La régulation de la presse et de la communication", "B) La commande publique (marchés publics)", "C) Le contrôle des concessions et délégations de service public", "D) La régulation du secteur bancaire"],
+        "answer": "B",
+        "explanation": "L'Autorité de Régulation de la Commande Publique (ARCOP) est l'organe ivoirien chargé de réguler et de contrôler la passation des marchés publics et des délégations de service public, garantissant la transparence et l'efficacité de la commande publique."
+    },
+    {
+        "question": "En Côte d'Ivoire, la décentralisation territoriale comprend quelles collectivités territoriales ?",
+        "options": ["A) Seulement les communes et les régions", "B) Les communes, les régions et les districts autonomes", "C) Les communes, les départements et les régions", "D) Les villages, les communes et les préfectures"],
+        "answer": "B",
+        "explanation": "La décentralisation en Côte d'Ivoire reconnaît trois catégories de collectivités territoriales : les communes, les régions et les districts autonomes (notamment le District Autonome d'Abidjan et le District Autonome de Yamoussoukro)."
+    },
+    {
+        "question": "PIÈGE - Quelle est la différence entre déconcentration et décentralisation ?",
+        "options": ["A) La déconcentration confère la personnalité juridique aux entités locales, la décentralisation non", "B) La décentralisation transfère des compétences à des collectivités ayant la personnalité morale, la déconcentration transfère des pouvoirs à des agents de l'État", "C) La déconcentration s'applique au niveau national et la décentralisation au niveau international", "D) Il n'y a pas de différence fondamentale entre les deux"],
+        "answer": "B",
+        "explanation": "La déconcentration consiste à transférer des pouvoirs à des agents de l'État (préfets, sous-préfets) qui restent soumis au pouvoir hiérarchique central. La décentralisation transfère des compétences à des collectivités distinctes de l'État, dotées de la personnalité morale et d'une autonomie de gestion."
+    },
+    {
+        "question": "PIÈGE - La compétence ratione loci d'une autorité administrative concerne :",
+        "options": ["A) La durée pendant laquelle elle peut exercer ses fonctions", "B) La matière (le domaine) dans laquelle elle peut agir", "C) Le territoire géographique sur lequel elle peut exercer ses attributions", "D) La hiérarchie des normes qu'elle doit respecter"],
+        "answer": "C",
+        "explanation": "La compétence ratione loci est la compétence territoriale : elle définit le territoire géographique dans les limites duquel une autorité administrative peut exercer légalement ses attributions. La compétence ratione materiae est la compétence par matière et la compétence ratione temporis est la compétence temporelle."
+    },
+    {
+        "question": "Quel est le fondement de la compétence du Conseil d'État ivoirien en matière de contrôle des actes des collectivités territoriales ?",
+        "options": ["A) La Constitution de 1960", "B) La loi organique sur le Conseil d'État issue des réformes de la IIIe République", "C) Un traité CEDEAO sur la gouvernance locale", "D) Le Code général des collectivités territoriales de 2003"],
+        "answer": "B",
+        "explanation": "Le Conseil d'État ivoirien, réorganisé dans le cadre des réformes institutionnelles de la IIIe République (Constitution 2016 et textes organiques suivants), exerce le contrôle juridictionnel sur les actes des collectivités territoriales décentralisées."
+    },
+    {
+        "question": "PIÈGE AVANCÉ - Lorsqu'un agent public commet une faute personnelle 'non dépourvue de tout lien avec le service', la victime peut-elle agir contre l'administration ?",
+        "options": ["A) Non, seul l'agent est responsable de sa faute personnelle", "B) Oui, grâce à la théorie du cumul de responsabilités (arrêt Epoux Lemonnier)", "C) Oui, mais uniquement si la faute a été commise dans les locaux administratifs", "D) Non, car la responsabilité personnelle exclut totalement la responsabilité du service"],
+        "answer": "B",
+        "explanation": "L'arrêt CE Epoux Lemonnier admet que lorsqu'une faute personnelle d'un agent n'est pas dépourvue de tout lien avec le service, la victime peut engager la responsabilité de l'administration (cumul de responsabilités), lui offrant ainsi une meilleure garantie d'indemnisation."
+    },
+    {
+        "question": "PIÈGE AVANCÉ - La police administrative spéciale diffère de la police administrative générale en ce que :",
+        "options": ["A) La police spéciale a un champ d'application plus large", "B) La police spéciale n'est exercée que par le Préfet", "C) La police spéciale est attribuée par des textes particuliers à des autorités précises pour des domaines déterminés", "D) La police spéciale peut s'exercer sans base légale"],
+        "answer": "C",
+        "explanation": "La police administrative spéciale est définie et attribuée par des textes particuliers à des autorités précises (ministres, maires, présidents d'université) pour des domaines réglementés spécifiques (cinéma, santé, urbanisme...). Elle coexiste avec la police générale mais ses règles propres priment dans son domaine."
+    },
+    {
+        "question": "PIÈGE AVANCÉ - En cas de conflit entre police générale et police spéciale, quelle est la règle ?",
+        "options": ["A) La police générale prime toujours sur la police spéciale", "B) La police spéciale prime sur la police générale dans son domaine, sauf circonstances exceptionnelles autorisant le recours à la police générale", "C) Le préfet décide au cas par cas lequel des deux régimes s'applique", "D) Les deux régimes s'appliquent simultanément et cumulativement"],
+        "answer": "B",
+        "explanation": "Lorsqu'une police spéciale est instituée dans un domaine, ses règles priment sur celles de la police générale. Cependant, en cas de circonstances exceptionnelles (trouble grave à l'ordre public), l'autorité de police générale peut intervenir en complément, comme l'illustre la jurisprudence sur le cinéma (arrêts Lutétia et Société Les Films Lutetia)."
+    },
+    {
+        "question": "PIÈGE AVANCÉ - Une circulaire réglementaire (impérative) diffère d'une circulaire interprétative car :",
+        "options": ["A) La circulaire réglementaire ne peut être attaquée par REP", "B) La circulaire réglementaire édicte des normes nouvelles et peut être attaquée par REP, contrairement à la circulaire interprétative", "C) La circulaire interprétative a une valeur supérieure à la circulaire réglementaire", "D) Les deux types de circulaires ont exactement la même valeur juridique"],
+        "answer": "B",
+        "explanation": "Depuis l'arrêt CE Institution Notre-Dame du Kreisker, la jurisprudence distingue les circulaires interprétatives (qui se bornent à interpréter un texte sans créer de règle nouvelle, non susceptibles de REP) des circulaires réglementaires (qui créent des règles nouvelles, susceptibles de REP)."
+    },
 ]
 
 THEME_CATALOG = [
@@ -12913,31 +14119,24 @@ THEME_CATALOG = [
 
 def get_quiz_questions(num_questions=20, min_themes=7, selected_themes=None):
     themes = THEME_CATALOG
-
     if selected_themes:
         selected = {str(theme).strip() for theme in selected_themes if str(theme).strip()}
         themes = [item for item in THEME_CATALOG if item[0] in selected]
         if not themes:
             raise ValueError("Aucun thème valide sélectionné.")
-
     if not themes:
         raise ValueError("Aucun thème disponible.")
-    
     num_themes = len(themes)
     questions_per_theme = num_questions // num_themes
     remaining = num_questions % num_themes
-    
     selected_questions = []
-    
     for i, (theme_name, theme_questions) in enumerate(themes):
         n = questions_per_theme + (1 if i < remaining else 0)
         n = min(n, len(theme_questions))
-        
         theme_sample = random.sample(theme_questions, n)
         for q in theme_sample:
             q_copy = q.copy()
             q_copy["theme"] = theme_name
             selected_questions.append(q_copy)
-            
     random.shuffle(selected_questions)
     return selected_questions[:num_questions]
