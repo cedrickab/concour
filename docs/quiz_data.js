@@ -9,7 +9,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Fugace » signifie éphémère, qui dure peu de temps.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot est l'antonyme de « prospère » ?",
@@ -21,7 +21,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Misérable » est le contraire de « prospère » (qui réussit bien).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Complétez : « Il est arrivé …… faute ! »",
@@ -33,7 +33,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Sans » (sans faute) est la préposition correcte dans ce contexte.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « armistice » ?",
@@ -44,7 +44,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Armistice » est un nom masculin : un armistice.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle expression est correcte ?",
@@ -55,7 +55,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'expression correcte est « Je vous saurai gré » (futur simple).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot n'appartient pas à la même famille ?",
@@ -67,7 +67,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Terreur » vient du latin « terror » tandis que les autres viennent de « terra » (terre).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Trouvez le mot mal orthographié :",
@@ -79,7 +79,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'orthographe correcte est « apothéose » avec un accent aigu.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot est l'antonyme de « prolixe » ?",
@@ -91,7 +91,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Prolixe » signifie bavard, son antonyme est « concis » (bref).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel pluriel est correct ?",
@@ -102,7 +102,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Les noms composés avec « cache » restent invariables : des cache-nez.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle phrase ne contient pas de pléonasme ?",
@@ -114,7 +114,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "« Examiner attentivement » n'est pas redondant, contrairement aux autres.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Trouvez l'orthographe correcte :",
@@ -126,7 +126,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le mot s'écrit « dilemme » avec deux m.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel verbe se construit avec « de » ?",
@@ -138,7 +138,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "On dit « remédier à » et non « remédier de ». « Pallier » se construit sans préposition.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la nature du mot « Épuisé » dans : « Épuisé, l'athlète abandonne » ?",
@@ -149,7 +149,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Épuisé » est un participe passé mis en apposition (détaché par une virgule).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la définition de « l'emphase » ?",
@@ -161,7 +161,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'emphase est un ton, un style emphatique, exagéré et pompeux.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne une personne qui mange de tout ?",
@@ -173,7 +173,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Omnivore » désigne un être qui se nourrit de tout (végétaux et animaux).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le sigle « ONU » ?",
@@ -185,7 +185,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "ONU signifie Organisation des Nations Unies.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est l'antonyme de « appareiller » ?",
@@ -197,7 +197,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Appareiller » signifie partir (pour un navire), son antonyme est « accoster » (arriver).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Une personne « dégingandée » est une personne :",
@@ -209,7 +209,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Dégingandée » qualifie une personne ayant des mouvements maladroits et une démarche disloquée.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel dessert tire son nom d'une femme célèbre ?",
@@ -221,7 +221,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Pavlova est nommée d'après la ballerine russe Anna Pavlova.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « haltère » ?",
@@ -232,7 +232,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Haltère » est masculin : un haltère.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot n'appartient pas à la même famille que les autres ?",
@@ -244,7 +244,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Affable » vient du latin « affabilis » (courtois), tandis que les autres viennent de « fabula » (récit).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle relation n'existe pas (nature-adjectif) ?",
@@ -255,7 +255,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Humilité » et « modestie » sont deux noms, pas une relation nature-adjectif.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est l'antonyme du mot « truculent » ?",
@@ -267,7 +267,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Truculent » signifie haut en couleur, pittoresque ; son antonyme est « commun » (banal).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Trouvez l'intrus :",
@@ -279,7 +279,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Les trois autres désignent le Pape, la Bible est un livre sacré.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est l'antonyme du mot « pingre » ?",
@@ -291,7 +291,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Pingre » signifie avare, son antonyme est « généreux ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel pluriel est correct ?",
@@ -303,7 +303,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Des avant-premières » est correct. « Arcs-en-ciel » et « passe-partout » restent invariables.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Dans quelle phrase n'y a-t-il pas de pléonasme ?",
@@ -314,7 +314,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Cette phrase n'a pas de redondance, contrairement aux autres.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Trouvez l'orthographe correcte :",
@@ -326,7 +326,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le mot correct est « pérégrination » (voyage lointain).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel complément convient au verbe « luter » ?",
@@ -338,7 +338,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Luter » signifie boucher hermétiquement avec du lut (mastic). On lute un vase.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot n'appartient pas à la même famille ?",
@@ -350,7 +350,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Ingénieur » vient de « ingenium » (talent), les autres de « genesis » (naissance).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la définition de la « rhétorique » ?",
@@ -362,7 +362,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La rhétorique est l'art du discours et de l'éloquence.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne un amour excessif de soi-même ?",
@@ -374,7 +374,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le narcissisme désigne un amour excessif de sa propre personne.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le féminin de « empereur » ?",
@@ -386,7 +386,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le féminin d'empereur est impératrice.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « ubiquité » ?",
@@ -398,7 +398,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'ubiquité est la capacité d'être présent partout à la fois.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne la peur des espaces clos ?",
@@ -410,7 +410,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La claustrophobie est la peur des espaces fermés.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Complétez : « Il a fait cela de son propre …… »",
@@ -422,7 +422,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'expression est « de son propre chef » (de sa propre initiative).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne l'art de bien manger ?",
@@ -434,7 +434,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La gastronomie est l'art de bien manger et de bien cuisiner.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est l'origine du mot « bibliothèque » ?",
@@ -446,7 +446,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Bibliothèque » vient du grec « biblion » (livre) et « thêkê » (lieu de rangement).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel adjectif qualifie quelqu'un qui parle plusieurs langues ?",
@@ -458,7 +458,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Polyglotte » qualifie spécifiquement quelqu'un qui parle plusieurs langues.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le sigle « HLM » ?",
@@ -470,7 +470,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "HLM signifie Habitation à Loyer Modéré.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « alvéole » ?",
@@ -481,7 +481,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Alvéole » est traditionnellement féminin mais le masculin est aussi admis par l'Académie française.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle figure de style consiste à dire le contraire de ce que l'on pense ?",
@@ -493,7 +493,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'antiphrase consiste à dire le contraire de ce que l'on veut faire comprendre, souvent avec ironie.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle figure de style associe deux termes contradictoires ?",
@@ -505,7 +505,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'oxymore unit deux termes de sens opposé. Ex : « un silence assourdissant ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Comment appelle-t-on un mot qui a une forme identique au masculin et au féminin ?",
@@ -517,7 +517,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un mot épicène a la même forme pour les deux genres. Ex : « un/une artiste ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est l'adjectif verbal du verbe « naviguer » ?",
@@ -528,7 +528,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'adjectif verbal est « navigant » (variable) ; le participe présent est « naviguant » (invariable).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est l'orthographe correcte ?",
@@ -540,7 +540,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le mot s'écrit « échappatoire » avec deux p.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mode utilise-t-on après la conjonction « Bien que » ?",
@@ -552,7 +552,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Bien que » est toujours suivi du subjonctif.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Laquelle de ces phrases est correcte ?",
@@ -563,7 +563,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Après que » est suivi de l'indicatif (contrairement à « avant que » qui prend le subjonctif).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Comment s'accorde l'adjectif de couleur « orange » ?",
@@ -574,7 +574,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les adjectifs de couleur issus de noms (orange, marron, crème…) sont invariables.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le sigle « PIB » ?",
@@ -586,7 +586,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "PIB signifie Produit Intérieur Brut, indicateur de la richesse d'un pays.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la bonne orthographe ?",
@@ -598,7 +598,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le mot s'écrit « accueillir » (c-c-u-e-i-l-l-i-r).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle figure de style consiste à remplacer un terme par une expression plus douce ?",
@@ -610,7 +610,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'euphémisme adoucit une réalité. Ex : « il nous a quittés » pour « il est mort ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle figure de style consiste à désigner un tout par une de ses parties ?",
@@ -622,7 +622,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La synecdoque prend la partie pour le tout. Ex : « les voiles » pour désigner les bateaux.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la définition d'une « périphrase » ?",
@@ -634,7 +634,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La périphrase remplace un mot par une expression. Ex : « l'astre du jour » pour « le soleil ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « tentacule » ?",
@@ -645,7 +645,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Tentacule » est masculin : un tentacule.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « obélisque » ?",
@@ -656,7 +656,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Obélisque » est masculin : un obélisque.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie l'expression « faire long feu » ?",
@@ -667,7 +667,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Faire long feu » signifie ne pas aboutir, échouer (et non durer longtemps).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne la peur du nombre 13 ?",
@@ -679,7 +679,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La triskaïdékaphobie est la phobie du nombre 13.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Comment s'écrit 80 en lettres ?",
@@ -691,7 +691,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "On écrit « quatre-vingts » avec un s quand il n'est pas suivi d'un autre nombre.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "« Il n'est pas mécontent » pour dire qu'il est ravi est une :",
@@ -703,7 +703,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La litote dit moins pour suggérer plus (double négation atténuante).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "« La diplomatie est le bras armé de la politique » est une :",
@@ -715,7 +715,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "C'est une métaphore car il y a identification directe sans mot de comparaison.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne l'étude des noms propres ?",
@@ -727,7 +727,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'onomastique est l'étude des noms propres (personnes et lieux).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le contraire de « véhément » ?",
@@ -739,7 +739,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Véhément » signifie ardent, impétueux ; son contraire est « calme ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Conjuguez : « Il faut que je …… ce travail avant demain. »",
@@ -751,7 +751,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Après « il faut que », on utilise le subjonctif présent : « que je finisse ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « pétale » ?",
@@ -762,7 +762,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Pétale » est masculin : un pétale.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « apostrophe » ?",
@@ -773,7 +773,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Apostrophe » est féminin : une apostrophe.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie l'expression « avoir maille à partir » ?",
@@ -785,7 +785,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Avoir maille à partir » signifie avoir un conflit, un désaccord avec quelqu'un.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne un discours prononcé en l'honneur d'un défunt ?",
@@ -797,7 +797,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'oraison funèbre est un discours d'hommage prononcé lors des funérailles.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le sigle « BEPC » ?",
@@ -808,7 +808,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "BEPC signifie Brevet d'Études du Premier Cycle.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Complétez : « Ces fleurs, je les ai …… »",
@@ -820,7 +820,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le participe passé s'accorde avec le COD « les » (= fleurs, féminin pluriel) placé avant.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel verbe est correctement conjugué au passé simple ?",
@@ -832,7 +832,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le passé simple de « prendre » à la 3e personne est « il prit ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne la science du droit ?",
@@ -844,7 +844,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La jurisprudence est l'ensemble des décisions de justice et la science du droit.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « apocryphe » ?",
@@ -856,7 +856,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un texte apocryphe est un écrit dont l'authenticité est contestée.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « effluve » ?",
@@ -867,7 +867,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Effluve » est masculin : un effluve.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « inique » ?",
@@ -879,7 +879,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Inique » signifie injuste, contraire à l'équité.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel proverbe signifie qu'il faut être discret sur ses projets ?",
@@ -890,7 +890,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Pour vivre heureux, vivons cachés » signifie qu'il faut rester discret.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « obtempérer » ?",
@@ -902,7 +902,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Obtempérer » signifie obéir, se soumettre à un ordre.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « encaustique » ?",
@@ -913,7 +913,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Encaustique » est féminin : une encaustique.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la bonne orthographe ?",
@@ -925,7 +925,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Depuis la réforme de 1990, « imbécilité » s'écrit avec un seul l (anciennement deux).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la bonne orthographe ?",
@@ -937,7 +937,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le mot s'écrit « accolade » avec deux c et un seul l.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « promulguer une loi » ?",
@@ -949,7 +949,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Promulguer une loi, c'est la rendre officiellement applicable par décret du président.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot désigne un gouvernement dirigé par un petit nombre de personnes ?",
@@ -961,7 +961,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'oligarchie est un régime où le pouvoir est entre les mains d'un petit groupe.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens de « philantrope » ?",
@@ -973,7 +973,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un philanthrope (du grec philos = ami + anthropos = homme) aime l'humanité et agit pour son bien.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Complétez : « Quoiqu'il …… riche, il reste modeste. »",
@@ -985,7 +985,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Quoique » (= bien que) est suivi du subjonctif : « quoiqu'il soit ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « abroger » ?",
@@ -997,7 +997,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Abroger signifie supprimer, annuler une loi ou un décret.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le contraire de « pléthorique » ?",
@@ -1009,7 +1009,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Pléthorique » signifie en excès, surabondant ; son contraire est « insuffisant ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « un arrêté » en droit administratif ?",
@@ -1021,7 +1021,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un arrêté est un acte administratif pris par un ministre, un préfet ou un maire.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la definition de la rhetorique ?",
@@ -1033,7 +1033,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La rhetorique est l'art du discours, de l'eloquence.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot est mal orthographie ?",
@@ -1045,7 +1045,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La bonne orthographe est ecchappatoire avec deux p.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la nature de Fatiguees dans : Fatiguees, les femmes se reposent ?",
@@ -1057,7 +1057,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Fatiguees est un participe passe mis en apposition, detache par une virgule.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot n'appartient pas a la meme famille que les autres ?",
@@ -1069,7 +1069,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Ingenieur vient du latin ingenium, tandis que les autres viennent de gignere (engendrer).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Choisissez le complement correct pour le verbe Luter :",
@@ -1081,7 +1081,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Luter signifie fermer hermetiquement avec du lut. On lute un vase, un creuset.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le sigle HLM ?",
@@ -1093,7 +1093,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "HLM signifie Habitation a Loyer Modere, type de logement social.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel terme designe un nom identique pour les deux genres ?",
@@ -1105,7 +1105,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un nom epicene a la meme forme au masculin et au feminin (ex : enfant, artiste).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Comment ecrit-on correctement 80 en lettres ?",
@@ -1117,7 +1117,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Quatre-vingts s'ecrit avec un s final quand il n'est pas suivi d'un autre nombre.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle phrase est correcte apres la conjonction bien que ?",
@@ -1129,7 +1129,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Bien que impose le subjonctif : bien qu'il ait termine.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle phrase est correcte apres la conjonction apres que ?",
@@ -1141,7 +1141,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Contrairement a avant que, apres que se construit avec l'indicatif.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "L'expression Il n'est pas mecontent pour dire qu'il est ravi est une :",
@@ -1153,7 +1153,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La litote dit moins pour exprimer davantage : il n'est pas mecontent = il est tres content.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "La diplomatie est le bras arme de la politique est une :",
@@ -1165,7 +1165,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "C'est une metaphore : assimilation directe sans terme comparatif.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Comment s'accorde l'adjectif de couleur dans elle a achete des jupes orange ?",
@@ -1177,7 +1177,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Les adjectifs de couleur issus d'un nom (orange, marron, kaki) sont invariables.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Trouvez l'orthographe correcte :",
@@ -1189,7 +1189,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le mot correct est peregrination avec accent sur le premier e.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Le mot navigant est l'adjectif verbal de naviguer. Il est :",
@@ -1201,7 +1201,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'adjectif verbal navigant est variable : des personnels navigants.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot est mal orthographié ?",
@@ -1213,7 +1213,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le mot correct est « philanthropie » avec un « h » après le « p ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le synonyme de « acrimonieux » ?",
@@ -1225,7 +1225,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Acrimonieux » signifie aigre, hargneux, plein d'animosité.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le mot « adage » ?",
@@ -1237,7 +1237,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un adage est un proverbe ou une maxime populaire transmettant une vérité pratique.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la bonne orthographe ?",
@@ -1249,7 +1249,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le mot s'écrit « grammaire » avec deux m.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot est l'antonyme de « loquace » ?",
@@ -1261,7 +1261,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Loquace » signifie bavard ; son antonyme est « silencieux » ou « taciturne ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Dans quelle phrase le subjonctif est-il obligatoire ?",
@@ -1273,7 +1273,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Après « il faut que », le subjonctif est obligatoire.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la forme correcte du conditionnel passé ?",
@@ -1285,7 +1285,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent + participe passé.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Le mot « péremptoire » signifie :",
@@ -1297,7 +1297,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un ton péremptoire est absolu, tranchant, qui n'admet pas de réplique.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le pluriel correct de « bal » ?",
@@ -1309,7 +1309,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le pluriel de « bal » est « bals » (exception aux mots en -al qui font -aux).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle figure de style consiste à atténuer une réalité pour en diminuer l'effet ?",
@@ -1321,7 +1321,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'euphémisme adoucit une réalité dure (ex. : « il a disparu » pour « il est mort »).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la nature grammaticale de « vite » dans « il court vite » ?",
@@ -1333,7 +1333,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Vite » est un adverbe qui modifie le verbe « court ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens du préfixe « bene- » ?",
@@ -1345,7 +1345,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le préfixe latin « bene- » signifie bien (bénéfice, bénévole).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la différence entre « davantage » et « d'avantage » ?",
@@ -1357,7 +1357,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Davantage » = plus ; « d'avantage » = d'un avantage (bénéfice).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel verbe est défectif (n'existe qu'à certaines formes) ?",
@@ -1369,7 +1369,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Clore » est un verbe défectif : il manque de nombreuses formes conjuguées.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle phrase utilise le passé simple correctement ?",
@@ -1381,7 +1381,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le passé simple d'un verbe en -er se forme en ajoutant -a (3e personne singulier).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est l'homonyme de « cent » ?",
@@ -1393,7 +1393,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "« Cent », « sans », « sang », « s'en » et « sent » sont des homophones.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « à bon escient » ?",
@@ -1405,7 +1405,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Agir à bon escient, c'est agir de manière pertinente, avec une bonne connaissance de la situation.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le terme grammatical désignant « le » dans « le chien aboie » ?",
@@ -1417,7 +1417,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Le » est un article défini qui détermine le nom « chien ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la forme correcte ?",
@@ -1429,7 +1429,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Devant « il », « quoique » subit l'élision : « quoiqu'il ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Le mot « épistémologie » désigne :",
@@ -1441,7 +1441,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'épistémologie est la branche philosophique qui étudie la nature et les limites de la connaissance.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Dans « cette robe est verte », le mot « verte » est :",
@@ -1453,7 +1453,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Verte » est attribut du sujet « robe » via le verbe d'état « est ».",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est l'antonyme de « turpitude » ?",
@@ -1465,7 +1465,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La turpitude désigne la bassesse morale ; son antonyme est la probité (honnêteté).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la règle d'accord du participe passé employé avec « avoir » ?",
@@ -1477,7 +1477,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le participe passé avec « avoir » s'accorde avec le COD si celui-ci précède le verbe.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens de « hégémonie » ?",
@@ -1489,7 +1489,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'hégémonie désigne la domination, la suprématie d'un État ou groupe sur d'autres.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la figure de style dans « ses yeux sont deux étoiles » ?",
@@ -1501,7 +1501,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La métaphore exprime une ressemblance sans outil comparatif (sans « comme »).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le genre du mot « amalgame » ?",
@@ -1513,7 +1513,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Amalgame » est un nom masculin : un amalgame.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « circonstancié » ?",
@@ -1525,7 +1525,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un rapport circonstancié contient tous les détails et précisions nécessaires.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel mot est un paronyme de « éruption » ?",
@@ -1537,7 +1537,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Éruption » (volcanique) et « irruption » (entrée brusque) sont des paronymes souvent confondus.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la règle d'accord dans « les fenêtres que j'ai ouvertes » ?",
@@ -1549,7 +1549,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Que » reprend « fenêtres » (COD) placé avant le verbe avoir → accord au féminin pluriel.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens de l'expression « au pied levé » ?",
@@ -1561,7 +1561,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Agir au pied levé, c'est agir sans préparation préalable, dans l'urgence.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Laquelle de ces formes verbales est au plus-que-parfait ?",
@@ -1573,7 +1573,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le plus-que-parfait se forme avec l'imparfait de l'auxiliaire + participe passé.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens du suffixe « -phile » ?",
@@ -1585,7 +1585,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le suffixe « -phile » signifie qui aime (bibliophile = qui aime les livres).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la phrase correcte ?",
@@ -1597,7 +1597,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Bien que » est correct et se construit avec le subjonctif. « Malgré que » est critiqué par les puristes.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le mot générique pour désigner les figures rhétoriques liées au son ?",
@@ -1609,7 +1609,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Les métaplasmes (allitération, assonance...) sont les figures qui jouent sur les sons.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que désigne le terme « polémique » dans son sens originel ?",
@@ -1621,7 +1621,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Du grec « polemikos » (guerre), une polémique est un débat vif et souvent agressif.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Dans quelle phrase le pronom « on » peut-il remplacer « nous » ?",
@@ -1633,7 +1633,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "En français courant, « on » peut remplacer « nous » comme sujet de la phrase.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le mode verbal utilisé pour donner un ordre direct ?",
@@ -1645,7 +1645,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'impératif exprime un ordre, une demande ou un conseil direct.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens de « nonobstant » ?",
@@ -1657,7 +1657,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Nonobstant » signifie malgré, en dépit de (terme juridique fréquent).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie « exergue » ?",
@@ -1669,7 +1669,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Mettre en exergue = mettre en évidence ; une citation en exergue introduit un texte.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la différence entre « apporter » et « amener » ?",
@@ -1681,7 +1681,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "On apporte un objet, on amène une personne ou un animal.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens littéral de « laconique » ?",
@@ -1693,7 +1693,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Les Laconiens (Spartiates) étaient réputés pour leur discours bref ; laconique = bref et concis.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est la fonction grammaticale de « demain » dans « il viendra demain » ?",
@@ -1705,7 +1705,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "« Demain » indique quand aura lieu l'action : c'est un CC de temps.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que signifie le verbe « circonscrire » ?",
@@ -1717,7 +1717,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Circonscrire un incendie = limiter sa propagation ; circonscrire un sujet = en définir les limites.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle figure de style consiste à répéter un mot ou groupe en début de plusieurs propositions ?",
@@ -1729,7 +1729,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'anaphore est la répétition d'un mot ou groupe en tête de propositions successives.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quelle est l'orthographe correcte ?",
@@ -1741,7 +1741,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le mot correct est « parcimonieux » (qui dépense peu, économe à l'excès).",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Que désigne « l'ellipse » en stylistique ?",
@@ -1753,7 +1753,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'ellipse est l'omission d'un ou plusieurs mots logiquement attendus mais sous-entendus.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Quel est le sens du mot « acuité » ?",
@@ -1765,7 +1765,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'acuité visuelle, l'acuité intellectuelle désignent la finesse et la précision d'une faculté.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Dans « il se souvient de son enfance », le pronom « se » est :",
@@ -1777,7 +1777,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Dans les verbes essentiellement pronominaux, le « se » fait partie du verbe sans fonction propre.",
-    "theme": "Culture G?n?rale ? Langue fran?aise"
+    "theme": "Culture Générale — Langue française"
   },
   {
     "question": "Les mots « saut », « seau » et « sot » sont des :",
@@ -1789,7 +1789,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ces mots se prononcent de la même façon mais s'écrivent différemment : ce sont des homophones.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "La relation entre « rose » et « fleur » est une :",
@@ -1801,7 +1801,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Rose » est un hyponyme de « fleur » (terme plus général, l'hyperonyme).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Le mot « Ressasser » est un exemple de :",
@@ -1813,7 +1813,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Ressasser » se lit dans les deux sens, c'est un palindrome.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots « éminent » et « imminent » sont des :",
@@ -1825,7 +1825,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ces mots se ressemblent fortement mais ont des sens différents : ce sont des paronymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans les expressions « avoir du cœur » et « le cœur bat », « cœur » illustre :",
@@ -1837,7 +1837,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un même mot avec plusieurs sens liés illustre la polysémie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Marie » et « aimer » sont des :",
@@ -1849,7 +1849,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Les mêmes lettres réorganisées forment des anagrammes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Grand » et « petit » sont des :",
@@ -1861,7 +1861,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Ces mots ont des sens opposés : ce sont des antonymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Touche » est le méronyme de « clavier ». La méronymie décrit :",
@@ -1872,7 +1872,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La méronymie exprime une relation partie/tout.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Date » (jour) et « datte » (fruit) sont des :",
@@ -1884,7 +1884,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ces mots se prononcent pareil mais n'ont aucun lien de sens : homonymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne des mots interchangeables avec un sens très proche ?",
@@ -1896,7 +1896,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les synonymes ont un sens identique ou très proche.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'expression « J'ai mille choses à faire » est un :",
@@ -1908,7 +1908,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'exagération volontaire est une hyperbole.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'hyperonyme de « voiture », « camion », « bus » ?",
@@ -1920,7 +1920,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Véhicule » est le terme général qui englobe ces mots.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "La répétition d'un mot en début de vers s'appelle :",
@@ -1932,7 +1932,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'anaphore est la répétition d'un mot ou groupe de mots en début de phrase.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots « poisson » et « poison » sont des :",
@@ -1944,7 +1944,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ils se ressemblent beaucoup mais ont des sens différents : paronymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne les mots cohyponymes de « animal » ?",
@@ -1956,7 +1956,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les cohyponymes sont des hyponymes d'un même hyperonyme (ici « animal »).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots « ver », « verre » et « vert » sont des :",
@@ -1968,7 +1968,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ces mots se prononcent identiquement mais s'écrivent différemment : homophones.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "La relation entre « chien » et « animal » est une :",
@@ -1980,7 +1980,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Chien » est un hyponyme (terme spécifique) de « animal » (terme général).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Le mot « Radar » est un exemple de :",
@@ -1992,7 +1992,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Radar » se lit identiquement dans les deux sens : c'est un palindrome.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure de style est une courte phrase qui se termine par une pointe satirique ?",
@@ -2004,7 +2004,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'épigramme est une courte pièce satirique ou spirituelle.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots « cession » et « session » sont des :",
@@ -2016,7 +2016,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ces mots se ressemblent fortement mais ont des sens différents : paronymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « pied de la jambe » et « pied d'une montagne », « pied » illustre :",
@@ -2028,7 +2028,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un même mot avec plusieurs sens liés par l'origine : polysémie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Imaginer » et « migraine » sont des :",
@@ -2040,7 +2040,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Les lettres des deux mots peuvent être réorganisées : anagrammes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « Sa bouche est une rose », quelle figure de style est utilisée ?",
@@ -2052,7 +2052,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Une métaphore établit une comparaison implicite sans utiliser « comme ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Chaud » et « froid » sont des :",
@@ -2064,7 +2064,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Ces mots ont des sens opposés : ce sont des antonymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Roue » est le méronyme de « voiture ». La méronymie décrit :",
@@ -2075,7 +2075,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un méronyme désigne une partie d'un tout (holonyme).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Avocat » (fruit) et « avocat » (profession) sont des :",
@@ -2087,7 +2087,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ces mots n'ont aucun lien de sens malgré leur forme identique : homonymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne des mots au sens identique ou très proche ?",
@@ -2099,7 +2099,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les synonymes sont interchangeables dans un contexte donné.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'expression « Je meurs de faim » est un :",
@@ -2111,7 +2111,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'hyperbole est une exagération volontaire pour renforcer l'expression.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'hyperonyme de « chaise », « fauteuil », « tabouret » ?",
@@ -2123,7 +2123,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "« Meuble » est le terme général qui englobe ces sièges.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Comment appelle-t-on la répétition d'un mot en début de phrase ?",
@@ -2135,7 +2135,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'anaphore est la répétition d'un mot ou groupe en début de vers ou phrase.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots « pêcheur » et « pécheur » sont des :",
@@ -2147,7 +2147,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Prononciation identique mais orthographe différente : homophones.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène décrit des mots très ressemblants mais de sens différents ?",
@@ -2159,7 +2159,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Les paronymes se ressemblent phonétiquement et graphiquement.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Engage le jeu que je le gagne » est un :",
@@ -2171,7 +2171,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Cette phrase se lit dans les deux sens : palindrome.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'hétéronymie concerne des mots de sens liés mais de radicaux différents ?",
@@ -2182,7 +2182,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Ex : « oncle/tante », « cheval/jument » - sens liés, radicaux différents.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quels mots sont cohyponymes de « fleur » ?",
@@ -2194,7 +2194,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les cohyponymes partagent le même hyperonyme (ici « fleur »).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Conte », « comte » et « compte » sont des :",
@@ -2206,7 +2206,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Même prononciation, orthographes différentes : homophones.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « Il est mort de rire », quelle figure est utilisée ?",
@@ -2218,7 +2218,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Exagération volontaire pour renforcer l'expression : hyperbole.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Oncle » et « tante » illustrent :",
@@ -2230,7 +2230,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Sens liés (famille) mais radicaux complètement différents : hétéronymie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'allitération est la répétition de :",
@@ -2242,7 +2242,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'allitération répète des consonnes. L'assonance répète des voyelles.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Père » est l'holonyme de « main ». Vrai ou faux ?",
@@ -2252,7 +2252,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Faux. « Corps » serait l'holonyme de « main » (tout dont fait partie la main).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Ce n'est pas mauvais » pour dire « c'est excellent » est une :",
@@ -2264,7 +2264,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La litote dit moins pour suggérer plus.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Nager » et « narguer » sont des :",
@@ -2276,7 +2276,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ressemblance phonétique et graphique forte : paronymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « Il pleut des cordes », quelle figure est utilisée ?",
@@ -2288,7 +2288,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Exagération pour décrire une pluie forte : hyperbole.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Tête » (partie du corps) et « tête » (chef) illustrent :",
@@ -2300,7 +2300,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Même mot, sens différents mais liés par l'origine : polysémie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'assonance est la répétition de :",
@@ -2312,7 +2312,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'assonance est la répétition de voyelles. L'allitération répète des consonnes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Boire un verre » est un exemple de :",
@@ -2324,7 +2324,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La métonymie remplace un mot par un autre lié logiquement. Ici le contenant (verre) pour le contenu (boisson).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne un mot créé récemment dans une langue ?",
@@ -2336,7 +2336,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un néologisme est un mot nouveau ou récemment entré dans la langue.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne un mot tombé en désuétude, n'étant plus employé ?",
@@ -2348,7 +2348,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un archaïsme est un mot ou une expression ancienne qui n'est plus en usage courant.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'un barbarisme ?",
@@ -2360,7 +2360,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un barbarisme est l'emploi d'un mot inexistant ou déformé. Ex : « aéropage » au lieu d'« aréopage ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'un solécisme ?",
@@ -2372,7 +2372,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un solécisme est une faute de grammaire/syntaxe. Ex : « c'est à moi que je parle » au lieu de « c'est à moi qu'on parle ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Le Roi Soleil » pour désigner Louis XIV est une :",
@@ -2384,7 +2384,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'antonomase utilise un nom propre comme nom commun ou inversement.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'épiphore est la répétition d'un mot ou groupe de mots :",
@@ -2396,7 +2396,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'épiphore est le contraire de l'anaphore : elle répète un élément en fin de vers ou de phrase.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Blanc bonnet et bonnet blanc » est un exemple de :",
@@ -2408,7 +2408,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le chiasme est un croisement de termes selon le schéma AB-BA.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Courriel » est un néologisme français pour remplacer :",
@@ -2420,7 +2420,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Courriel » est le néologisme officiel pour remplacer l'anglicisme « e-mail ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "La catachrèse est :",
@@ -2432,7 +2432,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La catachrèse est une métaphore passée dans l'usage courant. Ex : « les pieds d'une table ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Cheval » et « équestre » illustrent :",
@@ -2444,7 +2444,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le nom vient du latin populaire (caballus) et l'adjectif du latin savant (equester) : doublet étymologique.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'antonyme de « loquace » ?",
@@ -2456,7 +2456,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Loquace » signifie bavard ; « taciturne » signifie silencieux, peu enclin à parler.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène lexical lie « hôte » (celui qui reçoit) et « hôte » (celui qui est reçu) ?",
@@ -2468,7 +2468,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'énantiosémie (ou auto-antonymie) désigne un mot qui a deux sens opposés.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Clair-obscur » est un exemple de :",
@@ -2480,7 +2480,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'oxymore associe deux termes contradictoires dans un même syntagme.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'une antithèse ?",
@@ -2492,7 +2492,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'antithèse oppose deux idées dans une phrase ou un paragraphe, contrairement à l'oxymore qui accole les contraires.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel procédé consiste à atténuer une vérité désagréable ?",
@@ -2504,7 +2504,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'euphémisme adoucit une réalité brutale. Ex : « il s'est éteint » pour « il est mort ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Frère » et « sœur » illustrent :",
@@ -2516,7 +2516,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Sens liés (famille) mais radicaux totalement différents : c'est l'hétéronymie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Le mot « chrysanthème » est :",
@@ -2527,7 +2527,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Chrysanthème » est masculin : un chrysanthème.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'une personnification ?",
@@ -2539,7 +2539,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La personnification donne des caractéristiques humaines à ce qui n'est pas humain. Ex : « le vent hurle ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'une gradation ?",
@@ -2551,7 +2551,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La gradation est une suite de mots d'intensité progressive. Ex : « je le vis, je rougis, je pâlis » (Racine).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « La fourmi travaille sans relâche », quelle figure est utilisée ?",
@@ -2563,7 +2563,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Attribuer le travail (action humaine consciente) à un animal est une personnification.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Il prit son chapeau et la porte » est un exemple de :",
@@ -2575,7 +2575,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le zeugme associe sur le même verbe des compléments de nature très différente (sens concret et figuré).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'un champ lexical ?",
@@ -2587,7 +2587,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le champ lexical regroupe les mots se rapportant à un même thème. Ex : école → élève, cours, tableau.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'un champ sémantique ?",
@@ -2599,7 +2599,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le champ sémantique est l'ensemble des significations d'un mot. Ex : « feuille » → papier, arbre, métal.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'une prosopopée ?",
@@ -2611,7 +2611,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La prosopopée fait parler un absent, un mort, un animal ou une abstraction.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Je suis venu, j'ai vu, j'ai vaincu » est un exemple de :",
@@ -2623,7 +2623,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "C'est à la fois une anaphore (répétition de « je ») et une gradation (intensité croissante).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'hyperonyme de « pomme », « banane », « mangue » ?",
@@ -2635,7 +2635,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Fruit » est le terme général englobant pomme, banane et mangue.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Prêt » et « près » sont des :",
@@ -2647,7 +2647,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Même prononciation mais sens et orthographe différents : homophones.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Éruption » et « irruption » sont des :",
@@ -2659,7 +2659,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Formes proches mais sens différents : éruption (sortie violente) vs irruption (entrée brusque).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Page » (de livre) et « page » (jeune serviteur) sont des :",
@@ -2671,7 +2671,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Même forme mais origines et sens totalement différents : homonymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'une allégorie ?",
@@ -2683,7 +2683,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'allégorie représente une idée abstraite par une image concrète prolongée. Ex : la Justice avec une balance.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Doigt » est le méronyme de :",
@@ -2695,7 +2695,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le doigt est une partie de la main : « doigt » (méronyme) → « main » (holonyme).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'une prétérition ?",
@@ -2707,7 +2707,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La prétérition consiste à dire qu'on ne va pas parler de quelque chose tout en en parlant.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Été » et « hiver » sont des :",
@@ -2719,7 +2719,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ce sont des cohyponymes de l'hyperonyme « saison ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Kayak » est un exemple de :",
@@ -2731,7 +2731,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Kayak » se lit dans les deux sens : c'est un palindrome.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « boire la tasse » (avaler de l'eau en nageant), quelle figure est utilisée ?",
@@ -2743,7 +2743,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "C'est une catachrèse : une métaphore figée dans l'usage courant.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans la phrase Sa bouche est une rose, quelle figure de style est utilisee ?",
@@ -2755,7 +2755,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "C'est une metaphore : assimilation directe sans terme comparatif.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure de style se termine par une pointe satirique ?",
@@ -2767,7 +2767,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'epigramme est une courte composition poetique a caractere satirique.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "avocat (fruit) et avocat (profession) sont des :",
@@ -2779,7 +2779,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ce sont des homonymes parfaits, de sens et d'origines totalement differents.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots cession et session sont des :",
@@ -2791,7 +2791,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ces mots se ressemblent fortement mais ont des sens differents : ce sont des paronymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans pied de la jambe et pied d'une montagne, le mot pied illustre :",
@@ -2803,7 +2803,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "C'est de la polysemie : meme mot, sens differents mais lies par l'origine.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "L'expression Je meurs de faim est :",
@@ -2815,7 +2815,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "C'est une hyperbole : exageration deliberee pour produire un effet d'intensite.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Les mots imaginer et migraine sont des :",
@@ -2827,7 +2827,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "On peut former migraine en reordonnant les lettres d'imaginer : ce sont des anagrammes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle paire illustre l'heteronymie ?",
@@ -2839,7 +2839,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'heteronymie concerne des mots a sens lies mais de radicaux differents : oncle/tante, cheval/jument.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle est la bonne definition de la meronymie ?",
@@ -2851,7 +2851,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La meronymie decrit la relation d'inclusion partie/tout : roue est le meronyme de voiture.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme designe les cohyponymes de animal ?",
@@ -2863,7 +2863,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Chien et chat partagent le meme hyperonyme animal : ce sont des cohyponymes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme designe la relation entre main et doigt d un point de vue meronymique ?",
@@ -2875,10 +2875,10 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La main est le tout (holonyme) dont le doigt est une partie (meronyme).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
-    "question": "Pi?ge : eminent et imminent sont-ils synonymes ?",
+    "question": "Piège : eminent et imminent sont-ils synonymes ?",
     "options": [
       "A) Oui ils signifient remarquable",
       "B) Non : eminent=remarquable imminent=qui va arriver tres bientot",
@@ -2886,8 +2886,8 @@ const QUIZ_QUESTIONS = [
       "D) Non : eminent=lieu imminent=personne"
     ],
     "answer": "B",
-    "explanation": "Pi?ge de paronymie : eminent = qui se distingue ; imminent = sur le point de se produire.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "explanation": "Piège de paronymie : eminent = qui se distingue ; imminent = sur le point de se produire.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phenomene illustre verre ver vers vert ?",
@@ -2899,7 +2899,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Meme prononciation orthographes differentes : homophones.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure remplace une expression brusque par une formulation douce ?",
@@ -2911,7 +2911,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L euphemisme attenue la brutalite. Ex : il a quitte ce monde pour dire il est mort.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans la phrase Il ne travaille pas mal quelle figure est utilisee ?",
@@ -2923,7 +2923,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Litote : dire moins pour faire comprendre plus. Il ne travaille pas mal = il travaille bien.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme designe la relation rose fleur en semantique ?",
@@ -2935,19 +2935,19 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Rose est un hyponyme de fleur : terme special inclus dans le terme general.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Conjecture et conjoncture sont-ils des paronymes ?",
     "options": [
       "A) Non homonymes",
-      "B) Oui : conjecture=supposition conjoncture=situation ?conomique",
+      "B) Oui : conjecture=supposition conjoncture=situation économique",
       "C) Non antonymes",
       "D) Non synonymes"
     ],
     "answer": "B",
     "explanation": "Conjecture/conjoncture : paronymes tres proches mais de sens tres differents.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle est la difference entre holonyme et hyperonyme ?",
@@ -2959,7 +2959,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Holonyme/meronyme = relation partie-tout. Hyperonyme/hyponyme = inclusion semantique.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Polysemie et homonymie sont-elles la meme chose ?",
@@ -2971,7 +2971,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Polysemie : tete corps/liste meme origine. Homonymie : avocat fruit/juriste origines distinctes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "avocat fruit et avocat juriste illustrent quel phenomene ?",
@@ -2983,7 +2983,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Avocat fruit vient du nahuatl ; avocat juriste du latin advocatus : homonymie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle relation sémantique lie « voiture » et « roue » ?",
@@ -2995,7 +2995,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Voiture est l'holonyme (le tout) ; roue en est le méronyme (une partie).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure consiste à employer un mot concret pour désigner une réalité abstraite ?",
@@ -3007,7 +3007,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "L'allégorie représente une idée abstraite par une image concrète et symbolique.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène illustre « couler » (aller au fond) et « couler » (du robinet) ?",
@@ -3019,7 +3019,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Même mot, même origine étymologique, sens différents liés : polysémie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle est la différence entre « injure » et « injure » verbale ?",
@@ -3031,7 +3031,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Injure » = polysémie : une injustice (sens juridique) ou une parole blessante (sens courant).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "La phrase « Il fait un temps de chien » contient quelle figure ?",
@@ -3043,7 +3043,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "C'est une métaphore lexicalisée (figée dans la langue) : « temps de chien » = très mauvais temps.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne un mot crée par abrègement comme « ciné » pour « cinéma » ?",
@@ -3055,7 +3055,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "La troncation supprime une partie du mot. « Ciné » est une apocope (troncation finale).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Le mot « radar » est un exemple de :",
@@ -3067,7 +3067,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Radar est un acronyme : Radio Detection And Ranging.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle relation existe entre « rapide » et « lent » ?",
@@ -3079,7 +3079,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Rapide et lent sont des antonymes graduables : il existe des degrés entre les deux.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Le mot « bœuf » au sens de « grand effort musical collectif » illustre quel phénomène ?",
@@ -3091,7 +3091,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "C'est un néologisme sémantique : un sens nouveau attribué à un mot existant.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure attribue à un objet les caractéristiques d'un être humain ?",
@@ -3103,7 +3103,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La personnification donne des traits humains à ce qui n'en a pas (ex. : « la mer rugit »).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne la relation entre « tibia » et « jambe » ?",
@@ -3115,7 +3115,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le tibia est une partie (méronyme) de la jambe (holonyme).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Que désigne le phénomène de « dénotation » ?",
@@ -3127,7 +3127,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La dénotation est le sens premier, neutre et objectif d'un mot. La connotation est le sens subjectif.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "« Aimer » (affecter) et « aimer » (comme dans « j'aimerais ») illustrent quelle nuance ?",
@@ -3139,7 +3139,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le même verbe « aimer » couvre plusieurs sens selon le contexte : polysémie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure consiste à dire le contraire de ce qu'on pense avec une intention satirique ?",
@@ -3151,7 +3151,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'antiphrase est la figure de l'ironie : on dit le contraire pour se moquer.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Le mot « clé » dans « argument clé » est employé comme :",
@@ -3163,7 +3163,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Clé » est employé métaphoriquement comme un adjectif : l'argument essentiel.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle relation existe entre « voiture de sport » et « voiture » ?",
@@ -3175,7 +3175,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Voiture de sport » est un hyponyme de « voiture » : terme spécifique inclus dans le terme général.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'antonyme complémentaire (non graduable) de « vivant » ?",
@@ -3187,7 +3187,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Vivant/mort est une antonymie complémentaire : pas de degré intermédiaire.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « il avale les kilomètres », quelle figure est utilisée ?",
@@ -3199,7 +3199,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "C'est une métaphore : avaler des kilomètres = parcourir une grande distance facilement.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène lexical explique que « souris » désigne à la fois un animal et un dispositif informatique ?",
@@ -3211,7 +3211,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le dispositif informatique a été appelé « souris » par métaphore avec le rongeur (forme et câble = queue).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle est la particularité d'un mot épicène ?",
@@ -3223,7 +3223,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un mot épicène a la même forme au masculin et au féminin (ex. : enfant, élève, artiste).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'hypéronyme commun de « colère », « joie », « tristesse » ?",
@@ -3235,7 +3235,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Colère, joie et tristesse sont des hyponymes de « sentiment ».",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « brûler les étapes », quelle figure de style est employée ?",
@@ -3247,7 +3247,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "C'est une métaphore figée dans l'usage : aller trop vite, sauter des étapes.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène linguistique désigne l'apparition d'un nouveau mot dans la langue ?",
@@ -3259,7 +3259,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un néologisme est un mot nouveau ou un sens nouveau donné à un mot existant.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "La relation entre « oiseau » et « aigle » est une relation de :",
@@ -3271,7 +3271,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Oiseau est l'hyperonyme (terme général) ; aigle est l'hyponyme (terme spécifique).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « la salle applaudit », quelle figure de style voit-on ?",
@@ -3283,7 +3283,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "C'est une métonymie : la salle (le lieu) désigne les personnes qui s'y trouvent.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel outil stylistique consiste à utiliser le nom d'une personne célèbre pour désigner une catégorie ?",
@@ -3295,7 +3295,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'antonomase utilise un nom propre comme nom commun (ex. : un Harpagon = un avare).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est le rapport sémantique entre « maison » et « toit » ?",
@@ -3307,7 +3307,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Maison est l'holonyme (le tout) ; toit en est le méronyme (une partie).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure de style dit moins pour faire comprendre plus ?",
@@ -3319,7 +3319,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La litote atténue volontairement pour que le lecteur comprenne le contraire (ex. : Ce n'est pas mal = c'est bien).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce qu'un archaïsme ?",
@@ -3331,7 +3331,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Un archaïsme est un mot ou une forme démodée, sortie de l'usage courant (ex. : « icelui »).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle différence y a-t-il entre un synonyme total et un synonyme partiel ?",
@@ -3343,7 +3343,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les synonymes totaux (parfaits) sont rares. La plupart des synonymes sont partiels.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « les murs ont des oreilles », quelle figure de style est utilisée ?",
@@ -3355,7 +3355,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "On attribue aux murs un organe humain (oreilles) : personnification.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène explique que « souris » (animal) et « souris » (sourire, 3e pers.) soient distincts ?",
@@ -3367,7 +3367,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Même graphie, prononciation identique, sens sans lien étymologique : homographie.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel terme désigne la liste de termes généraux à spécifiques (animal → mammifère → chien → labrador) ?",
@@ -3379,7 +3379,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Une taxinomie est une classification hiérarchique des termes du général au spécifique.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « il pleut des cordes », quelle figure est employée ?",
@@ -3391,7 +3391,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "C'est une métaphore hyperbole : il pleut très fort (les cordes exagèrent l'image).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle relation lie « mari » et « femme » sur le plan lexical ?",
@@ -3403,7 +3403,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Mari/femme sont hétéronymes : sens liés (couple) mais radicaux différents.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est l'effet stylistique recherché dans une accumulation ?",
@@ -3415,7 +3415,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'accumulation (ou énumération) crée un effet d'intensité ou d'exhaustivité.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Que signifie l'expression « avoir le cafard » ?",
@@ -3427,7 +3427,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Avoir le cafard » est une métaphore figée signifiant être triste ou déprimé.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle est la caractéristique d'un oxymoron ?",
@@ -3439,7 +3439,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'oxymoron unit deux mots de sens opposés (ex. : « une obscure clarté »).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel phénomène désigne un mot dont le sens a évolué positivement (mélioratif) au fil du temps ?",
@@ -3451,7 +3451,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Certains mots gagnent un sens plus positif avec le temps : c'est l'amélioration sémantique.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Qu'est-ce que l'isotopie dans un texte ?",
@@ -3463,7 +3463,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'isotopie est la répétition de traits sémantiques identiques donnant sa cohérence thématique au texte.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Dans « le crayon d'un enfant », quel type de relation désigne « de » ?",
@@ -3475,7 +3475,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le génitif (de) indique ici une relation d'appartenance/possession.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel mot est à la fois son propre antonyme (autoantonyme) ?",
@@ -3487,7 +3487,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Hôte » peut désigner celui qui reçoit et celui qui est reçu : c'est un autoantonyme (ou contronyime).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle figure de style consiste à interrompre brusquement son discours ?",
@@ -3499,7 +3499,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'aposiopèse est l'interruption brusque du discours, laissant la phrase en suspens.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel procédé désigne l'emprunt d'un mot étranger tel quel dans la langue française ?",
@@ -3511,7 +3511,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'emprunt direct intègre le mot étranger sans le traduire (ex. : weekend, marketing).",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quel est le contraire d'une hyperbole ?",
@@ -3523,7 +3523,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La litote dit moins que la réalité (antiphrase atténuée) ; l'hyperbole dit plus : elles sont en quelque sorte opposées.",
-    "theme": "Aptitude Verbale ? Ph?nom?nes lexicaux"
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
     "question": "Quelle est la capitale du Togo ?",
@@ -3535,7 +3535,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Lomé est la capitale du Togo.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Burkina Faso ?",
@@ -3547,7 +3547,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Ouagadougou est la capitale du Burkina Faso.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quelle partie du corps se trouve le fémur ?",
@@ -3559,7 +3559,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le fémur est l'os de la cuisse, dans la jambe.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Si je suis le gendre de Paul, qui est Paul pour moi ?",
@@ -3571,7 +3571,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le gendre est le mari de la fille, donc Paul est mon beau-père.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Sur quoi portent principalement les recherches de Louis Pasteur ?",
@@ -3583,7 +3583,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Louis Pasteur est célèbre pour ses travaux sur les microbes et la vaccination.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quel océan navigue-t-on au large de Tokyo ?",
@@ -3595,7 +3595,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Tokyo se situe sur la côte de l'océan Pacifique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus petit pays du monde ?",
@@ -3607,7 +3607,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Vatican est le plus petit pays du monde avec 0,44 km².",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays a pour monnaie le Cedi ?",
@@ -3619,7 +3619,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le Cedi est la monnaie du Ghana.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "De quelle région Abengourou est-il le chef-lieu ?",
@@ -3631,7 +3631,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Abengourou est le chef-lieu de la région de l'Indénié-Djuablin.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "De quel pays Nairobi est-il la capitale ?",
@@ -3643,7 +3643,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Nairobi est la capitale du Kenya.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Laquelle de ces inventions est la plus récente ?",
@@ -3655,7 +3655,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Internet a été développé dans les années 1960-1990, bien après les autres.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui est l'auteur de l'œuvre « Le Petit Prince » ?",
@@ -3667,7 +3667,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Antoine de Saint-Exupéry a écrit « Le Petit Prince » en 1943.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri du corbeau ?",
@@ -3679,7 +3679,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le corbeau croasse.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Comment écrit-on 200 en lettres ?",
@@ -3691,7 +3691,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "« Deux cents » s'écrit avec « cents » au pluriel car suivi de rien.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel mode suit la conjonction « Avant que » ?",
@@ -3703,7 +3703,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Avant que » est toujours suivi du subjonctif.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Cameroun ?",
@@ -3715,7 +3715,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Yaoundé est la capitale politique du Cameroun.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la République démocratique du Congo ?",
@@ -3727,7 +3727,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Kinshasa est la capitale de la RDC.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Gabon ?",
@@ -3739,7 +3739,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Libreville est la capitale du Gabon.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Tchad ?",
@@ -3751,7 +3751,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "N'Djamena est la capitale du Tchad.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Ghana ?",
@@ -3763,7 +3763,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Accra est la capitale du Ghana.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Bénin ?",
@@ -3775,7 +3775,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Porto-Novo est la capitale administrative du Bénin, bien que Cotonou soit la capitale économique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Niger ?",
@@ -3787,7 +3787,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Niamey est la capitale du Niger.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Sénégal ?",
@@ -3799,7 +3799,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Dakar est la capitale du Sénégal.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Mali ?",
@@ -3811,7 +3811,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Bamako est la capitale du Mali.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus long fleuve d'Afrique ?",
@@ -3823,7 +3823,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Nil est le plus long fleuve d'Afrique (6 650 km).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus haut sommet d'Afrique ?",
@@ -3835,7 +3835,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Kilimandjaro en Tanzanie culmine à 5 895 m.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien de pays partagent le bassin du fleuve Niger ?",
@@ -3847,7 +3847,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le fleuve Niger traverse ou borde 10 pays africains.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel désert est le plus grand du monde ?",
@@ -3859,7 +3859,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'Antarctique est techniquement le plus grand désert (désert froid).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus grand désert chaud du monde ?",
@@ -3871,7 +3871,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Sahara est le plus grand désert chaud avec environ 9 millions de km².",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Comment appelle-t-on le gendre pour les parents de l'épouse ?",
@@ -3883,7 +3883,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le gendre est le beau-fils pour les parents de l'épouse.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Comment appelle-t-on la belle-fille pour les parents du mari ?",
@@ -3895,7 +3895,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La bru est l'épouse du fils (belle-fille).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom scientifique de la rotule ?",
@@ -3907,7 +3907,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La rotule est appelée 'patella' en nomenclature anatomique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom scientifique du péroné ?",
@@ -3919,7 +3919,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le péroné est appelé 'fibula' en nomenclature anatomique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est l'os le plus long du corps humain ?",
@@ -3931,7 +3931,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le fémur (os de la cuisse) est l'os le plus long.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien d'os compte le squelette humain adulte ?",
@@ -3943,7 +3943,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le squelette adulte compte 206 os.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a découvert la loi de la gravitation universelle ?",
@@ -3955,7 +3955,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Isaac Newton a formulé la loi de la gravitation en 1687.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a découvert les rayons X ?",
@@ -3967,7 +3967,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Wilhelm Röntgen a découvert les rayons X en 1895.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a découvert la radioactivité ?",
@@ -3979,7 +3979,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Henri Becquerel a découvert la radioactivité en 1896.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a développé la théorie de la relativité ?",
@@ -3991,7 +3991,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Albert Einstein a publié la relativité restreinte en 1905 et générale en 1915.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel scientifique a créé le premier vaccin contre la rage ?",
@@ -4003,7 +4003,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Louis Pasteur a développé le vaccin contre la rage en 1885.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a inventé la première vaccination contre la variole ?",
@@ -4015,7 +4015,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Edward Jenner a développé le vaccin contre la variole en 1796.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri du lion ?",
@@ -4027,7 +4027,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le lion rugit.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri de l'âne ?",
@@ -4039,7 +4039,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'âne brait.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri du cerf ?",
@@ -4051,7 +4051,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le cerf brame.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri de la grenouille ?",
@@ -4063,7 +4063,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La grenouille coasse.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
@@ -4075,7 +4075,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le mur de Berlin est tombé le 9 novembre 1989.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année a eu lieu la Révolution française ?",
@@ -4087,7 +4087,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La Révolution française a commencé en 1789.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui était le premier président des États-Unis ?",
@@ -4099,7 +4099,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "George Washington a été le premier président (1789-1797).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
@@ -4111,7 +4111,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Christophe Colomb a découvert l'Amérique en 1492.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de l'Australie ?",
@@ -4123,7 +4123,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Canberra est la capitale de l'Australie.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Canada ?",
@@ -4135,7 +4135,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "Ottawa est la capitale du Canada.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Brésil ?",
@@ -4147,7 +4147,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Brasília est la capitale du Brésil depuis 1960.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la devise de l'Union européenne ?",
@@ -4159,7 +4159,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'euro est la monnaie officielle de l'Union européenne.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la devise du Royaume-Uni ?",
@@ -4171,7 +4171,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La livre sterling (GBP) est la devise du Royaume-Uni.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la planète la plus proche du Soleil ?",
@@ -4183,7 +4183,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Mercure est la planète la plus proche du Soleil.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien de continents existe-t-il ?",
@@ -4195,7 +4195,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Il y a 7 continents : Afrique, Amérique du Nord, Amérique du Sud, Antarctique, Asie, Europe, Océanie.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays a remporté la première Coupe du monde de football ?",
@@ -4207,7 +4207,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'Uruguay a remporté la première Coupe du monde en 1930.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a peint la Joconde ?",
@@ -4219,7 +4219,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Léonard de Vinci a peint la Joconde vers 1503-1506.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quel pays se trouve la tour Eiffel ?",
@@ -4231,7 +4231,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La tour Eiffel se trouve à Paris, en France.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le symbole chimique de l'or ?",
@@ -4243,7 +4243,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le symbole de l'or est Au (du latin 'aurum').",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le symbole chimique de l'argent ?",
@@ -4255,7 +4255,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le symbole de l'argent est Ag (du latin 'argentum').",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien y a-t-il de secondes dans une heure ?",
@@ -4267,7 +4267,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "1 heure = 60 minutes × 60 secondes = 3 600 secondes.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de l'Éthiopie ?",
@@ -4279,7 +4279,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Addis-Abeba est la capitale de l'Éthiopie.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel océan borde l'ouest de l'Afrique ?",
@@ -4291,7 +4291,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'océan Atlantique borde la côte ouest de l'Afrique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien de planètes compte le système solaire ?",
@@ -4303,7 +4303,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le système solaire compte 8 planètes depuis le déclassement de Pluton en 2006.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays est surnommé le 'pays du Soleil Levant' ?",
@@ -4315,7 +4315,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Japon est traditionnellement appelé le 'pays du Soleil Levant'.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la langue officielle du Brésil ?",
@@ -4327,7 +4327,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le portugais est la langue officielle du Brésil.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le chef-lieu du District des Lacs en Côte d'Ivoire ?",
@@ -4339,7 +4339,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Dimbokro est le chef-lieu du District des Lacs.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "De quelle région Bouna est-il le chef-lieu ?",
@@ -4351,7 +4351,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Bouna est le chef-lieu de la région du Bounkani.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "De quel pays Lilongwe est-il la capitale ?",
@@ -4363,7 +4363,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Lilongwe est la capitale du Malawi.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel nom d'oiseau utilise-t-on pour désigner un auteur de lettres anonymes ?",
@@ -4375,7 +4375,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "On appelle « corbeau » la personne qui envoie des lettres anonymes malveillantes.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle traversée Louis Blériot a-t-il réussie en avion le 25 juillet 1909 ?",
@@ -4387,7 +4387,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Louis Blériot a été le premier à traverser la Manche en avion.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom de la maladie qui entraîne un battement trop rapide du cœur ?",
@@ -4399,7 +4399,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La tachycardie est l'accélération anormale du rythme cardiaque.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui est l'auteur de l'œuvre « Le Malade imaginaire » ?",
@@ -4411,7 +4411,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Molière (Jean-Baptiste Poquelin) a écrit « Le Malade imaginaire » en 1673.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quelle ville siège l'Organisation des pays exportateurs de pétrole (OPEP) ?",
@@ -4423,7 +4423,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'OPEP a son siège à Vienne, en Autriche.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Lequel de ces personnages n'est PAS issu du roman « Les Misérables » ?",
@@ -4435,7 +4435,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Fleur de lys est un personnage de « Notre-Dame de Paris », pas des « Misérables ».",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année la Côte d'Ivoire a-t-elle accédé à l'indépendance ?",
@@ -4447,7 +4447,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Côte d'Ivoire a proclamé son indépendance le 7 août 1960.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui est le premier président de la Côte d'Ivoire ?",
@@ -4459,7 +4459,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Félix Houphouët-Boigny est le père fondateur et premier président (1960-1993).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale administrative de la Côte d'Ivoire ?",
@@ -4471,7 +4471,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Yamoussoukro est la capitale politique et administrative depuis 1983.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a écrit « L'enfant noir » ?",
@@ -4483,7 +4483,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Camara Laye, écrivain guinéen, a écrit « L'enfant noir » en 1953.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a écrit « Les Soleils des Indépendances » ?",
@@ -4495,7 +4495,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ahmadou Kourouma, écrivain ivoirien, a publié ce roman en 1968.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel poète et homme politique sénégalais a cofondé le mouvement de la Négritude ?",
@@ -4507,7 +4507,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "La Négritude a été fondée par Senghor, Césaire et Damas dans les années 1930.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays africain est le plus grand producteur mondial de cacao ?",
@@ -4519,7 +4519,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays a pour monnaie le Naira ?",
@@ -4531,7 +4531,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Naira est la monnaie officielle du Nigeria.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays a pour monnaie le Rand ?",
@@ -4543,7 +4543,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Rand est la monnaie de l'Afrique du Sud.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Rwanda ?",
@@ -4555,7 +4555,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Kigali est la capitale du Rwanda.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la Guinée-Bissau ?",
@@ -4567,7 +4567,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Bissau est la capitale de la Guinée-Bissau.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la Gambie ?",
@@ -4579,7 +4579,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Banjul est la capitale de la Gambie.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Liberia ?",
@@ -4591,7 +4591,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Monrovia est la capitale du Liberia.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la Sierra Leone ?",
@@ -4603,7 +4603,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Freetown est la capitale de la Sierra Leone.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la République Centrafricaine ?",
@@ -4615,7 +4615,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Bangui est la capitale de la République Centrafricaine.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel lac est le plus grand d'Afrique ?",
@@ -4627,7 +4627,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le lac Victoria est le plus grand lac d'Afrique (environ 68 000 km²).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a écrit « Les Fleurs du Mal » ?",
@@ -4639,7 +4639,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Charles Baudelaire a publié « Les Fleurs du Mal » en 1857.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a écrit « Candide » ?",
@@ -4651,7 +4651,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Voltaire a écrit « Candide ou l'Optimisme » en 1759.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel fleuve est le plus long d'Europe ?",
@@ -4663,7 +4663,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Volga est le plus long fleuve d'Europe (environ 3 530 km).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année le Sénégal a-t-il accédé à l'indépendance ?",
@@ -4675,7 +4675,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Sénégal a proclamé son indépendance le 4 avril 1960.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la principale base de lancement d'engins spatiaux aux États-Unis ?",
@@ -4687,7 +4687,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Cap Canaveral (Kennedy Space Center) est la principale base spatiale américaine.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Depuis 2020, quel territoire pourrait devenir le 51ème État des États-Unis ?",
@@ -4699,7 +4699,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Porto Rico a voté en 2020 en faveur de son intégration comme 51ème État.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien de districts administratifs compte la Côte d'Ivoire ?",
@@ -4711,7 +4711,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le symbole chimique du fer ?",
@@ -4723,7 +4723,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le symbole du fer est Fe (du latin 'ferrum').",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri de l'éléphant ?",
@@ -4735,7 +4735,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'éléphant barrit.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le cri du cheval ?",
@@ -4747,7 +4747,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le cheval hennit.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus grand fleuve de Côte d'Ivoire ?",
@@ -4759,7 +4759,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Bandama est le plus grand fleuve de Côte d'Ivoire (environ 1 050 km).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
@@ -4771,7 +4771,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Parlement ivoirien est bicaméral : Assemblée nationale et Sénat.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la religion la plus pratiquée dans le monde ?",
@@ -4783,7 +4783,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le christianisme est la religion la plus pratiquée avec environ 2,4 milliards de fidèles.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays africain a accueilli la CAN 2023 ?",
@@ -4795,7 +4795,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Côte d'Ivoire a accueilli la CAN 2023 (jouée en janvier-février 2024).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a remporté la CAN 2023 ?",
@@ -4807,7 +4807,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Côte d'Ivoire a remporté la CAN 2023 en battant le Nigeria en finale.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le symbole chimique du cuivre ?",
@@ -4819,7 +4819,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le symbole du cuivre est Cu (du latin 'cuprum').",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel organe du corps humain produit l'insuline ?",
@@ -4831,7 +4831,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le pancréas produit l'insuline qui régule le taux de glucose dans le sang.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus grand pays d'Afrique en superficie ?",
@@ -4843,7 +4843,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'Algérie est le plus grand pays d'Afrique avec environ 2,38 millions de km².",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a écrit « Une vie de boy » ?",
@@ -4855,7 +4855,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ferdinand Oyono, écrivain camerounais, a publié « Une vie de boy » en 1956.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a écrit « L'aventure ambiguë » ?",
@@ -4867,7 +4867,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Cheikh Hamidou Kane, écrivain sénégalais, a publié ce roman en 1961.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la Guinée équatoriale ?",
@@ -4879,7 +4879,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Malabo est la capitale de la Guinée équatoriale.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Soudan ?",
@@ -4891,7 +4891,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Khartoum est la capitale du Soudan.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Soudan du Sud ?",
@@ -4903,7 +4903,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Djouba (Juba) est la capitale du Soudan du Sud.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays a pour monnaie le Yen ?",
@@ -4915,7 +4915,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Yen est la monnaie du Japon.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus petit continent ?",
@@ -4927,7 +4927,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'Océanie est le plus petit continent.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Combien d'arrondissements compte la ville d'Abidjan ?",
@@ -4939,7 +4939,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La ville d'Abidjan compte 10 communes (arrondissements).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le sigle de la monnaie utilisée en Côte d'Ivoire ?",
@@ -4951,7 +4951,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "XOF est le code ISO du franc CFA de l'Afrique de l'Ouest (BCEAO).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel savant grec est considéré comme le père de la médecine ?",
@@ -4963,7 +4963,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Hippocrate (460-370 av. J.-C.) est considéré comme le père de la médecine.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays africain n'a jamais été colonisé ?",
@@ -4975,7 +4975,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "L'Éthiopie et le Liberia sont les deux seuls pays africains n'ayant jamais été colonisés.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a découvert la pénicilline ?",
@@ -4987,7 +4987,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Alexander Fleming a découvert la pénicilline (antibiotique) en 1928.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le fleuve le plus long du monde ?",
@@ -4999,7 +4999,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Nil est le fleuve le plus long du monde avec environ 6 650 km.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année les attentats du 11 septembre ont-ils eu lieu ?",
@@ -5011,7 +5011,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les attentats du World Trade Center ont eu lieu le 11 septembre 2001.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel philosophe grec est l'auteur de « La République » ?",
@@ -5023,7 +5023,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Platon a écrit « La République » où il développe sa vision de la cité idéale.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de Madagascar ?",
@@ -5035,7 +5035,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Antananarivo est la capitale de Madagascar.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel organe du corps humain filtre le sang ?",
@@ -5047,7 +5047,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Les reins filtrent le sang pour éliminer les déchets sous forme d'urine.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quelle articulation du corps se situe la rotule ?",
@@ -5059,7 +5059,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La rotule est l'os qui protege l'articulation du genou.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Si je suis la bru de Michelle, qui est Michelle pour moi ?",
@@ -5071,7 +5071,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La bru est l'epouse du fils : Michelle est donc la belle-mere.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel nom d'oiseau designe un auteur de lettres anonymes ?",
@@ -5083,7 +5083,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Un corbeau est familierement une personne qui envoie des lettres anonymes.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Maroc ?",
@@ -5095,10 +5095,10 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "Rabat est la capitale officielle du Maroc.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
-    "question": "Quelle est la capitale de la C?te d'Ivoire ?",
+    "question": "Quelle est la capitale de la Côte d'Ivoire ?",
     "options": [
       "A) Abidjan",
       "B) Yamoussoukro",
@@ -5106,20 +5106,20 @@ const QUIZ_QUESTIONS = [
       "D) San-Pedro"
     ],
     "answer": "B",
-    "explanation": "Yamoussoukro est la capitale politique de la C?te d'Ivoire depuis 1983.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "explanation": "Yamoussoukro est la capitale politique de la Côte d'Ivoire depuis 1983.",
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus grand pays du monde ?",
     "options": [
       "A) La Russie",
       "B) Le Canada",
-      "C) Les ?tats-Unis",
+      "C) Les États-Unis",
       "D) La Chine"
     ],
     "answer": "A",
     "explanation": "La Russie est le plus grand pays du monde avec environ 17,1 millions de km2.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays a pour monnaie le Shekel ?",
@@ -5131,7 +5131,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le nouveau Shekel est la monnaie officielle d'Israel.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle traversee Louis Bleriot a-t-il reussie en avion le 25 juillet 1909 ?",
@@ -5143,7 +5143,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Louis Bleriot a traverse la Manche en avion pour la premiere fois le 25 juillet 1909.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom de la maladie qui entraine un battement trop rapide du coeur ?",
@@ -5155,7 +5155,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La tachycardie est une frequence cardiaque anormalement elevee (plus de 100 battements par minute).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quelle ville siege l'OPEP ?",
@@ -5167,7 +5167,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le siege de l'OPEP est a Vienne, en Autriche, depuis 1965.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui est l'auteur de Le malade imaginaire ?",
@@ -5179,7 +5179,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le malade imaginaire est une comedie-ballet de Moliere (1673).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "De quelle region Bouna est-il le chef-lieu ?",
@@ -5190,8 +5190,8 @@ const QUIZ_QUESTIONS = [
       "D) Le Moronou"
     ],
     "answer": "B",
-    "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la C?te d'Ivoire.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la Côte d'Ivoire.",
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de l'Egypte ?",
@@ -5203,7 +5203,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Caire est la capitale de l'Egypte et la ville la plus peuplee d'Afrique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Sur quoi reposent principalement les travaux de Pierre et Marie Curie ?",
@@ -5215,7 +5215,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Pierre et Marie Curie ont consacre leurs recherches a la radioactivite.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quel océan navigue-t-on au large de New York ?",
@@ -5227,7 +5227,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "New York est située sur la côte est des États-Unis, au bord de l'Océan Atlantique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de l'Afrique du Sud ?",
@@ -5239,7 +5239,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Pretoria est la capitale administrative (exécutive) de l'Afrique du Sud.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus haut sommet du monde ?",
@@ -5251,7 +5251,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'Everest (8 849 m) est le plus haut sommet du monde, situé dans l'Himalaya.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Kenya ?",
@@ -5263,7 +5263,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Nairobi est la capitale du Kenya.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Nigeria ?",
@@ -5275,7 +5275,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Abuja est la capitale politique du Nigeria depuis 1991 (remplaçant Lagos).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus long fleuve d'Afrique subsaharienne ?",
@@ -5287,7 +5287,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Niger est le plus long fleuve d'Afrique subsaharienne (4 200 km).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année la Côte d'Ivoire a-t-elle été admise à l'ONU ?",
@@ -5299,7 +5299,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La Côte d'Ivoire a été admise à l'ONU le 20 septembre 1960, l'année de son indépendance.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays possède la plus grande forêt tropicale du monde ?",
@@ -5311,7 +5311,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Brésil possède la plus grande forêt tropicale du monde : l'Amazonie.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Cameroun ?",
@@ -5323,7 +5323,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Yaoundé est la capitale politique du Cameroun ; Douala est la capitale économique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle montagne est la plus haute d'Afrique ?",
@@ -5335,7 +5335,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Kilimandjaro (5 895 m), en Tanzanie, est le point culminant d'Afrique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays d'Afrique de l'Ouest est le plus peuplé ?",
@@ -5347,7 +5347,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Nigeria est le pays le plus peuplé d'Afrique et d'Afrique de l'Ouest (environ 220 millions d'hab.).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Sur quel continent se trouve le Sahara ?",
@@ -5359,7 +5359,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Sahara, plus grand désert chaud du monde, se trouve en Afrique du Nord.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la monnaie officielle du Ghana ?",
@@ -5371,7 +5371,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La monnaie du Ghana est le Cedi (GHS).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays d'Afrique partage ses frontières avec la Côte d'Ivoire au nord ?",
@@ -5383,7 +5383,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Burkina Faso est au nord de la Côte d'Ivoire. Le Mali est aussi voisin au nord-ouest.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale de la Guinée ?",
@@ -5395,7 +5395,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Conakry est la capitale de la République de Guinée.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Mali ?",
@@ -5407,7 +5407,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Bamako est la capitale du Mali.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel prix a reçu Nelson Mandela en 1993 ?",
@@ -5419,7 +5419,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Nelson Mandela a reçu le Prix Nobel de la Paix en 1993, partagé avec F. W. de Klerk.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la principale source d'énergie de la Côte d'Ivoire ?",
@@ -5431,7 +5431,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La CI tire l'essentiel de son énergie de l'hydroélectricité (Taabo, Kossou) et du gaz naturel.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Qui a inventé le téléphone ?",
@@ -5443,7 +5443,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone (1876).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom de la lagune sur laquelle se trouve Abidjan ?",
@@ -5455,7 +5455,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Abidjan est construite autour de la lagune Ébrié.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel philosophe a énoncé « Je pense donc je suis » ?",
@@ -5467,7 +5467,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "René Descartes a formulé « Cogito ergo sum » (Je pense donc je suis) dans ses Méditations.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus grand océan du monde ?",
@@ -5479,7 +5479,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "D",
     "explanation": "L'océan Pacifique est le plus grand et le plus profond des océans.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année a eu lieu la Conférence de Berlin qui a partagé l'Afrique ?",
@@ -5491,7 +5491,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Conférence de Berlin (1884-1885) a organisé le partage colonial de l'Afrique entre puissances européennes.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Bénin ?",
@@ -5503,7 +5503,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Porto-Novo est la capitale constitutionnelle du Bénin ; Cotonou est la capitale économique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le plus grand désert froid du monde ?",
@@ -5515,7 +5515,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "L'Antarctique est le plus grand désert (froid) du monde avec 14,2 millions de km².",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel pays d'Afrique possède la plus grande économie ?",
@@ -5527,7 +5527,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Nigeria est la première économie africaine en termes de PIB nominal.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom du port autonome d'Abidjan ?",
@@ -5539,7 +5539,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Port Autonome d'Abidjan (PAA) est le premier port d'Afrique de l'Ouest.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Niger ?",
@@ -5551,7 +5551,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Niamey est la capitale du Niger.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est l'arbre emblématique des savanes africaines ?",
@@ -5563,7 +5563,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Le baobab est l'arbre emblématique des savanes et régions semi-arides d'Afrique.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Tchad ?",
@@ -5575,7 +5575,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "N'Djaména est la capitale du Tchad.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Où se situe la basilique Notre-Dame de la Paix de Yamoussoukro ?",
@@ -5587,7 +5587,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La basilique Notre-Dame de la Paix, la plus grande basilique au monde, est à Yamoussoukro.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom du premier chef de gouvernement ivoirien (Premier ministre) après 1990 ?",
@@ -5599,7 +5599,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Alassane Ouattara a été le premier Premier ministre de Côte d'Ivoire (1990-1993) sous Houphouët-Boigny.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année la Côte d'Ivoire a-t-elle accueilli le Sommet Afrique-France ?",
@@ -5611,7 +5611,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le sommet Afrique-France s'est tenu à Paris en 2014. Abidjan a accueilli ce sommet en 2008.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le principal produit agricole d'exportation de la Côte d'Ivoire ?",
@@ -5623,7 +5623,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao (environ 40% de la production mondiale).",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle rivière délimite en partie la frontière entre la Côte d'Ivoire et le Ghana ?",
@@ -5635,7 +5635,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le fleuve Comoé/Bia forme en partie la frontière entre la Côte d'Ivoire et le Ghana.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est l'animal emblème de la Côte d'Ivoire ?",
@@ -5647,7 +5647,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'éléphant est l'animal emblème de la Côte d'Ivoire, d'où le nom « Les Éléphants » pour l'équipe nationale de football.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la langue officielle du Brésil ?",
@@ -5659,7 +5659,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le portugais est la langue officielle du Brésil, issu de la colonisation portugaise.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel scientifique a établi la théorie de la relativité générale ?",
@@ -5671,7 +5671,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Albert Einstein a publié la théorie de la relativité générale en 1915.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est l'hymne national de la Côte d'Ivoire ?",
@@ -5683,7 +5683,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'hymne national de la Côte d'Ivoire est « L'Abidjanaise ».",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la capitale du Gabon ?",
@@ -5695,7 +5695,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Libreville est la capitale du Gabon.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année a eu lieu la découverte de l'Amérique par Christophe Colomb ?",
@@ -5707,7 +5707,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Christophe Colomb a atteint les Bahamas le 12 octobre 1492.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom de la communauté villageoise traditionnelle en Côte d'Ivoire ?",
@@ -5719,7 +5719,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La chefferie traditionnelle est l'unité de base de l'organisation sociale en Côte d'Ivoire.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quelle est la surface totale de la Côte d'Ivoire ?",
@@ -5731,7 +5731,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Côte d'Ivoire couvre environ 322 463 km².",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom du Président du Liberia qui a reçu le Prix Nobel de la Paix en 2011 ?",
@@ -5743,7 +5743,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ellen Johnson Sirleaf, première femme présidente africaine, a reçu le Prix Nobel de la Paix en 2011.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Dans quel pays se trouve le mont Olympe, montagne sacrée des dieux grecs ?",
@@ -5755,7 +5755,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le mont Olympe (2917 m), le plus haut sommet de Grèce, était la demeure des dieux dans la mythologie grecque.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "Quel est le nom de l'aéroport international de la ville d'Abidjan ?",
@@ -5767,7 +5767,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'aéroport international d'Abidjan porte le nom de Félix Houphouët-Boigny.",
-    "theme": "Culture G?n?rale ? G?ographie et connaissances"
+    "theme": "Culture Générale — Géographie et connaissances"
   },
   {
     "question": "En quelle année l'ONU a-t-elle été officiellement créée ?",
@@ -6956,7 +6956,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Organisations Internationales"
   },
   {
-    "question": "En quelle ann?e l'ONU a-t-elle ete creee ?",
+    "question": "En quelle année l'ONU a-t-elle ete créée ?",
     "options": [
       "A) 24 octobre 1945",
       "B) 8 mai 1945",
@@ -6964,11 +6964,11 @@ const QUIZ_QUESTIONS = [
       "D) 1er janvier 1946"
     ],
     "answer": "A",
-    "explanation": "L'ONU a officiellement ete creee le 24 octobre 1945, date d'entree en vigueur de la Charte des Nations Unies.",
+    "explanation": "L'ONU a officiellement ete créée le 24 octobre 1945, date d'entree en vigueur de la Charte des Nations Unies.",
     "theme": "Organisations Internationales"
   },
   {
-    "question": "Combien d'?tats membres compte l'ONU ?",
+    "question": "Combien d'États membres compte l'ONU ?",
     "options": [
       "A) 185",
       "B) 193",
@@ -6976,7 +6976,7 @@ const QUIZ_QUESTIONS = [
       "D) 200"
     ],
     "answer": "B",
-    "explanation": "L'ONU compte actuellement 193 ?tats membres.",
+    "explanation": "L'ONU compte actuellement 193 États membres.",
     "theme": "Organisations Internationales"
   },
   {
@@ -6988,11 +6988,11 @@ const QUIZ_QUESTIONS = [
       "D) Montenegro"
     ],
     "answer": "B",
-    "explanation": "Le Soudan du Sud est le 193e et dernier ?tat a integrer l'ONU, en juillet 2011.",
+    "explanation": "Le Soudan du Sud est le 193e et dernier État a integrer l'ONU, en juillet 2011.",
     "theme": "Organisations Internationales"
   },
   {
-    "question": "Quelle est la nationalit? de l'actuel Secretaire General des Nations Unies ?",
+    "question": "Quelle est la nationalité de l'actuel Secretaire General des Nations Unies ?",
     "options": [
       "A) Ghaneenne",
       "B) Portugaise",
@@ -7016,7 +7016,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Organisations Internationales"
   },
   {
-    "question": "En quelle ann?e l'OTAN a-t-elle ete creee ?",
+    "question": "En quelle année l'OTAN a-t-elle ete créée ?",
     "options": [
       "A) 4 avril 1949",
       "B) 5 mai 1950",
@@ -7024,7 +7024,7 @@ const QUIZ_QUESTIONS = [
       "D) 14 aout 1941"
     ],
     "answer": "A",
-    "explanation": "L'OTAN a ete creee le 4 avril 1949 par le traite de Washington.",
+    "explanation": "L'OTAN a ete créée le 4 avril 1949 par le traite de Washington.",
     "theme": "Organisations Internationales"
   },
   {
@@ -7052,7 +7052,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Organisations Internationales"
   },
   {
-    "question": "Quel est le dernier ?tat a avoir adhre a l'OTAN ?",
+    "question": "Quel est le dernier État a avoir adhre a l'OTAN ?",
     "options": [
       "A) La Finlande",
       "B) La Suede",
@@ -7060,11 +7060,11 @@ const QUIZ_QUESTIONS = [
       "D) La Georgie"
     ],
     "answer": "B",
-    "explanation": "La Suede a rejoint l'OTAN le 7 mars 2024, devenant le 32e ?tat membre.",
+    "explanation": "La Suede a rejoint l'OTAN le 7 mars 2024, devenant le 32e État membre.",
     "theme": "Organisations Internationales"
   },
   {
-    "question": "Combien d'?tats membres compte l'Union Europeenne ?",
+    "question": "Combien d'États membres compte l'Union Europeenne ?",
     "options": [
       "A) 25",
       "B) 27",
@@ -7072,7 +7072,7 @@ const QUIZ_QUESTIONS = [
       "D) 30"
     ],
     "answer": "B",
-    "explanation": "L'UE compte 27 ?tats membres depuis le Brexit en 2020.",
+    "explanation": "L'UE compte 27 États membres depuis le Brexit en 2020.",
     "theme": "Organisations Internationales"
   },
   {
@@ -7088,7 +7088,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Organisations Internationales"
   },
   {
-    "question": "La CEDEAO a ete creee en :",
+    "question": "La CEDEAO a ete créée en :",
     "options": [
       "A) 1960",
       "B) 1975",
@@ -7096,7 +7096,7 @@ const QUIZ_QUESTIONS = [
       "D) 1990"
     ],
     "answer": "B",
-    "explanation": "La CEDEAO a ete creee en 1975 par le traite de Lagos.",
+    "explanation": "La CEDEAO a ete créée en 1975 par le traite de Lagos.",
     "theme": "Organisations Internationales"
   },
   {
@@ -7132,7 +7132,7 @@ const QUIZ_QUESTIONS = [
       "D) Nairobi"
     ],
     "answer": "A",
-    "explanation": "Le siege permanent de la BAD est a Abidjan, en C?te d'Ivoire.",
+    "explanation": "Le siege permanent de la BAD est a Abidjan, en Côte d'Ivoire.",
     "theme": "Organisations Internationales"
   },
   {
@@ -7160,15 +7160,15 @@ const QUIZ_QUESTIONS = [
     "theme": "Organisations Internationales"
   },
   {
-    "question": "Quel est le statut juridique de l'AES (Alliance des ?tats du Sahel) ?",
+    "question": "Quel est le statut juridique de l'AES (Alliance des États du Sahel) ?",
     "options": [
       "A) Une federation",
-      "B) Une confederation d'?tats",
-      "C) Une communaute ?conomique",
+      "B) Une confederation d'États",
+      "C) Une communaute économique",
       "D) Une alliance militaire"
     ],
     "answer": "B",
-    "explanation": "L'AES regroupe le Mali, le Burkina Faso et le Niger sous forme de confederation d'?tats.",
+    "explanation": "L'AES regroupe le Mali, le Burkina Faso et le Niger sous forme de confederation d'États.",
     "theme": "Organisations Internationales"
   },
   {
@@ -9604,7 +9604,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La loi fixe les principes généraux, tandis que les règlements les appliquent au niveau technique et administratif.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le rôle principal du Conseil constitutionnel en France ?",
@@ -9616,7 +9616,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Conseil constitutionnel veille à la conformité des lois à la Constitution.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Que signifie le principe de laïcité ?",
@@ -9628,7 +9628,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La laïcité garantit la neutralité religieuse de l'État et la liberté de conscience.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le devoir citoyen le plus directement lié au vote ?",
@@ -9640,7 +9640,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le vote est un acte central de participation à la vie politique et de citoyenneté.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qui est titulaire du pouvoir exécutif en France ?",
@@ -9652,7 +9652,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le pouvoir exécutif est exercé par le Président et le Gouvernement, dans le cadre de la Constitution.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'un citoyen ?",
@@ -9664,7 +9664,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le citoyen est inscrit dans une communauté politique et bénéficie de droits, avec des devoirs corrélatifs.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel document fonde les droits fondamentaux en France ?",
@@ -9676,7 +9676,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Constitution et la Déclaration des droits de l'homme placent les droits fondamentaux au cœur de l'ordre juridique.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Que garantit le principe d'égalité ?",
@@ -9688,7 +9688,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'égalité juridique ne signifie pas l'uniformité des situations, mais une même protection devant la loi.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'une institution ?",
@@ -9700,7 +9700,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Une institution est une structure organisée qui assure un rôle au sein de la société et de l'État.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le rôle du Parlement ?",
@@ -9712,7 +9712,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Parlement a pour fonction principale la préparation, le vote et le contrôle des lois.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la séparation des pouvoirs ?",
@@ -9724,7 +9724,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La séparation des pouvoirs (Montesquieu) garantit que les pouvoirs législatif, exécutif et judiciaire sont exercés par des organes distincts.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le suffrage universel ?",
@@ -9736,7 +9736,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le suffrage universel accorde le droit de vote à tous les citoyens majeurs, sans distinction.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la présomption d'innocence ?",
@@ -9748,7 +9748,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La présomption d'innocence est un droit fondamental : nul n'est coupable sans jugement.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'une constitution ?",
@@ -9760,7 +9760,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La constitution est la norme suprême d'un État organisant les pouvoirs publics et garantissant les droits fondamentaux.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit de grève ?",
@@ -9772,7 +9772,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
@@ -9784,7 +9784,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Parlement ivoirien est bicaméral : il comprend l'Assemblée nationale et le Sénat.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
@@ -9796,7 +9796,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Combien de districts compte la Côte d'Ivoire ?",
@@ -9808,7 +9808,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro).",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'un référendum ?",
@@ -9820,7 +9820,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le référendum est un mécanisme de démocratie directe.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Défenseur des droits en France ?",
@@ -9832,7 +9832,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la séparation des pouvoirs ?",
@@ -9844,7 +9844,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La séparation des pouvoirs (Montesquieu) garantit que les trois pouvoirs sont exercés par des organes distincts.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le suffrage universel ?",
@@ -9856,7 +9856,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le suffrage universel accorde le droit de vote à tous les citoyens majeurs, sans distinction.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la présomption d'innocence ?",
@@ -9868,7 +9868,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La présomption d'innocence : nul n'est coupable sans jugement.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'une constitution ?",
@@ -9880,7 +9880,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La constitution est la norme suprême d'un État organisant les pouvoirs publics.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit de grève ?",
@@ -9892,7 +9892,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
@@ -9904,7 +9904,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Parlement ivoirien est bicaméral : Assemblée nationale et Sénat.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
@@ -9916,7 +9916,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Combien de districts compte la Côte d'Ivoire ?",
@@ -9928,7 +9928,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'un référendum ?",
@@ -9940,7 +9940,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le référendum est un mécanisme de démocratie directe.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le rôle du Défenseur des droits ?",
@@ -9952,7 +9952,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens face aux administrations.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la capitale administrative de la Côte d'Ivoire ?",
@@ -9964,7 +9964,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Yamoussoukro est la capitale politique depuis 1983. Abidjan reste la capitale économique.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "En quelle année la CI a-t-elle accédé à l'indépendance ?",
@@ -9976,7 +9976,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La CI a proclamé son indépendance le 7 août 1960.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le premier président de la CI ?",
@@ -9988,19 +9988,19 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Félix Houphouët-Boigny est le père fondateur et premier président (1960-1993).",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel organe exerce le contrôle de constitutionnalité en CI ?",
     "options": [
-      "A) La Cour Supr?me",
+      "A) La Cour Suprême",
       "B) Le Conseil constitutionnel",
       "C) L'Assemblée nationale",
       "D) Le Sénat"
     ],
     "answer": "B",
     "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Combien de régions compte la CI ?",
@@ -10012,7 +10012,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La CI compte 31 régions et 2 districts autonomes.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le mandat du Président ivoirien ?",
@@ -10024,7 +10024,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Constitution de 2016 fixe le mandat présidentiel à 5 ans renouvelable une seule fois.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle institution vérifie les comptes de l'État en CI ?",
@@ -10036,7 +10036,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Cour des Comptes vérifie la régularité des comptes publics.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le rôle du CESEC en CI ?",
@@ -10048,7 +10048,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Conseil Économique, Social, Environnemental et Culturel est une assemblée consultative.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : la CI a-t-elle un régime présidentialiste ou semi-présidentiel ?",
@@ -10060,7 +10060,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Constitution de 2016 instaure un régime présidentiel fort sans cohabitation.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Combien de membres compte le Conseil constitutionnel ivoirien ?",
@@ -10072,7 +10072,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Conseil constitutionnel est composé de 9 membres nommés par le Président.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "La hiérarchie des normes en CI est ?",
@@ -10084,7 +10084,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Hiérarchie : Constitution (2016) > lois organiques > lois ordinaires > décrets > arrêtés.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : combien de constitutions la CI a-t-elle eues depuis 1960 ?",
@@ -10096,7 +10096,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Trois constitutions : 1960 (indépendance), 2000 (Gbagbo) et 2016 (Ouattara).",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : le Sénat de CI peut-il renverser le gouvernement ?",
@@ -10108,7 +10108,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Seule l'Assemblée nationale peut engager la responsabilité du gouvernement.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la différence entre décret et ordonnance en droit ivoirien ?",
@@ -10120,7 +10120,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'ordonnance a valeur législative (habilitation) ; le décret est réglementaire.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la condition de nationalité pour candidater à la présidentielle ivoirienne ?",
@@ -10132,7 +10132,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Article 55 : nationalité ivoirienne de naissance de père et de mère ivoiriens sans autre nationalité.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : un Ivoirien naturalisé étranger peut-il se présenter à la présidentielle ?",
@@ -10144,7 +10144,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Article 55 : n'avoir jamais acquis d'autre nationalité. L'acquisition antérieure est rédhibitoire.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la CEI en CI ?",
@@ -10156,7 +10156,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Commission Électorale Indépendante organise et supervise les élections ivoiriennes.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Combien de mandats peut effectuer un président ivoirien ?",
@@ -10168,7 +10168,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Constitution de 2016 limite à deux mandats de 5 ans.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Les étrangers résidents peuvent-ils voter en CI ?",
@@ -10180,7 +10180,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Le droit de vote est réservé aux seuls citoyens ivoiriens.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le principal produit d'exportation de la CI ?",
@@ -10192,7 +10192,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La CI est le premier producteur mondial de cacao (environ 40 % de la production mondiale).",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle monnaie est utilisée en CI ?",
@@ -10204,7 +10204,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le franc CFA de l'Afrique de l'Ouest (XOF) est géré par la BCEAO.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle organisation gère le franc CFA des pays de l'UEMOA ?",
@@ -10216,7 +10216,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) siège à Dakar.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "En quelle année la Constitution actuelle de la CI a-t-elle été adoptée ?",
@@ -10228,7 +10228,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La Constitution de 2016 a été adoptée par référendum le 30 octobre 2016.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de spécialité d'un établissement public ?",
@@ -10240,7 +10240,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le principe de spécialité limite l'action de l'établissement public à l'objet fixé par ses textes.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : qui préside le Conseil supérieur de la magistrature en CI ?",
@@ -10252,7 +10252,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "En CI, le CSM est présidé par le Président de la République.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Médiateur de la République en CI ?",
@@ -10264,7 +10264,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Médiateur de la République traite les réclamations des citoyens contre les administrations.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la distinction SPA et SPIC ?",
@@ -10276,7 +10276,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "SPA = droit public. SPIC (eau, électricité) = droit privé pour usagers et personnel.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la déconcentration administrative en CI ?",
@@ -10288,7 +10288,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La déconcentration déplace des pouvoirs au sein de l'État vers ses agents sur le terrain.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle institution forme les hauts fonctionnaires en CI ?",
@@ -10300,7 +10300,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'ENA de CI forme les hauts fonctionnaires pour les corps préfectoraux, diplomatiques et administratifs.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'un établissement public national (EPN) en CI ?",
@@ -10312,7 +10312,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Les EPN (ex. CNPS, SODEXAM) sont des personnes morales de droit public autonomes.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la LOLF en CI ?",
@@ -10324,7 +10324,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La LOLF est le cadre juridique de la gestion budgétaire moderne orientée vers la performance.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de séparation entre ordonnateur et comptable public ?",
@@ -10336,7 +10336,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ce principe empêche une même personne d'autoriser et de réaliser une dépense.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Combien de langues et dialectes compte la CI ?",
@@ -10348,7 +10348,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "La CI compte plus de 60 langues et dialectes en 4 grands groupes.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le plus grand groupe ethnique en CI ?",
@@ -10360,7 +10360,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Les Baoulé du groupe Akan sont le groupe ethnique le plus important.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'initiative PPTE pour la CI en 2012 ?",
@@ -10372,7 +10372,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "En 2012, la CI a bénéficié de l'initiative PPTE, obtenant un allègement substantiel de sa dette.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : un acte administratif illégalement signé peut-il être validé ?",
@@ -10384,7 +10384,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Certains actes irréguliers peuvent être régularisés par ratification expresse.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'ARTCI en CI ?",
@@ -10396,163 +10396,163 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'ARTCI est l'autorité administrative indépendante de régulation du marché des télécommunications.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le nom du processus de décentralisation en CI qui transfère des compétences aux communes ?",
     "options": [
-      "A) La d?concentration",
-      "B) La d?centralisation",
+      "A) La déconcentration",
+      "B) La décentralisation",
       "C) La privatisation",
-      "D) La d?l?gation"
+      "D) La délégation"
     ],
     "answer": "B",
     "explanation": "La décentralisation transfère des compétences et des ressources à des collectivités territoriales autonomes (communes, régions, districts).",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le role d un conseil municipal en CI ?",
     "options": [
-      "A) Gerer les affaires de l'?tat central",
+      "A) Gerer les affaires de l'État central",
       "B) Deliberer sur les affaires d interet communal et voter le budget de la commune",
       "C) Nomrme les prefets",
       "D) Adopter les lois nationales"
     ],
     "answer": "B",
-    "explanation": "Le conseil municipal est l assembl?e deliberante de la commune. Il vote le budget et prend les decisions d interet local.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le conseil municipal est l assemblée deliberante de la commune. Il vote le budget et prend les decisions d interet local.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que le principe de libre administration des collectivites territoriales en CI ?",
+    "question": "Qu'est-ce que le principe de libre administration des collectivités territoriales en CI ?",
     "options": [
-      "A) Les collectivites peuvent ignorer les lois nationales",
-      "B) Les collectivites gerent librement leurs affaires dans le cadre de la loi sous le controle de l'?tat",
-      "C) Les collectivites peuvent creer leurs propres lois",
-      "D) Les collectivites sont independantes de l'?tat"
+      "A) Les collectivités peuvent ignorer les lois nationales",
+      "B) Les collectivités gerent librement leurs affaires dans le cadre de la loi sous le contrôle de l'État",
+      "C) Les collectivités peuvent creer leurs propres lois",
+      "D) Les collectivités sont indépendantes de l'État"
     ],
     "answer": "B",
-    "explanation": "Le principe de libre administration permet aux collectivites de gerer leurs affaires dans les limites fixees par la loi et sous controle de l'?tat.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le principe de libre administration permet aux collectivités de gerer leurs affaires dans les limites fixees par la loi et sous contrôle de l'État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Quelle est la diff?rence entre un maire et un pr?fet en CI ?",
+    "question": "Quelle est la différence entre un maire et un préfet en CI ?",
     "options": [
-      "A) Aucune diff?rence",
-      "B) Le maire est ?lu par les habitants pour g?rer la commune ; le pr?fet est nomm? par l'?tat pour le repr?senter dans le d?partement",
+      "A) Aucune différence",
+      "B) Le maire est élu par les habitants pour gèrer la commune ; le préfet est nommé par l'État pour le représenter dans le département",
       "C) Le prefet est superieur au maire en tout",
       "D) Le maire est nomme par le gouvernement"
     ],
     "answer": "B",
-    "explanation": "Le maire est ?lu local ; le pr?fet est agent de l'?tat nomm? par d?cret. Leurs r?les et l?gitimit?s diff?rent.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le maire est élu local ; le préfet est agent de l'État nommé par décret. Leurs rôles et légitimités différent.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce qu'un service d?concentr? de l'?tat ?",
+    "question": "Qu'est-ce qu'un service déconcentration de l'État ?",
     "options": [
-      "A) Un service prive",
-      "B) Un service de l'?tat implant? localement sous l'autorit? d'un repr?sentant de l'?tat (pr?fet, sous-pr?fet)",
-      "C) Un etablissement public",
-      "D) Une collectivit? territoriale"
+      "A) Un service privé",
+      "B) Un service de l'État implanté localement sous l'autorité d'un représentant de l'État (préfet, sous-préfet)",
+      "C) Un établissement public",
+      "D) Une collectivité territoriale"
     ],
     "answer": "B",
-    "explanation": "Les services d?concentr?s (DRE, DRSP, etc.) repr?sentent les minist?res au niveau local sous l'autorit? du pr?fet.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Les services déconcentrations (DRE, DRSP, etc.) représentent les ministères au niveau local sous l'autorité du préfet.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que le contr?le de l?gitimit? dans le cadre de la d?centralisation ?",
+    "question": "Qu'est-ce que le contrôle de légitimité dans le cadre de la décentralisation ?",
     "options": [
-      "A) Le controle exerce par les citoyens sur les elus locaux",
-      "B) Le contr?le exerc? par le repr?sentant de l'?tat sur la l?galit? des actes des collectivit?s locales",
-      "C) Le controle financier des collectivites",
-      "D) L audit annuel des collectivites"
+      "A) Le contrôle exerce par les citoyens sur les élus locaux",
+      "B) Le contrôle exerc? par le représentant de l'État sur la légalité des actes des collectivités locales",
+      "C) Le contrôle financier des collectivités",
+      "D) L audit annuel des collectivités"
     ],
     "answer": "B",
-    "explanation": "Le repr?sentant de l'?tat contr?le que les actes des collectivit?s sont conformes ? la loi.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le représentant de l'État contrôle que les actes des collectivités sont conformes ? la loi.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le budget communal en CI ?",
     "options": [
-      "A) Le budget de l'?tat central",
-      "B) Le document financier qui pr?voit les recettes et d?penses de la commune pour l'ann?e",
+      "A) Le budget de l'État central",
+      "B) Le document financier qui prévoit les recettes et dépenses de la commune pour l'année",
       "C) Le budget du departement",
       "D) Le budget alloue aux fonctionnaires communaux"
     ],
     "answer": "B",
-    "explanation": "Le budget communal est vot? par le conseil municipal. Il pr?voit les ressources et les d?penses de la commune.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le budget communal est voté par le conseil municipal. Il prévoit les ressources et les dépenses de la commune.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Quel est le financement des collectivites locales en CI ?",
+    "question": "Quel est le financement des collectivités locales en Côte d’Ivoire ?",
     "options": [
-      "A) Uniquement par l'?tat central",
-      "B) Par les imp?ts locaux, dotations de l'?tat, fonds de d?centralisation et emprunts",
-      "C) Uniquement par les impots locaux",
+      "A) Uniquement par l’État central",
+      "B) Par les impôts locaux, dotations de l’État, fonds de décentralisation et emprunts",
+      "C) Uniquement par les impôts locaux",
       "D) Par les dons internationaux uniquement"
     ],
     "answer": "B",
-    "explanation": "Les collectivit?s sont financ?es par une combinaison de ressources propres (imp?ts locaux) et de transferts de l'?tat.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Les collectivités sont financées par une combinaison de ressources propres (impôts locaux) et de transferts de l’État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que l'?tat civil en CI ?",
+    "question": "Qu'est-ce que l'État civil en CI ?",
     "options": [
       "A) Le registre des entreprises",
-      "B) L'enregistrement des faits d'?tat civil (naissances, mariages, d?c?s) qui ?tablit l'identit? juridique des personnes",
+      "B) L'enregistrement des faits d'État civil (naissances, mariages, décès) qui établit l'identité juridique des personnes",
       "C) Le registre des fonctionnaires",
       "D) La liste electorale"
     ],
     "answer": "B",
-    "explanation": "L'?tat civil enregistre les ??v?nements majeurs de la vie (naissances, mariages, d?c?s) et ?tablit l'identit? juridique.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "L'État civil enregistre les événements majeurs de la vie (naissances, mariages, décès) et établit l'identité juridique.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que le Tr?sor public en CI ?",
+    "question": "Qu'est-ce que le Trésor public en CI ?",
     "options": [
       "A) La banque centrale",
-      "B) Le service de l'?tat qui g?re les finances publiques : encaissement des recettes et paiement des d?penses",
-      "C) Un organisme prive",
+      "B) Le service de l'État qui gère les finances publiques : encaissement des recettes et paiement des dépenses",
+      "C) Un organisme privé",
       "D) La banque du gouvernement"
     ],
     "answer": "B",
-    "explanation": "Le Tr?sor public g?re les flux financiers de l'?tat : recettes fiscales, paiement des salaires, remboursement de la dette.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le Trésor public gère les flux financiers de l'État : recettes fiscales, paiement des salaires, remboursement de la dette.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pi?ge : la Constitution de 2016 a-t-elle supprim? le poste de Premier ministre en CI ?",
+    "question": "Piège : la Constitution de 2016 a-t-elle supprimé le poste de Premier ministre en CI ?",
     "options": [
-      "A) Oui d?finitivement",
-      "B) Non le poste existe toujours mais ses attributions sont encadr?es par l'organisation institutionnelle",
-      "C) Oui mais il peut etre r?tabli par loi organique",
+      "A) Oui définitivement",
+      "B) Non le poste existe toujours mais ses attributions sont encadrées par l'organisation institutionnelle",
+      "C) Oui mais il peut etre rétabli par loi organique",
       "D) Non le Premier ministre reste chef du gouvernement"
     ],
     "answer": "B",
     "explanation": "La Constitution de 2016 n'a pas supprimé le poste de Premier ministre ; elle a réorganisé l'exécutif et ses équilibres.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que la responsabilit? politique du gouvernement en CI ?",
+    "question": "Qu'est-ce que la responsabilité politique du gouvernement en CI ?",
     "options": [
-      "A) Le gouvernement est responsable devant le Pr?sident uniquement",
-      "B) Le gouvernement est responsable devant l'Assembl?e nationale qui peut le renverser par une motion de censure",
+      "A) Le gouvernement est responsable devant le Président uniquement",
+      "B) Le gouvernement est responsable devant l'Assemblée nationale qui peut le renverser par une motion de censure",
       "C) Le gouvernement est irresponsable",
       "D) Le gouvernement est responsable devant le Senat"
     ],
     "answer": "B",
-    "explanation": "L'Assembl?e nationale peut engager la responsabilit? du gouvernement par une motion de censure.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "L'Assemblée nationale peut engager la responsabilité du gouvernement par une motion de censure.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pi?ge : le contr?le parlementaire s'exerce-t-il sur les actes du Pr?sident en CI ?",
+    "question": "Piège : le contrôle parlementaire s'exerce-t-il sur les actes du Président en CI ?",
     "options": [
-      "A) Oui pleinement comme en r?gime semi-pr?sidentiel",
-      "B) Non en r?gime pr?sidentiel le Pr?sident n est pas responsable devant le Parlement",
-      "C) Oui uniquement sur les questions budg?taires",
+      "A) Oui pleinement comme en régime semi-présidentiel",
+      "B) Non en régime présidentiel le Président n est pas responsable devant le Parlement",
+      "C) Oui uniquement sur les questions budgétaires",
       "D) Non le Parlement ne peut pas questionner le gouvernement"
     ],
     "answer": "B",
-    "explanation": "En r?gime pr?sidentiel ivoirien le Pr?sident n est pas responsable devant le Parlement. Seul le gouvernement l est.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "En régime présidentiel ivoirien le Président n est pas responsable devant le Parlement. Seul le gouvernement l est.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de l inamovibilite des magistrats en CI ?",
@@ -10564,34 +10564,34 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L inamovibilite protege les magistrats du siege contre toute pression : ils ne peuvent etre mutas ou sanctionnes que par procedure disciplinaire.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la citoyennete ivoirienne confere comme droits politiques ?",
     "options": [
       "A) Uniquement le droit de vote",
-      "B) Le droit de vote d eligibilite de petition d acces aux fonctions publiques et d exercice des libert?s civiques",
+      "B) Le droit de vote d eligibilite de petition d acces aux fonctions publiques et d exercice des libertés civiques",
       "C) Uniquement le droit d acces aux fonctions publiques",
       "D) Aucun droit politique pour les citoyens ordinaires"
     ],
     "answer": "B",
-    "explanation": "La citoyennete ivoirienne confere l ensemble des droits politiques : vote eligibilite libert?s civiques acces aux fonctions publiques.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "La citoyennete ivoirienne confere l ensemble des droits politiques : vote eligibilite libertés civiques acces aux fonctions publiques.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit d asile en CI ?",
     "options": [
       "A) Le droit pour un Ivoirien de quitter le pays",
-      "B) La protection accordee a un ?tranger persecute dans son pays qui en fait la demande",
-      "C) Le droit de refugier des biens a l ?tranger",
-      "D) L exemption d impots pour les diplomates"
+      "B) La protection accordee a un étranger persecute dans son pays qui en fait la demande",
+      "C) Le droit de refugier des biens a l étranger",
+      "D) L exemption d impôts pour les diplomates"
     ],
     "answer": "B",
-    "explanation": "Le droit d asile accorde une protection a tout ?tranger qui fuit des persecutions dans son pays d origine.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Le droit d asile accorde une protection a tout étranger qui fuit des persecutions dans son pays d origine.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pi?ge : la peine de mort est-elle abolie en CI ?",
+    "question": "Piège : la peine de mort est-elle abolie en CI ?",
     "options": [
       "A) Oui depuis la Constitution de 2016",
       "B) Non elle est toujours en vigueur pour les crimes les plus graves",
@@ -10600,7 +10600,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La Constitution de 2016 a aboli la peine de mort en CI. C est une avancee majeure des droits fondamentaux.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Parlement ivoirien en matière de contrôle du gouvernement ?",
@@ -10612,7 +10612,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Parlement ivoirien contrôle le gouvernement par les questions, les commissions et la motion de censure.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le principe de la neutralité du service public ?",
@@ -10624,7 +10624,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La neutralité du service public garantit que les agents traitent tous les usagers de façon égale sans discrimination.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : un fonctionnaire peut-il militer pour un parti politique en CI ?",
@@ -10636,34 +10636,34 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le devoir de réserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l'exercice de ses fonctions.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que la notion d autorite de l'?tat ?",
+    "question": "Qu'est-ce que la notion d autorite de l'État ?",
     "options": [
-      "A) La capacite de l'?tat a emettre des billets de banque",
-      "B) La capacite de l'?tat a imposer le respect de l ordre juridique et a faire executer ses decisions en recourant si necessaire a la contrainte",
-      "C) La capacite de l'?tat a conclure des traites",
-      "D) La capacite de l'?tat a lever des impots"
+      "A) La capacite de l'État a emettre des billets de banque",
+      "B) La capacite de l'État a imposer le respect de l ordre juridique et a faire executer ses decisions en recourant si necessaire a la contrainte",
+      "C) La capacite de l'État a conclure des traites",
+      "D) La capacite de l'État a lever des impôts"
     ],
     "answer": "B",
-    "explanation": "L autorite de l'?tat est sa capacite a maintenir l ordre et a faire respecter la loi en utilisant si necessaire la force legitime.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "L autorite de l'État est sa capacite a maintenir l ordre et a faire respecter la loi en utilisant si necessaire la force legitime.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que la nationalit? ivoirienne par naissance ?",
+    "question": "Qu'est-ce que la nationalité ivoirienne par naissance ?",
     "options": [
-      "A) ?tre n? en CI",
-      "B) ?tre n? de p?re ou de m?re ivoirien(ne)",
-      "C) ?tre n? en CI ou d'un parent ivoirien sous conditions",
-      "D) Uniquement ?tre n? de deux parents ivoiriens"
+      "A) être n? en CI",
+      "B) être n? de père ou de mère ivoirien(ne)",
+      "C) être n? en CI ou d'un parent ivoirien sous conditions",
+      "D) Uniquement être n? de deux parents ivoiriens"
     ],
     "answer": "C",
-    "explanation": "La nationalit? ivoirienne par naissance est attribu?e ? ceux n?s en CI dans certaines conditions ou n?s d'un parent ivoirien.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "La nationalité ivoirienne par naissance est attribuée ? ceux nés en CI dans certaines conditions ou nés d'un parent ivoirien.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pi?ge : une personne doublement nationale peut-elle obtenir le statut de refugie en CI ?",
+    "question": "Piège : une personne doublement nationale peut-elle obtenir le statut de refugie en CI ?",
     "options": [
       "A) Non un national CI ne peut pas etre refugie en CI",
       "B) Oui si elle prouve la persecution dans son autre pays",
@@ -10671,8 +10671,8 @@ const QUIZ_QUESTIONS = [
       "D) Oui automatiquement"
     ],
     "answer": "A",
-    "explanation": "Un citoyen ivoirien ne peut pas demander le statut de refugie en CI. Le droit d asile protege les ?trangers dans un pays dont ils ne sont pas ressortissants.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Un citoyen ivoirien ne peut pas demander le statut de refugie en CI. Le droit d asile protege les étrangers dans un pays dont ils ne sont pas ressortissants.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la duree de la session parlementaire ordinaire en CI ?",
@@ -10684,19 +10684,19 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Parlement ivoirien se reunit en deux sessions ordinaires de 3 mois chacune soit 6 mois au total.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pi?ge : les actes du Pr?sident de la R?publique sont-ils soumis au contr?le du juge administratif ?",
+    "question": "Piège : les actes du Président de la République sont-ils soumis au contrôle du juge administratif ?",
     "options": [
       "A) Oui pleinement",
-      "B) Non les actes de gouvernement (li?s ? la politique) ?chappent au contr?le juridictionnel mais les actes r?glementaires peuvent ?tre contr?l?s",
-      "C) Non aucun acte pr?sidentiel n'est contr?lable",
+      "B) Non les actes de gouvernement (liés ? la politique) échappent au contrôle juridictionnel mais les actes règlementaires peuvent être contrôles",
+      "C) Non aucun acte présidentiel n'est contrôlable",
       "D) Oui mais uniquement par le Conseil constitutionnel"
     ],
     "answer": "B",
-    "explanation": "Les actes de gouvernement (ex. trait?s, relations diplomatiques) ?chappent au juge administratif. Seuls les actes r?glementaires peuvent ?tre attaqu?s.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "explanation": "Les actes de gouvernement (ex. traités, relations diplomatiques) échappent au juge administratif. Seuls les actes règlementaires peuvent être attaqués.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe d egalite devant le service public ?",
@@ -10708,7 +10708,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L egalite devant le service public est une application du principe general d egalite : meme traitement pour les usagers dans des situations identiques.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la difference entre une commune de plein exercice et une commune de moyen exercice en CI ?",
@@ -10720,7 +10720,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "En CI les communes sont classees selon leur niveau d autonomie. Les communes de plein exercice ont plus de competences et de ressources.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de neutralité religieuse dans la fonction publique ivoirienne ?",
@@ -10732,7 +10732,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La neutralité religieuse interdit aux fonctionnaires d'exprimer leurs convictions religieuses dans l'exercice de leurs fonctions.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de gratuité du service public ?",
@@ -10744,7 +10744,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La gratuité du service public ne signifie pas absence de paiement, mais que le service est accessible sans que le prix soit un obstacle dirimant.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la distinction entre le préfet et le gouverneur en CI ?",
@@ -10756,7 +10756,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Constitution de 2011-2016 a créé des districts autonomes dirigés par des gouverneurs nommés par le Président pour les grandes agglomérations.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la délégation de signature ?",
@@ -10768,7 +10768,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La délégation de signature permet à un chef de service d'autoriser son subordonné à signer certains actes en son nom. Le délégant reste responsable.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Piège : la délégation de pouvoirs est-elle différente de la délégation de signature ?",
@@ -10780,7 +10780,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Délégation de pouvoirs : transfert du pouvoir lui-même (le délégant ne peut plus exercer). Délégation de signature : seule la signature est transférée, le délégant reste responsable.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la différence entre la tutelle administrative et la hiérarchie administrative ?",
@@ -10792,7 +10792,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La hiérarchie = pouvoir de commandement direct. La tutelle = contrôle externe, encadré par la loi.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de la légalité des délits et des peines ?",
@@ -10804,7 +10804,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "« Nullum crimen, nulla poena sine lege » : principe fondamental du droit pénal et constitutionnel.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le droit de pétition en Côte d'Ivoire ?",
@@ -10816,7 +10816,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le droit de pétition permet aux citoyens d'adresser des demandes collectives ou individuelles aux pouvoirs publics.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la différence entre le droit privé et le droit public ?",
@@ -10828,7 +10828,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Droit public = État / personnes publiques. Droit privé = relations entre personnes privées.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de l'accès à la justice en Côte d'Ivoire ?",
@@ -10840,7 +10840,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'accès à la justice est un droit fondamental : tout citoyen peut saisir un tribunal et bénéficier d'un procès équitable.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la déclaration d'utilité publique (DUP) en CI ?",
@@ -10852,7 +10852,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La DUP est la condition préalable à toute expropriation en droit ivoirien.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le rôle du Sénat dans la procédure législative en Côte d'Ivoire ?",
@@ -10864,7 +10864,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Sénat ivoirien examine les lois, propose des amendements, mais l'Assemblée nationale a le dernier mot.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la composition du Sénat de Côte d'Ivoire selon la Constitution de 2016 ?",
@@ -10876,7 +10876,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Sénat ivoirien : 2/3 des membres sont élus, 1/3 sont nommés par le Président de la République.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit à la sécurité sociale en Côte d'Ivoire ?",
@@ -10888,7 +10888,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La sécurité sociale garantit des protections aux travailleurs : gérée par la CNPS en Côte d'Ivoire.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe d'inamovibilité des magistrats du siège en CI ?",
@@ -10900,7 +10900,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "L'inamovibilité protège l'indépendance des magistrats du siège contre les pressions politiques.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est l'âge minimum pour être élu député à l'Assemblée nationale en Côte d'Ivoire ?",
@@ -10912,7 +10912,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "En Côte d'Ivoire, il faut avoir au moins 25 ans pour être candidat à l'Assemblée nationale.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la responsabilité civile extracontractuelle (délictuelle) ?",
@@ -10924,7 +10924,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La responsabilité délictuelle (art. 1382 CC français, code ivoirien) s'applique hors contrat : faute → dommage → réparation.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit de grève dans la fonction publique ivoirienne ?",
@@ -10936,7 +10936,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le droit de grève existe dans la fonction publique mais il est encadré : préavis, services minimum, interdiction pour certains corps.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de continuité du service public en CI ?",
@@ -10948,7 +10948,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La continuité est une des lois de Rolland : les services publics ne doivent pas connaître d'interruptions injustifiées.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le principe de sincérité budgétaire en CI ?",
@@ -10960,7 +10960,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "La sincérité budgétaire exige que les prévisions de recettes et de dépenses soient aussi précises et honnêtes que possible.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Conseil Économique, Social, Environnemental et Culturel (CESEC) de CI ?",
@@ -10972,7 +10972,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le CESEC est une institution consultative : le gouvernement peut le consulter mais n'est pas obligé de suivre ses avis.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit de propriété en CI ?",
@@ -10984,7 +10984,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le droit de propriété est garanti par la Constitution mais peut être limité par l'expropriation pour utilité publique, moyennant indemnisation.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'une loi de finances en Côte d'Ivoire ?",
@@ -10996,7 +10996,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La loi de finances (budget de l'État) est votée annuellement par le Parlement et encadrée par la LOLF.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la durée du mandat sénatorial en Côte d'Ivoire ?",
@@ -11008,7 +11008,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "En Côte d'Ivoire, les sénateurs sont élus ou nommés pour 6 ans, renouvelables par moitié tous les 3 ans.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que la décentralisation fiscale en CI ?",
@@ -11020,7 +11020,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La décentralisation fiscale donne aux collectivités le pouvoir de lever des impôts locaux pour financer leurs activités.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le rôle du Gouverneur dans un district autonome en Côte d'Ivoire ?",
@@ -11032,7 +11032,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le Gouverneur d'un district autonome (Abidjan, Yamoussoukro) est nommé par le Président de la République.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'égalité des citoyens devant les charges publiques ?",
@@ -11044,7 +11044,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ce principe constitutionnel garantit une répartition équitable des charges fiscales et non-fiscales.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle institution ivoirienne protège les droits des consommateurs ?",
@@ -11056,7 +11056,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La DPCC est l'organe administratif chargé de surveiller les pratiques commerciales et protéger les consommateurs en CI.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Conseil National des Droits de l'Homme (CNDH) de CI ?",
@@ -11068,7 +11068,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le CNDH est une institution nationale indépendante qui surveille le respect des droits humains et formule des recommandations.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quel est le principe d'impartialité dans le service public ivoirien ?",
@@ -11080,7 +11080,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "L'impartialité oblige les agents publics à traiter tous les usagers de manière égale, sans discrimination.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le contrôle de gestion dans l'administration publique ivoirienne ?",
@@ -11092,7 +11092,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le contrôle de gestion est un outil interne de pilotage de la performance dans l'administration.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de laïcité en Côte d'Ivoire ?",
@@ -11104,7 +11104,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Constitution ivoirienne garantit la liberté de conscience et la neutralité religieuse de l'État.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit à l'éducation en Côte d'Ivoire ?",
@@ -11116,7 +11116,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La Constitution ivoirienne garantit le droit à l'éducation ; l'enseignement primaire est obligatoire.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le système de l'État unitaire décentralisé adopté par la CI ?",
@@ -11128,7 +11128,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "La CI est un État unitaire décentralisé : une seule loi nationale mais des collectivités locales autonomes dans leurs domaines.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Fonds de Développement de la Formation Professionnelle (FDFP) en CI ?",
@@ -11140,7 +11140,7 @@ const QUIZ_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Le FDFP collecte les taxes de formation professionnelle et finance les actions de formation dans le secteur privé ivoirien.",
-    "theme": "Culture G?n?rale ? Institutions et citoyennet?"
+    "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
     "question": "Quelle est la source historique du droit administratif français ?",
@@ -11266,7 +11266,7 @@ const QUIZ_QUESTIONS = [
     "question": "Qu'est-ce que le service public selon le droit administratif ?",
     "options": [
       "A) Toute entreprise commerciale",
-      "B) Une activite d interet general assuree ou controlee par la puissance publique",
+      "B) Une activite d interet general assuree ou contrôlée par la puissance publique",
       "C) Un service rendu uniquement aux fonctionnaires",
       "D) Un tribunal administratif"
     ],
@@ -11299,27 +11299,27 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce qu un etablissement public ?",
+    "question": "Qu'est-ce qu un établissement public ?",
     "options": [
-      "A) Une entreprise privee",
+      "A) Une entreprise privée",
       "B) Une personne morale de droit public chargee d une mission de service public",
       "C) Un tribunal administratif",
       "D) Un service deconcentre"
     ],
     "answer": "B",
-    "explanation": "Un etablissement public est une personne morale de droit public gerant une mission de service public.",
+    "explanation": "Un établissement public est une personne morale de droit public gerant une mission de service public.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Quelle est la difference entre d?concentration et d?centralisation ?",
+    "question": "Quelle est la difference entre déconcentration et décentralisation ?",
     "options": [
       "A) Aucune",
-      "B) La d?concentration transfere des pouvoirs a des agents de l'?tat, la d?centralisation a des collectivites autonomes",
-      "C) La d?centralisation est au profit des agents de l'?tat",
-      "D) La d?concentration concerne uniquement les communes"
+      "B) La déconcentration transfere des pouvoirs a des agents de l'État, la décentralisation a des collectivités autonomes",
+      "C) La décentralisation est au profit des agents de l'État",
+      "D) La déconcentration concerne uniquement les communes"
     ],
     "answer": "B",
-    "explanation": "La d?concentration deplace des competences au sein de l'?tat, la d?centralisation les transfere a des entites distinctes.",
+    "explanation": "La déconcentration deplace des competences au sein de l'État, la décentralisation les transfere a des entites distinctes.",
     "theme": "Droit administratif"
   },
   {
@@ -11328,31 +11328,31 @@ const QUIZ_QUESTIONS = [
       "A) Un recours visant a obtenir une indemnite",
       "B) Un recours en annulation d un acte administratif illegal",
       "C) Un recours contre les decisions judiciaires",
-      "D) Un recours en interpr?tation"
+      "D) Un recours en interprÉtation"
     ],
     "answer": "B",
     "explanation": "Le recours pour exces de pouvoir permet l annulation d un acte administratif illegal.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que la hi?rarchie des normes ?",
+    "question": "Qu'est-ce que la hiérarchie des normes ?",
     "options": [
-      "A) L organisation des minist?res",
+      "A) L organisation des ministères",
       "B) L organisation pyramidale des regles juridiques, avec la Constitution au sommet",
       "C) Le classement des juges par anciennete",
       "D) L ordre alphabetique des lois"
     ],
     "answer": "B",
-    "explanation": "La hi?rarchie des normes place la Constitution au sommet, suivie des traites, des lois et des r?glements.",
+    "explanation": "La hiérarchie des normes place la Constitution au sommet, suivie des traites, des lois et des règlements.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que la responsabilite sans faute de l'?tat ?",
+    "question": "Qu'est-ce que la responsabilite sans faute de l'État ?",
     "options": [
-      "A) L ?tat ne peut jamais etre condamne",
-      "B) L ?tat peut etre condamne a indemniser meme sans avoir commis de faute",
+      "A) L État ne peut jamais etre condamne",
+      "B) L État peut etre condamne a indemniser meme sans avoir commis de faute",
       "C) La responsabilite personnelle des fonctionnaires",
-      "D) L ?tat est responsable uniquement des accidents"
+      "D) L État est responsable uniquement des accidents"
     ],
     "answer": "B",
     "explanation": "La responsabilite sans faute repose sur le principe d egalite devant les charges publiques.",
@@ -11373,10 +11373,10 @@ const QUIZ_QUESTIONS = [
   {
     "question": "Qu'est-ce qu un contrat administratif ?",
     "options": [
-      "A) Un contrat entre deux entreprises privees",
+      "A) Un contrat entre deux entreprises privées",
       "B) Un contrat conclu par une personne publique dans le cadre d une mission de service public",
       "C) Un acte unilateral de l administration",
-      "D) Un accord entre deux ?tats"
+      "D) Un accord entre deux États"
     ],
     "answer": "B",
     "explanation": "Le contrat administratif implique au moins une personne publique et presente des clauses exorbitantes du droit commun.",
@@ -11385,29 +11385,29 @@ const QUIZ_QUESTIONS = [
   {
     "question": "Quelle est la procedure de revision constitutionnelle en CI ?",
     "options": [
-      "A) Uniquement par r?f?rendum",
+      "A) Uniquement par référendum",
       "B) Par le Parlement seul a la majorite simple",
-      "C) Par le Parlement a la majorite des 3/5 ou par r?f?rendum a l initiative du Pr?sident",
+      "C) Par le Parlement a la majorite des 3/5 ou par référendum a l initiative du Président",
       "D) Par le Conseil constitutionnel"
     ],
     "answer": "C",
-    "explanation": "La revision peut etre adoptee par le Parlement (3/5) ou soumise a r?f?rendum.",
+    "explanation": "La revision peut etre adoptee par le Parlement (3/5) ou soumise a référendum.",
     "theme": "Droit administratif"
   },
   {
     "question": "Qu'est-ce qu une loi organique en droit ivoirien ?",
     "options": [
-      "A) Une loi votee par r?f?rendum",
+      "A) Une loi votee par référendum",
       "B) Une loi qui precise la Constitution dans les domaines qu elle designe expressement",
       "C) Une loi adoptee a l unanimite",
-      "D) Un decret du Pr?sident"
+      "D) Un decret du Président"
     ],
     "answer": "B",
     "explanation": "Les lois organiques completent la Constitution et sont superieures aux lois ordinaires.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : le preambule de la Constitution de 2016 a-t-il une valeur juridique ?",
+    "question": "Piège : le preambule de la Constitution de 2016 a-t-il une valeur juridique ?",
     "options": [
       "A) Non c est un simple texte declaratoire",
       "B) Oui il fait partie du bloc de constitutionnalit?",
@@ -11423,8 +11423,8 @@ const QUIZ_QUESTIONS = [
     "options": [
       "A) Un acte ne peut pas etre abroge",
       "B) Un acte administratif ne peut produire d effets que pour l avenir pas pour le passe",
-      "C) Les actes s appliquent uniquement aux ?trangers",
-      "D) Les r?glements ne s appliquent qu au moment de leur signature"
+      "C) Les actes s appliquent uniquement aux étrangers",
+      "D) Les règlements ne s appliquent qu au moment de leur signature"
     ],
     "answer": "B",
     "explanation": "L acte administratif prend effet a sa publication. Il ne peut pas s appliquer retroactivement.",
@@ -11455,15 +11455,15 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que l exception d illegalite en droit administratif ?",
+    "question": "Qu'est-ce que l exception d d'd'd'illégalité en droit administratif ?",
     "options": [
       "A) Impossibilite d attaquer un acte apres 2 mois",
-      "B) La possibilite de soulever l illegalite d un acte r?glementaire de facon incidente lors d un litige meme hors delai de recours",
+      "B) La possibilite de soulever l d'd'd'illégalité d un acte règlementaire de facon incidente lors d un litige meme hors delai de recours",
       "C) L annulation automatique de tout acte illegal",
       "D) Un recours special devant le Conseil constitutionnel"
     ],
     "answer": "B",
-    "explanation": "L exception d illegalite est imprescriptible pour les actes r?glementaires.",
+    "explanation": "L exception d d'd'd'illégalité est imprescriptible pour les actes règlementaires.",
     "theme": "Droit administratif"
   },
   {
@@ -11491,22 +11491,22 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : le service public peut-il etre gere par une personne privee ?",
+    "question": "Piège : le service public peut-il etre gere par une personne privée ?",
     "options": [
-      "A) Non seul l'?tat peut gerer un service public",
+      "A) Non seul l'État peut gerer un service public",
       "B) Oui via la delegation de service public (concession affermage)",
       "C) Oui mais uniquement les services industriels",
       "D) Non c est inconstitutionnel"
     ],
     "answer": "B",
-    "explanation": "La d?l?gation de service public permet de confier la gestion a un prive.",
+    "explanation": "La délégation de service public permet de confier la gestion a un privé.",
     "theme": "Droit administratif"
   },
   {
     "question": "Qu'est-ce qu un contrat de concession de service public ?",
     "options": [
       "A) Un contrat de travail d un fonctionnaire",
-      "B) Un contrat par lequel une personne publique confie a un prive la gestion d un service public a ses risques et perils",
+      "B) Un contrat par lequel une personne publique confie a un privé la gestion d un service public a ses risques et perils",
       "C) Un accord international",
       "D) Un marche public de fournitures"
     ],
@@ -11520,7 +11520,7 @@ const QUIZ_QUESTIONS = [
       "A) Aucune distinction",
       "B) Marche public : remuneration par l administration ; delegation : remuneration par les usagers ou les resultats",
       "C) Marche public = travaux delegation = services",
-      "D) La d?l?gation s applique uniquement aux communes"
+      "D) La délégation s applique uniquement aux communes"
     ],
     "answer": "B",
     "explanation": "La difference : le mode de remuneration et le transfert du risque d exploitation.",
@@ -11530,12 +11530,12 @@ const QUIZ_QUESTIONS = [
     "question": "Qu'est-ce que l IGE en CI ?",
     "options": [
       "A) Un tribunal administratif",
-      "B) Un corps de controle charge d inspecter les services de l'?tat et de lutter contre la corruption",
+      "B) Un corps de contrôle charge d inspecter les services de l'État et de lutter contre la corruption",
       "C) Le service de securite de la presidence",
       "D) Un organe de l Assemblee nationale"
     ],
     "answer": "B",
-    "explanation": "L Inspection Generale d ?tat placee aupres du Pr?sident controle l utilisation des ressources publiques.",
+    "explanation": "L Inspection Generale d État placee aupres du Président contrôle l utilisation des ressources publiques.",
     "theme": "Droit administratif"
   },
   {
@@ -11551,7 +11551,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : un fonctionnaire peut-il refuser d obeir a un ordre manifestement illegal ?",
+    "question": "Piège : un fonctionnaire peut-il refuser d obeir a un ordre manifestement illegal ?",
     "options": [
       "A) Non l obeissance hierarchique est absolue",
       "B) Oui il peut et doit refuser un ordre manifestement illegal comprometant serieusement un interet public",
@@ -11571,7 +11571,7 @@ const QUIZ_QUESTIONS = [
       "D) Une sanction disciplinaire"
     ],
     "answer": "B",
-    "explanation": "La disponibilite est une position administrative temporaire sans remuneration de l'?tat.",
+    "explanation": "La disponibilite est une position administrative temporaire sans remuneration de l'État.",
     "theme": "Droit administratif"
   },
   {
@@ -11587,7 +11587,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge tres difficile : un acte nul et un acte inexistant sont-ils identiques ?",
+    "question": "Piège tres difficile : un acte nul et un acte inexistant sont-ils identiques ?",
     "options": [
       "A) Oui synonymes",
       "B) Non : l acte nul a une apparence juridique et doit etre annule ; l acte inexistant n a aucune valeur et peut etre ignore",
@@ -11599,12 +11599,12 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que le recours en cassation devant la chambre administrative de la Cour Supr?me ?",
+    "question": "Qu'est-ce que le recours en cassation devant la chambre administrative de la Cour Suprême ?",
     "options": [
       "A) Un appel qui rejuge les faits",
-      "B) Un recours qui controle uniquement la legalite de la decision sans reexaminer les faits",
-      "C) Un recours reserve aux ?trangers",
-      "D) Un recours en responsabilite de l'?tat"
+      "B) Un recours qui contrôle uniquement la légalité de la decision sans reexaminer les faits",
+      "C) Un recours reserve aux étrangers",
+      "D) Un recours en responsabilite de l'État"
     ],
     "answer": "B",
     "explanation": "La cassation verifie que la loi a ete correctement appliquee sans rejuger les faits.",
@@ -11635,10 +11635,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : la force majeure exonere-t-elle toujours l'?tat de sa responsabilite ?",
+    "question": "Piège : la force majeure exonere-t-elle toujours l'État de sa responsabilite ?",
     "options": [
       "A) Oui toujours et totalement",
-      "B) Non l'?tat reste responsable pour certains services dangereux meme en cas de force majeure",
+      "B) Non l'État reste responsable pour certains services dangereux meme en cas de force majeure",
       "C) Oui si l evenement est imprevisible et irresistible",
       "D) Non la force majeure n existe pas en droit administratif"
     ],
@@ -11647,15 +11647,15 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que le principe de continuite de l'?tat ?",
+    "question": "Qu'est-ce que le principe de continuite de l'État ?",
     "options": [
-      "A) L ?tat dure indefiniment et ses engagements subsistent au-dela des gouvernements successifs",
-      "B) Le Pr?sident ne peut pas demissionner",
+      "A) L État dure indefiniment et ses engagements subsistent au-dela des gouvernements successifs",
+      "B) Le Président ne peut pas demissionner",
       "C) Les lois ne peuvent pas etre abrogees",
-      "D) Les fonctionnaires restent en poste independamment des ?lections"
+      "D) Les fonctionnaires restent en poste independamment des élections"
     ],
     "answer": "A",
-    "explanation": "La continuite de l'?tat : ses engagements juridiques et financiers subsistent malgre les changements de gouvernement.",
+    "explanation": "La continuite de l'État : ses engagements juridiques et financiers subsistent malgre les changements de gouvernement.",
     "theme": "Droit administratif"
   },
   {
@@ -11664,14 +11664,14 @@ const QUIZ_QUESTIONS = [
       "A) Un fonctionnaire ne peut jamais etre poursuivi penalement",
       "B) La faute grave qui revele un comportement incompatible avec les obligations du service exposant le fonctionnaire a des poursuites",
       "C) Seul le ministre peut etre poursuivi",
-      "D) La faute personnelle engage l'?tat"
+      "D) La faute personnelle engage l'État"
     ],
     "answer": "B",
     "explanation": "La faute personnelle detachable engage la responsabilite personnelle du fonctionnaire (ex corruption violence deliberee).",
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : l annulation d un acte administratif par le juge a-t-elle un effet retroactif ?",
+    "question": "Piège : l annulation d un acte administratif par le juge a-t-elle un effet retroactif ?",
     "options": [
       "A) Non l annulation ne vaut que pour l avenir",
       "B) Oui l annulation a un effet retroactif : l acte est cense n avoir jamais existe",
@@ -11695,7 +11695,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que le controle de legalite interne d un acte administratif ?",
+    "question": "Qu'est-ce que le contrôle de légalité interne d un acte administratif ?",
     "options": [
       "A) Verifier la signature",
       "B) Verifier le fond : le but les motifs de droit et de fait et l objet de l acte",
@@ -11703,23 +11703,23 @@ const QUIZ_QUESTIONS = [
       "D) Verifier la competence de l auteur"
     ],
     "answer": "B",
-    "explanation": "Le controle interne porte sur le fond : but motifs de droit motifs de fait contenu.",
+    "explanation": "Le contrôle interne porte sur le fond : but motifs de droit motifs de fait contenu.",
     "theme": "Droit administratif"
   },
   {
     "question": "Qu'est-ce que le pouvoir de tutelle administrative en CI ?",
     "options": [
       "A) La supervision des orphelins",
-      "B) Le controle exerce par l'?tat sur les collectivites locales et EPN pour garantir la legalite",
-      "C) La supervision des entreprises ?trangeres",
-      "D) Le controle du Pr?sident sur les ministres"
+      "B) Le contrôle exerce par l'État sur les collectivités locales et EPN pour garantir la légalité",
+      "C) La supervision des entreprises étrangères",
+      "D) Le contrôle du Président sur les ministres"
     ],
     "answer": "B",
-    "explanation": "La tutelle administrative permet a l'?tat de controler les actes des collectivites locales et EPN.",
+    "explanation": "La tutelle administrative permet a l'État de contrôler les actes des collectivités locales et EPN.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : un fonctionnaire detache peut-il etre discipline par son administration d accueil ET son corps d origine ?",
+    "question": "Piège : un fonctionnaire detache peut-il etre discipline par son administration d accueil ET son corps d origine ?",
     "options": [
       "A) Non seule l administration d accueil est competente",
       "B) Non seul le corps d origine l est",
@@ -11731,11 +11731,11 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que la responsabilite de l'?tat du fait des lois ?",
+    "question": "Qu'est-ce que la responsabilite de l'État du fait des lois ?",
     "options": [
-      "A) L ?tat ne peut jamais etre condamne pour une loi",
-      "B) Une loi ne peut pas engager la responsabilite de l'?tat",
-      "C) L ?tat peut etre condamne si une loi cause un prejudice anormal et special meme si elle est legale",
+      "A) L État ne peut jamais etre condamne pour une loi",
+      "B) Une loi ne peut pas engager la responsabilite de l'État",
+      "C) L État peut etre condamne si une loi cause un prejudice anormal et special meme si elle est legale",
       "D) Seul le Parlement est responsable des lois"
     ],
     "answer": "C",
@@ -11751,7 +11751,7 @@ const QUIZ_QUESTIONS = [
       "D) Les agents doivent croire en leur mission"
     ],
     "answer": "B",
-    "explanation": "La bonne foi implique que l administration agit loyalement et respecte les expectatives legitimes creees.",
+    "explanation": "La bonne foi implique que l administration agit loyalement et respecte les expectatives legitimes créées.",
     "theme": "Droit administratif"
   },
   {
@@ -11767,39 +11767,39 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce qu un acte r?glementaire en droit administratif ?",
+    "question": "Qu'est-ce qu un acte règlementaire en droit administratif ?",
     "options": [
       "A) Un acte individuel visant une personne nommement designee",
       "B) Un acte a portee generale et impersonnelle qui s applique a tous",
       "C) Un acte du Parlement",
-      "D) Un acte des collectivites locales uniquement"
+      "D) Un acte des collectivités locales uniquement"
     ],
     "answer": "B",
-    "explanation": "L acte r?glementaire a une portee generale : il s applique a toutes les personnes dans la situation qu il definit.",
+    "explanation": "L acte règlementaire a une portee generale : il s applique a toutes les personnes dans la situation qu il definit.",
     "theme": "Droit administratif"
   },
   {
     "question": "Quelle est la difference entre un acte administratif unilateral et un contrat administratif ?",
     "options": [
-      "A) Aucune diff?rence",
+      "A) Aucune différence",
       "B) L acte unilateral est impose sans consentement du destinataire ; le contrat implique un accord de volontes entre les parties",
       "C) Le contrat est superieur a l acte unilateral",
-      "D) L acte unilateral est reserved au Pr?sident"
+      "D) L acte unilateral est reserved au Président"
     ],
     "answer": "B",
     "explanation": "L acte unilateral s impose sans accord ; le contrat resulte d un accord de volontes entre personne publique et cocontractant.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que la prescription quadriennale des creances contre l'?tat ?",
+    "question": "Qu'est-ce que la prescription quadriennale des creances contre l'État ?",
     "options": [
-      "A) L ?tat doit payer ses dettes en 4 mois",
-      "B) Les creances non reclamees contre l'?tat se prescrivent (s eteignent) apres 4 ans",
-      "C) Les impots non payes se prescrivent apres 4 ans",
+      "A) L État doit payer ses dettes en 4 mois",
+      "B) Les creances non reclamees contre l'État se prescrivent (s eteignent) apres 4 ans",
+      "C) Les impôts non payes se prescrivent apres 4 ans",
       "D) Les contrats administratifs expirent apres 4 ans"
     ],
     "answer": "B",
-    "explanation": "La prescription quadriennale (4 ans en droit francais inspire le droit ivoirien) eteint les creances non reclamees contre l'?tat.",
+    "explanation": "La prescription quadriennale (4 ans en droit francais inspire le droit ivoirien) eteint les creances non reclamees contre l'État.",
     "theme": "Droit administratif"
   },
   {
@@ -11811,7 +11811,7 @@ const QUIZ_QUESTIONS = [
       "D) Un acte qui nomme un fonctionnaire"
     ],
     "answer": "B",
-    "explanation": "Un acte declaratif (ex diplome reconnaissance de nationalit?) constate ; il ne cree pas de droits nouveaux contrairement a l acte constitutif.",
+    "explanation": "Un acte declaratif (ex diplome reconnaissance de nationalité) constate ; il ne cree pas de droits nouveaux contrairement a l acte constitutif.",
     "theme": "Droit administratif"
   },
   {
@@ -11839,7 +11839,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : retrait et abrogation d un acte administratif ont-ils les memes effets ?",
+    "question": "Piège : retrait et abrogation d un acte administratif ont-ils les memes effets ?",
     "options": [
       "A) Oui identiques",
       "B) Non : retrait = effet retroactif (l acte est cense n avoir jamais existe) ; abrogation = effet seulement pour l avenir",
@@ -11853,7 +11853,7 @@ const QUIZ_QUESTIONS = [
   {
     "question": "Qu'est-ce que le principe de la securite des relations juridiques ?",
     "options": [
-      "A) L ?tat garantit la securite physique des citoyens",
+      "A) L État garantit la securite physique des citoyens",
       "B) Les relations juridiques etablies ne peuvent pas etre remises en cause indefiniment ; il faut des delais de stabilisation",
       "C) Les contrats ne peuvent pas etre modifies",
       "D) Les lois ne peuvent pas etre changees"
@@ -11866,12 +11866,12 @@ const QUIZ_QUESTIONS = [
     "question": "Qu'est-ce que l erreur manifeste d appreciation en droit administratif ?",
     "options": [
       "A) Une erreur de calcul dans un acte administratif",
-      "B) Une erreur grossiere dans l appreciation des faits par l administration qui entraine l illegalite de l acte",
+      "B) Une erreur grossiere dans l appreciation des faits par l administration qui entraine l d'd'd'illégalité de l acte",
       "C) Une faute professionnelle d un fonctionnaire",
       "D) Un acte redige avec des erreurs de forme"
     ],
     "answer": "B",
-    "explanation": "L erreur manifeste d appreciation est un controle restreint du juge : il censure les erreurs grossieres dans l appreciation des faits par l administration.",
+    "explanation": "L erreur manifeste d appreciation est un contrôle restreint du juge : il censure les erreurs grossieres dans l appreciation des faits par l administration.",
     "theme": "Droit administratif"
   },
   {
@@ -11880,7 +11880,7 @@ const QUIZ_QUESTIONS = [
       "A) Remplacer un agent par un autre",
       "B) Le pouvoir du superieur de se substituer a l autorite inferieure defaillante pour agir a sa place",
       "C) Le droit de l administre de faire appel",
-      "D) La d?l?gation de signature"
+      "D) La délégation de signature"
     ],
     "answer": "B",
     "explanation": "La substitution d action permet au superieur (ex prefet) d agir a la place d une autorite locale defaillante pour garantir l execution des obligations legales.",
@@ -11889,22 +11889,22 @@ const QUIZ_QUESTIONS = [
   {
     "question": "Qu'est-ce que le principe de la responsabilite pour risque en droit administratif ?",
     "options": [
-      "A) L ?tat est responsable uniquement si ses agents ont commis une faute",
-      "B) L ?tat est responsable du simple fait de la creation d une situation dangereuse meme sans faute",
-      "C) L ?tat n est jamais responsable pour risque",
-      "D) La responsabilite pour risque n existe qu en droit priv?"
+      "A) L État est responsable uniquement si ses agents ont commis une faute",
+      "B) L État est responsable du simple fait de la creation d une situation dangereuse meme sans faute",
+      "C) L État n est jamais responsable pour risque",
+      "D) La responsabilite pour risque n existe qu en droit privé"
     ],
     "answer": "B",
-    "explanation": "La responsabilite pour risque engage l'?tat du fait d activites dangereuses (armes explosifs) meme en l absence de faute.",
+    "explanation": "La responsabilite pour risque engage l'État du fait d activites dangereuses (armes explosifs) meme en l absence de faute.",
     "theme": "Droit administratif"
   },
   {
     "question": "Qu'est-ce que la Commission Administrative Paritaire (CAP) dans la fonction publique ivoirienne ?",
     "options": [
       "A) Un tribunal pour fonctionnaires",
-      "B) Un organisme consultatif paritaire (autant d elus du personnel que de representants de l administration) consulte sur les decisions individuelles (mutations avancement sanctions)",
+      "B) Un organisme consultatif paritaire (autant d élus du personnel que de representants de l administration) consulte sur les decisions individuelles (mutations avancement sanctions)",
       "C) Un syndicat de fonctionnaires",
-      "D) Une instance de controle budg?taire"
+      "D) Une instance de contrôle budgétaire"
     ],
     "answer": "B",
     "explanation": "La CAP est consultee sur les decisions individuelles concernant la carriere des fonctionnaires.",
@@ -11923,15 +11923,15 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : un fonctionnaire condamne penalement peut-il etre aussi sanctionne disciplinairement pour les memes faits ?",
+    "question": "Piège : un fonctionnaire condamne penalement peut-il etre aussi sanctionne disciplinairement pour les memes faits ?",
     "options": [
       "A) Non le principe non bis in idem l interdit",
-      "B) Oui les deux procedures sont independantes",
+      "B) Oui les deux procedures sont indépendantes",
       "C) Non il faut choisir l une ou l autre",
       "D) Oui mais uniquement si la peine est superieure a 6 mois"
     ],
     "answer": "B",
-    "explanation": "Les procedures penale et disciplinaire sont independantes. Un meme fait peut donner lieu a une sanction penale et a une sanction disciplinaire.",
+    "explanation": "Les procedures penale et disciplinaire sont indépendantes. Un meme fait peut donner lieu a une sanction penale et a une sanction disciplinaire.",
     "theme": "Droit administratif"
   },
   {
@@ -11971,7 +11971,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : un fonctionnaire suspendu pendant une enquete disciplinaire a-t-il droit a son salaire ?",
+    "question": "Piège : un fonctionnaire suspendu pendant une enquete disciplinaire a-t-il droit a son salaire ?",
     "options": [
       "A) Non il perd tout droit a remuneration",
       "B) Oui il conserve sa remuneration pendant la periode de suspension dans l attente de la decision",
@@ -12000,7 +12000,7 @@ const QUIZ_QUESTIONS = [
       "A) Un service gere via internet",
       "B) Un service public organise en infrastructure nationale (eau electricite transport rail) qui necessite des investissements lourds et un acces universel",
       "C) Un service public gerant les reseaux sociaux",
-      "D) Un service prive de telecommunications"
+      "D) Un service privé de telecommunications"
     ],
     "answer": "B",
     "explanation": "Les services en reseau (eau electricite routes ferrees) sont des services publics a acces universel necessitant des infrastructures nationales.",
@@ -12010,12 +12010,12 @@ const QUIZ_QUESTIONS = [
     "question": "Qu'est-ce que le pouvoir de police administrative ?",
     "options": [
       "A) Le pouvoir de la police judiciaire de poursuivre les criminels",
-      "B) Le pouvoir des autorites administratives de restreindre les libert?s individuelles pour maintenir l ordre public",
+      "B) Le pouvoir des autorites administratives de restreindre les libertés individuelles pour maintenir l ordre public",
       "C) Le pouvoir du Parlement de voter des lois securitaires",
       "D) Le pouvoir des communes de creer des services de securite"
     ],
     "answer": "B",
-    "explanation": "La police administrative permet a l administration de prevenir les troubles a l ordre public en imposant des restrictions aux libert?s.",
+    "explanation": "La police administrative permet a l administration de prevenir les troubles a l ordre public en imposant des restrictions aux libertés.",
     "theme": "Droit administratif"
   },
   {
@@ -12031,7 +12031,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : la police administrative peut-elle etre exercee par une personne privee ?",
+    "question": "Piège : la police administrative peut-elle etre exercee par une personne privée ?",
     "options": [
       "A) Non, c'est une prerogative de puissance publique",
       "B) Oui dans le cadre de la delegation de service public",
@@ -12039,23 +12039,23 @@ const QUIZ_QUESTIONS = [
       "D) Non meme en cas de delegation"
     ],
     "answer": "A",
-    "explanation": "La police administrative est une prerogative de puissance publique et ne se delegate pas a une personne privee.",
+    "explanation": "La police administrative est une prerogative de puissance publique et ne se delegate pas a une personne privée.",
     "theme": "Droit administratif"
   },
   {
     "question": "Qu'est-ce que le domaine public en droit administratif ivoirien ?",
     "options": [
-      "A) L ensemble des biens prives de l'?tat",
-      "B) L ensemble des biens affectes a l usage direct du public ou a un service public et soumis a un r?gime de protection special",
-      "C) Les terres agricoles de l'?tat",
-      "D) Les immeubles des minist?res uniquement"
+      "A) L ensemble des biens privés de l'État",
+      "B) L ensemble des biens affectes a l usage direct du public ou a un service public et soumis a un régime de protection special",
+      "C) Les terres agricoles de l'État",
+      "D) Les immeubles des ministères uniquement"
     ],
     "answer": "B",
     "explanation": "Le domaine public est insaisissable inalienable et imprescriptible. Il comprend les routes les ponts les cours d eau navigables etc.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : l'?tat peut-il vendre un bien du domaine public ivoirien ?",
+    "question": "Piège : l'État peut-il vendre un bien du domaine public ivoirien ?",
     "options": [
       "A) Oui librement",
       "B) Non le domaine public est inalienable ; il faut d abord le desaffecter du domaine public pour le vendre",
@@ -12067,22 +12067,22 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que le droit de preemption de l'?tat en CI ?",
+    "question": "Qu'est-ce que le droit de preemption de l'État en CI ?",
     "options": [
-      "A) Le droit de l'?tat d acheter en priorite certains biens mis en vente",
-      "B) Le droit de l'?tat de prendre les biens sans indemnisation",
-      "C) Le droit de l'?tat de louer des proprietes privees",
-      "D) Le droit de l'?tat de reclamer des impots en priorite"
+      "A) Le droit de l'État d acheter en priorite certains biens mis en vente",
+      "B) Le droit de l'État de prendre les biens sans indemnisation",
+      "C) Le droit de l'État de louer des propriétés privées",
+      "D) Le droit de l'État de réclamer des impôts en priorite"
     ],
     "answer": "A",
-    "explanation": "Le droit de preemption permet a l'?tat d acquerir en priorite certains biens mis en vente notamment dans le cadre de l amenagement du territoire.",
+    "explanation": "Le droit de preemption permet a l'État d acquerir en priorite certains biens mis en vente notamment dans le cadre de l amenagement du territoire.",
     "theme": "Droit administratif"
   },
   {
     "question": "Qu'est-ce que l expropriation pour cause d utilite publique ?",
     "options": [
       "A) La confiscation des biens des criminels",
-      "B) La procedure permettant a l'?tat de prendre propriete d un bien prive contre une indemnisation juste et prealable pour un projet d interet general",
+      "B) La procedure permettant a l'État de prendre propriete d un bien privé contre une indemnisation juste et prealable pour un projet d interet general",
       "C) La saisie des biens en cas de dettes fiscales",
       "D) La nationalisation d une entreprise"
     ],
@@ -12091,12 +12091,12 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : l expropriation sans indemnisation est-elle possible en CI ?",
+    "question": "Piège : l expropriation sans indemnisation est-elle possible en CI ?",
     "options": [
       "A) Oui en cas d urgence nationale",
       "B) Non elle est inconstitutionnelle : l indemnisation juste et prealable est une garantie constitutionnelle",
       "C) Oui avec l accord du Conseil constitutionnel",
-      "D) Oui uniquement pour les ?trangers"
+      "D) Oui uniquement pour les étrangers"
     ],
     "answer": "B",
     "explanation": "La Constitution garantit le droit de propriete. L expropriation n est possible qu avec une juste et prealable indemnisation.",
@@ -12119,7 +12119,7 @@ const QUIZ_QUESTIONS = [
     "options": [
       "A) Un recours qui ne peut annuler un acte",
       "B) Un recours ou le juge peut annuler reformer ou condamner l administration a payer des dommages et interets",
-      "C) Un recours reserve aux ?trangers",
+      "C) Un recours reserve aux étrangers",
       "D) Un recours devant le Conseil constitutionnel"
     ],
     "answer": "B",
@@ -12130,16 +12130,16 @@ const QUIZ_QUESTIONS = [
     "question": "Qu'est-ce qu un arrete ministeriel ?",
     "options": [
       "A) Un arrete pris par le Premier ministre",
-      "B) Un acte r?glementaire ou individuel pris par un ministre dans le cadre de ses attributions",
+      "B) Un acte règlementaire ou individuel pris par un ministre dans le cadre de ses attributions",
       "C) Une loi adoptee par le Parlement",
-      "D) Un decret pr?sidentiel"
+      "D) Un decret présidentiel"
     ],
     "answer": "B",
     "explanation": "L arrete ministeriel est un acte de l executif pris par un ministre. Il a une portee inferieure aux decrets.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que la hi?rarchie des actes administratifs en CI ?",
+    "question": "Qu'est-ce que la hiérarchie des actes administratifs en CI ?",
     "options": [
       "A) Les decrets > les arretes ministeriels > les arretes prefectoraux > les arretes municipaux",
       "B) Les arretes municipaux > les arretes prefectoraux",
@@ -12147,7 +12147,7 @@ const QUIZ_QUESTIONS = [
       "D) Tous les actes administratifs ont la meme valeur"
     ],
     "answer": "A",
-    "explanation": "La hi?rarchie : decrets presidetiels > decrets en conseil des ministres > arretes ministeriels > arretes prefectoraux > arretes municipaux.",
+    "explanation": "La hiérarchie : decrets presidetiels > decrets en conseil des ministres > arretes ministeriels > arretes prefectoraux > arretes municipaux.",
     "theme": "Droit administratif"
   },
   {
@@ -12155,7 +12155,7 @@ const QUIZ_QUESTIONS = [
     "options": [
       "A) L administration a une totale liberte de choix",
       "B) L administration n a pas de liberte de choix : la loi definit precisement ce qu elle doit faire et comment",
-      "C) La competence exclusive d un minist?re",
+      "C) La competence exclusive d un ministère",
       "D) La competence partagee entre deux autorites"
     ],
     "answer": "B",
@@ -12163,39 +12163,39 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : l administration peut-elle abroger un r?glement en vigueur a tout moment ?",
+    "question": "Piège : l administration peut-elle abroger un règlement en vigueur a tout moment ?",
     "options": [
-      "A) Non elle doit maintenir les r?glements en vigueur indefiniment",
-      "B) Oui l administration peut abroger ses propres r?glements a tout moment sauf si l abrogation porte atteinte aux droits acquis",
+      "A) Non elle doit maintenir les règlements en vigueur indefiniment",
+      "B) Oui l administration peut abroger ses propres règlements a tout moment sauf si l abrogation porte atteinte aux droits acquis",
       "C) Oui mais uniquement avec l accord du Parlement",
-      "D) Non seul le juge peut abroger un r?glement"
+      "D) Non seul le juge peut abroger un règlement"
     ],
     "answer": "B",
-    "explanation": "L administration a le droit et parfois l obligation d abroger ses r?glements illegaux. Cependant l abrogation ne peut pas porter atteinte a des droits acquis legitimes.",
+    "explanation": "L administration a le droit et parfois l obligation d abroger ses règlements illegaux. Cependant l abrogation ne peut pas porter atteinte a des droits acquis legitimes.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce que le principe de la hi?rarchie administrative ?",
+    "question": "Qu'est-ce que le principe de la hiérarchie administrative ?",
     "options": [
       "A) Les fonctionnaires sont ordonnes par salaire",
-      "B) Le superieur hierarchique peut donner des instructions a ses subordonnes et exercer sur eux un pouvoir de controle et de sanction",
+      "B) Le superieur hierarchique peut donner des instructions a ses subordonnes et exercer sur eux un pouvoir de contrôle et de sanction",
       "C) Tous les agents ont la meme autorite",
       "D) Le plus ancien commande toujours"
     ],
     "answer": "B",
-    "explanation": "La hi?rarchie administrative implique que le superieur peut donner des instructions des ordres et exercer un pouvoir disciplinaire sur ses subordonnes.",
+    "explanation": "La hiérarchie administrative implique que le superieur peut donner des instructions des ordres et exercer un pouvoir disciplinaire sur ses subordonnes.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Qu'est-ce qu une autorite administrative independante (AAI) ?",
+    "question": "Qu'est-ce qu une autorite administrative indépendante (AAI) ?",
     "options": [
       "A) Un tribunal administratif",
-      "B) Une structure administrative dotee d une independance vis-a-vis du gouvernement creee pour reguler des secteurs sensibles",
-      "C) Un minist?re autonome",
-      "D) Une collectivit? territoriale"
+      "B) Une structure administrative dotée d une indépendance vis-a-vis du gouvernement créée pour réguler des secteurs sensibles",
+      "C) Un ministère autonome",
+      "D) Une collectivité territoriale"
     ],
     "answer": "B",
-    "explanation": "Les AAI (ex ARTCI HACA CMI) sont des structures administratives independantes du gouvernement chargees de reguler des secteurs qui necessitent une neutralite politique.",
+    "explanation": "Les AAI (ex ARTCI HACA CMI) sont des structures administratives indépendantes du gouvernement chargees de réguler des secteurs qui necessitent une neutralite politique.",
     "theme": "Droit administratif"
   },
   {
@@ -12207,19 +12207,19 @@ const QUIZ_QUESTIONS = [
       "D) Haute Administration des Charges et Achats"
     ],
     "answer": "B",
-    "explanation": "La HACA est l autorite administrative independante chargee de reguler la communication audiovisuelle (television radio) en C?te d'Ivoire.",
+    "explanation": "La HACA est l autorite administrative indépendante chargee de réguler la communication audiovisuelle (television radio) en Côte d'Ivoire.",
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : les AAI (autorites administratives independantes) font-elles partie de l'?tat ?",
+    "question": "Piège : les AAI (autorites administratives indépendantes) font-elles partie de l'État ?",
     "options": [
-      "A) Non elles sont totalement independantes",
-      "B) Oui elles font partie de l'?tat mais disposent d une independance organique et fonctionnelle vis-a-vis du gouvernement",
-      "C) Non elles sont des organismes prives",
-      "D) Oui elles sont sous l autorite directe du Pr?sident"
+      "A) Non elles sont totalement indépendantes",
+      "B) Oui elles font partie de l'État mais disposent d une indépendance organique et fonctionnelle vis-a-vis du gouvernement",
+      "C) Non elles sont des organismes privés",
+      "D) Oui elles sont sous l autorite directe du Président"
     ],
     "answer": "B",
-    "explanation": "Les AAI font partie de l'?tat mais avec une independance institutionnelle garantissant leur neutralite par rapport au gouvernement du jour.",
+    "explanation": "Les AAI font partie de l'État mais avec une indépendance institutionnelle garantissant leur neutralite par rapport au gouvernement du jour.",
     "theme": "Droit administratif"
   },
   {
@@ -12227,7 +12227,7 @@ const QUIZ_QUESTIONS = [
     "options": [
       "A) La responsabilite penale des fonctionnaires",
       "B) Le litige devant le juge administratif tendant a obtenir la reparation d un dommage cause par une personne publique",
-      "C) Le contentieux fiscal entre l'?tat et les entreprises",
+      "C) Le contentieux fiscal entre l'État et les entreprises",
       "D) Les litiges entre fonctionnaires"
     ],
     "answer": "B",
@@ -12243,7 +12243,7 @@ const QUIZ_QUESTIONS = [
       "D) Une discrimination a l embauche dans la fonction publique"
     ],
     "answer": "B",
-    "explanation": "La rupture d egalite fonde la responsabilite sans faute : si l action de l'?tat cree un prejudice anormal et special l'?tat doit indemniser meme sans avoir commis de faute.",
+    "explanation": "La rupture d egalite fonde la responsabilite sans faute : si l action de l'État cree un prejudice anormal et special l'État doit indemniser meme sans avoir commis de faute.",
     "theme": "Droit administratif"
   },
   {
@@ -12252,7 +12252,7 @@ const QUIZ_QUESTIONS = [
       "A) Un recours pour annuler un acte",
       "B) Un recours tendant a obtenir une compensation financiere pour un prejudice subi du fait de l administration",
       "C) Un recours pour obtenir un logement social",
-      "D) Un recours contre les impots"
+      "D) Un recours contre les impôts"
     ],
     "answer": "B",
     "explanation": "Le recours indemnitaire (ou de plein contentieux) permet d obtenir la condamnation de l administration a payer des dommages et interets.",
@@ -12283,7 +12283,7 @@ const QUIZ_QUESTIONS = [
     "theme": "Droit administratif"
   },
   {
-    "question": "Pi?ge : le juge administratif peut-il adresser des injonctions a l administration en CI ?",
+    "question": "Piège : le juge administratif peut-il adresser des injonctions a l administration en CI ?",
     "options": [
       "A) Non le juge ne peut qu annuler les actes",
       "B) Oui depuis les reformes recentes le juge administratif peut adresser des injonctions et prononcer des astreintes pour assurer l execution de ses decisions",
@@ -12300,10 +12300,10 @@ const QUIZ_QUESTIONS = [
       "A) Tous les actes doivent passer a la television",
       "B) Pour etre opposables les actes administratifs doivent etre portes a la connaissance de leurs destinataires par publication ou notification",
       "C) Les actes administratifs sont confidentiels",
-      "D) Seuls les decrets pr?sidentiels doivent etre publies"
+      "D) Seuls les decrets présidentiels doivent etre publies"
     ],
     "answer": "B",
-    "explanation": "La publicite des actes administratifs est une condition de leur opposabilite : les r?glements doivent etre publies les actes individuels notifies.",
+    "explanation": "La publicite des actes administratifs est une condition de leur opposabilite : les règlements doivent etre publies les actes individuels notifies.",
     "theme": "Droit administratif"
   },
   {
