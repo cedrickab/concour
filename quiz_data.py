@@ -5628,10 +5628,10 @@ THEME_3 = [
         "explanation": "L'UE compte 24 langues officielles."
     },
     {
-        "question": "Avec quel pourcentage a été élu le président gabonais Brice Clotaire Oligui N’Guema ?",
-        "options": ["A) 87 %", "B) 90,35 %", "C) 98,85 %"],
-        "answer": "C",
-        "explanation": "Il a été élu avec ce score."
+        "question": "Quel est le pourcentage de suffrages obtenu par Brice Clotaire Oligui N’Guema selon les résultats provisoires de l'élection présidentielle d'avril 2025 au Gabon ?",
+        "options": ["A) 87,50 %", "B) 90,35 %", "C) 94,85 %", "D) 98,85 %"],
+        "answer": "B",
+        "explanation": "Selon les résultats provisoires annoncés le 13 avril 2025 par le ministère de l'Intérieur, Brice Clotaire Oligui N'Guema a obtenu 90,35 % des voix (proclamation définitive le 25 avril 2025 à 94,85 % par la Cour constitutionnelle)."
     },
     {
         "question": "Qui est l’actuel secrétaire général de la francophonie ?",
@@ -6840,10 +6840,10 @@ THEME_3 = [
         "explanation": "Une année bissextile compte 366 jours."
     },
     {
-        "question": "Comment le président gabonais Brice Clotaire Oligui N'Guema est-il arrivé au pouvoir en 2023 ?",
-        "options": ["A) Par élection à 98,85 %", "B) Suite à un coup d'État militaire", "C) Par succession constitutionnelle", "D) Nommé par l'ONU"],
+        "question": "Comment Brice Clotaire Oligui N'Guema est-il d'abord arrivé au pouvoir au Gabon avant l'élection présidentielle de 2025 ?",
+        "options": ["A) Par élection en 2020", "B) Suite au coup d'État militaire du 30 août 2023", "C) Par succession constitutionnelle", "D) Sur décision de l'Union Africaine"],
         "answer": "B",
-        "explanation": "Il a pris le pouvoir suite à un coup d'État le 30 août 2023, renversant Ali Bongo."
+        "explanation": "Le général Oligui N'Guema a pris le pouvoir le 30 août 2023 à la tête du CTRI suite à un coup d'État renversant Ali Bongo, avant la transition et l'élection d'avril 2025."
     },
     {
         "question": "Qui a remporté le Ballon d'Or 2023 ?",
