@@ -12885,12 +12885,12 @@ const QUIZ_QUESTIONS = [
 ];
 
 const THEME_CATALOG = [
-  { name: "Culture G?n?rale ? Langue fran?aise", questions: QUIZ_QUESTIONS.slice(0, 150) },
-  { name: "Aptitude Verbale ? Ph?nom?nes lexicaux", questions: QUIZ_QUESTIONS.slice(150, 296) },
-  { name: "Culture G?n?rale ? G?ographie et connaissances", questions: QUIZ_QUESTIONS.slice(296, 483) },
+  { name: "Culture Générale — Langue française", questions: QUIZ_QUESTIONS.slice(0, 150) },
+  { name: "Aptitude Verbale — Phénomènes lexicaux", questions: QUIZ_QUESTIONS.slice(150, 296) },
+  { name: "Culture Générale — Géographie et connaissances", questions: QUIZ_QUESTIONS.slice(296, 483) },
   { name: "Organisations Internationales", questions: QUIZ_QUESTIONS.slice(483, 646) },
   { name: "English Grammar", questions: QUIZ_QUESTIONS.slice(646, 802) },
-  { name: "Culture G?n?rale ? Institutions et citoyennet?", questions: QUIZ_QUESTIONS.slice(802, 931) },
+  { name: "Culture Générale — Institutions et citoyenneté", questions: QUIZ_QUESTIONS.slice(802, 931) },
   { name: "Droit administratif", questions: QUIZ_QUESTIONS.slice(931, 1076) },
 ];
 

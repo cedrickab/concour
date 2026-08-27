@@ -14,8 +14,15 @@ const THEME_SPECS = [
 ];
 
 function getThemeCatalog() {
-    if (typeof THEME_CATALOG !== 'undefined' && Array.isArray(THEME_CATALOG) && THEME_CATALOG.length > 0) {
-        return THEME_CATALOG;
+    const rawCatalog = (typeof THEME_CATALOG !== 'undefined' && Array.isArray(THEME_CATALOG)) ? THEME_CATALOG : [];
+
+    if (rawCatalog.length > 0) {
+        return THEME_SPECS.map((spec, index) => ({
+            name: spec.name,
+            questions: Array.isArray(rawCatalog[index] && rawCatalog[index].questions)
+                ? rawCatalog[index].questions
+                : []
+        }));
     }
 
     if (!Array.isArray(QUIZ_QUESTIONS)) {
