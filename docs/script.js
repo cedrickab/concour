@@ -1,4 +1,4 @@
-﻿// Quiz ENA - JavaScript (static client-side version)
+// Quiz ENA - JavaScript (static client-side version)
 // Scoring: correct = +1, wrong = -1, skip = 0
 
 // ===== QUIZ ENGINE =====
@@ -14,27 +14,25 @@ const THEME_SPECS = [
 ];
 
 function getThemeCatalog() {
-    const rawCatalog = (typeof THEME_CATALOG !== 'undefined' && Array.isArray(THEME_CATALOG)) ? THEME_CATALOG : [];
-
-    if (rawCatalog.length > 0) {
-        return THEME_SPECS.map((spec, index) => ({
-            name: spec.name,
-            questions: Array.isArray(rawCatalog[index] && rawCatalog[index].questions)
-                ? rawCatalog[index].questions
-                : []
-        }));
-    }
-
     if (!Array.isArray(QUIZ_QUESTIONS)) {
         throw new Error('Quiz data is unavailable.');
     }
 
-    let start = 0;
-    return THEME_SPECS.map(spec => {
-        const questions = QUIZ_QUESTIONS.slice(start, start + spec.count);
-        start += spec.count;
-        return { name: spec.name, questions };
+    const themeMap = new Map();
+    QUIZ_QUESTIONS.forEach(q => {
+        const themeName = q.theme || "Culture Générale — Langue française";
+        if (!themeMap.has(themeName)) {
+            themeMap.set(themeName, []);
+        }
+        themeMap.get(themeName).push(q);
     });
+
+    const catalog = [];
+    themeMap.forEach((questions, name) => {
+        catalog.push({ name, questions });
+    });
+
+    return catalog;
 }
 
 function getQuizQuestions(numQuestions, selectedThemeNames) {

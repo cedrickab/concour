@@ -119,6 +119,28 @@ skipBtn.addEventListener('click', async () => {
 });
 
 // Charger une question
+async function getThemeCatalog() {
+    if (!Array.isArray(QUIZ_QUESTIONS)) {
+        throw new Error('Quiz data is unavailable.');
+    }
+
+    const themeMap = new Map();
+    QUIZ_QUESTIONS.forEach(q => {
+        const themeName = q.theme || "Culture Générale — Langue française";
+        if (!themeMap.has(themeName)) {
+            themeMap.set(themeName, []);
+        }
+        themeMap.get(themeName).push(q);
+    });
+
+    const catalog = [];
+    themeMap.forEach((questions, name) => {
+        catalog.push({ name, questions });
+    });
+
+    return catalog;
+}
+
 async function loadQuestion() {
     try {
         const response = await fetch('/get_question');

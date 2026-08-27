@@ -5664,10 +5664,10 @@ THEME_3 = [
         "explanation": "Le Qatar a organisé la Coupe du monde 2022."
     },
     {
-        "question": "En rugby, combien de points vaut un essai ?",
-        "options": ["A) 3", "B) 5", "C) 6", "D) 7"],
+        "question": "Dans le sport du rugby (à XV), combien de points rapporte un essai marqué (avant transformation) ?",
+        "options": ["A) 3 points", "B) 5 points", "C) 7 points", "D) 2 points"],
         "answer": "B",
-        "explanation": "Un essai au rugby vaut 5 points."
+        "explanation": "Un essai au rugby vaut 5 points (la transformation rapporte 2 points supplémentaires, une pénalité ou un drop vaut 3 points)."
     },
     {
         "question": "Quel club est le plus titré en Ligue des Champions CAF ?",
@@ -6036,12 +6036,6 @@ THEME_3 = [
         "explanation": "Le basketball se joue à 5 joueurs par équipe."
     },
     {
-        "question": "Combien de points vaut un essai au rugby ?",
-        "options": ["A) 3 points", "B) 4 points", "C) 5 points", "D) 7 points"],
-        "answer": "C",
-        "explanation": "Un essai vaut 5 points au rugby."
-    },
-    {
         "question": "Quel sportif est le plus médaillé de l'histoire des Jeux Olympiques ?",
         "options": ["A) Usain Bolt", "B) Carl Lewis", "C) Michael Phelps", "D) Mark Spitz"],
         "answer": "C",
@@ -6118,12 +6112,6 @@ THEME_3 = [
         "options": ["A) Los Angeles", "B) Londres", "C) Paris", "D) Tokyo"],
         "answer": "C",
         "explanation": "Les JO de 2024 se sont déroulés à Paris, en France."
-    },
-    {
-        "question": "Dans le sport du rugby (à XV), combien de points rapporte un essai marqué (avant transformation) ?",
-        "options": ["A) 3 points", "B) 5 points", "C) 7 points", "D) 2 points"],
-        "answer": "B",
-        "explanation": "Un essai vaut 5 points, la transformation 2 points, le drop et la pénalité 3 points."
     },
     {
         "question": "Le judo est un art martial originaire de quel pays ?",
