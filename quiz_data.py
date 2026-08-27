@@ -5293,7 +5293,7 @@ THEME_6 = [
         "question": "Qu'est-ce que l'?tat civil en CI ?",
         "options": ["A) Le registre des entreprises", "B) L'enregistrement des faits d'?tat civil (naissances, mariages, d?c?s) qui ?tablit l'identit? juridique des personnes", "C) Le registre des fonctionnaires", "D) La liste electorale"],
         "answer": "B",
-        "explanation": "L'?tat civil enregistre les ?v?nements majeurs de la vie (naissances, mariages, d?c?s) et ?tablit l'identit? juridique."
+        "explanation": "L'?tat civil enregistre les ??v?nements majeurs de la vie (naissances, mariages, d?c?s) et ?tablit l'identit? juridique."
     },
     {
         "question": "Qu'est-ce que le Tr?sor public en CI ?",
@@ -5344,22 +5344,22 @@ THEME_6 = [
         "explanation": "La Constitution de 2016 a aboli la peine de mort en CI. C est une avancee majeure des droits fondamentaux."
     },
     {
-        "question": "Qu'est-ce que le Parlement ivoirien en mati?re de contr?le du gouvernement ?",
-        "options": ["A) Il ne dispose d'aucun pouvoir de contr?le", "B) Il exerce un contr?le par les questions orales et ?crites, commissions d'enqu?te et motion de censure", "C) Il peut dissoudre le gouvernement ? tout moment", "D) Il peut refuser d appliquer les lois pr?sidentielles"],
+        "question": "Qu'est-ce que le Parlement ivoirien en matière de contrôle du gouvernement ?",
+        "options": ["A) Il ne dispose d'aucun pouvoir de contrôle", "B) Il exerce un contrôle par les questions orales et écrites, commissions d'enquête et motion de censure", "C) Il peut dissoudre le gouvernement à tout moment", "D) Il peut refuser d'appliquer les lois présidentielles"],
         "answer": "B",
-        "explanation": "Le Parlement ivoirien contr?le le gouvernement par les questions, les commissions et la motion de censure."
+        "explanation": "Le Parlement ivoirien contrôle le gouvernement par les questions, les commissions et la motion de censure."
     },
     {
-        "question": "Quel est le principe de la neutralite du service public ?",
-        "options": ["A) Le service public doit etre gratuit", "B) Le service public ne doit pas etre influence par des considerations politiques religieuses ou ideologiques", "C) Le service public ne peut pas sous-traiter", "D) Le service public doit etre gere par des fonctionnaires uniquement"],
+        "question": "Quel est le principe de la neutralité du service public ?",
+        "options": ["A) Le service public doit être gratuit", "B) Le service public ne doit pas être influencé par des considérations politiques, religieuses ou idéologiques", "C) Le service public ne peut pas sous-traiter", "D) Le service public doit être géré par des fonctionnaires uniquement"],
         "answer": "B",
-        "explanation": "La neutralite du service public garantit que les agents traitent tous les usagers de facon egale sans discrimination."
+        "explanation": "La neutralité du service public garantit que les agents traitent tous les usagers de façon égale sans discrimination."
     },
     {
-        "question": "Pi?ge : un fonctionnaire peut-il militer pour un parti politique en CI ?",
-        "options": ["A) Oui totalement sans restriction", "B) Non un fonctionnaire doit se garder de tout engagement politique ostensible dans l exercice de ses fonctions", "C) Oui mais uniquement apres les heures de service", "D) Non aucun fonctionnaire ne peut voter"],
+        "question": "Piège : un fonctionnaire peut-il militer pour un parti politique en CI ?",
+        "options": ["A) Oui totalement sans restriction", "B) Non, un fonctionnaire doit se garder de tout engagement politique ostensible dans l'exercice de ses fonctions", "C) Oui, mais uniquement après les heures de service", "D) Non, aucun fonctionnaire ne peut voter"],
         "answer": "B",
-        "explanation": "Le devoir de reserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l exercice de ses fonctions."
+        "explanation": "Le devoir de réserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l'exercice de ses fonctions."
     },
     {
         "question": "Qu'est-ce que la notion d autorite de l'?tat ?",
@@ -5404,28 +5404,28 @@ THEME_6 = [
         "explanation": "En CI les communes sont classees selon leur niveau d autonomie. Les communes de plein exercice ont plus de competences et de ressources."
     },
     {
-        "question": "Qu'est-ce que le principe de neutralite religieuse dans la fonction publique ivoirienne ?",
-        "options": ["A) Les fonctionnaires ne peuvent pas pratiquer une religion", "B) Les fonctionnaires ne peuvent pas manifester leurs convictions religieuses dans l exercice de leurs fonctions", "C) Les fonctionnaires doivent etre atheistes", "D) La religion est interdite dans les locaux administratifs"],
+        "question": "Qu'est-ce que le principe de neutralité religieuse dans la fonction publique ivoirienne ?",
+        "options": ["A) Les fonctionnaires ne peuvent pas pratiquer une religion", "B) Les fonctionnaires ne peuvent pas manifester leurs convictions religieuses dans l'exercice de leurs fonctions", "C) Les fonctionnaires doivent être athées", "D) La religion est interdite dans les locaux administratifs"],
         "answer": "B",
-        "explanation": "La neutralite religieuse interdit aux fonctionnaires d exprimer leurs convictions religieuses dans l exercice de leurs fonctions."
+        "explanation": "La neutralité religieuse interdit aux fonctionnaires d'exprimer leurs convictions religieuses dans l'exercice de leurs fonctions."
     },
     {
-        "question": "Qu'est-ce que le principe de gratuite du service public ?",
-        "options": ["A) Tous les services publics sont gratuits", "B) Ce principe signifie que le financement du service public ne doit pas reposer uniquement sur les usagers : il peut etre finance par les impots", "C) Les usagers ne paient jamais pour les services publics", "D) Les fonctionnaires travaillent benevoles"],
+        "question": "Qu'est-ce que le principe de gratuité du service public ?",
+        "options": ["A) Tous les services publics sont gratuits", "B) Ce principe signifie que le financement du service public ne doit pas reposer uniquement sur les usagers : il peut être financé par les impôts", "C) Les usagers ne paient jamais pour les services publics", "D) Les fonctionnaires travaillent bénévolement"],
         "answer": "B",
-        "explanation": "La gratuite du service public ne signifie pas absence de paiement mais que le service est accessible sans que le prix soit un obstacle dirimant."
+        "explanation": "La gratuité du service public ne signifie pas absence de paiement, mais que le service est accessible sans que le prix soit un obstacle dirimant."
     },
     {
-        "question": "Quelle est la distinction entre le prefet et le gouverneur en CI ?",
-        "options": ["A) Aucune diff?rence", "B) En CI depuis 2011 le gouverneur dirige le district autonome (Abidjan Yamoussoukro) tandis que le prefet dirige le departement", "C) Le gouverneur est un role historique supprime", "D) Le gouverneur est elu le prefet nomme"],
+        "question": "Quelle est la distinction entre le préfet et le gouverneur en CI ?",
+        "options": ["A) Aucune différence", "B) En CI, depuis 2011, le gouverneur dirige le district autonome (Abidjan, Yamoussoukro) tandis que le préfet dirige le département", "C) Le gouverneur est un rôle historique supprimé", "D) Le gouverneur est élu ; le préfet est nommé"],
         "answer": "B",
-        "explanation": "La Constitution de 2011-2016 a cree des districts autonomes diriges par des gouverneurs nommes par le Pr?sident pour les grandes agglomerations."
+        "explanation": "La Constitution de 2011-2016 a créé des districts autonomes dirigés par des gouverneurs nommés par le Président pour les grandes agglomérations."
     },
     {
-        "question": "Qu'est-ce que la delegation de signature ?",
-        "options": ["A) Un fonctionnaire signe a la place d un autre sans habilitation", "B) Une autorite administrative autorise un de ses subordonnes a signer en son nom certains actes", "C) Le Pr?sident deleguant ses pouvoirs au Premier ministre", "D) L Assemblee nationale delegant ses pouvoirs au gouvernement"],
+        "question": "Qu'est-ce que la délégation de signature ?",
+        "options": ["A) Un fonctionnaire signe à la place d'un autre sans habilitation", "B) Une autorité administrative autorise un de ses subordonnés à signer en son nom certains actes", "C) Le Président délègue ses pouvoirs au Premier ministre", "D) L'Assemblée nationale délègue ses pouvoirs au gouvernement"],
         "answer": "B",
-        "explanation": "La d?l?gation de signature permet a un chef de service d autoriser son subordonné a signer certains actes en son nom. Le deleguant reste responsable."
+        "explanation": "La délégation de signature permet à un chef de service d'autoriser son subordonné à signer certains actes en son nom. Le délégant reste responsable."
     },
     {
         "question": "Piège : la délégation de pouvoirs est-elle différente de la délégation de signature ?",
