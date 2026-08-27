@@ -1,390 +1,636 @@
-# 🎓 Quiz Interactif — Préparation Concours ENA (Côte d'Ivoire)
+# 📚 Concours ENA (Côte d'Ivoire) - Fiche de Révision Complète
 
-## 📌 Instructions pour l'IA
+Ce document constitue la **base de connaissances unique et exhaustive** pour la préparation au concours de l'ENA.
+Il consolide l'ensemble des cours, règles, exemples, jurisprudences et définitions tirés de la documentation PDF (`DATA/`).
 
-Tu es un assistant pédagogique spécialisé dans la préparation au concours de l'ENA (École Nationale d'Administration) de Côte d'Ivoire. En utilisant les fiches de cours ci-dessous, tu dois créer un **quiz interactif de 10 questions à choix multiples (QCM)**.
-
-### Règles du quiz
-
-1. **Présente chaque question** avec ses options (A, B, C, parfois D).
-2. **Attends la réponse** de l'utilisateur avant de passer à la suite.
-3. **Après chaque réponse**, indique la bonne réponse et fournis une **brève explication** si nécessaire.
-4. **Variété obligatoire** : les 10 questions doivent couvrir au moins 3 des 5 thèmes ci-dessous.
-5. **Questions de type "scénario" ou "question similaire"** : ne reproduis pas les questions mot pour mot. Inspire-toi des fiches pour créer des questions **similaires mais différentes**. Par exemple :
-   - Si la fiche demande « Quel pays a pour monnaie le Shekel ? » → demande « Quel pays a pour monnaie le Cedi ? »
-   - Si la fiche donne un exemple de méronymie avec "roue/voiture" → utilise un autre exemple comme "touche/clavier"
-   - Si la fiche demande la capitale du Ghana → demande la capitale d'un autre pays africain non mentionné
-6. **Ressource complémentaire** : pour enrichir les questions de langue française et d'aptitude verbale, utilise les ressources pédagogiques de l'Académie française : https://www.academie-francaise.fr/actions-pedagogiques/ressources-pedagogiques-0
-7. **Niveau de difficulté** : adapté au concours ENA 1er tour (présélection).
-8. À la fin du quiz, donne le **score final** avec un récapitulatif des bonnes et mauvaises réponses.
+> [!NOTE]
+> Les milliers de QCM d'entraînement ont été extraits et intégrés dans la base de données interactive. 
+> Utilisez l'application web pour vous entraîner sur les QCM de manière aléatoire.
 
 ---
 
-## 📚 THÈME 1 : Culture Générale — Langue française et vocabulaire
+# Droit Administratif
 
-**Source** : Fiche de Culture Générale du 22/01/2026 (Adm. KANGAH)
+# Droit Administratif - Résumés et Jurisprudence
 
-### Questions de référence et réponses :
+Ce document compile l'ensemble des notes de cours, règles de droit administratif, jurisprudence, théories et exemples extraits des fiches de formation.
 
-| # | Question | Réponse |
-|---|----------|---------|
-| 1 | Quel est l'antonyme du mot « appareiller » ? (a) accoster, b) fusionner, c) apprêter) | **a) accoster** |
-| 2 | Que signifie le sigle « HLM » ? (a) habitation de longueur moyenne, b) habitation à loyer modéré, c) habitation de location moderne) | **b) habitation à loyer modéré** |
-| 3 | Une personne « dégingandée » est une personne : (a) atteinte d'une maladie mentale, b) ayant des mouvements et une démarche disloqués, c) tremblante et suffocante) | **b) ayant des mouvements et une démarche disloqués** |
-| 4 | Quel dessert ne tire pas son nom de celui d'une femme ? (a) pavlova, b) pêche melba, c) tiramisu) | **c) tiramisu** |
-| 5 | Complétez : « Quelle réussite ! Elle a réalisé un …… faute ! » (a) sang, b) sans, c) cent) | **b) sans** |
-| 6 | Trouvez l'intrus parmi ces expressions : (a) je vous saurais gré, b) je vous sais gré, c) je vous serais gré) | **c) je vous serais gré** |
-| 7 | Quel est le genre du mot « haltère » ? (a) féminin, b) masculin, c) autre) | **b) masculin** |
-| 8 | Quel mot n'appartient pas à la même famille que les autres ? (a) fable, b) fabuleux, c) affable) | **c) affable** |
-| 9 | Quelle paire n'existe pas (relation nature-adjectif) ? (a) Eau-aquatique, b) Église-ecclésiastique, c) Humilité-modestie) | **c) Humilité-modestie** |
-| 10 | Quel mot est l'antonyme du mot « truculent » ? (a) succulent, b) original, c) commun) | **c) commun** |
-| 11 | Quel est le mot mal orthographié ? (a) échapattoire, b) alvéole, c) anagramme) | **a) échapattoire** (correct : échappatoire) |
-| 12 | Trouvez l'intrus : (a) le Souverain Pontife, b) le Saint-Père, c) la Bible) | **c) la Bible** (les deux autres désignent le Pape) |
-| 13 | Quel mot est l'antonyme du mot « pingre » ? (a) robuste, b) radin, c) généreux) | **c) généreux** |
-| 14 | Quel mot au pluriel est correct ? (a) des arcs-en-ciels, b) des passes-partout, c) des avant-premières) | **c) des avant-premières** |
-| 15 | Dans quelle phrase n'y a-t-il pas de redondance (pléonasme) ? (a) Le jeune lavandier qui travaille dans la laverie est malade, b) Pour la police, ce n'est qu'un petit détail, c) Ils vont tous se rencontrer à Paris) | **b) Pour la police, ce n'est qu'un petit détail** |
-| 16 | Trouvez l'orthographe correcte : (a) Pérégrination, b) Pirégrination, c) Perigrination) | **a) Pérégrination** |
-| 17 | Choisissez le complément d'objet qui convient au verbe « Luter » : (a) une fissure, b) un vase, c) un trou) | **b) un vase** |
-| 18 | Quelle est la nature du mot « Fatiguées » dans : « Fatiguées, les femmes se reposent » ? (a) participe passé, épithète, b) adjectif qualificatif, épithète, c) participe passé, mis en apposition) | **c) participe passé, mis en apposition** |
-| 19 | Quel mot n'appartient pas à la même famille ? (a) ingénieur, b) géniteur, c) genèse) | **a) ingénieur** |
-| 20 | Quelle est la définition de la « rhétorique » ? (a) l'étude d'une langue fondée sur l'analyse des textes, b) l'étude de la religion, c) l'art du discours, de l'éloquence) | **c) l'art du discours, de l'éloquence** |
+## 1. Le Principe de la Légalité Administrative
 
----
+**Notion :**
+Le principe de légalité administrative (ou principe de juridicité) exprime la soumission de l'administration au droit. La puissance publique est soumise à des règles qui précèdent son action (constitution, traités, lois, principes généraux du droit). L'administration doit également respecter les textes qui émanent d'elle-même.
 
-## 📚 THÈME 2 : Aptitude Verbale — Les phénomènes lexicaux
+**Jurisprudence clé :**
+| Affaire | Principe Dégagé |
+|---------|-----------------|
+| Arrêt Doublet | L'administration a l'obligation de faire respecter la loi. |
+| Arrêt Compagnie France Amérique | L'administration est tenue de respecter la loi. |
+| Arrêt Société pour l'Esthétique de France | L'administration est tenue de faire cesser les situations inégales. |
+| Arrêt Couitéas | L'administration est tenue d'apporter son concours à l'exécution des décisions de justice, sauf risque de trouble à l'ordre public. |
+| Arrêt Société Mutualiste des Professions Libérales | L'administration dispose du pouvoir de déterminer le moment opportun d'agir. |
+| Arrêt Dufesne | Les délais impartis à l'administration ne sont qu'à titre indicatif (délai raisonnable). |
 
-**Source** : Séance de Culture Générale et Aptitude Verbale ENA du 18/12/2025 (Adm. KANGA)
+**Sources de la légalité administrative :**
+- **La Constitution :** (Arrêt Société EKY - le préambule est source de légalité).
+- **Les Traités Internationaux :** (Arrêts Sanctucci, G.I.S.T.I, Nicolo).
+- **Les Actes de Gouvernement :** Échappent au REP (Arrêt Rubin de Servens).
+- **Les Principes Généraux du Droit (PGD) :** 
+  - Droit de la défense (Arrêt Dame veuve Trompier-Gravier).
+  - Non-rétroactivité des actes administratifs (Arrêt Société du journal l'Aurore).
+  - Recours pour excès de pouvoir (Arrêt Dame Lamotte).
+  - Égalité de traitement au sein du service public (Arrêt Société des concerts du conservatoire).
+  - Égalité d'accès à la fonction publique (Arrêt Barel).
 
-### Cours de référence :
+**Portée de la légalité (Sanctions) :**
+- **Nullité :** Absolue (intérêt général, effet ab initio) ou relative (intérêt privé, effet rétroactif). Délai de recours de 2 mois (Arrêt Dame Cachet).
+- **Inexistence :** Sanctionne les actes particulièrement graves (Arrêts Laffite, Rosan Girard, Megevand). Aucun délai de recours.
 
-#### Partie 1 : Relations de sens (Sémantique lexicale)
+**Limites de la légalité :**
+- **En période normale :** Pouvoir discrétionnaire (contrôle minimum du juge) et actes de gouvernement (Arrêt Prince Napoléon).
+- **En période exceptionnelle :** Textes (état de crise, état de siège, etc.) et jurisprudence (Théorie des circonstances exceptionnelles - Arrêts Laugier, Heyriès, Dame de la murette, Dame Dol et Laurent, Daudet, Adriamisera).
 
-- **Synonymie** : mots ayant un sens identique ou très proche, interchangeables dans un contexte donné. *Ex :* "automobile" et "voiture"
-- **Antonymie** : mots ayant des sens opposés. *Ex :* "chaud" et "froid"
-- **Hyponymie / Hyperonymie** : un hyponyme est un terme inclus dans un terme plus général (l'hyperonyme). *Ex :* "rose" est l'hyponyme de "fleur"
-- **Cohyponymie** : relation entre hyponymes d'un même hyperonyme. *Ex :* "chien" et "chat" sont des cohyponymes de "mammifère"
-- **Méronymie / Holonymie** : relation entre une partie (méronyme) et le tout (holonyme). *Ex :* "roue" est le méronyme de "voiture"
-- **Polysémie** : un mot possède plusieurs sens distincts mais liés par une origine commune. *Ex :* "tête" (corps, chef, sommet)
 
-#### Partie 2 : Relations de forme et de son
+## 2. L'Acte Administratif Unilatéral (AAU)
 
-- **Homonymie** : mots qui se ressemblent par la forme mais n'ont aucun lien de sens
-  - *Homophones* : identiques à l'oreille, différents à l'écrit. *Ex :* "sot", "seau", "saut"
-  - *Homographes* : identiques à l'écrit, prononciations différentes. *Ex :* "pôles" et "pole"
-  - *Homophones et homographes* : identiques à l'écrit ET à l'oral. *Ex :* "livre" (ouvrage) et "livre" (poids)
-- **Paronymie** : mots qui se ressemblent fortement mais ont des sens différents. *Ex :* "conjecture" / "conjoncture"
-- **Hétéronymie** : mots avec des sens liés mais des radicaux complètement différents. *Ex :* "oncle" / "tante", "cheval" / "jument"
+**Critère Organique :**
+- Présomption d'administrativité des actes émanant des autorités administratives.
+- Exceptions : Actes des autorités privées (CSCA, Kouamé Godé Paulin), Actes des autorités législatives (CE, Vouters), Actes des autorités judiciaires (CE, Préfet de Guyane). Actes non administratifs des autorités administratives (CSCA, Xavier Sanctucci), Actes administratifs des personnes privées gérant un SPA (CE, Monpeurt) ou un SPIC (CE, Magnier).
 
-#### Partie 3 : Jeux sur les mots
+**Critère Matériel :**
+L'AAU revêt un caractère exécutoire et décisoire (CSCA, Dégni-Segui). 
+Sont exclus (actes non exécutoires) : actes préparatoires (CSCA, Nado Koutouan), mesures de publicité (CE, Gomard), actes confirmatifs (CSCA, Comaran africa line), mesures d'ordre intérieur (CE, Chapou), circulaires interprétatives (CE, Institution notre dame du Kreisker).
 
-- **Anagrammes** : mots formés par réorganisation des lettres d'un autre mot. *Ex :* "Aimer" et "Marie"
-- **Palindromes** : mots ou phrases qui se lisent dans les deux sens. *Ex :* "Radar", "ressasser"
+**Règles d'édiction :**
+- **Compétence :** Matérielle, territoriale, temporelle. Tempéraments : délégation, suppléance, intérim, théorie du fonctionnaire de fait (CE, Ducastel ; CE, Marrion).
+- **Forme et Procédure :** Obligation de motivation (CE, Levi dit Falzon Henri), procédure contradictoire (CE, Dame veuve Trompier-Gravier).
 
-### QCM évaluatif de référence (20 questions) :
+**Entrée en vigueur et fin :**
+- L'acte prend fin par retrait (Arrêt Dame Cachet pour les actes irréguliers créateurs de droits), abrogation (CE, Syndicat national de Meunerie à Seigle) ou voie juridictionnelle.
 
-| # | Question | Réponse |
-|---|----------|---------|
-| 1 | Ver, verre et vert sont des : (A) Paronymes, B) Homographes, C) Homophones) | **C) Homophones** |
-| 2 | La relation entre "chien" et "animal" est une : (A) Synonymie, B) Hyponymie, C) Antonymie) | **B) Hyponymie** |
-| 3 | Le mot "Radar" est un exemple parfait de : (A) Anagramme, B) Palindrome, C) Homonyme) | **B) Palindrome** |
-| 4 | Quelle figure de style est une courte pièce de vers ou une phrase concise qui se termine par une pointe spirituelle ou satirique ? (A) Métaphore, B) Épigramme, C) Hyperbole) | **B) Épigramme** |
-| 5 | Les mots "cession" et "session" sont des : (A) Synonymes, B) Homographes, C) Paronymes) | **C) Paronymes** |
-| 6 | Dans les GN "pied de la jambe" et "pied d'une montagne", "pied" est une : (A) Homonymie, B) Polysémie, C) Méronymie) | **B) Polysémie** |
-| 7 | "imaginer" et "migraine" sont des : (A) Palindromes, B) Homophones, C) Anagrammes) | **C) Anagrammes** |
-| 8 | Dans la phrase "Sa bouche est une rose", quelle figure de style est utilisée ? (A) Comparaison, B) Métaphore, C) Métonymie) | **B) Métaphore** |
-| 9 | "chaud" et "froid" sont des : (A) Antonymes, B) Homonymes, C) Hyponymes) | **A) Antonymes** |
-| 10 | "Roue" est le méronyme de "voiture". La méronymie décrit : (A) Relation de sens proche, B) Relation d'inclusion (Partie/tout), C) Relation de ressemblance formelle) | **B) Relation d'inclusion (Partie/tout)** |
-| 11 | "avocat" (fruit) et "avocat" (profession) sont des : (A) Mots polysémiques, B) Homonymes, C) Paronymes) | **B) Homonymes** (homophones/homographes parfaits) |
-| 12 | Quel terme désigne des mots qui ont un sens identique ou très proche et sont souvent interchangeables ? (A) Antonymes, B) Synonymes, C) Paronymes) | **B) Synonymes** |
-| 13 | L'expression "Je meurs de faim" est un : (A) Euphémisme, B) Litote, C) Hyperbole) | **C) Hyperbole** |
-| 14 | Quel est l'hyperonyme de "chaise", "fauteuil", "tabouret" ? (A) Meuble, B) Bois, C) Assise) | **A) Meuble** |
-| 15 | Comment appelle-t-on la répétition d'un mot ou d'un groupe de mots en début de phrase ou de vers ? (A) Anaphore, B) Allitération, C) Assonance) | **A) Anaphore** |
-| 16 | Les mots "pêcheur" et "pécheur" sont des : (A) Homographes, B) Homophones, C) Synonymes) | **B) Homophones** |
-| 17 | Quel phénomène décrit des mots qui se ressemblent fortement phonétiquement et graphiquement, mais dont les sens sont très différents ? (A) Homonymie, B) Synonymie, C) Paronymie) | **C) Paronymie** |
-| 18 | "Engage le jeu que je le gagne" est un : (A) Anagramme, B) Palindrome, C) Épigramme) | **B) Palindrome** |
-| 19 | L'hétéronymie concerne les mots qui ont des sens liés mais des radicaux complètement différents. Est-ce vrai ? (A) Vrai, B) Faux, C) Partiellement vrai) | **A) Vrai** |
-| 20 | Quel terme désigne les mots qui sont des cohyponymes de "fleur" ? (A) Arbre, arbuste, B) Rose, tulipe, C) Bouquet, jardin) | **B) Rose, tulipe** |
 
----
+## 3. Le Contrat Administratif
 
-## 📚 THÈME 3 : Culture Générale — Capitales et Pays + Questions diverses
+**Identification :**
+- Qualification légale ou jurisprudentielle (Critère organique : au moins une personne publique ; Critère matériel : clause exorbitante du droit commun ou participation à l'exécution d'un service public).
 
-**Source** : Séance du 18/12/2025 (pages 8-11) + Test du 15/01/2026
+**Exécution et garanties :**
+- **Prérogatives de l'administration :** direction, contrôle, modification unilatérale, résiliation unilatérale, sanction.
+- **Faits nouveaux :** 
+  - Fait du prince (mesure de l'administration modifiant les conditions).
+  - Imprévision (bouleversement temporaire, extérieur, imprévisible).
+  - Force majeure.
 
-### QCM Capitales et Pays (30 questions) :
 
-| # | Question | Réponse |
-|---|----------|---------|
-| 1 | Capitale de la Côte d'Ivoire ? | **Yamoussoukro** |
-| 2 | Capitale du Ghana ? | **Accra** |
-| 3 | Capitale du Sénégal ? | **Dakar** |
-| 4 | Capitale du Nigeria ? | **Abuja** |
-| 5 | Capitale du Mali ? | **Bamako** |
-| 6 | Capitale du Burkina Faso ? | **Ouagadougou** |
-| 7 | Capitale du Togo ? | **Lomé** |
-| 8 | Capitale du Bénin ? | **Porto-Novo** |
-| 9 | Capitale du Niger ? | **Niamey** |
-| 10 | Capitale de la Guinée ? | **Conakry** |
-| 11 | Capitale du Cameroun ? | **Yaoundé** |
-| 12 | Capitale du Gabon ? | **Libreville** |
-| 13 | Capitale du Congo-Brazzaville ? | **Brazzaville** |
-| 14 | Capitale de la RDC ? | **Kinshasa** |
-| 15 | Capitale de l'Afrique du Sud ? | **Pretoria** |
-| 16 | Capitale de l'Égypte ? | **Le Caire** |
-| 17 | Capitale du Maroc ? | **Rabat** |
-| 18 | Capitale de l'Algérie ? | **Alger** |
-| 19 | Capitale de la Tunisie ? | **Tunis** |
-| 20 | Capitale de l'Éthiopie ? | **Addis-Abeba** |
-| 21 | Capitale de la France ? | **Paris** |
-| 22 | Capitale de l'Espagne ? | **Madrid** |
-| 23 | Capitale de l'Italie ? | **Rome** |
-| 24 | Capitale de l'Allemagne ? | **Berlin** |
-| 25 | Capitale du Royaume-Uni ? | **Londres** |
-| 26 | Capitale des États-Unis ? | **Washington, D.C.** |
-| 27 | Capitale du Canada ? | **Ottawa** |
-| 28 | Capitale du Brésil ? | **Brasília** |
-| 29 | Capitale du Japon ? | **Tokyo** |
-| 30 | Capitale de la Chine ? | **Pékin** |
+## 4. La Responsabilité Administrative
 
-### Test de Culture Générale du 15/01/2026 (30 questions) :
+**Régime pour Faute :**
+- **Faute de service :** Mauvais fonctionnement ou inertie (CE, Ville de Paris c. Driancourt ; CE, Commune de Bersée).
+- **Faute personnelle :** Imputable à l'agent, détachable du service (TC, Pelletier). Cumul de responsabilités admis (CE, Anguet ; CE, Epoux Lemonnier).
+- **Degré de faute :** Faute lourde (ex: opérations de police à chaud - CE, Tomaso Grecco) ou faute simple (de plus en plus généralisée).
 
-| # | Question | Réponse |
-|---|----------|---------|
-| 1 | Dans quelle articulation du corps se situe la rotule ? | **C. Le genou** |
-| 2 | Si je suis la bru de Michelle, qui est Michelle pour moi ? | **C. Ma belle-mère** |
-| 3 | Quel nom d'oiseau utilise-t-on pour désigner un auteur de lettres anonymes ? | **C. Un corbeau** |
-| 4 | Sur quoi reposent principalement les travaux de Pierre et Marie Curie ? | **C. La radioactivité** |
-| 5 | Dans quel océan navigue-t-on au large de New York ? | **B. Océan Atlantique** |
-| 6 | Quel est le plus grand pays du monde ? | **A. La Russie** |
-| 7 | Quel pays a pour monnaie le Shekel ? | **A. Israël** |
-| 8 | Aux États-Unis, quelle est la principale base de lancement d'engins spatiaux ? | **B. Cap Canaveral** |
-| 9 | Depuis 2020, quel État pourrait devenir le 51ème État des États-Unis ? | **A. Porto Rico** |
-| 10 | De quelle région Bouna est-il le chef-lieu ? | **B. Le Bounkani** |
-| 11 | Quel est le chef-lieu du District des Lacs ? | **B. Dimbokro** |
-| 12 | Comment s'appelle le Ministre ivoirien des Sports ? | **B. Adjé Silas Metch** |
-| 13 | De quel pays Lilongwe est-il la capitale ? | **C. Malawi** |
-| 14 | Laquelle de ces inventions est la plus ancienne ? | **B. La photographie** |
-| 15 | Quelle traversée Louis Blériot a-t-il réussie en avion le 25 juillet 1909 ? | **C. La Manche** |
-| 16 | Quel est le nom de la maladie qui entraîne un battement trop rapide du cœur ? | **A. Tachycardie** |
-| 17 | Qui est l'auteur de l'œuvre "Le malade imaginaire" ? | **A. Molière** |
-| 18 | Dans quelle ville siège l'Organisation des pays exportateurs de pétrole ? | **C. Vienne** |
-| 19 | Quel est le cri de la grenouille ? | **B. Coasse** |
-| 20 | Lequel de ces personnages n'est pas issu du roman "Les Misérables" ? | **A. Fleur de lys** |
-| 21 | Quelle relation unit les mots "roue" et "voiture" ? | **B. La méronymie** |
-| 22 | Comment s'accorde l'adjectif dans : "Elle a acheté des jupes ____" ? | **A. orange** (invariable) |
-| 23 | Quelle est la nature d'un mot qui se lit dans les deux sens comme "radar" ? | **B. Palindrome** |
-| 24 | Laquelle de ces phrases est correcte ? | **B. Après qu'il est venu** (indicatif après "après que") |
-| 25 | "Il n'est pas mécontent" pour dire qu'il est ravi est une : | **B. Litote** |
-| 26 | Comment écrit-on 80 en lettres ? | **B. Quatre-vingts** |
-| 27 | Le mot "navigant" est l'adjectif verbal du verbe naviguer. Est-ce : | **A. Variable** |
-| 28 | Quel terme désigne un nom identique pour les deux genres ? | **B. Épicène** |
-| 29 | "La diplomatie est le bras armé de la politique" est une : | **A. Métaphore** |
-| 30 | Quel mode suit la conjonction "Bien que" ? | **B. Le subjonctif** |
+**Régime sans Faute (Risque et Rupture d'égalité) :**
+- **Risque :** Choses dangereuses (armes - CE, Regnault-Desroziers), activités dangereuses (CE, Thouzellier), situations dangereuses (CE, Perruche).
+- **Rupture d'égalité :** Lois (CE, La Fleurette), conventions internationales, travaux publics, décisions de justice inexécutées (CE, Couitéas).
+
+**Causes d'exonération :**
+- Force majeure, faute de la victime (CE, Amoudruz), fait du tiers, cas fortuit.
+
+
+## 5. Recours pour Excès de Pouvoir (REP)
+
+**Caractéristiques :**
+- Recours d'utilité publique, d'ordre public, non suspensif.
+- **Conditions de recevabilité :** Nature de l'acte (faisant grief), qualité et intérêt pour agir (CE, Casanova ; CE, Jamart), délai (2 mois).
+- **Cas d'ouverture :**
+  - **Légalité externe :** Incompétence (usurpation), vice de forme/procédure.
+  - **Légalité interne :** Violation de la loi, erreur de droit, erreur de fait, détournement de pouvoir/procédure (CE, Pariset).
+
+
+## 6. L'Organisation Administrative
+
+**Principes :**
+- **Centralisation et Déconcentration :** Représentation du pouvoir central (Préfet, Sous-préfet).
+- **Décentralisation :** Autonomie, personnalité juridique, autonomie financière (Régions, Communes).
+
+**Contrôles :**
+- **Contrôle hiérarchique :** Sur les organes et les actes (pouvoir d'instruction, réformation, annulation). (Arrêt Queralt, Arrêt Langneur).
+- **Contrôle de tutelle :** Sur les collectivités décentralisées. Pas de tutelle sans texte. (Arrêt Commune de Néris-les-Bains).
+
+
+## 7. La Police Administrative
+
+**Notion :**
+- Activité préventive (différente de la police judiciaire - CE, Consorts Baud).
+- Triptyque classique : Sécurité, tranquillité, salubrité. Nouveaux éléments : Moralité (CE, Lutetia), esthétique (CE, Leroux), dignité humaine (CE, Commune de Morsang-sur-Orge).
+
+**Autorités :**
+- **Générale :** Président de la République (CE, Labonne), Ministre de l'intérieur, Préfet, Maire.
+- **Spéciale :** Ministres, Maires, Présidents d'université.
+
+**Procédés et Limites :**
+- Mesures réglementaires et individuelles.
+- Limites : Respect des libertés publiques (CE, Benjamin), contrôle du but et des motifs (CE, Daudignac), et nécessité stricte.
+
 
 ---
 
-## 📚 THÈME 4 : Les Organisations Internationales
+## Exercices et Questions d'Évaluation
 
-**Source** : Formation en ligne EXAC 2026, Fiche N°3 du 20/02/2026 (Cdt KOUADIO)
-
-### QCM de référence (51 questions) :
-
-#### ONU
 | # | Question | Réponse |
 |---|----------|---------|
-| 1 | Quelle charte, proclamée en août 1941 par Roosevelt et Churchill, annonça la création de l'ONU ? | **B. La Charte de l'Atlantique** |
-| 2 | Date de signature de la charte des Nations Unies ? | **A. 26 janvier 1945** |
-| 3 | En quelle année l'ONU a-t-elle été créée ? | **A. 24 octobre 1945** |
-| 4 | Lors de la conférence de Yalta (1945), quel représentant des pays vainqueurs tient le plus à la création de l'ONU ? | **A. Roosevelt** |
-| 5 | Membres permanents du Conseil de Sécurité de l'ONU ? | **C. États-Unis, Russie, Chine, France et Royaume-Uni** |
-| 6 | Combien d'États membres compte l'ONU ? | **C. 193 membres** |
-| 7 | Quel est le dernier pays à intégrer l'ONU ? | **B. Le Soudan du Sud** |
-| 8 | Nationalité de l'actuel Secrétaire Général des Nations Unies ? | **B. Portugaise** (António Guterres) |
-| 9 | Quel secrétaire général de l'ONU a obtenu le prix Nobel de la paix le 10/12/2001 ? | **B. Kofi Annan** |
-| 10 | Langues de travail au Secrétariat Général de l'ONU ? | **B. Anglais et Espagnol** |
-| 11 | Où a été signée en 1992 la convention cadre de l'ONU sur les changements climatiques ? | **C. Sommet de la Terre à Rio de Janeiro** |
-| 12 | Le 07/01/2026, les USA se retiraient de 66 organismes internationaux. Lequel en fait partie ? | **C. L'UNESCO** |
-| 13 | La Cour internationale de Justice siège à : | **B. La Haye** |
-| 14 | La Banque mondiale et le FMI sont associés à l'ONU ? | **A. Vrai** |
-| 15 | Que représente la sculpture « Non-violence » devant le siège de l'ONU ? | **B. Un revolver noué** |
-| 16 | L'ONU dispose d'une armée ? | **B. Faux** |
-| 17 | Région où l'ONU a envoyé le plus de soldats pour la paix ? | **A. Au Moyen-Orient** |
-| 18 | Statut de la Palestine à l'ONU ? | **C. Observateur** |
+| 1 | Le principe de la légalité administrative implique que l’administration doit respecter les textes qui émanent d’elle-même. (V/F) | |
+| 2 | Selon l’arrêt Doublet, l’administration a l’obligation de faire respecter la loi (V/F) | |
+| 3 | Selon l’Arrêt Compagnie France Amérique, l’administration n’est tenue de respecter la loi (V/F) | |
+| 4 | Selon l’Arrêt Couitéas, l’administration ne peut jamais refuser d’apporter son concours à l’exécution des décisions de justice. (V/F) | |
+| 5 | L'appel d'offres a pour dessein d'attribuer le contrat au soumissionnaire le moins-disant. (V/F) | |
+| 6 | La modification unilatérale du prix du contrat est admise par la jurisprudence administrative. (V/F) | |
+| 7 | Le contentieux des contrats administratifs est exclusivement un contentieux de pleine juridiction. (V/F) | |
+| 8 | Qu'est-ce qui distingue le domaine public naturel du domaine public artificiel ? | |
+| 9 | La responsabilité de l’administration est engagée sur la base d’une faute lourde pour les dommages causés par l’utilisation d’armes dangereuses. (V/F) | |
+| 10 | Le titre foncier n’est pas susceptible de recours pour excès de pouvoir. (V/F) | |
+| 11 | L'acte inexistant est un acte qui est rentre dans l'ordonnancement juridique avant d'en sortir. (V/F) | |
+| 12 | Les mesures d'ordre intérieur ne sont pas des actes administratifs, sauf si elles touchent au statut. (V/F) | |
+| 13 | Quel est le statut juridique d'un acte entre sa signature et sa divulgation ? | |
+| 14 | Un contrat administratif est un accord conclu par une personne publique au moins et qui inclut exclusivement des clauses exorbitantes du droit commun. (V/F) | |
+| 15 | Le préjudice hypothétique peut être réparé par l’administration. (V/F) | |
 
-#### OTAN
-| # | Question | Réponse |
-|---|----------|---------|
-| 19 | Année de création de l'OTAN ? | **A. 4 avril 1949** |
-| 20 | L'OTAN est une alliance : | **C. Militaire** |
-| 21 | Siège de l'OTAN ? | **A. Bruxelles** |
-| 22 | Actuel Secrétaire Général de l'OTAN ? | **C. Mark Rutte** |
-| 23 | Dernier État à avoir adhéré à l'OTAN ? | **La Suède le 7 mars 2024** |
+*(Note : Toutes les questions de type QCM et sujets de dissertation ont été identifiées dans les documents originaux et structurées selon la demande)*
 
-#### Union européenne
-| # | Question | Réponse |
-|---|----------|---------|
-| 24 | Combien d'États compte l'UE ? | **B. 27 États** |
-| 25 | L'Union Européenne est régie par : | **B. Le traité de Maastricht signé le 7 février 1992** |
-| 26 | Le Parlement européen siège principalement à : | **C. Strasbourg** |
-| 27 | En 2012, quel organisme a obtenu le prix Nobel de la Paix ? | **B. L'Union Européenne** |
-| 28 | Place de l'UE dans l'économie mondiale ? | **b. Deuxième puissance économique devant la Chine mais derrière les États-Unis** |
-
-#### Mercosur
-| # | Question | Réponse |
-|---|----------|---------|
-| 29 | Le Mercosur est une organisation : | **A. Sudaméricaine** |
-| 30 | L'Accord UE-MERCOSUR a-t-il été signé à ce jour ? | **A. Oui** |
-| 31 | Quel pays a été suspendu du Mercosur ? | **B. Le Venezuela** |
-
-#### Union africaine, CEDEAO, UEMOA et autres
-| # | Question | Réponse |
-|---|----------|---------|
-| 32 | L'Union africaine a succédé à : | **B. OUA** |
-| 33 | Siège de l'UA ? | **B. Addis-Abeba** |
-| 34 | Président en exercice de l'UA ? | **B. Evariste N'dayishimiye** |
-| 35 | Le CPS de l'UA est composé de : | **B. 15 membres élus** |
-| 35b | La CEDEAO a été créée en : | **B. 1975** |
-| 36 | Actuel président de la Commission de la CEDEAO ? | **C. Julius Maada Bio** |
-| 37 | La CEDEAO compte à ce jour : | **D. 12 pays** |
-| 38 | Quel pays vient d'être réintégré à la CEDEAO, après sa suspension en 2021 ? | **B. La Guinée** |
-| 39 | En quelle année la Côte d'Ivoire prend la présidence de la CEDEAO ? | **A. 2012** |
-| 40 | Statut juridique de l'AES ? | **B. Une confédération d'États** |
-| 41 | Siège de l'UEMOA ? | **B. Ouagadougou** |
-| 42 | Combien d'États membres compte l'UEMOA ? | **B. 8** |
-| 43 | Actuel président de la Commission de l'UEMOA ? | **A. Abdoulaye Diop** |
-| 44 | La Banque africaine de développement a son siège à : | **A. Abidjan** |
-| 45 | Actuel président de la BAD ? | **A. Sidi Ould Tah** |
-| 46 | La SADC regroupe des États d'Afrique : | **A. De l'Ouest** |
-| 47 | La CEMAC est pour l'Afrique centrale ce que la CEDEAO est pour l'Afrique de l'Ouest ? | **B. Faux** |
-| 48 | Siège de la SADC ? | **A. Gabarone** |
-| 49 | La ZLECAF relève de : | **B. Un accord sous l'égide de l'UA** |
-| 50 | Le mécanisme africain d'évaluation par les pairs relève de : | **B. De l'UA** |
-| 51 | Quels sont les cinq pays ayant fait passer les BRICS au BRICS+ ? | **Indonésie, Éthiopie, Iran, Arabie Saoudite et l'Égypte** |
 
 ---
 
-## 📚 THÈME 5 : Anglais (English Grammar)
+# Culture Générale
 
-**Source** : Fiche de Révision Anglais — Présélection ENA
+# Culture Générale - Synthèse de Cours
 
-### Cours de référence :
+## Fiche N°5 : Connaissances Variées
+**Date:** Vendredi 24 avril 2026
+**Intervenant:** Mr le diplomate Yao KOUADIO
+**Plateforme:** GoogleMeet ou Microsoft Teams
 
-#### 1. Les Conditionnels (The Conditionals)
+### Concepts et Faits Clés (Histoire, Géographie, Institutions, etc.)
+- **Institutions et Politique (Côte d'Ivoire & Monde):**
+  - Le premier Directeur Général de l'ENA-CI fut Robert Ropion.
+  - L'indépendance du Soudan du Sud a été actée en 2011 (Suite au référendum d'autodétermination).
+  - Les députés ivoiriens sont des élus. Le Parlement ivoirien comprend désormais des sénateurs (Sénat).
+  - Yamoussoukro est devenue la capitale politique de la Côte d'Ivoire en 1983.
+  - Le Printemps arabe a débuté en 2010.
+  - La capitale de la Tanzanie est Dodoma, celle du Pakistan est Islamabad, et celle de la Turquie est Ankara.
+  - Le rouble est la monnaie de la Russie.
+  - L'actuel Premier ministre du Canada est Justin Trudeau.
+  - Louise Mushikiwabo est l'actuelle Secrétaire Générale de la Francophonie.
 
-C'est le point technique le plus important.
+- **Histoire & Géographie:**
+  - La prise de la Bastille a eu lieu en 1789.
+  - Napoléon Bonaparte a été couronné empereur français le 2 décembre 1804.
+  - Les accords de Bretton Woods ont été signés en 1944.
+  - Le traité de Versailles a mis fin à la Première Guerre mondiale en 1919.
+  - La Mer Méditerranée sépare l'Europe de l'Afrique.
+  - Il existe 5 océans sur la planète, et l'Antarctique est le seul continent à ne posséder aucun pays.
+  - La région de l'Agnéby-Tiassa a pour chef-lieu Agboville.
 
-| Type | Structure | Exemple |
-|------|-----------|--------|
-| **Type Zéro** (Vérité générale) | If + Present Simple → Present Simple | *If you heat water to 100°C, it boils.* |
-| **Type 1** (Futur possible) | If + Present Simple → Will + Base Verbale | *If it rains, I will stay home.* |
-| **Type 2** (Imaginaire/Présent) | If + Prétérit → Would + Base Verbale | *If I were rich, I would travel the world.* |
-| **Type 3** (Regret/Passé) | If + Past Perfect → Would have + Participe Passé | *If I had studied, I would have passed the exam.* |
+- **Sciences, Arts & Culture:**
+  - Aristote a créé l'école nommée Le Lycée.
+  - L'entomologie est la science qui étudie les insectes, tandis que la paléontologie étudie les fossiles.
+  - Le diazote représente environ 78 % de l'atmosphère terrestre.
+  - Pablo Picasso est reconnu pour avoir cofondé le cubisme.
+  - Sembène Ousmane a écrit *Les bouts de bois de Dieu*.
+  - Dans la mythologie, Sisyphe a été condamné à pousser éternellement un rocher.
+  - Vénus est surnommée « l'étoile du berger ».
+  - Stéphanie Frappart fut la première femme à arbitrer un match de football professionnel masculin.
+  - Les dauphins émettent un cri appelé le sifflement.
 
-> ⚠️ **Règle essentielle** : On n'utilise **jamais "will" immédiatement après "if"**.
->
-> ⚠️ **Note** : On utilise **"were"** pour toutes les personnes avec le verbe *to be* au Type 2 (ex: *If I were you…*).
+---
 
-#### 2. Les Modaux (Modal Verbs)
+## Fiche N°4 : Sport et Organisation Politique Administrative et Judiciaire
+**Date:** Vendredi 20 mars 2026
+**Intervenant:** Commandant KOUADIO
 
-Les modaux sont **invariables** et toujours suivis d'une **base verbale** (sans "to").
+### Concepts et Faits Clés (Sport)
+- **Athlétisme & Evènements Sportifs :**
+  - Usain Bolt détient le record du monde du 100 m masculin.
+  - Les Jeux Olympiques d'été de 2024 se sont déroulés à Paris, France.
+  - Le marathon a une distance officielle de 41,195 km.
+  - Lors du Tour de France, le maillot blanc à pois rouges récompense le meilleur grimpeur.
+- **Football :**
+  - L'Uruguay a été le premier pays à remporter la Coupe du Monde de football.
+  - L'Argentine a remporté la Coupe du Monde FIFA 2022 organisée au Qatar.
+  - La Coupe d'Afrique des Nations (CAN) 2023 s'est jouée en Côte d'Ivoire.
+- **Autres Sports :**
+  - Le Judo est originaire du Japon.
+  - Roland-Garros est le prestigieux tournoi de tennis joué sur terre battue à Paris.
+  - Au basketball, une équipe compte 5 joueurs sur le terrain.
+  - En rugby, un essai vaut 5 points.
 
-| Fonction | Modal(s) | Exemple |
-|----------|----------|---------|
-| **Capacité** | Can (présent), Could (passé/politesse), Be able to (futur) | *She can swim. / He could speak French. / I will be able to come.* |
-| **Obligation forte** | Must (subjective) | *You must wear a seatbelt.* |
-| **Obligation externe** | Have to (règle externe) | *You have to show your ID.* |
-| **Interdiction** | Mustn't | *You mustn't park here.* |
-| **Absence d'obligation** | Needn't / Don't have to | *You needn't worry. / You don't have to come.* |
-| **Conseil** | Should / Ought to | *You should study more. / You ought to apologize.* |
-| **Probabilité (~50%)** | May | *It may rain tomorrow.* |
-| **Probabilité (faible)** | Might | *He might be late.* |
-| **Quasi-certitude** | Must | *She must be at home. (déduction)* |
+### Concepts et Faits Clés (Organisation Politique et Judiciaire - Côte d'Ivoire)
+- **Pouvoir Exécutif et Parlement :**
+  - Le pouvoir exécutif ivoirien est de nature bicéphale (Président et Gouvernement).
+  - Tiemoko Meyliet Koné est le Vice-président de la République de Côte d'Ivoire.
+  - Le Parlement ivoirien est bicaméral, composé de l'Assemblée Nationale et du Sénat. Jeannot Ahoussou Kouadio a été le premier président du Sénat ivoirien.
+- **Justice et Institutions :**
+  - L'ordre juridictionnel ivoirien est dualiste (Ordre judiciaire et Ordre administratif).
+  - La plus haute juridiction de l'ordre judiciaire est la Cour de Cassation.
+  - La juridiction compétente en matière administrative est le Conseil d'État.
+  - Chantal Nanaba Camara est la présidente du Conseil Constitutionnel ivoirien.
+  - Les crimes les plus graves sont jugés par la Cour d'assises.
+- **Administration Territoriale :**
+  - Les collectivités territoriales ivoiriennes comprennent les Régions, les Communes, et les Districts (selon réformes récentes). Le président d'un Conseil Régional est élu pour 5 ans.
 
-#### 3. Les Articles (A, An, The, Ø)
+---
 
-| Article | Usage | Exemples |
-|---------|-------|---------|
-| **A** | Devant un nom singulier dénombrable (1ère mention) + son consonne | *a university, a dog, a European* |
-| **An** | Devant un nom singulier dénombrable (1ère mention) + son voyelle | *an hour, an apple, an honest man* |
-| **The** | Ce qui est unique, déjà mentionné ou un superlatif | *the sun, the book I read, the best student* |
-| **Ø (zéro)** | Généralités (pluriels/indénombrables), sports, langues, repas | *Ø Dogs are loyal. / She plays Ø tennis. / Ø Breakfast is ready.* |
-
-> ⚠️ **Attention** : "a" vs "an" dépend du **son**, pas de la lettre ! (*a university* mais *an umbrella*)
-
-#### 4. Les Prépositions (Lieu, Temps, Mouvement)
-
-**Temps :**
-
-| Préposition | Usage | Exemples |
-|-------------|-------|---------|
-| **At** | Heure précise, moments spécifiques | *at 5 PM, at night, at Christmas* |
-| **On** | Jours et dates précises | *on Monday, on July 4th, on my birthday* |
-| **In** | Mois, années, saisons, périodes longues | *in March, in 2026, in the morning* |
-
-**Transport :**
-
-| Préposition | Usage | Exemples |
-|-------------|-------|---------|
-| **By** + moyen (sans article) | Transport en général | *by bus, by train, by plane* |
-| **On** + transport collectif (avec article) | Sur un transport collectif | *on the bus, on the train, on the plane* |
-| **In** + véhicule privé | Dans un véhicule fermé/privé | *in a car, in a taxi, in a helicopter* |
-| **On foot** | Exception — à pied | *I go to school on foot.* |
-
-### QCM de référence — Anglais :
+## Questions à Choix Multiples (QCM) - Extraits
 
 | # | Question | Réponse |
 |---|----------|---------|
-| 1 | Complete: "If I ___ you, I would apologize." (A) am, B) was, C) were) | **C) were** (Type 2 — "were" pour toutes les personnes) |
-| 2 | Which sentence is correct? (A) If it will rain, I stay home. B) If it rains, I will stay home. C) If it rains, I would stay home.) | **B)** (Type 1 — jamais "will" après "if") |
-| 3 | "You ___ park here. It's forbidden." (A) mustn't, B) needn't, C) shouldn't) | **A) mustn't** (interdiction) |
-| 4 | Choose the correct article: "She is ___ honest woman." (A) a, B) an, C) the) | **B) an** (son voyelle /ɒ/) |
-| 5 | "I travel ___ bus every day." (A) by, B) on the, C) in a) | **A) by** (by + moyen de transport sans article) |
-| 6 | "If I had known, I ___ differently." (A) would act, B) would have acted, C) will act) | **B) would have acted** (Type 3 — regret au passé) |
-| 7 | "You ___ come if you don't want to." (A) mustn't, B) don't have to, C) can't) | **B) don't have to** (absence d'obligation) |
-| 8 | Which preposition? "The meeting is ___ Monday." (A) at, B) in, C) on) | **C) on** (jour précis) |
-| 9 | "She ___ speak three languages." (Capacité présente) (A) can, B) could, C) may) | **A) can** (capacité au présent) |
-| 10 | "___ water boils at 100°C." (A) A, B) The, C) Ø) | **C) Ø** (vérité générale, indénombrable) |
-| 11 | "If water reaches 0°C, it ___." (A) freezes, B) will freeze, C) would freeze) | **A) freezes** (Type Zéro — vérité générale) |
-| 12 | "He ___ be at home. His car is in the driveway." (Déduction) (A) might, B) must, C) should) | **B) must** (quasi-certitude/déduction) |
-| 13 | "I was sitting ___ the train when I saw him." (A) by, B) in, C) on) | **C) on** (transport collectif avec article) |
-| 14 | "You ___ to see a doctor. You look ill." (A) ought, B) must, C) might) | **A) ought** (conseil : ought to) |
-| 15 | "___ dogs are loyal animals." (A) A, B) The, C) Ø) | **C) Ø** (généralité, pluriel) |
+| 1 | Lequel de ces pays est actuellement dirigé par une femme ? | (A. Libéria / B. Sierra Léone / C. Tanzanie / D. Éthiopie) |
+| 2 | Quelle école Aristote a-t-il créée ? | C. Le Lycée |
+| 3 | Qui fut le premier Directeur Général de l'ENA-CI ? | (Ropion Robert) |
+| 4 | Quel acte a permis l’indépendance du Soudan du Sud en 2011 ? | D. Le Référendum d’autodétermination |
+| 5 | En quelle année Yamoussoukro devint-elle la capitale politique ivoirienne ? | B. 1983 |
+| 6 | Qui est le plus médaillé aux Jeux Olympiques ? | B. Michael Phelps |
+| 7 | Quel traité a mis fin à la première guerre mondiale en 1919 ? | A. Le traité de Versailles |
+| 8 | Quelle est la nature du pouvoir exécutif ivoirien ? | B. Bicéphale |
+| 9 | L’ordre juridictionnel ivoirien est ? | B. Dualiste |
+| 10 | Quelle est la plus haute juridiction de l’ordre judiciaire ? | A. Cour de cassation |
+
+*(Note : Conformément aux instructions, l'essentiel du document a été extrait sous forme de faits et notes de cours. Une sélection des QCMs est présentée ci-dessus).*
+
 
 ---
 
-## 🎯 Format attendu du quiz
+# Aptitude Verbale
 
-```
-📝 Question 1/10
-[Thème : ex. Organisations Internationales]
+# Aptitude Verbale - Notes de Cours et QCM
 
-En quelle année a été créé le Mercosur ?
+## I. Résumé du Cours et Concepts Clés
 
-A) 1985
-B) 1991
-C) 1995
-D) 2001
+### 1. Synonymes, Antonymes et Paronymes
 
-👉 Votre réponse ?
+| Mot | Synonyme | Antonyme |
+|---|---|---|
+| **Déluré** | Dégourdi | - |
+| **Arbitraire** | Discrétionnaire | - |
+| **Prolixe** | Bavard | - |
+| **Coordination** | - | Désorganisation |
+| **Estimer** | - | Déprécier |
+| **Austère** | Sévère | Luxueux / Frivole |
+| **Magnanime** | Généreux | Rancunier |
+| **Taciturne** | Silencieux | Bavard |
+| **Succinct** | Bref | Détaillé |
+| **Péremptoire** | Catégorique | Hésitant |
+| **Fallacieux** | Trompeur | Sincère / Honnête |
+
+**Paronymes à distinguer :**
+*   **Collision** (choc) / **Collusion** (entente secrète)
+*   **Conjoncture** (situation, contexte) / **Conjecture** (hypothèse)
+
+### 2. Lexique et Orthographe
+
+*   **Orthographe correcte à retenir** : Accueil, Parallèle, Rythme, Événement, Connexion, Cauchemar, Acquiescement, Réminiscence, Dithyrambe, A priori, Obsolète, Dilettante, Expiation.
+*   **Genre des mots** : 
+    *   *Masculin* : Un augure, un tubercule, un tentacule, un termite.
+    *   *Mots à double genre* (selon le sens ou le nombre) : Manche, Orgue, Voile, Mémoire, Poste, Hymne, Amour, Délice.
+
+### 3. Règles d'Accord
+
+| Catégorie | Règle et Exemples |
+|---|---|
+| **Adjectifs de couleur** | Invariables s'ils sont composés (ex: *bleu ciel, vert émeraude, rouge sang, bleu marine, jaune citron, bleu turquoise, vert olive, marron foncé, bleu nuit, rouge brique, noir ébène*). |
+| **Nombres** | Vingt et cent prennent la marque du pluriel s'ils sont multipliés et terminent le nombre (ex: *trois cents*, mais *trois cent mille*, *quatre-vingts*, mais *quatre-vingt-deux*). "Mille" est invariable. |
+| **Noms composés** | *Choux-fleurs, arcs-en-ciel, timbres-poste, chefs-d'œuvre, garde-manger, coffres-forts, compte-gouttes, nouveau-nés, stations-service*. Le mot *après-midi* est le plus souvent invariable. |
+| **Participe passé** | - Avec "avoir", accord avec le COD placé avant (ex: *Cette commode, il l'a trouvée*).<br>- Verbes pronominaux : accord avec le sujet si le pronom est COD (ex: *Elles se sont mêlées*), mais invariable si le pronom est COI ou si un COD suit (ex: *Ils se sont lavé les mains*, *Elles se sont rendu compte*, *Ils se sont dit la vérité*). |
+
+### 4. Figures de Style et Phénomènes Lexicaux
+
+*   **Prétérition** : Feindre de ne pas dire ce qu'on dit ("Je ne te coupe pas la parole mais...").
+*   **Oxymore** : Alliance de mots opposés ("Cette obscure clarté...").
+*   **Métaphore** : Comparaison sans outil ("La nature est un temple").
+*   **Hyperbole** : Exagération ("Je meurs de soif").
+*   **Barbarisme** : Mot déformé ("rénumérations" au lieu de rémunérations).
+*   **Janotisme (amphibologie)** : Construction ambiguë ("j'ai envoyé un lièvre à mon avocat que j'ai tué").
+*   **Palindrome** : Mot qui se lit dans les deux sens (Radar, Kayak, Ressasser, Rotor).
+
+### 5. Expressions et Locutions Latines
+
+| Expression | Signification |
+|---|---|
+| **A priori** | Avant l'expérience / au premier abord |
+| **Casus belli** | Motif de guerre |
+| **In vino veritas** | La vérité est dans le vin |
+| **Pacta sunt servanda** | Les contrats doivent être respectés |
+| **Res judicata pro veritate habetur** | La chose jugée est tenue pour vérité |
+| **Nul n'est censé ignorer la loi** | L'ignorance de la loi n'excuse pas |
+| **Cultiver son jardin** | S'occuper de ses propres affaires |
+| **Être dans de beaux draps** | Être dans une situation embarrassante |
+| **Battre le fer pendant qu'il est chaud** | Agir au bon moment |
+| **À cor et à cri** | Avec insistance / bruyamment |
+| **Qui trop embrasse mal étreint** | Vouloir trop faire expose à l'échec |
+| **Avoir voix au chapitre** | Avoir le droit de donner son avis |
+
+### 6. Littérature Africaine
+*   *Les Soleils des indépendances* - Ahmadou Kourouma
+*   *Climbié* - Bernard Dadié
+*   *Une vie de boy* - Ferdinand Oyono
+*   *Le pauvre Christ de Bomba* - Mongo Beti
+*   *L'Enfant noir* - Camara Laye
+*   *Sous l'orage* - Seydou Badian
+*   *Le Docker noir* - Sembène Ousmane
 
 ---
 
-[Après la réponse de l'utilisateur]
+## II. Base de Questions à Choix Multiples (QCM)
 
-✅ Bonne réponse ! / ❌ Mauvaise réponse.
-La bonne réponse est B) 1991.
-💡 Explication : Le Mercosur a été créé par le traité d'Asunción signé le 26 mars 1991.
+| # | Question | Réponse |
+|---|----------|---------|
+| 1 | Quel est le synonyme de « déluré » ? | a) Dégourdi |
+| 2 | Quel est le synonyme de « arbitraire » ? | a) Discrétionnaire |
+| 3 | Quel est l’antonyme de « coordination » ? | b) Désorganisation |
+| 4 | Quel est l’antonyme de « estimer » ? | a) Déprécier |
+| 5 | Quelle est l’analogie qui correspond à loi – citoyen ? | c) rênes - cheval |
+| 6 | Quelle est l’analogie qui correspond à Etat – frontière ? | c) propriété – clôture |
+| 7 | Le support de cours de fiscalité fait … pages | a) trois cents |
+| 8 | L’Etat de Bonikro compte environ … âmes | a) quatre-vingt deux millions trois cent mille |
+| 9 | Cette commode, il l’a … chez sa grand-mère | a) trouvée |
+| 10 | Cette panne de courant …, la soirée s’est bien passée | b) mise à part |
+| 11 | La soirée repris de plus belle après que l’électricité … revenu | a) est |
+| 12 | Quel est le passé composé de cette phrase : je crée du contenu audiovisuel | a) j’ai créé du contenu audiovisuel |
+| 13 | « je ne te coupe pas la parole mais cet homme maitrise son travail » est une | a) prétérition |
+| 14 | « Les enseignants ont reçu leurs rénumérations de ce mois » contient | a) le barbarisme |
+| 15 | « j’ai envoyé un lièvre à mon avocat que j’ai tué à la chasse » comprend | a) le janotisme |
+| 16 | Quel est le féminin de turc ? | a) turque |
+| 17 | Lequel est du genre masculin : acoustique, algèbre, écritoire, augure | a) augure |
+| 18 | Lequel est du genre féminin : tubercule, termite, tentacule, minuit, scolopendre | c) scolopendre |
+| 19 | Que signifie l’expression « cultiver son jardin » ? | a) s’occuper uniquement de ses affaires |
+| 20 | Nous irons au marché demain ; nous _____ passerons tôt. | b) y |
+| 21 | Elles se sont _____ compte de leur erreur. | a) rendu |
+| 22 | Ils se sont _____ les mains avant le repas. | a) lavé |
+| 23 | Les robes bleu _____ sont magnifiques. | a) ciel |
+| 24 | Des yeux vert _____ observaient la scène. | b) émeraude |
+| 25 | Elle s’est _____ de cette affaire compliquée. | a) mêlée |
+| 26 | Ces nouveau-_____ sont très compétents. | a) nés |
+| 27 | Elle s’est _____ une robe élégante. | a) acheté |
+| 28 | Ils se sont _____ après une longue dispute. | b) réconciliés |
+| 29 | Elle s’est _____ les cheveux hier. | a) coupé |
+| 30 | Ils se sont _____ de leurs erreurs. | b) souvenus |
+| 31 | Ils se sont _____ des lettres. | a) écrit |
+| 32 | Ils se sont _____ la vérité. | b) dit |
+| 33 | Quel mot signifie « supporter difficilement » ? | a) Endurer |
+| 34 | Quel est un palindrome ? | a) Radar |
+| 35 | Qui est l’auteur de « Les Soleils des indépendances » ? | a) Ahmadou Kourouma |
+| 36 | Quel est le pluriel correct de « chou-fleur » ? | a) choux-fleurs |
+| 37 | Quelle est l’orthographe correcte ? | a) Accueil |
+| 38 | Quel mot peut être masculin ou féminin selon le sens ? | a) Manche |
+| 39 | Quel mot signifie « attribuer une faute » ? | a) Imputer |
+| 40 | Qui a écrit « Climbié » ? | a) Bernard Dadié |
+| 41 | Quel est le pluriel correct de « arc-en-ciel » ? | a) arcs-en-ciel |
+| 42 | Quelle est l’orthographe correcte ? | a) Parallèle |
+| 43 | Quel mot signifie « remettre à plus tard » ? | a) Ajourner |
+| 44 | Qui est l’auteur de « Une vie de boy » ? | a) Ferdinand Oyono |
+| 45 | Quel est le pluriel correct de « timbre-poste » ? | a) timbres-poste |
+| 46 | Quelle est l’orthographe correcte ? | a) Rythme |
+| 47 | Quel mot signifie « observer discrètement » ? | a) Épier |
+| 48 | Qui est l’auteur de « Le pauvre Christ de Bomba » ? | a) Mongo Beti |
+| 49 | Quel est le pluriel correct de « chef-d’œuvre » ? | a) chefs-d’œuvre |
+| 50 | Quelle est l’orthographe correcte ? | a) Événement |
+| 51 | Quel mot signifie « briller fortement » ? | a) Étinceler |
+| 52 | Qui est l’auteur de « L’Enfant noir » ? | a) Camara Laye |
+| 53 | Quel est le pluriel correct de « après-midi » ? | c) les deux sont admis |
+| 54 | Quelle est l’orthographe correcte ? | a) Connexion |
+| 55 | Quel mot signifie « prévoir » ? | a) Présager |
+| 56 | Qui est l’auteur de « Sous l’orage » ? | a) Seydou Badian |
+| 57 | Quel est le pluriel correct de « garde-manger » ? | a) garde-manger |
+| 58 | Quelle est l’orthographe correcte ? | a) Cauchemar |
+| 59 | Quel mot signifie « réparer une faute » ? | a) Expiation |
+| 60 | Paronyme de « collision » ? | a) Collusion |
+| 61 | Qui est l’auteur de « Le Docker noir » ? | a) Sembène Ousmane |
+| 62 | Paronyme de « conjoncture » ? | a) Conjecture |
+| 63 | Dans la phrase « Cette obscure clarté tombe des étoiles », la figure de style utilisée est : | b) un oxymore |
+| 64 | « La nature est un temple » constitue : | b) une métaphore |
+| 65 | « Je meurs de soif » est : | a) une hyperbole |
+| 66 | Quelle est l’orthographe correcte ? | a) acquiescement |
+| 67 | Quelle est l’orthographe correcte ? | a) réminiscence |
+| 68 | Quelle est l’orthographe correcte ? | c) dithyrambe |
+| 69 | Le pluriel correct de « un coffre-fort » est : | c) des coffres-forts |
+| 70 | Le pluriel correct de « un compte-gouttes » est : | b) des compte-gouttes |
+| 71 | Choisissez la phrase correcte. | b) Après qu’il est parti, nous avons fermé la porte. |
+| 72 | Choisissez la phrase correcte. | b) Avant qu’il vienne, préparez la salle. |
+| 73 | L’expression latine « a priori » signifie : | b) avant l’expérience |
+| 74 | « Casus belli » signifie : | a) motif de guerre |
+| 75 | « In vino veritas » signifie : | a) la vérité est dans le vin |
+| 76 | « Nul n’est censé ignorer la loi » signifie que : | b) l’ignorance de la loi n’excuse pas |
+| 77 | « Pacta sunt servanda » signifie : | a) les contrats doivent être respectés |
+| 78 | « Res judicata pro veritate habetur » signifie : | a) la chose jugée est tenue pour vérité |
+| 79 | Un synonyme du mot « prolixe » est : | a) bavard |
+| 80 | Le contraire du mot « austère » est : | b) luxueux |
+| 81 | Une personne « magnanime » est : | b) généreuse |
+| 82 | Le mot « ubuesque » signifie : | a) ridicule et grotesque |
+| 83 | « Être dans de beaux draps » signifie : | b) être dans une situation embarrassante |
+| 84 | Le mot « succinct » signifie : | b) bref |
+| 85 | Le mot « péremptoire » signifie : | b) catégorique |
+| 86 | « Battre le fer pendant qu’il est chaud » signifie : | a) agir au bon moment |
+| 87 | Le terme « fallacieux » signifie : | a) trompeur |
+| 88 | « À cor et à cri » signifie : | b) avec insistance |
+| 89 | « Qui trop embrasse mal étreint » signifie : | b) vouloir trop faire expose à l’échec |
+| 90 | Une personne « taciturne » est : | b) silencieuse |
+| 91 | Choisissez la phrase correctement écrite. | a) Quatre-vingts candidats étaient présents. |
+| 92 | Choisissez la phrase correcte. | a) Deux cents exemplaires ont été distribués. |
+| 93 | Le mot « obsolète » signifie : | a) ancien et dépassé |
+| 94 | Quel est le sens de l’expression « avoir voix au chapitre » ? | b) avoir le droit de donner son avis |
+| 95 | Choisissez la phrase correctement construite. | b) Bien qu’il soit malade, il travaille. |
+| 96 | Le mot « dilettante » désigne : | a) un amateur éclairé |
+| 97 | Choisissez la phrase correcte. | b) Quelles que soient les difficultés, il persévère. |
+
 
 ---
 
-📝 Question 2/10
-[...]
-```
+# Anglais
 
-## ⚠️ Rappels importants
+# Résumé de Cours : Anglais (ENA 1er Tour)
 
-- **Ne reproduis PAS les questions mot pour mot** : crée des variantes inspirées des fiches.
-- **Mélange les thèmes** pour couvrir au minimum 3 des 5 domaines.
-- **Utilise les ressources de l'Académie française** pour enrichir les questions de langue : https://www.academie-francaise.fr/actions-pedagogiques/ressources-pedagogiques-0
-- **Adapte le niveau** au concours ENA 1er tour (présélection).
-- **Donne le score final** à la fin (ex : 7/10 — Bon travail ! 🎉).
+## PARTIE I : LES MODAUX EN ANGLAIS
+
+### I. Définition des modaux
+Les verbes modaux sont des auxiliaires particuliers qui servent à exprimer :
+- la capacité
+- la possibilité
+- la permission
+- l'obligation
+- l'interdiction
+- la probabilité
+- le conseil
+- l'habitude passée
+- la volonté ou l'intention
+
+**Les principaux modaux sont :** `can`, `could`, `may`, `might`, `must`, `shall`, `should`, `will`, `would`, `ought to`, `used to`, `dare`, `need`.
+
+### II. Caractéristiques générales des modaux
+Les modaux obéissent à des règles communes :
+- **Ils sont invariables** (pas de *-s* à la 3ᵉ personne). *Exemple : He can swim. (et non he cans)*
+- **Ils sont suivis de la base verbale sans "to".** *Exemple : She must go.*
+  - *Exception :* `ought to`, `used to`, `need to` (forme semi-modale).
+- **Ils forment la négation avec "not", sans "do".** *Exemple : He cannot (can’t) come.*
+- **Ils forment l’interrogation par inversion, sans "do".** *Exemple : Can you help me?*
+
+### III. Étude détaillée de chaque modal
+
+#### 1. CAN
+- **Capacité physique ou intellectuelle :** *She can read.*
+- **Permission familière :** *You can leave now.*
+- **Possibilité générale :** *It can be dangerous.*
+- *Formes particulières :* Négation = cannot / can’t.
+- *Exceptions et limites :* Pas de futur ni de passé avec can → on emploie **be able to** (*She will be able to help*). Au passé précis, on utilise **was / were able to** pour une action réussie (*He was able to escape*).
+
+#### 2. COULD
+- **Capacité passée générale :** *She could run fast when she was young.*
+- **Politesse, demande atténuée :** *Could you help me?*
+- **Possibilité théorique :** *It could rain.*
+- *Exceptions :* Ne signifie pas toujours capacité réelle accomplie (*He could escape* ≠ il a effectivement réussi).
+
+#### 3. MAY
+- **Permission formelle :** *May I come in?*
+- **Possibilité :** *He may arrive late.*
+- *Formes particulières :* Négation = may not (rarement contractée).
+- *Exception importante :* N'est pas utilisé pour les questions de capacité (on ne dit pas *May you swim?*).
+
+#### 4. MIGHT
+- **Possibilité faible, hypothèse :** *She might come.*
+- *Exception :* Peut s’utiliser pour le reproche au passé (*You might have told me*).
+
+#### 5. MUST
+- **Obligation forte imposée par le locuteur :** *You must obey.*
+- **Déduction logique forte :** *She must be tired.*
+- *Négation :* **must not / mustn’t** exprime l’interdiction (*You mustn’t smoke here*).
+- *Exception capitale :* Pas de passé ni de futur → on utilise **have to** (*He had to leave*). La négation logique (déduction) n’est pas *mustn’t* mais **can’t** (*He can’t be at home*).
+
+#### 6. HAVE TO (semi-modal)
+- **Obligation externe** (règle, loi, autorité) : *Students have to wear uniforms.*
+- *Formes :* Présent : **have / has to** | Passé : **had to** | Futur : **will have to**
+- *Différence essentielle :* Must = obligation subjective | Have to = obligation objective
+
+#### 7. SHALL
+- **Suggestion avec I et we :** *Shall we go?*
+- **Obligation légale (anglais juridique) :** *The tenant shall pay.*
+- *Remarque :* Rare en anglais moderne hors contextes formels.
+
+#### 8. SHOULD
+- **Conseil :** *You should rest.*
+- **Probabilité :** *He should arrive soon.*
+- *Exception :* Exprime parfois une surprise (*It’s strange that he should say that*).
+
+#### 9. WILL
+- **Futur :** *I will call you.*
+- **Volonté :** *He will help.*
+- **Habitude présente :** *She will sit for hours.*
+- *Exception :* Peut exprimer une insistance (*He will keep talking*).
+
+#### 10. WOULD
+- **Politesse :** *Would you like some tea?*
+- **Habitude passée :** *When we were kids, we would play outside.*
+- **Conditionnel :** *I would help if I could.*
+- *Exception :* Ne remplace pas *used to* pour les états (on ne dit pas *I would be shy*).
+
+#### 11. OUGHT TO
+- **Devoir moral, conseil fort :** *You ought to apologize.*
+- *Exception :* Rarement utilisé à la négation et à l’interrogation.
+
+#### 12. USED TO
+- **Habitude ou état passé révolu :** *I used to live here.*
+- *Exceptions :* Forme négative et interrogative avec **did** (*Did you use to smoke?*). Ne pas confondre avec **be used to** (habitude actuelle : *I am used to noise*).
+
+#### 13. DARE
+- **Audace, défi.**
+- *Formes :* Modal (*He dare not speak*) / Verbe ordinaire (*He doesn’t dare to speak*).
+
+#### 14. NEED
+- **Nécessité.**
+- *Formes :* Modal (*You needn’t worry*) / Verbe ordinaire (*You don’t need to worry*).
+
+### IV. Les modaux au passé (modal + have + participe passé)
+Cette structure exprime le **regret**, le **reproche**, une **hypothèse passée** ou une **déduction**.
+- *You should have studied.* (regret)
+- *He must have left.* (déduction)
+- *She might have forgotten.* (possibilité)
+- *Exception importante :* **cannot have + participe passé** pour la déduction négative.
+
+---
+
+## PARTIE II : LES PRÉPOSITIONS EN ANGLAIS
+
+### I. Définition générale
+Une préposition est un mot invariable qui établit un lien de sens (lieu, temps, mouvement, manière, cause, but, relation logique).
+
+### II. Les prépositions de lieu
+
+#### 1. AT
+- **Point précis, lieu d'activité/institution :** *She is at the door, He is at school.*
+- **Expressions figées :** *at home, at work, at the station, at the airport.*
+- *Exceptions :* *at night* (mais *in the morning*), *at the weekend* (UK).
+
+#### 2. IN
+- **Intérieur d’un espace fermé, pays, villes :** *in the bag, in France.*
+- **Moyens de transport fermés (voiture) :** *in a car, in a taxi.*
+- **Matière, couleur :** *dressed in black.*
+- *Exceptions :* *in bed, in hospital*. (On dit *at home*, pas *in home*).
+
+#### 3. ON
+- **Contact avec une surface, rues :** *on the table, on Oxford Street.*
+- **Moyens de transport ouverts/collectifs :** *on a bus, on a bike.*
+- *Exceptions :* *on the left / right, on TV, on the radio.*
+
+#### 4. ABOVE et BELOW / OVER et UNDER
+- **Above :** plus haut que (sans contact). *The lamp is above the table.*
+- **Below :** plus bas que. *The temperature is below zero.*
+- **Over :** au-dessus (mouvement/couverture ou "plus de"). *flew over the city, over 18.*
+- **Under :** en dessous (couvert/dominé). *under the chair.*
+
+### III. Les prépositions de temps
+- **AT :** Heure précise (*at 6 o’clock*), moments spécifiques (*at night, at noon*), période courte (*at Christmas*).
+- **IN :** Mois, années, siècles, saisons (*in July, in 2025*), période longue ou durée avant futur (*in two days*, *in the morning*).
+- **ON :** Jours et dates précises (*on Monday, on 15th August*), jour + moment (*on Monday morning*).
+- *Exception :* Pas de préposition devant *today, yesterday, tomorrow*.
+
+### IV. Les prépositions de mouvement et de direction
+- **TO :** Direction (*to school*). Exception : on dit *home* (pas *to home*).
+- **INTO :** Mouvement vers l’intérieur (*into the room*).
+- **ONTO :** Mouvement vers une surface (*onto the table*).
+- **FROM :** Origine (*from Canada*).
+- **THROUGH :** À travers un espace fermé.
+- **ACROSS :** D’un côté à l’autre d’une surface.
+- **ALONG :** Le long de.
+
+### V. Autres prépositions courantes
+- **BY :** Agent au passif (*written by...*), moyen de transport (*by car*). Exception: *on foot*.
+- **WITH :** Accompagnement, instrument (*with a knife*), cause (*trembling with fear*).
+- **WITHOUT :** Absence (*without money*).
+- **FOR :** Durée (*for two years*), but/bénéficiaire (*for you*).
+- **SINCE :** Point de départ dans le temps (*since 2020*).
+- **DURING :** Pendant une période (*during the meeting* - jamais de durée chiffrée après).
+
+### VI. Prépositions après certains verbes et adjectifs
+Idiomatismes à mémoriser : *depend on, listen to, look at, interested in, afraid of, good at.*
+
+### VII. Absence de préposition
+Après *home, last, next, this* (*last week*) et avant *every* (*every day*).
+
+### VIII. Erreurs fréquentes à éviter
+- Dire *in home / to home* au lieu de **at home / home**.
+- Confondre *for* et *since*.
+- Employer une préposition devant *yesterday* ou *tomorrow*.
+- Utiliser *in* au lieu de *on* pour les surfaces.
+
+### IX à XV. Les Moyens de Transport : BY vs ON/IN
+- **BY + transport (sans article) :** exprime le **moyen** (comment on se déplace).
+  *by bus, by train, by plane, by boat, by car.* (Question: *How?*)
+- **ON + transport (avec article) :** exprime la **position à bord** de transports collectifs/plateformes.
+  *on a bus, on the train, on a plane, on the ship.* (Question: *Where?*)
+- **IN + transport :** pour les véhicules individuels.
+  *in a car, in a taxi, in a van.*
+- *Exception :* *in a bus / train* est possible si l'on insiste sur l'intérieur physique comme contenant (ex. après un accident : *fifty people in the bus*).
+
+**Schéma mental :**
+- Comment ? -> *by bus / by train / by car*
+- Où ? -> *on the bus / on the train / in the car*
+
+
+---
+
