@@ -2100,6 +2100,328 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Langue française"
   },
   {
+    "question": "Choisissez la forme correcte :",
+    "options": ["Ils se sont dit la vérité.", "Ils se sont dits la vérité.", "Ils se sont dite la vérité.", "Ils se sont dis la vérité."],
+    "answer": "Ils se sont dit la vérité.",
+    "explanation": "'Se' est COI (ils ont dit la vérité à eux-mêmes). 'la vérité', COD, est placé après, donc invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Trouvez la phrase correcte :",
+    "options": ["Quoiqu'il soit riche, il est avare.", "Quoi qu'il soit riche, il est avare.", "Quoi qu'il est riche, il est avare.", "Quoiqu'il est riche, il est avare."],
+    "answer": "Quoiqu'il soit riche, il est avare.",
+    "explanation": "'Quoique' en un seul mot signifie 'bien que' et appelle le subjonctif.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Laquelle de ces phrases contient une erreur d'accord ?",
+    "options": ["Les lettres qu'ils se sont envoyées.", "Elles se sont rendu compte de leur erreur.", "Les années se sont succédées rapidement.", "Ils se sont plu immédiatement."],
+    "answer": "Les années se sont succédées rapidement.",
+    "explanation": "Le verbe 'se succéder' n'a jamais de COD (succéder à), le participe passé est donc toujours invariable : se sont succédé.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Accord des adjectifs de couleur. Lequel est correct ?",
+    "options": ["Des robes bleues claires", "Des robes bleu clair", "Des robes bleues clair", "Des robes bleu claires"],
+    "answer": "Des robes bleu clair",
+    "explanation": "Les adjectifs de couleur composés sont invariables.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Comment écrit-on le nombre 300 en toutes lettres lorsqu'il n'est suivi d'aucun autre chiffre ?",
+    "options": ["Trois cent", "Trois-cent", "Trois cents", "Trois-cents"],
+    "answer": "Trois cents",
+    "explanation": "Vingt et cent prennent la marque du pluriel quand ils sont multipliés par un nombre et qu'ils terminent l'adjectif numéral.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Comment écrit-on 80 en toutes lettres ?",
+    "options": ["Quatre-vingt", "Quatre-vingts", "Quatre vingts", "Quatre vingt"],
+    "answer": "Quatre-vingts",
+    "explanation": "'Vingts' prend un 's' car il est multiplié par quatre et n'est suivi d'aucun autre nombre.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel est le pluriel du mot composé 'un compte-gouttes' ?",
+    "options": ["Des comptes-gouttes", "Des compte-gouttes", "Des comptes-goutte", "Des compte-goutte"],
+    "answer": "Des compte-gouttes",
+    "explanation": "'compte' est un verbe (invariable), 'gouttes' prend le pluriel (qui est d'ailleurs déjà présent au singulier).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel est le pluriel de 'chef-d'œuvre' ?",
+    "options": ["Chefs-d'œuvre", "Chefs-d'œuvres", "Chef-d'œuvres", "Chef-d'œuvre"],
+    "answer": "Chefs-d'œuvre",
+    "explanation": "Seul le premier nom prend la marque du pluriel dans un nom composé d'un nom et de son complément prépositionnel.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Identifiez la phrase sans erreur :",
+    "options": ["Elles se sont arrogées des droits.", "Elles se sont arrogé des droits.", "Elles se sont arrogé de droits.", "Elles se sont arrogées de droits."],
+    "answer": "Elles se sont arrogé des droits.",
+    "explanation": "Le verbe s'arroger (arroger à soi). 'des droits' est COD placé après, donc invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Laquelle de ces formes est correcte ?",
+    "options": ["Des arc-en-ciels", "Des arcs-en-ciels", "Des arcs-en-ciel", "Des arc-en-ciel"],
+    "answer": "Des arcs-en-ciel",
+    "explanation": "Nom + préposition + nom : seul le premier nom varie. Les arcs qui sont dans le ciel.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Choisissez la bonne graphie :",
+    "options": ["Il faut qu'il résoud le problème.", "Il faut qu'il résolve le problème.", "Il faut qu'il résout le problème.", "Il faut qu'il résolusse le problème."],
+    "answer": "Il faut qu'il résolve le problème.",
+    "explanation": "Subjonctif présent du verbe résoudre.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel est le participe passé de 's'enfuir' à la 3ème personne du pluriel au féminin ?",
+    "options": ["se sont enfuies", "se sont enfui", "se sont enfuit", "se sont enfuis"],
+    "answer": "se sont enfuies",
+    "explanation": "Verbe essentiellement pronominal, s'accorde avec le sujet.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Sélectionnez l'orthographe correcte pour 300 000 :",
+    "options": ["Trois cents mille", "Trois-cents mille", "Trois cent mille", "Trois-cent mille"],
+    "answer": "Trois cent mille",
+    "explanation": "Cent est invariable s'il est suivi d'un autre nombre (ici, mille, qui est un adjectif numéral invariable).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel est l'accord correct ?",
+    "options": ["Les pommes que j'ai vu tomber.", "Les pommes que j'ai vues tomber.", "Les pommes que j'ai vue tomber.", "Les pommes que j'ai vus tomber."],
+    "answer": "Les pommes que j'ai vues tomber.",
+    "explanation": "Le COD 'que' (mis pour pommes) précède, et les pommes font l'action de tomber (sujet de l'infinitif), l'accord se fait.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Accord avec laisser :",
+    "options": ["Les arbres que j'ai laissé abattre.", "Les arbres que j'ai laissés abattre.", "Les arbres que j'ai laissées abattre.", "Les arbres que j'ai laissé abattus."],
+    "answer": "Les arbres que j'ai laissé abattre.",
+    "explanation": "Depuis la réforme de 1990, 'fait' et 'laissé' suivis d'un infinitif sont invariables.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Laquelle de ces propositions est juste ?",
+    "options": ["Ils se sont parler pendant des heures.", "Ils se sont parlés pendant des heures.", "Ils se sont parlé pendant des heures.", "Ils se sont parlées pendant des heures."],
+    "answer": "Ils se sont parlé pendant des heures.",
+    "explanation": "Se parler à soi-même ou à l'un l'autre (COI). Donc invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Pluriel des mots composés : 'nouveau-né'.",
+    "options": ["nouveaux-né", "nouveau-nés", "nouveaux-nés", "nouveau-nées"],
+    "answer": "nouveaux-nés",
+    "explanation": "Les deux éléments (adjectif + participe passé/adjectif) s'accordent au pluriel.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Laquelle de ces orthographes est correcte concernant le verbe asseoir ?",
+    "options": ["Je m'assoies", "Je m'assied", "Je m'assois", "Je m'assié"],
+    "answer": "Je m'assois",
+    "explanation": "Les deux formes 'je m'assois' et 'je m'assieds' sont valables, mais 'je m'assied' sans 's' est fautif.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Identifiez l'erreur :",
+    "options": ["Elle a l'air bête.", "Elle a l'air bêtes.", "Elle a l'air gentille.", "Ils ont l'air fatigués."],
+    "answer": "Elle a l'air bêtes.",
+    "explanation": "L'adjectif s'accorde avec le sujet (Elle) ou avec 'air', mais ne prend pas de 's' si le sujet est singulier.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Complétez la phrase : Il travaille d'arrache-...",
+    "options": ["pieds", "pied", "pié", "piéd"],
+    "answer": "pied",
+    "explanation": "La locution est 'd'arrache-pied' (invariable).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Trouvez la phrase correcte avec 'quelque' :",
+    "options": ["Quelque soient vos raisons.", "Quelles que soient vos raisons.", "Quelques que soient vos raisons.", "Quels que soient vos raisons."],
+    "answer": "Quelles que soient vos raisons.",
+    "explanation": "'Quel que' s'écrit en deux mots devant le verbe être et s'accorde avec le sujet 'raisons' (féminin pluriel).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Orthographe des couleurs :",
+    "options": ["Des yeux marrons", "Des yeux marron", "Des yeux marront", "Des yeux marrones"],
+    "answer": "Des yeux marron",
+    "explanation": "Marron vient d'un nom de fruit et est donc invariable en tant qu'adjectif de couleur.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Accord avec 'avoir' :",
+    "options": ["La chanson que j'ai entendu chanter.", "La chanson que j'ai entendue chanter.", "La chanson que j'ai entendue chantée.", "La chanson que j'ai entendu chantée."],
+    "answer": "La chanson que j'ai entendu chanter.",
+    "explanation": "Le sujet de l'infinitif n'est pas la chanson (la chanson ne chante pas), donc le participe 'entendu' reste invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Sélectionnez la phrase contenant une erreur :",
+    "options": ["Même les plus forts tombent.", "Ils sont arrivés eux-même.", "Nous l'avons fait nous-mêmes.", "Mêmes ses amis l'ont abandonné."],
+    "answer": "Mêmes ses amis l'ont abandonné.",
+    "explanation": "'Même' placé avant un nom/pronom et signifiant 'y compris' est un adverbe invariable. On écrit 'Même ses amis'.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Accord de 'tout' :",
+    "options": ["Elle est tout étonnée.", "Elle est toute étonnée.", "Elle est toutes étonnée.", "Elle est touts étonnée."],
+    "answer": "Elle est tout étonnée.",
+    "explanation": "'Tout' adverbe ne s'accorde devant un adjectif féminin que si celui-ci commence par une consonne ou un h aspiré. 'étonnée' commence par une voyelle.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Cochez la bonne forme :",
+    "options": ["Des fleurs fraîches écloses", "Des fleurs fraîchement écloses", "Des fleurs fraîches éclose", "Des fleurs fraîche écloses"],
+    "answer": "Des fleurs fraîches écloses",
+    "explanation": "'Frais' employé adverbialement s'accorde exceptionnellement avec l'adjectif qui suit.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quelle phrase est correcte ?",
+    "options": ["C'est nous qui avons décidé.", "C'est nous qui ont décidé.", "C'est nous qui a décidé.", "C'est nous qui avez décidé."],
+    "answer": "C'est nous qui avons décidé.",
+    "explanation": "Le verbe s'accorde avec l'antécédent du pronom relatif 'qui', soit 'nous' (1ère personne du pluriel).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel verbe est au conditionnel passé ?",
+    "options": ["J'aurai fini", "J'avais fini", "J'aurais fini", "J'eus fini"],
+    "answer": "J'aurais fini",
+    "explanation": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent (j'aurais) et le participe passé.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Accord des participes passés :",
+    "options": ["Les efforts qu'il a fallus", "Les efforts qu'il a fallu", "Les efforts qu'ils a fallu", "Les efforts qu'il as fallu"],
+    "answer": "Les efforts qu'il a fallu",
+    "explanation": "Le participe passé des verbes impersonnels (il a fallu, il a plu) est toujours invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Identifiez l'orthographe correcte du pluriel :",
+    "options": ["Des gratte-ciels", "Des grattes-ciels", "Des gratte-ciel", "Des grattes-ciel"],
+    "answer": "Des gratte-ciel",
+    "explanation": "'Gratte' (verbe invariable) + 'ciel' (invariable car il n'y a qu'un ciel qu'on gratte).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Lequel de ces mots est féminin ?",
+    "options": ["un tentacule", "un tubercule", "une scolopendre", "un termite"],
+    "answer": "une scolopendre",
+    "explanation": "Scolopendre est de genre féminin, contrairement aux autres qui sont souvent confondus.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel mot peut être masculin OU féminin (double genre) selon son sens ou nombre ?",
+    "options": ["Orgue", "Termite", "Augure", "Aucun des trois"],
+    "answer": "Orgue",
+    "explanation": "Orgue (comme amour et délice) est masculin au singulier et généralement féminin au pluriel (de belles orgues).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Complétez : 'Ces femmes se sont...'",
+    "options": ["souri", "souris", "souries", "sourire"],
+    "answer": "souri",
+    "explanation": "Se sourire à soi ou à un autre (COI), le participe passé reste invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quelle phrase contient un verbe transitif direct ?",
+    "options": ["Il parle à son frère.", "Elle mange une pomme.", "Nous allons à Paris.", "Ils obéissent aux règles."],
+    "answer": "Elle mange une pomme.",
+    "explanation": "Manger quelque chose (ici une pomme, COD) -> verbe transitif direct.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Que signifie la locution 'a priori' ?",
+    "options": ["Au premier abord, avant toute expérience.", "A posteriori, après réflexion.", "Une priorité absolue.", "Une excuse non fondée."],
+    "answer": "Au premier abord, avant toute expérience.",
+    "explanation": "'a priori' (du latin) signifie au premier abord, en se fondant sur des données antérieures à l'expérience.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Choisissez la proposition exacte :",
+    "options": ["Il l'a convaincu.", "Il l'a convaincue.", "Il l'a convaincues.", "Cela dépend du contexte."],
+    "answer": "Cela dépend du contexte.",
+    "explanation": "Le participe s'accorde avec le pronom 'l'', il s'écrira 'convaincue' si 'l'' remplace une femme, et 'convaincu' si c'est un homme.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quelle est la bonne orthographe pour 92 ?",
+    "options": ["Quatre-vingts-deux", "Quatre-vingt-deux", "Quatre-vingt deux", "Quatre-vingts deux"],
+    "answer": "Quatre-vingt-deux",
+    "explanation": "Le 's' de vingts tombe lorsqu'il est suivi d'un autre adjectif numéral (deux).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Parmi ces phrases, laquelle est correcte ?",
+    "options": ["Les enfants dont je t'ai parlé sont ici.", "Les enfants dont je t'ai parlés sont ici.", "Les enfants dont je t'ai parlées sont ici.", "Les enfants que je t'ai parlé sont ici."],
+    "answer": "Les enfants dont je t'ai parlé sont ici.",
+    "explanation": "Parler de quelqu'un (COI), donc pas d'accord. Le pronom relatif 'dont' remplace un COI.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Comment conjuguer au conditionnel présent (1ère pers. singulier) : 'courir' ?",
+    "options": ["Je courrais", "Je courais", "Je courrai", "Je courai"],
+    "answer": "Je courrais",
+    "explanation": "Le conditionnel présent de courir prend deux 'r' : je courrais (radical du futur + terminaisons de l'imparfait).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Indiquez l'accord correct :",
+    "options": ["Des fleurs rouge sang", "Des fleurs rouges sang", "Des fleurs rouge sangs", "Des fleurs rouges sangs"],
+    "answer": "Des fleurs rouge sang",
+    "explanation": "Les adjectifs de couleur composés (rouge sang) sont toujours invariables.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quelle phrase présente un pléonasme ?",
+    "options": ["Monter en haut.", "Sortir dehors.", "Descendre en bas.", "Toutes les réponses."],
+    "answer": "Toutes les réponses.",
+    "explanation": "Monter implique d'aller en haut, sortir implique d'aller dehors, descendre d'aller en bas. Ce sont tous des pléonasmes.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Identifiez la proposition correcte pour le subjonctif imparfait :",
+    "options": ["Que je fisse", "Que je fis", "Que je faisait", "Que je fasse"],
+    "answer": "Que je fisse",
+    "explanation": "'Fisse' est la 1ère personne du singulier de l'imparfait du subjonctif du verbe faire.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quel est le pluriel de 'passe-partout' ?",
+    "options": ["passe-partouts", "passes-partouts", "passe-partout", "passes-partout"],
+    "answer": "passe-partout",
+    "explanation": "Mot composé d'un verbe (passe) et d'un adverbe (partout). Le nom entier est donc invariable.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Quelle locution est correcte pour dire 'à condition que' (avec subjonctif) ?",
+    "options": ["A condition que tu viens.", "A condition que tu viennes.", "A condition que tu viendras.", "A condition que tu vienne."],
+    "answer": "A condition que tu viennes.",
+    "explanation": "'A condition que' exige le subjonctif (tu viennes).",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Orthographe correcte du pluriel de 'coffre-fort' ?",
+    "options": ["coffre-forts", "coffres-fort", "coffres-forts", "coffre-fort"],
+    "answer": "coffres-forts",
+    "explanation": "Nom + adjectif : les deux s'accordent au pluriel.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
+    "question": "Laquelle de ces phrases contient une faute d'orthographe ?",
+    "options": ["Ils se sont rendu compte de l'erreur.", "Elle s'est lavé les mains.", "Elles se sont permises de répondre.", "Ils se sont écrit des lettres."],
+    "answer": "Elles se sont permises de répondre.",
+    "explanation": "Permettre à soi (COI) de faire quelque chose. Le participe passé doit être invariable : se sont permis.",
+    "theme": "Culture Générale — Langue française"
+  },
+  {
     "question": "Les mots « saut », « seau » et « sot » sont des :",
     "options": ["A) Paronymes", "B) Homographes", "C) Homophones", "D) Antonymes"],
     "answer": "C",
@@ -4498,6 +4820,321 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Camara Laye", "B) Mongo Beti", "C) Bernard Dadié", "D) Seydou Badian"],
     "answer": "A",
     "explanation": "C'est le chef-d'œuvre de Camara Laye.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'austère' ?",
+    "options": ["Luxueux", "Sévère", "Péremptoire", "Déluré"],
+    "answer": "Luxueux",
+    "explanation": "Austère signifie dépourvu d'ornement, rigide. Son antonyme le plus commun dans ce contexte est luxueux ou fastueux.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans la phrase 'Cette obscure clarté qui tombe des étoiles' (Corneille), quelle est la figure de style ?",
+    "options": ["Oxymore", "Métaphore", "Antithèse", "Hyperbole"],
+    "answer": "Oxymore",
+    "explanation": "L'alliance de deux termes de sens opposés (obscure / clarté) dans un même syntagme est un oxymore.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'expression 'péremptoire' ?",
+    "options": ["Silencieux", "Catégorique", "Généreux", "Trompeur"],
+    "answer": "Catégorique",
+    "explanation": "Péremptoire : qui détruit d'avance toute objection, qui est catégorique.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Trouvez le synonyme de 'fallacieux' :",
+    "options": ["Véridique", "Succinct", "Trompeur", "Taciturne"],
+    "answer": "Trompeur",
+    "explanation": "Fallacieux vient du latin 'fallax' (trompeur) ; un argument fallacieux cherche à tromper, à induire en erreur.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que dénonce la locution latine 'casus belli' ?",
+    "options": ["Un motif de guerre", "Un jugement final", "Une paix durable", "La vérité dans le vin"],
+    "answer": "Un motif de guerre",
+    "explanation": "Casus belli se traduit par 'cas de guerre', l'acte de nature à déclencher un conflit.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie la locution 'pacta sunt servanda' ?",
+    "options": ["La chose est jugée.", "Les conventions doivent être respectées.", "La vérité est dans le vin.", "Avant toute expérience."],
+    "answer": "Les conventions doivent être respectées.",
+    "explanation": "C'est un principe fondamental du droit international : les pactes (traités) doivent être respectés.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Lequel de ces couples de mots correspond à des paronymes ?",
+    "options": ["Mer / Mère", "Collision / Collusion", "Grand / Petit", "Rapide / Véloce"],
+    "answer": "Collision / Collusion",
+    "explanation": "Les paronymes sont des mots qui se ressemblent fortement par leur forme ou leur prononciation mais qui n'ont pas le même sens.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la figure de style dans : 'La nature est un temple où de vivants piliers...' ?",
+    "options": ["Métonymie", "Comparaison", "Métaphore", "Oxymore"],
+    "answer": "Métaphore",
+    "explanation": "L'assimilation directe de la nature à un temple sans outil de comparaison ('comme') est une métaphore.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez l'analogie. Chien est à aboyer ce que Cheval est à :",
+    "options": ["Hennir", "Bêler", "Mugir", "Rugir"],
+    "answer": "Hennir",
+    "explanation": "Le cri du chien est l'aboiement, celui du cheval est le hennissement.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "La confusion entre deux paronymes s'appelle :",
+    "options": ["Un barbarisme", "Une prétérition", "Une amphibologie", "Un solécisme"],
+    "answer": "Un barbarisme",
+    "explanation": "Le fait de forger un mot inexistant, de déformer un mot ou de confondre deux paronymes peut être qualifié de barbarisme lexical.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
+    "options": ["Bernard Dadié", "Ahmadou Kourouma", "Mongo Beti", "Ferdinand Oyono"],
+    "answer": "Ahmadou Kourouma",
+    "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans l'expression 'Je ne vous dirai pas que son intelligence est remarquable', il y a :",
+    "options": ["Une litote", "Une prétérition", "Un euphémisme", "Une métaphore"],
+    "answer": "Une prétérition",
+    "explanation": "La prétérition consiste à affirmer que l'on ne va pas dire quelque chose tout en le disant.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'adjectif 'taciturne' ?",
+    "options": ["Bruyant", "Silencieux", "Arrogant", "Frivole"],
+    "answer": "Silencieux",
+    "explanation": "Taciturne se dit d'une personne qui par nature parle peu, qui est silencieuse, souvent d'humeur sombre.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Différence de sens entre 'conjoncture' et 'conjecture' :",
+    "options": ["Situation économique / Hypothèse", "Hypothèse / Situation", "Affirmation / Négation", "Vrai / Faux"],
+    "answer": "Situation économique / Hypothèse",
+    "explanation": "Conjoncture : situation, ensemble d'éléments (économiques, politiques). Conjecture : hypothèse, supposition.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
+    "options": ["Camara Laye", "Ferdinand Oyono", "Sembène Ousmane", "Seydou Badian"],
+    "answer": "Ferdinand Oyono",
+    "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style est présente dans 'Je meurs de soif' ?",
+    "options": ["La litote", "La prétérition", "L'hyperbole", "La métaphore"],
+    "answer": "L'hyperbole",
+    "explanation": "L'hyperbole est une figure d'exagération (on ne meurt pas réellement à l'instant même de soif).",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Qui a écrit 'Le Docker noir' ?",
+    "options": ["Sembène Ousmane", "Bernard Dadié", "Mongo Beti", "Ahmadou Kourouma"],
+    "answer": "Sembène Ousmane",
+    "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie la locution 'in vino veritas' ?",
+    "options": ["Le vin est un poison.", "La vérité est dans le vin.", "Le vin de la victoire.", "Acheter du vin."],
+    "answer": "La vérité est dans le vin.",
+    "explanation": "Proverbe latin signifiant qu'une personne ivre a tendance à dire la vérité ou ce qu'elle pense réellement.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Si 'arbitraire' correspond à 'discrétionnaire', alors 'succinct' correspond à :",
+    "options": ["Détaillé", "Bref", "Allongé", "Verbeux"],
+    "answer": "Bref",
+    "explanation": "Succinct signifie qui est énoncé en peu de mots, bref, concis.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Le janotisme ou l'amphibologie désigne :",
+    "options": ["Une construction syntaxique obscure à double sens.", "Un néologisme régional.", "Une figure d'exagération.", "Une faute d'orthographe."],
+    "answer": "Une construction syntaxique obscure à double sens.",
+    "explanation": "L'amphibologie est un double sens dû à la syntaxe ('J'ai vu un homme avec des jumelles').",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Qui est l'auteur de 'Climbié' ?",
+    "options": ["Bernard Dadié", "Camara Laye", "Mongo Beti", "Seydou Badian"],
+    "answer": "Bernard Dadié",
+    "explanation": "Climbié est un roman largement autobiographique de l'écrivain ivoirien Bernard Dadié, paru en 1956.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'Kayak' est un exemple de :",
+    "options": ["Métaphore", "Paronyme", "Palindrome", "Pléonasme"],
+    "answer": "Palindrome",
+    "explanation": "Comme 'radar', 'kayak' se lit de la même façon dans les deux sens.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
+    "options": ["Ahmadou Kourouma", "Camara Laye", "Sembène Ousmane", "Cheikh Hamidou Kane"],
+    "answer": "Camara Laye",
+    "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire l'expression 'res judicata' ?",
+    "options": ["La chose publique", "L'autorité de la chose jugée", "L'affaire en cours", "Le droit de juger"],
+    "answer": "L'autorité de la chose jugée",
+    "explanation": "Res judicata pro veritate habetur (la chose jugée est tenue pour vérité), ce qui signifie qu'un jugement définitif ne peut être remis en cause.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez l'analogie : Le pauvre Mongo Beti est l'auteur de 'Le Pauvre Christ de Bomba', Seydou Badian est l'auteur de :",
+    "options": ["Une vie de boy", "Sous l'orage", "Docker noir", "Climbié"],
+    "answer": "Sous l'orage",
+    "explanation": "Seydou Badian Kouyaté, écrivain et homme politique malien, est l'auteur de 'Sous l'orage'.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de l'adjectif 'véloce' ?",
+    "options": ["Lent", "Rapide", "Agréable", "Cruel"],
+    "answer": "Rapide",
+    "explanation": "Véloce (qui a de la vélocité) signifie rapide.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans 'Elle est belle à mourir', quelle figure de style utilise-t-on ?",
+    "options": ["La litote", "L'hyperbole", "La métaphore", "La métonymie"],
+    "answer": "L'hyperbole",
+    "explanation": "L'exagération 'à mourir' souligne l'intensité de la beauté, c'est une hyperbole.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Si 'discrétionnaire' = 'arbitraire', alors 'taciturne' =",
+    "options": ["Loquace", "Silencieux", "Affable", "Joyeux"],
+    "answer": "Silencieux",
+    "explanation": "Un synonyme direct.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'mémoire' (le document écrit) est de quel genre ?",
+    "options": ["Féminin", "Masculin", "Neutre", "Variable"],
+    "answer": "Masculin",
+    "explanation": "Un mémoire (document, écrit académique) est masculin. La mémoire (la faculté) est féminine.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que qualifie-t-on d' 'éphémère' ?",
+    "options": ["Ce qui dure toujours", "Ce qui ne dure qu'un jour", "Ce qui est transparent", "Ce qui est lumineux"],
+    "answer": "Ce qui ne dure qu'un jour",
+    "explanation": "Éphémère (du grec ephemeros, d'un jour) qualifie ce qui a une durée très courte.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire le mot 'allégorie' ?",
+    "options": ["Une fausse vérité", "La représentation d'une idée abstraite sous une forme concrète", "Une exagération manifeste", "L'omission d'une conjonction"],
+    "answer": "La représentation d'une idée abstraite sous une forme concrète",
+    "explanation": "Comme la faucheuse pour la mort, ou la balance pour la justice.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel paronyme faut-il utiliser dans : 'Il a fait une ... pour expliquer la crise' ?",
+    "options": ["conjoncture", "conjecture", "collision", "collusion"],
+    "answer": "conjecture",
+    "explanation": "Conjecture = hypothèse, explication non vérifiée.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel auteur africain a écrit 'Les Soleils des indépendances' ?",
+    "options": ["Léopold Sédar Senghor", "Ahmadou Kourouma", "Wole Soyinka", "Tchicaya U Tam'si"],
+    "answer": "Ahmadou Kourouma",
+    "explanation": "Kourouma est l'auteur des Soleils des indépendances.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'voile' a un double genre. Quel est son sens au masculin ?",
+    "options": ["Pièce de tissu pour faire avancer un bateau", "Pièce de tissu destinée à cacher, à recouvrir", "Le sport nautique", "Le dôme du palais"],
+    "answer": "Pièce de tissu destinée à cacher, à recouvrir",
+    "explanation": "Un voile (pour cacher le visage ou mariée). La voile (bateau).",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'adjectif 'dithyrambique' ?",
+    "options": ["Très critique", "Élogieux, enthousiaste à l'excès", "Silencieux", "Avare"],
+    "answer": "Élogieux, enthousiaste à l'excès",
+    "explanation": "Faire des éloges emphatiques.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez la locution latine : 'Errare humanum est, perseverare ...'",
+    "options": ["divinum", "diabolicum", "veritas", "absurdum"],
+    "answer": "diabolicum",
+    "explanation": "L'erreur est humaine, s'entêter [dans son erreur] est diabolique.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Le néologisme consiste à :",
+    "options": ["Emprunter un mot à une autre langue", "Créer un nouveau mot ou donner un sens nouveau à un mot existant", "Répéter un mot en fin de phrase", "Inverser l'ordre des mots"],
+    "answer": "Créer un nouveau mot ou donner un sens nouveau à un mot existant",
+    "explanation": "Néologisme : mot nouveau.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Si 'prolixe' = 'bavard', 'laconique' =",
+    "options": ["Triste", "Concis, bref", "Volubile", "Bavard"],
+    "answer": "Concis, bref",
+    "explanation": "Laconique : qui s'exprime en peu de mots.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "L'expression 'c'est mon talon d'Achille' est :",
+    "options": ["Une périphrase", "Une métaphore lexicalisée (ou allusion mythologique)", "Un pléonasme", "Un palindrome"],
+    "answer": "Une métaphore lexicalisée (ou allusion mythologique)",
+    "explanation": "Désigne le point faible de quelqu'un.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Que désigne le terme 'synecdoque' ?",
+    "options": ["Prendre le tout pour la partie ou la partie pour le tout", "Exagérer une vérité", "Remplacer un mot par un autre de même sonorité", "Parler de soi à la troisième personne"],
+    "answer": "Prendre le tout pour la partie ou la partie pour le tout",
+    "explanation": "C'est un type particulier de métonymie.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Parmi ces auteurs, lequel n'est pas ivoirien ?",
+    "options": ["Bernard Dadié", "Ahmadou Kourouma", "Ferdinand Oyono", "Isaie Biton Koulibaly"],
+    "answer": "Ferdinand Oyono",
+    "explanation": "Ferdinand Oyono est d'origine camerounaise.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel mot n'a pas le double genre ?",
+    "options": ["Manche", "Mémoire", "Livre", "Tentacule"],
+    "answer": "Tentacule",
+    "explanation": "Tentacule est exclusivement masculin.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Un discours 'ampoulé' est un discours :",
+    "options": ["Très clair et concis", "Éclairant et instructif", "Prétentieux, chargé, emphatique", "Dénué de sens"],
+    "answer": "Prétentieux, chargé, emphatique",
+    "explanation": "Style emphatique, boursouflé.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "L'antonyme de 'altruiste' est :",
+    "options": ["Généreux", "Égoïste", "Taciturne", "Habile"],
+    "answer": "Égoïste",
+    "explanation": "L'altruisme est le dévouement aux autres, l'égoïsme est le contraire.",
+    "theme": "Aptitude Verbale — Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le sens figuré de 'jeter l'éponge' ?",
+    "options": ["Nettoyer", "Se fâcher", "Abandonner", "Vaincre"],
+    "answer": "Abandonner",
+    "explanation": "Issu de la boxe, jeter l'éponge signifie abandonner le combat.",
     "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
@@ -7630,6 +8267,342 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Géographie et connaissances"
   },
   {
+    "question": "Qui a été le premier Directeur Général de l'ENA de Côte d'Ivoire ?",
+    "options": ["Félix Houphouët-Boigny", "Robert Ropion", "Charles Konan Banny", "Alassane Ouattara"],
+    "answer": "Robert Ropion",
+    "explanation": "Robert Ropion a été le premier DG de l'École Nationale d'Administration de Côte d'Ivoire à sa création en 1960.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année Yamoussoukro est-elle devenue la capitale politique de la Côte d'Ivoire ?",
+    "options": ["1960", "1983", "1990", "1993"],
+    "answer": "1983",
+    "explanation": "Le transfert de la capitale politique et administrative à Yamoussoukro a été acté par la loi de mars 1983.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l'actuel Vice-Président de la République de Côte d'Ivoire (en 2026/2027) ?",
+    "options": ["Daniel Kablan Duncan", "Amadou Gon Coulibaly", "Tiemoko Meyliet Koné", "Patrick Achi"],
+    "answer": "Tiemoko Meyliet Koné",
+    "explanation": "Tiemoko Meyliet Koné, ancien gouverneur de la BCEAO, occupe ce poste depuis avril 2022.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Laquelle de ces institutions est à la tête de l'ordre juridictionnel administratif en Côte d'Ivoire, instaurant ainsi le dualisme juridictionnel ?",
+    "options": ["La Cour de Cassation", "Le Conseil Constitutionnel", "Le Conseil d'État", "La Cour des Comptes"],
+    "answer": "Le Conseil d'État",
+    "explanation": "La réforme constitutionnelle a éclaté l'ancienne Cour Suprême. Le Conseil d'État gère le volet administratif, la Cour de Cassation le judiciaire.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a été nommée Présidente du Conseil Constitutionnel de Côte d'Ivoire en 2023 ?",
+    "options": ["Henriette Diabaté", "Kandia Camara", "Chantal Nanaba Camara", "Simone Gbagbo"],
+    "answer": "Chantal Nanaba Camara",
+    "explanation": "Chantal Nanaba Camara est la première femme à présider cette haute institution, nommée par Alassane Ouattara en 2023.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe d'Afrique des Nations (CAN) 2023 organisée en début 2024 ?",
+    "options": ["Nigeria", "Sénégal", "Côte d'Ivoire", "Maroc"],
+    "answer": "Côte d'Ivoire",
+    "explanation": "La Côte d'Ivoire (le pays hôte) a remporté la compétition en battant le Nigeria 2-1 en finale.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Lequel de ces joueurs ivoiriens a marqué l'un des buts lors de la finale de la CAN 2023 contre le Nigeria ?",
+    "options": ["Didier Drogba", "Sébastien Haller", "Yaya Touré", "Wilfried Zaha"],
+    "answer": "Sébastien Haller",
+    "explanation": "Sébastien Haller a marqué le but décisif de la victoire (2-1) en finale, après l'égalisation de Franck Kessié.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle ville a accueilli les Jeux Olympiques d'été en 2024 ?",
+    "options": ["Los Angeles", "Londres", "Paris", "Tokyo"],
+    "answer": "Paris",
+    "explanation": "Les JO de 2024 se sont déroulés à Paris, en France.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans le sport du rugby (à XV), combien de points rapporte un essai marqué (avant transformation) ?",
+    "options": ["3 points", "5 points", "7 points", "2 points"],
+    "answer": "5 points",
+    "explanation": "Un essai vaut 5 points, la transformation 2 points, le drop et la pénalité 3 points.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le judo est un art martial originaire de quel pays ?",
+    "options": ["Chine", "Corée du Sud", "Japon", "Thaïlande"],
+    "answer": "Japon",
+    "explanation": "Créé par Jigoro Kano en 1882 au Japon.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le tournoi de tennis de Roland-Garros se joue sur quelle surface ?",
+    "options": ["Gazon", "Terre battue", "Dur", "Moquette"],
+    "answer": "Terre battue",
+    "explanation": "Roland-Garros est le tournoi du Grand Chelem disputé sur terre battue à Paris.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "À quelle date Napoléon Bonaparte a-t-il été couronné Empereur des Français ?",
+    "options": ["14 juillet 1789", "2 décembre 1804", "18 juin 1815", "9 novembre 1799"],
+    "answer": "2 décembre 1804",
+    "explanation": "Le sacre a eu lieu le 2 décembre 1804 à Notre-Dame de Paris.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année se sont tenus les accords de Bretton Woods instituant le FMI et la Banque Mondiale ?",
+    "options": ["1919", "1944", "1945", "1957"],
+    "answer": "1944",
+    "explanation": "La conférence de Bretton Woods s'est tenue en juillet 1944 aux États-Unis.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la distance exacte du marathon en athlétisme ?",
+    "options": ["40,000 km", "42,195 km", "45,000 km", "50,000 km"],
+    "answer": "42,195 km",
+    "explanation": "Distance fixée définitivement depuis les JO de Londres en 1908.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+    "options": ["Le dioxygène", "Le dioxyde de carbone", "Le diazote", "L'argon"],
+    "answer": "Le diazote",
+    "explanation": "Le diazote compose environ 78% de l'air que nous respirons.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel philosophe grec a fondé l'école appelée 'Le Lycée' ?",
+    "options": ["Socrate", "Platon", "Aristote", "Épicure"],
+    "answer": "Aristote",
+    "explanation": "Platon a fondé l'Académie, Aristote a fondé le Lycée (école péripatéticienne).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "De quel courant artistique Pablo Picasso est-il l'un des fondateurs ?",
+    "options": ["L'impressionnisme", "Le surréalisme", "Le cubisme", "Le fauvisme"],
+    "answer": "Le cubisme",
+    "explanation": "Avec Georges Braque, Picasso a été le pionnier du cubisme au début du XXe siècle (ex: Les Demoiselles d'Avignon).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans la mythologie grecque, qui fut condamné à pousser éternellement un lourd rocher au sommet d'une montagne ?",
+    "options": ["Prométhée", "Atlas", "Sisyphe", "Hercule"],
+    "answer": "Sisyphe",
+    "explanation": "Le châtiment de Sisyphe symbolise le travail absurde et sans fin.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la capitale de la région de l'Agnéby-Tiassa en Côte d'Ivoire ?",
+    "options": ["Divo", "Agboville", "Adzopé", "Sikensi"],
+    "answer": "Agboville",
+    "explanation": "La région de l'Agnéby-Tiassa (sud de la CI) a pour chef-lieu la ville d'Agboville.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le Parlement de la 3ème République ivoirienne est bicaméral. Il comprend l'Assemblée nationale et...",
+    "options": ["Le Conseil Économique et Social", "Le Sénat", "Le Conseil Constitutionnel", "La Cour Suprême"],
+    "answer": "Le Sénat",
+    "explanation": "La Constitution de 2016 a instauré un Sénat, rendant le parlement bicaméral.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a été le premier Président du Sénat de Côte d'Ivoire ?",
+    "options": ["Amadou Soumahoro", "Adama Bictogo", "Jeannot Ahoussou Kouadio", "Charles Koffi Diby"],
+    "answer": "Jeannot Ahoussou Kouadio",
+    "explanation": "Jeannot Ahoussou Kouadio a été élu premier président du Sénat ivoirien en 2018.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "L'élection présidentielle d'octobre 2025 en Côte d'Ivoire a été remportée, selon la CEI, par :",
+    "options": ["Tidjane Thiam", "Jean-Louis Billon", "Alassane Ouattara", "Simone Gbagbo"],
+    "answer": "Alassane Ouattara",
+    "explanation": "Le président sortant, Alassane Ouattara (RHDP), a été réélu pour un quatrième mandat dès le premier tour avec environ 89,7% des suffrages.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En 2025, trois pays ouest-africains ont officialisé leur retrait de la CEDEAO pour former la Confédération des États du Sahel (AES). Lesquels ?",
+    "options": ["Mali, Sénégal, Guinée", "Mali, Burkina Faso, Niger", "Burkina Faso, Togo, Bénin", "Niger, Tchad, Mauritanie"],
+    "answer": "Mali, Burkina Faso, Niger",
+    "explanation": "Le Mali, le Burkina Faso et le Niger ont quitté la CEDEAO en janvier 2025 et institutionnalisé l'AES.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a remporté le Prix Nobel de Littérature en 2024 ?",
+    "options": ["Annie Ernaux", "Jon Fosse", "Han Kang", "Haruki Murakami"],
+    "answer": "Han Kang",
+    "explanation": "L'autrice sud-coréenne Han Kang a remporté le prix Nobel de littérature en 2024.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien d'États membres compte la CEDEAO depuis le retrait définitif des pays de l'AES en 2025 ?",
+    "options": ["15", "12", "10", "14"],
+    "answer": "12",
+    "explanation": "Avec le retrait du Mali, du Burkina Faso et du Niger, la CEDEAO est passée de 15 à 12 membres actifs.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Lors des JO de Paris 2024, quel sportif détient encore historiquement le record absolu du nombre de médailles olympiques toutes éditions confondues ?",
+    "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Léon Marchand"],
+    "answer": "Michael Phelps",
+    "explanation": "Le nageur américain Michael Phelps détient le record absolu avec 28 médailles, dont 23 en or.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Laquelle de ces institutions n'appartient pas au pouvoir judiciaire en Côte d'Ivoire ?",
+    "options": ["La Cour de Cassation", "La Haute Cour de Justice", "La Cour des Comptes", "Le Conseil des Ministres"],
+    "answer": "Le Conseil des Ministres",
+    "explanation": "Le Conseil des ministres est l'organe du pouvoir exécutif. La Cour des Comptes appartient à l'ordre juridictionnel financier.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "L'athlète jamaïcain Usain Bolt est célèbre pour son record du monde sur 100m. Quel est son temps record ?",
+    "options": ["9,69 s", "9,72 s", "9,58 s", "9,52 s"],
+    "answer": "9,58 s",
+    "explanation": "Il a établi le record de 9,58 s lors des championnats du monde d'athlétisme à Berlin en 2009.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Où se situe le siège de l'Union Économique et Monétaire Ouest-Africaine (UEMOA) ?",
+    "options": ["Dakar", "Abidjan", "Lomé", "Ouagadougou"],
+    "answer": "Ouagadougou",
+    "explanation": "Le siège de la Commission de l'UEMOA est à Ouagadougou (Burkina Faso).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Où se trouve le siège de la BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) ?",
+    "options": ["Abidjan", "Dakar", "Lomé", "Niamey"],
+    "answer": "Dakar",
+    "explanation": "Le siège de la BCEAO est situé à Dakar au Sénégal (bien que son gouverneur actuel, Jean-Claude Kassi Brou, soit de nationalité ivoirienne).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Lors de la CAN 2023, quelle équipe la Côte d'Ivoire a-t-elle éliminée en demi-finale ?",
+    "options": ["Sénégal", "Mali", "RD Congo", "Guinée équatoriale"],
+    "answer": "RD Congo",
+    "explanation": "La Côte d'Ivoire a battu la RD Congo 1-0 en demi-finale, grâce à un but de Sébastien Haller.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'Autorité Nationale de la Presse (ANP) remplace :",
+    "options": ["Le CNP", "La HACA", "Le CICG", "Le Conseil d'État"],
+    "answer": "Le CNP",
+    "explanation": "L'ANP (Autorité Nationale de la Presse) a remplacé le Conseil National de la Presse (CNP) comme organe de régulation de la presse écrite.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le 7 août 1960 marque pour la Côte d'Ivoire :",
+    "options": ["La proclamation de la République", "L'indépendance", "L'adoption de l'hymne national", "Le transfert de la capitale"],
+    "answer": "L'indépendance",
+    "explanation": "C'est la date officielle de l'accession de la Côte d'Ivoire à l'indépendance.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le nom de l'hymne national de la Côte d'Ivoire ?",
+    "options": ["La Concorde", "L'Abidjanaise", "Le Ditanyè", "La Dessalinienne"],
+    "answer": "L'Abidjanaise",
+    "explanation": "L'Abidjanaise a été adoptée comme hymne national en 1960.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Laquelle de ces villes n'est pas un chef-lieu de district autonome en Côte d'Ivoire ?",
+    "options": ["Abidjan", "Yamoussoukro", "San-Pédro", "Bocanda"],
+    "answer": "Bocanda",
+    "explanation": "Bocanda est un département situé dans la région du N'Zi, ce n'est pas un chef-lieu de district autonome (comme Abidjan, Yamoussoukro, etc.).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En août 2026, l'Alliance des États du Sahel (AES) a officiellement installé son Parlement confédéral dans quelle ville ?",
+    "options": ["Bamako", "Ouagadougou", "Niamey", "Agadez"],
+    "answer": "Niamey",
+    "explanation": "Le parlement confédéral de l'AES (45 députés) a été installé à Niamey au Niger fin août 2026.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En histoire, quel traité a mis fin à la Première Guerre mondiale en 1919 ?",
+    "options": ["Le Traité de Vienne", "Le Traité de Versailles", "Le Traité de Rome", "Le Traité de Tordesillas"],
+    "answer": "Le Traité de Versailles",
+    "explanation": "Signé le 28 juin 1919 dans la galerie des Glaces du château de Versailles.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a succédé à Henri Konan Bédié à la tête du PDCI-RDA après son décès ?",
+    "options": ["Maurice Kakou Guikahué", "Tidjane Thiam", "Jean-Louis Billon", "Thierry Tanoh"],
+    "answer": "Tidjane Thiam",
+    "explanation": "Tidjane Thiam a été élu président du PDCI-RDA en décembre 2023.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel était le taux de participation officiel selon la CEI lors de l'élection présidentielle ivoirienne d'octobre 2025 ?",
+    "options": ["Environ 35%", "Environ 50%", "Environ 75%", "Environ 90%"],
+    "answer": "Environ 50%",
+    "explanation": "La CEI a enregistré un taux de participation d'environ 50,10 % lors de ce scrutin.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans le cadre de l'exécution du PND (Plan National de Développement), quelle est la période couverte par le dernier plan en cours avant 2026 ?",
+    "options": ["2012-2015", "2016-2020", "2021-2025", "2025-2030"],
+    "answer": "2021-2025",
+    "explanation": "Le gouvernement ivoirien a exécuté le PND sur la période 2021-2025 visant la transformation structurelle de l'économie.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Lors de la phase de groupes de la CAN 2023, la Côte d'Ivoire a subi une lourde défaite (0-4) face à quelle équipe ?",
+    "options": ["Le Nigeria", "La Guinée-Bissau", "La Guinée équatoriale", "Le Sénégal"],
+    "answer": "La Guinée équatoriale",
+    "explanation": "Le 'Nzalang Nacional' de la Guinée équatoriale a battu les Éléphants 4 à 0 lors de leur 3e match de poule.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel fleuve ivoirien donne son nom à une région dont le chef-lieu est Sassandra ?",
+    "options": ["Le Bandama", "Le Cavally", "Le Sassandra", "La Comoé"],
+    "answer": "Le Sassandra",
+    "explanation": "Le fleuve Sassandra traverse l'ouest du pays et se jette dans le golfe de Guinée au niveau de la ville de Sassandra (région du Gbôklè).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la devise de la République de Côte d'Ivoire ?",
+    "options": ["Union - Travail - Justice", "Union - Discipline - Travail", "Paix - Travail - Patrie", "Fraternité - Travail - Progrès"],
+    "answer": "Union - Discipline - Travail",
+    "explanation": "C'est la devise officielle figurant sur les armoiries de la CI.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "La Basilique Notre-Dame de la Paix, l'édifice religieux chrétien le plus grand du monde, se trouve à :",
+    "options": ["Abidjan", "Rome", "Yamoussoukro", "Korhogo"],
+    "answer": "Yamoussoukro",
+    "explanation": "Construite sous la présidence de Félix Houphouët-Boigny, elle a été consacrée en 1990 par le Pape Jean-Paul II.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans quel sport évolue l'athlète ivoirienne Marie-Josée Ta Lou-Smith ?",
+    "options": ["Saut en longueur", "Taekwondo", "Sprint (Athlétisme)", "Natation"],
+    "answer": "Sprint (Athlétisme)",
+    "explanation": "Elle est une sprinteuse spécialiste des 100m et 200m.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui fut le fondateur du célèbre empire de Kong au nord de la Côte d'Ivoire au XVIIIe siècle ?",
+    "options": ["Samory Touré", "Sékou Ouattara", "Osei Tutu", "Abla Pokou"],
+    "answer": "Sékou Ouattara",
+    "explanation": "Sékou Ouattara a fondé l'Empire de Kong vers 1710.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "L'organisation sous-régionale CEDEAO a pour siège principal :",
+    "options": ["Abidjan", "Dakar", "Abuja", "Accra"],
+    "answer": "Abuja",
+    "explanation": "Le siège de la Commission de la CEDEAO se trouve à Abuja, la capitale du Nigeria.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans le contexte de la crise du Sahel, l'opération militaire française qui a pris fin en 2022 s'appelait :",
+    "options": ["Serval", "Sangaris", "Barkhane", "Takuba"],
+    "answer": "Barkhane",
+    "explanation": "Lancée en 2014 pour succéder à Serval, Barkhane s'est achevée officiellement en novembre 2022 suite aux retraits successifs du Mali puis du Burkina.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
     "question": "En quelle année l'ONU a-t-elle été officiellement créée ?",
     "options": ["A) 1945", "B) 1946", "C) 1944", "D) 1950"],
     "answer": "A",
@@ -9818,6 +10791,342 @@ const QUIZ_QUESTIONS = [
     "options": ["A) 1944", "B) 1945", "C) 1946", "D) 1948"],
     "answer": "B",
     "explanation": "The UN Charter was signed on 26 June 1945 in San Francisco.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "A quelle date le retrait du Mali, du Burkina Faso et du Niger de la CEDEAO est-il devenu effectif ?",
+    "options": ["A) 28 janvier 2024", "B) 29 janvier 2025", "C) 15 mars 2024", "D) 1er janvier 2025"],
+    "answer": "B) 29 janvier 2025",
+    "explanation": "Le retrait est effectif un an après l'annonce (28 janvier 2024).",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Comment s'appelle l'organisation créée par le Mali, le Burkina Faso et le Niger suite à leur retrait de la CEDEAO ?",
+    "options": ["A) G5 Sahel", "B) Alliance des États du Sahel (AES)", "C) Union du Fleuve Mano", "D) Liptako-Gourma unifié"],
+    "answer": "B) Alliance des États du Sahel (AES)",
+    "explanation": "L'AES a été formée puis transformée en confédération en 2024.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel est le siège de la Commission de la CEDEAO ?",
+    "options": ["A) Lomé", "B) Dakar", "C) Abuja", "D) Accra"],
+    "answer": "C) Abuja",
+    "explanation": "Le siège de la CEDEAO est à Abuja au Nigeria.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Malgré leur retrait de la CEDEAO, le Mali, le Burkina Faso et le Niger sont-ils restés membres de l'UEMOA en 2025 ?",
+    "options": ["A) Non, ils ont créé leur propre monnaie", "B) Oui, ils ont maintenu leur adhésion à l'UEMOA", "C) Seulement le Mali est resté", "D) Ils ont été suspendus définitivement"],
+    "answer": "B) Oui, ils ont maintenu leur adhésion à l'UEMOA",
+    "explanation": "Ils n'ont pas quitté l'UEMOA ni la zone Franc CFA en 2025.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où se trouve le siège de la Commission de l'UEMOA ?",
+    "options": ["A) Ouagadougou", "B) Dakar", "C) Abidjan", "D) Bamako"],
+    "answer": "A) Ouagadougou",
+    "explanation": "Le siège de l'UEMOA est à Ouagadougou.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où se trouve le siège de la BCEAO ?",
+    "options": ["A) Ouagadougou", "B) Dakar", "C) Abidjan", "D) Lomé"],
+    "answer": "B) Dakar",
+    "explanation": "Le siège de la Banque Centrale des États de l'Afrique de l'Ouest est à Dakar.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où se trouve le siège de l'Union Africaine (UA) ?",
+    "options": ["A) Johannesburg", "B) Addis-Abeba", "C) Nairobi", "D) Le Caire"],
+    "answer": "B) Addis-Abeba",
+    "explanation": "Le siège de l'UA est en Éthiopie.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Comment s'appelle la feuille de route stratégique de l'Union Africaine pour le développement du continent ?",
+    "options": ["A) Vision 2030", "B) Agenda 2063", "C) Plan NEPAD 2050", "D) Initiative Afrique 21"],
+    "answer": "B) Agenda 2063",
+    "explanation": "C'est l'Agenda 2063 : L'Afrique que nous voulons.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "L'Union Africaine a succédé à quelle organisation en 2002 ?",
+    "options": ["A) L'Organisation de l'Unité Africaine (OUA)", "B) La Communauté Économique Africaine", "C) Le NEPAD", "D) L'Union Panafricaine"],
+    "answer": "A) L'Organisation de l'Unité Africaine (OUA)",
+    "explanation": "L'OUA a été remplacée par l'UA en 2002.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Combien de membres permanents le Conseil de Sécurité de l'ONU compte-il ?",
+    "options": ["A) 5", "B) 10", "C) 15", "D) 193"],
+    "answer": "A) 5",
+    "explanation": "Il y a 5 membres permanents avec droit de véto.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Parmi ces pays, lequel N'EST PAS un membre permanent du Conseil de Sécurité de l'ONU ?",
+    "options": ["A) France", "B) Royaume-Uni", "C) Allemagne", "D) Russie"],
+    "answer": "C) Allemagne",
+    "explanation": "Les 5 sont: USA, Russie, Chine, France, Royaume-Uni.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Qui est le Secrétaire Général de l'ONU en 2025 ?",
+    "options": ["A) Ban Ki-moon", "B) Kofi Annan", "C) António Guterres", "D) Boutros Boutros-Ghali"],
+    "answer": "C) António Guterres",
+    "explanation": "António Guterres est en poste depuis 2017.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où se trouve le siège de l'OMS ?",
+    "options": ["A) Genève", "B) Vienne", "C) Washington", "D) Paris"],
+    "answer": "A) Genève",
+    "explanation": "L'Organisation Mondiale de la Santé siège à Genève.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle agence spécialisée de l'ONU a son siège à Paris ?",
+    "options": ["A) L'UNICEF", "B) L'UNESCO", "C) Le HCR", "D) L'OIT"],
+    "answer": "B) L'UNESCO",
+    "explanation": "L'Organisation pour l'éducation, la science et la culture est à Paris.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où siège la Banque Africaine de Développement (BAD) ?",
+    "options": ["A) Tunis", "B) Dakar", "C) Abidjan", "D) Pretoria"],
+    "answer": "C) Abidjan",
+    "explanation": "Le siège statutaire de la BAD est à Abidjan, Côte d'Ivoire.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Qui est le Président de la Banque Africaine de Développement dont le second mandat se termine en 2025 ?",
+    "options": ["A) Donald Kaberuka", "B) Akinwumi Adesina", "C) Tidjane Thiam", "D) Ngozi Okonjo-Iweala"],
+    "answer": "B) Akinwumi Adesina",
+    "explanation": "Le Nigérian Akinwumi Adesina a été réélu en 2020 pour 5 ans.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "En quelle année le second mandat d'António Guterres à la tête de l'ONU se termine-t-il ?",
+    "options": ["A) 2025", "B) 2026", "C) 2027", "D) 2030"],
+    "answer": "B) 2026",
+    "explanation": "Son second mandat s'achève le 31 décembre 2026.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel traité a institué la CEDEAO en 1975 ?",
+    "options": ["A) Traité de Lagos", "B) Traité d'Abuja", "C) Traité de Dakar", "D) Traité de Niamey"],
+    "answer": "A) Traité de Lagos",
+    "explanation": "La CEDEAO a été créée par le Traité de Lagos le 28 mai 1975.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle est l'agence de l'ONU basée à Montréal ?",
+    "options": ["A) OMI", "B) OACI", "C) OMPI", "D) UPU"],
+    "answer": "B) OACI",
+    "explanation": "L'Organisation de l'aviation civile internationale siège à Montréal.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où se trouve le siège de l'Organisation Maritime Internationale (OMI) ?",
+    "options": ["A) Hambourg", "B) Londres", "C) Athènes", "D) Genève"],
+    "answer": "B) Londres",
+    "explanation": "L'OMI a son siège à Londres.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel accord lie les pays d'Afrique, des Caraïbes et du Pacifique (ACP) à l'Union Européenne depuis 2023, remplaçant l'accord de Cotonou ?",
+    "options": ["A) L'Accord de Lomé", "B) L'Accord des Samoa", "C) L'Accord de Bruxelles", "D) L'Accord de Dakar"],
+    "answer": "B) L'Accord des Samoa",
+    "explanation": "L'Accord de Samoa a remplacé l'Accord de Cotonou.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel impact majeur le Brexit a-t-il eu sur le rôle du Royaume-Uni dans le Commonwealth ?",
+    "options": ["A) Le Royaume-Uni a quitté le Commonwealth", "B) Le Royaume-Uni a recentré ses accords commerciaux sur les pays du Commonwealth", "C) Le Commonwealth a été dissous", "D) Les pays du Commonwealth ont imposé des visas aux Britanniques"],
+    "answer": "B) Le Royaume-Uni a recentré ses accords commerciaux sur les pays du Commonwealth",
+    "explanation": "Après le Brexit, le RU a cherché à renforcer ses liens avec le Commonwealth (Global Britain).",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "L'Organisation Mondiale de la Propriété Intellectuelle (OMPI) est basée à :",
+    "options": ["A) Paris", "B) New York", "C) Genève", "D) Vienne"],
+    "answer": "C) Genève",
+    "explanation": "L'OMPI est une institution spécialisée des Nations Unies basée à Genève.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle cour de justice est l'organe judiciaire principal de l'ONU ?",
+    "options": ["A) La Cour Pénale Internationale (CPI)", "B) La Cour Internationale de Justice (CIJ)", "C) Le Tribunal de La Haye", "D) La Cour Européenne des Droits de l'Homme"],
+    "answer": "B) La Cour Internationale de Justice (CIJ)",
+    "explanation": "La CIJ est l'organe judiciaire de l'ONU. La CPI est indépendante.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "La CPI (Cour Pénale Internationale) fait-elle partie du système de l'ONU ?",
+    "options": ["A) Oui, c'est une agence spécialisée", "B) Non, c'est une organisation internationale indépendante", "C) Oui, elle remplace la CIJ", "D) Non, elle dépend de l'Union Européenne"],
+    "answer": "B) Non, c'est une organisation internationale indépendante",
+    "explanation": "Bien qu'elle coopère avec l'ONU, la CPI a été créée par le Statut de Rome et est indépendante.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel statut l'État de Palestine a-t-il obtenu à l'ONU en 2012, réaffirmé dans les récents débats de 2024-2025 ?",
+    "options": ["A) Membre à part entière", "B) État observateur non membre", "C) Membre du Conseil de Sécurité", "D) Territoire sous tutelle"],
+    "answer": "B) État observateur non membre",
+    "explanation": "La Palestine est un État observateur non membre à l'Assemblée générale.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Parmi ces organisations, laquelle n'est pas une institution spécialisée de l'ONU ?",
+    "options": ["A) Le FMI", "B) Le Groupe de la Banque Mondiale", "C) L'OMC", "D) L'OIT"],
+    "answer": "C) L'OMC",
+    "explanation": "L'Organisation Mondiale du Commerce n'est pas une agence spécialisée de l'ONU, bien qu'elles coopèrent.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Dans le cadre des réformes débattues en 2025, quel continent revendique au moins deux sièges permanents avec droit de veto au Conseil de sécurité de l'ONU (Consensus d'Ezulwini) ?",
+    "options": ["A) L'Amérique du Sud", "B) L'Afrique", "C) L'Asie", "D) L'Océanie"],
+    "answer": "B) L'Afrique",
+    "explanation": "Le Consensus d'Ezulwini est la position commune africaine revendiquant des sièges permanents.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel traité fonde l'Union Européenne telle qu'on la connaît aujourd'hui, entré en vigueur en 1993 ?",
+    "options": ["A) Traité de Rome", "B) Traité de Maastricht", "C) Traité de Lisbonne", "D) Traité d'Amsterdam"],
+    "answer": "B) Traité de Maastricht",
+    "explanation": "Le Traité de Maastricht a institué l'Union Européenne.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Le G20 est composé de 19 pays et de deux unions d'États. Lesquelles ?",
+    "options": ["A) L'UE et l'ALENA", "B) L'UE et l'Union Africaine", "C) L'ASEAN et l'UE", "D) Le Mercosur et l'Union Africaine"],
+    "answer": "B) L'UE et l'Union Africaine",
+    "explanation": "L'Union Africaine a été admise comme membre permanent du G20 en 2023.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle est l'institution de l'UEMOA chargée de contrôler les comptes de l'Union ?",
+    "options": ["A) La Commission de l'UEMOA", "B) La Cour de Justice", "C) La Cour des Comptes", "D) Le Parlement de l'UEMOA"],
+    "answer": "C) La Cour des Comptes",
+    "explanation": "La Cour des Comptes de l'UEMOA contrôle les finances de l'Union.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Qui a été élu Secrétaire Général de l'Organisation Internationale de la Francophonie (OIF) en 2018, puis réélue ?",
+    "options": ["A) Michaëlle Jean", "B) Louise Mushikiwabo", "C) Abdou Diouf", "D) Boutros Boutros-Ghali"],
+    "answer": "B) Louise Mushikiwabo",
+    "explanation": "La Rwandaise Louise Mushikiwabo dirige l'OIF.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où est le siège de l'OIF ?",
+    "options": ["A) Paris", "B) Genève", "C) Bruxelles", "D) Dakar"],
+    "answer": "A) Paris",
+    "explanation": "L'OIF siège à Paris.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "En 2024, quel nouveau pays a officiellement rejoint les BRICS, aux côtés de l'Égypte, de l'Éthiopie, de l'Iran et des EAU ?",
+    "options": ["A) L'Argentine", "B) L'Arabie Saoudite", "C) Le Nigeria", "D) Le Mexique"],
+    "answer": "B) L'Arabie Saoudite",
+    "explanation": "L'Arabie Saoudite a été invitée et a rejoint les BRICS (bien que l'Argentine ait décliné sous Milei).",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Combien de pays forment l'Alliance des États du Sahel (AES) ?",
+    "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+    "answer": "B) 3",
+    "explanation": "Le Mali, le Burkina Faso et le Niger.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "L'Agence Internationale de l'Énergie Atomique (AIEA) est basée à :",
+    "options": ["A) Genève", "B) Vienne", "C) New York", "D) Londres"],
+    "answer": "B) Vienne",
+    "explanation": "L'AIEA siège en Autriche à Vienne.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Le Programme des Nations Unies pour le Développement (PNUD) est dirigé par un :",
+    "options": ["A) Directeur Général", "B) Administrateur", "C) Secrétaire Général", "D) Président"],
+    "answer": "B) Administrateur",
+    "explanation": "Le chef du PNUD porte le titre d'Administrateur.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Le siège de la Cour Pénale Internationale (CPI) est à :",
+    "options": ["A) La Haye", "B) Genève", "C) New York", "D) Rome"],
+    "answer": "A) La Haye",
+    "explanation": "La CPI, bien qu'issue du Statut de Rome, siège à La Haye aux Pays-Bas.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Le siège d'INTERPOL se trouve en France. Dans quelle ville ?",
+    "options": ["A) Paris", "B) Lyon", "C) Marseille", "D) Strasbourg"],
+    "answer": "B) Lyon",
+    "explanation": "Interpol est basé à Lyon.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "L'ALENA (NAFTA), l'accord de libre-échange nord-américain, a été remplacé par :",
+    "options": ["A) L'USMCA (AEUMC)", "B) Le MERCOSUR", "C) L'AELC", "D) Le Partenariat Transpacifique"],
+    "answer": "A) L'USMCA (AEUMC)",
+    "explanation": "L'Accord États-Unis-Mexique-Canada a remplacé l'ALENA en 2020.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Où se trouve le siège du Parlement Européen (les sessions plénières) ?",
+    "options": ["A) Bruxelles", "B) Strasbourg", "C) Luxembourg", "D) Francfort"],
+    "answer": "B) Strasbourg",
+    "explanation": "Le siège officiel pour les sessions plénières est à Strasbourg.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle est l'institution de l'ONU qui réunit tous les États membres (193 en 2025) ?",
+    "options": ["A) Le Conseil de Sécurité", "B) L'Assemblée Générale", "C) L'ECOSOC", "D) Le Secrétariat"],
+    "answer": "B) L'Assemblée Générale",
+    "explanation": "L'AG regroupe tous les États membres avec une voix chacun.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quel est l'objectif principal de la ZLECAf ?",
+    "options": ["A) Créer une monnaie unique africaine", "B) Créer une Zone de Libre-Échange Continentale Africaine", "C) Lutter contre le terrorisme au Sahel", "D) Unifier les armées africaines"],
+    "answer": "B) Créer une Zone de Libre-Échange Continentale Africaine",
+    "explanation": "La ZLECAf vise à créer un marché unique pour les biens et services en Afrique.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "L'Organisation de la Coopération Islamique (OCI) siège à :",
+    "options": ["A) Riyad", "B) Djeddah", "C) Doha", "D) Istanbul"],
+    "answer": "B) Djeddah",
+    "explanation": "Le siège de l'OCI est à Djeddah en Arabie Saoudite.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Le Conseil de l'Europe (qui n'est pas une institution de l'UE) siège à :",
+    "options": ["A) Bruxelles", "B) Genève", "C) Strasbourg", "D) La Haye"],
+    "answer": "C) Strasbourg",
+    "explanation": "Le Conseil de l'Europe, garant de la Cour EDH, siège à Strasbourg.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "L'OPEP (Organisation des Pays Exportateurs de Pétrole) a son siège à :",
+    "options": ["A) Riyad", "B) Vienne", "C) Dubaï", "D) Caracas"],
+    "answer": "B) Vienne",
+    "explanation": "Bien qu'aucun pays européen ne soit membre, le siège est à Vienne, Autriche.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle organisation africaine a été suspendue de la CEDEAO en 2022 et s'en est finalement retirée ?",
+    "options": ["A) La Mauritanie", "B) Le Mali", "C) Le Sénégal", "D) Le Togo"],
+    "answer": "B) Le Mali",
+    "explanation": "Le Mali s'est retiré de la CEDEAO aux côtés du Burkina et du Niger.",
+    "theme": "Organisations Internationales"
+  },
+  {
+    "question": "Quelle cour a son siège à Arusha, Tanzanie, et est un organe de l'Union Africaine ?",
+    "options": ["A) La Cour africaine des droits de l'homme et des peuples", "B) La Cour de justice de la CEDEAO", "C) La Cour suprême panafricaine", "D) Le Tribunal pénal international pour le Rwanda"],
+    "answer": "A) La Cour africaine des droits de l'homme et des peuples",
+    "explanation": "La CADHP siège à Arusha.",
     "theme": "Organisations Internationales"
   },
   {
@@ -12383,6 +13692,356 @@ const QUIZ_QUESTIONS = [
     "theme": "English Grammar"
   },
   {
+    "question": "By the time the firemen arrived, the house ____ down.",
+    "options": ["A) had burned", "B) burned", "C) has burned", "D) was burning"],
+    "answer": "A) had burned",
+    "explanation": "L'action s'est terminée avant une autre action au passé (past perfect).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "Never before ____ such a spectacular sunset.",
+    "options": ["A) I have seen", "B) have I seen", "C) I saw", "D) did I saw"],
+    "answer": "B) have I seen",
+    "explanation": "Inversion obligatoire après 'Never' en début de phrase.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "If I ____ you, I would apply for that job.",
+    "options": ["A) was", "B) am", "C) were", "D) had been"],
+    "answer": "C) were",
+    "explanation": "Conditionnel irréel du présent, on utilise toujours 'were' à toutes les personnes.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: If he had caught the train yesterday, he ____ here right now.",
+    "options": ["A) would be", "B) would have been", "C) will be", "D) had been"],
+    "answer": "A) would be",
+    "explanation": "Mixed conditional: condition passée (Type 3) avec conséquence présente (Type 2, right now).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "Not only ____ the exam, but she also got the highest score.",
+    "options": ["A) she passed", "B) did she pass", "C) passed she", "D) she did pass"],
+    "answer": "B) did she pass",
+    "explanation": "Inversion sujet/auxiliaire après 'Not only' en tête de phrase.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "It was in 1998 ____ he started his own company.",
+    "options": ["A) when", "B) which", "C) that", "D) where"],
+    "answer": "C) that",
+    "explanation": "Cleft sentence : It is/was [élément souligné] THAT...",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I am not used ____ up so early in the morning.",
+    "options": ["A) to wake", "B) to waking", "C) waking", "D) wake"],
+    "answer": "B) to waking",
+    "explanation": "BE USED TO est suivi du gérondif (-ing). C'est une habitude actuelle.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: He ____ smoke a lot, but he quit last year.",
+    "options": ["A) is used to", "B) was used to", "C) used to", "D) would"],
+    "answer": "C) used to",
+    "explanation": "Habitude révolue. 'Would' ne s'emploie pas ici car c'est un état/une habitude globale sans contexte de temps précis.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "Hardly had I left the building ____ it started to rain.",
+    "options": ["A) than", "B) when", "C) that", "D) then"],
+    "answer": "B) when",
+    "explanation": "Corrélation: Hardly... when / No sooner... than.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "No sooner had we sat down to eat ____ the phone rang.",
+    "options": ["A) than", "B) when", "C) that", "D) then"],
+    "answer": "A) than",
+    "explanation": "No sooner est suivi de 'than'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I suggest that he ____ a doctor immediately.",
+    "options": ["A) sees", "B) see", "C) saw", "D) is seeing"],
+    "answer": "B) see",
+    "explanation": "Subjonctif présent en anglais après 'suggest', 'recommend', on utilise la base verbale.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "You ____ be tired after such a long journey! Go to bed.",
+    "options": ["A) can", "B) must", "C) should", "D) ought to"],
+    "answer": "B) must",
+    "explanation": "Déduction forte / quasi-certitude (must).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "He ____ have committed the crime; he was with me all day.",
+    "options": ["A) mustn't", "B) shouldn't", "C) can't", "D) won't"],
+    "answer": "C) can't",
+    "explanation": "La déduction négative passée se forme avec can't / couldn't + have + PP.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: Even though the door was locked, he ____ open it.",
+    "options": ["A) could", "B) was able to", "C) can", "D) might"],
+    "answer": "B) was able to",
+    "explanation": "Pour une réussite spécifique dans le passé (avec effort), on utilise 'was able to' ou 'managed to', pas 'could'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: I look forward ____ you next week.",
+    "options": ["A) to see", "B) to seeing", "C) seeing", "D) for seeing"],
+    "answer": "B) to seeing",
+    "explanation": "Le 'to' de 'look forward to' est une préposition, il est donc suivi d'un gérondif (-ing).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "She didn't come to the party, ____ was a pity.",
+    "options": ["A) what", "B) which", "C) that", "D) it"],
+    "answer": "B) which",
+    "explanation": "Le pronom relatif 'which' reprend l'ensemble de la proposition précédente.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "We have been living here ____ ten years.",
+    "options": ["A) since", "B) for", "C) during", "D) ago"],
+    "answer": "B) for",
+    "explanation": "For + durée (ten years).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "We have been living here ____ 2015.",
+    "options": ["A) since", "B) for", "C) in", "D) from"],
+    "answer": "A) since",
+    "explanation": "Since + point de départ dans le temps.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "He usually travels ____ train, but today he came ____ foot.",
+    "options": ["A) by / by", "B) on / on", "C) by / on", "D) with / by"],
+    "answer": "C) by / on",
+    "explanation": "By train (moyen de transport général) mais on foot (exception).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: They arrived ____ the airport at 9 PM.",
+    "options": ["A) in", "B) at", "C) on", "D) to"],
+    "answer": "B) at",
+    "explanation": "On arrive AT un point précis (airport, station) et IN un pays/une ville.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "They arrived ____ Paris yesterday.",
+    "options": ["A) at", "B) in", "C) on", "D) to"],
+    "answer": "B) in",
+    "explanation": "Arrive IN pour une ville ou un pays.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: He was born ____ the 15th of August, ____ 1990.",
+    "options": ["A) in / in", "B) on / in", "C) at / on", "D) on / on"],
+    "answer": "B) on / in",
+    "explanation": "ON devant un jour précis (15th August), IN devant une année.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "It's strange that she ____ be so rude.",
+    "options": ["A) would", "B) should", "C) will", "D) can"],
+    "answer": "B) should",
+    "explanation": "Should d'appréciation après des adjectifs comme strange, surprising, odd.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I ____ to work yesterday because it was a public holiday.",
+    "options": ["A) didn't have to go", "B) mustn't go", "C) shouldn't go", "D) haven't to go"],
+    "answer": "A) didn't have to go",
+    "explanation": "L'absence d'obligation au passé (have to). Mustn't exprime l'interdiction, pas l'absence d'obligation.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "The meeting will take place ____ Monday morning.",
+    "options": ["A) in", "B) at", "C) on", "D) -"],
+    "answer": "C) on",
+    "explanation": "Dès qu'il y a un jour (Monday), la préposition est ON, même s'il est suivi de 'morning'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "We are going ____ home after work.",
+    "options": ["A) at", "B) to", "C) towards", "D) -"],
+    "answer": "D) -",
+    "explanation": "Pas de préposition 'to' avant 'home' avec des verbes de mouvement.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: He works hard, ____?",
+    "options": ["A) isn't he", "B) doesn't he", "C) don't he", "D) does he"],
+    "answer": "B) doesn't he",
+    "explanation": "Question tag avec un verbe d'action au présent régulier (works) nécessite l'auxiliaire do/does.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "Rarely ____ anyone in the office before 8 AM.",
+    "options": ["A) I see", "B) see I", "C) do I see", "D) I do see"],
+    "answer": "C) do I see",
+    "explanation": "Inversion avec auxiliaire (do) après un adverbe de sens négatif (Rarely).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "You had better ____ a doctor.",
+    "options": ["A) to see", "B) see", "C) seeing", "D) saw"],
+    "answer": "B) see",
+    "explanation": "Had better est suivi de la base verbale sans 'to'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "It's time we ____.",
+    "options": ["A) leave", "B) left", "C) to leave", "D) are leaving"],
+    "answer": "B) left",
+    "explanation": "It's time / It's high time est suivi du prétérit modal (left).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: I remember ____ the door, but now it's open!",
+    "options": ["A) to lock", "B) locking", "C) lock", "D) having lock"],
+    "answer": "B) locking",
+    "explanation": "Remember + V-ing = se souvenir d'avoir fait qqch au passé.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "Don't forget ____ the door when you leave.",
+    "options": ["A) to lock", "B) locking", "C) lock", "D) locked"],
+    "answer": "A) to lock",
+    "explanation": "Forget / Remember + To-V = penser/oublier de faire qqch (action future par rapport au moment de la pensée).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: Neither John nor his brothers ____ coming to the party.",
+    "options": ["A) is", "B) are", "C) isn't", "D) aren't"],
+    "answer": "B) are",
+    "explanation": "Avec 'neither... nor', l'accord se fait avec le sujet le plus proche (his brothers = pluriel).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "____ I open the window? It's hot in here.",
+    "options": ["A) Will", "B) Shall", "C) Would", "D) Do"],
+    "answer": "B) Shall",
+    "explanation": "Pour faire une proposition ou demander un avis avec I ou WE, on utilise 'Shall'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "The book ____ published next month.",
+    "options": ["A) is to be", "B) is to", "C) will to be", "D) are being"],
+    "answer": "A) is to be",
+    "explanation": "BE + TO-V exprime un programme officiel, ici au passif 'is to be published'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: The committee ____ reached a decision.",
+    "options": ["A) have", "B) has", "C) is", "D) are"],
+    "answer": "B) has",
+    "explanation": "En anglais américain, et généralement pour l'action du groupe uni, le collectif prend le singulier (has).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: The police ____ investigating the murder.",
+    "options": ["A) is", "B) are", "C) has", "D) does"],
+    "answer": "B) are",
+    "explanation": "Le mot 'police' est toujours suivi d'un verbe au pluriel en anglais.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I would rather you ____ me the truth yesterday.",
+    "options": ["A) told", "B) had told", "C) tell", "D) have told"],
+    "answer": "B) had told",
+    "explanation": "Would rather + sujet + past perfect pour un regret portant sur le passé.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I would rather ____ at home tonight.",
+    "options": ["A) to stay", "B) staying", "C) stay", "D) stayed"],
+    "answer": "C) stay",
+    "explanation": "Would rather + base verbale sans 'to' quand les sujets sont identiques (I / stay).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "If only I ____ richer!",
+    "options": ["A) am", "B) would be", "C) were", "D) have been"],
+    "answer": "C) were",
+    "explanation": "If only s'emploie comme wish avec le prétérit modal (were).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "Under no circumstances ____ open this box.",
+    "options": ["A) you should", "B) should you", "C) you must", "D) can you to"],
+    "answer": "B) should you",
+    "explanation": "Inversion après 'Under no circumstances' (adverbe restrictif/négatif en tête).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: What ____ when you saw him?",
+    "options": ["A) did he do", "B) was he doing", "C) had he done", "D) has he done"],
+    "answer": "B) was he doing",
+    "explanation": "Action en progression (past continuous) interrompue par une action brève (saw).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "He told me he ____ call me the next day.",
+    "options": ["A) will", "B) would", "C) shall", "D) can"],
+    "answer": "B) would",
+    "explanation": "Discours indirect au passé: 'will' devient 'would'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: If it ____ rain tomorrow, we will cancel the match.",
+    "options": ["A) would", "B) will", "C) should", "D) might"],
+    "answer": "C) should",
+    "explanation": "If it should rain = S'il venait à pleuvoir (probabilité faible mais Type 1).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I DO ____ you, believe me!",
+    "options": ["A) to love", "B) loving", "C) love", "D) loved"],
+    "answer": "C) love",
+    "explanation": "Emphatic DO: suivi de la base verbale pour insister.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "The CEO, along with his managers, ____ expected to attend.",
+    "options": ["A) are", "B) is", "C) were", "D) have been"],
+    "answer": "B) is",
+    "explanation": "Le sujet est The CEO. 'along with...' est une parenthèse, donc le verbe est au singulier.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "By this time next year, I ____ my studies.",
+    "options": ["A) will finish", "B) finish", "C) will have finished", "D) have finished"],
+    "answer": "C) will have finished",
+    "explanation": "Future perfect (will have + PP) avec une date butoir (By this time).",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "PIÈGE: It's the first time I ____ this movie.",
+    "options": ["A) watch", "B) am watching", "C) watched", "D) have watched"],
+    "answer": "D) have watched",
+    "explanation": "Après 'It's the first time', on utilise TOUJOURS le present perfect.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "I object to ____ like a child.",
+    "options": ["A) be treated", "B) being treated", "C) treat", "D) treating"],
+    "answer": "B) being treated",
+    "explanation": "Object to + V-ing, ici à la forme passive 'being treated'.",
+    "theme": "English Grammar"
+  },
+  {
+    "question": "____ you need any help, please contact the manager.",
+    "options": ["A) Would", "B) Could", "C) Should", "D) If only"],
+    "answer": "C) Should",
+    "explanation": "Inversion de la conditionnelle Type 1: 'Should you need...' = 'If you should need...'.",
+    "theme": "English Grammar"
+  },
+  {
     "question": "Quelle est la différence entre une loi et un règlement ?",
     "options": ["A) Une loi est générale et abstraite, le règlement précise son application", "B) Le règlement est supérieur à la loi", "C) Une loi ne s'applique qu'aux entreprises", "D) Il n'y a pas de différence"],
     "answer": "A",
@@ -13983,6 +15642,230 @@ const QUIZ_QUESTIONS = [
     "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
     "answer": "B",
     "explanation": "Les mandats locaux durent 5 ans.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Selon la Constitution ivoirienne de 2016 (modifiée en 2020), le pouvoir exécutif est :",
+    "options": ["A) Monocéphale", "B) Bicéphale (Président de la République et Vice-Président)", "C) Collégial", "D) Exercé exclusivement par le Premier Ministre"],
+    "answer": "B",
+    "explanation": "L'exécutif est bicéphale, partagé entre le Président de la République et le Vice-Président (et le Premier ministre).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui fut le premier Président du Sénat ivoirien institué par la Constitution de 2016 ?",
+    "options": ["A) Tiemoko Meyliet Koné", "B) Jeannot Ahoussou Kouadio", "C) Chantal Nanaba Camara", "D) Amadou Soumahoro"],
+    "answer": "B",
+    "explanation": "Jeannot Ahoussou Kouadio a été le premier président du Sénat de Côte d'Ivoire.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En 2027, la Cour des Comptes de Côte d'Ivoire a pour mission principale :",
+    "options": ["A) De juger les conflits entre l'État et les particuliers", "B) Le contrôle supérieur des finances publiques", "C) La validation des candidatures à l'élection présidentielle", "D) L'organisation du référendum"],
+    "answer": "B",
+    "explanation": "La Cour des Comptes, institution de la République, assure le contrôle des finances publiques et juge les comptes des comptables publics.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Laquelle de ces entités N'EST PAS une collectivité territoriale en Côte d'Ivoire ?",
+    "options": ["A) La Région", "B) La Commune", "C) Le Département", "D) Le District Autonome"],
+    "answer": "C",
+    "explanation": "Depuis la réorganisation, les collectivités territoriales décentralisées sont les Communes et les Régions. Les Districts Autonomes sont des entités particulières déconcentrées et décentralisées, mais le Département n'est plus une collectivité territoriale décentralisée (il est une circonscription administrative).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le droit du sol en Côte d'Ivoire :",
+    "options": ["A) Est la règle absolue pour acquérir la nationalité", "B) A été supprimé par le Code de la nationalité de 1972", "C) S'applique uniquement aux enfants de réfugiés", "D) A été réintroduit par la Constitution de 2016"],
+    "answer": "B",
+    "explanation": "Le Code de la nationalité ivoirienne de 1972 a supprimé le droit du sol au profit du droit du sang (filiation).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Parmi les emblèmes de la République de Côte d'Ivoire, on compte :",
+    "options": ["A) L'éléphant d'or", "B) Le drapeau tricolore, l'hymne, les armoiries et la devise", "C) Le pagne baoulé", "D) La basilique de Yamoussoukro"],
+    "answer": "B",
+    "explanation": "L'article 29 de la Constitution cite les 4 emblèmes : le Drapeau (Orange, Blanc, Vert), l'Hymne (L'Abidjanaise), la Devise (Union, Discipline, Travail) et les Armoiries.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Chambre nationale des Rois et Chefs traditionnels (CNRCT) :",
+    "options": ["A) Est une simple association de droit privé", "B) Est une juridiction d'appel", "C) Est reconnue par la Constitution de 2016", "D) A été supprimée en 2020"],
+    "answer": "C",
+    "explanation": "La Constitution de 2016 consacre l'existence de la CNRCT en tant qu'institution de la République.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui assure l'intérim de la Présidence de la République en cas de vacance définitive (décès, démission) selon la Constitution ?",
+    "options": ["A) Le Président de l'Assemblée Nationale", "B) Le Vice-Président de la République", "C) Le Premier Ministre", "D) Le Président du Conseil Constitutionnel"],
+    "answer": "B",
+    "explanation": "En cas de vacance, le Vice-Président devient de plein droit Président de la République (art. 62 de la Constitution modifiée).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La nomination du Vice-Président en Côte d'Ivoire se fait par :",
+    "options": ["A) Élection au suffrage universel direct", "B) Le Président de la République, en accord avec le Parlement", "C) Le Conseil Constitutionnel", "D) Le Premier ministre"],
+    "answer": "B",
+    "explanation": "Depuis la révision constitutionnelle de 2020, le Vice-Président est nommé par le Président de la République avec l'accord du Parlement réuni en Congrès.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le système ivoirien, le contreseing des actes du Président de la République est apposé par :",
+    "options": ["A) Le Vice-Président exclusivement", "B) Le Premier ministre et les ministres chargés de l'exécution, pour les actes non dispensés", "C) Le Président du Sénat", "D) Le Président de la Cour Suprême"],
+    "answer": "B",
+    "explanation": "Les actes du PR, sauf exceptions (nomination PM, etc.), sont contresignés par le PM et les ministres concernés.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Sénat ivoirien est composé :",
+    "options": ["A) Entièrement de membres élus au suffrage direct", "B) De deux tiers élus au suffrage indirect et d'un tiers nommé par le Président de la République", "C) Entièrement de membres nommés", "D) Exclusivement de représentants de la diaspora"],
+    "answer": "B",
+    "explanation": "Le Sénat comprend 2/3 de sénateurs élus (suffrage universel indirect) et 1/3 nommés par le Chef de l'État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle autorité est compétente pour juger la constitutionnalité des lois en Côte d'Ivoire ?",
+    "options": ["A) Le Conseil d'État", "B) La Cour de Cassation", "C) Le Conseil Constitutionnel", "D) L'Assemblée Nationale"],
+    "answer": "C",
+    "explanation": "Le Conseil Constitutionnel est le juge de la constitutionnalité des lois (actuellement présidé par Chantal Nanaba Camara).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le District Autonome d'Abidjan est :",
+    "options": ["A) Une collectivité territoriale ordinaire", "B) Une entité territoriale particulière dotée de la personnalité morale et de l'autonomie financière", "C) Une simple préfecture de police", "D) Un quartier de Yamoussoukro"],
+    "answer": "B",
+    "explanation": "Les Districts autonomes (Abidjan, Yamoussoukro) jouissent d'un statut particulier (déconcentration et décentralisation).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "L'institution chargée de garantir l'indépendance de la magistrature est :",
+    "options": ["A) Le Ministère de la Justice", "B) Le Conseil Supérieur de la Magistrature (CSM)", "C) Le Conseil Constitutionnel", "D) L'ARCOP"],
+    "answer": "B",
+    "explanation": "Le CSM, présidé par le Président de la République, assiste ce dernier pour garantir l'indépendance de la justice.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Médiateur de la République en Côte d'Ivoire :",
+    "options": ["A) Est un juge pénal", "B) Est une autorité administrative indépendante chargée de régler les litiges entre l'Administration et les administrés", "C) Dirige la politique étrangère", "D) Valide les traités internationaux"],
+    "answer": "B",
+    "explanation": "Le Médiateur reçoit les requêtes concernant le fonctionnement des administrations et aide au règlement amiable des conflits.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Parlement ivoirien de la 3ème République est :",
+    "options": ["A) Monocaméral", "B) Bicaméral (Assemblée Nationale et Sénat)", "C) Tricaméral", "D) Inexistant"],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 a instauré un Parlement bicaméral composé de l'Assemblée nationale et du Sénat.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui a été nommé Vice-Président de la République de Côte d'Ivoire en 2022 ?",
+    "options": ["A) Daniel Kablan Duncan", "B) Tiémoko Meyliet Koné", "C) Patrick Achi", "D) Robert Beugré Mambé"],
+    "answer": "B",
+    "explanation": "Tiémoko Meyliet Koné a été nommé Vice-Président en avril 2022.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'initiative des lois appartient concurremment :",
+    "options": ["A) Au Président de la République et aux membres du Parlement", "B) Uniquement au Premier Ministre", "C) Au Conseil Constitutionnel et au Sénat", "D) Aux Maires et au Président de la République"],
+    "answer": "A",
+    "explanation": "L'initiative des lois appartient au Président de la République et aux parlementaires (députés et sénateurs).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Loi d'orientation de l'Administration territoriale (1998) a consacré :",
+    "options": ["A) La centralisation totale", "B) Les principes de déconcentration et de décentralisation", "C) La suppression des mairies", "D) L'élection des préfets"],
+    "answer": "B",
+    "explanation": "La loi a organisé l'administration territoriale ivoirienne autour des principes de déconcentration (préfets) et de décentralisation (collectivités locales).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le mandat du Président de la République en Côte d'Ivoire est actuellement de :",
+    "options": ["A) 4 ans", "B) 5 ans, renouvelable une seule fois consécutivement", "C) 7 ans", "D) A vie"],
+    "answer": "B",
+    "explanation": "Selon la Constitution de 2016, le mandat présidentiel est de 5 ans, et le Président n'est rééligible qu'une seule fois consécutivement.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En matière de révision de la Constitution, le projet est définitivement adopté :",
+    "options": ["A) Exclusivement par référendum", "B) Par référendum, ou par voie parlementaire si le PR décide de le soumettre au Congrès", "C) Par un décret du Conseil d'État", "D) Par le vote des conseils régionaux"],
+    "answer": "B",
+    "explanation": "Le projet de loi de révision constitutionnelle est soumis au référendum ou, sur décision du Président, au Parlement réuni en Congrès (majorité des 2/3).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Haute Autorité pour la Bonne Gouvernance (HABG) a principalement pour rôle :",
+    "options": ["A) La lutte contre la corruption et les infractions assimilées", "B) L'organisation des examens du baccalauréat", "C) La régulation des médias", "D) La nomination des ambassadeurs"],
+    "answer": "A",
+    "explanation": "La HABG est chargée de la prévention et de la lutte contre la corruption en Côte d'Ivoire.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Conseil Économique, Social, Environnemental et Culturel (CESEC) :",
+    "options": ["A) Vote le budget de l'État", "B) Donne un avis consultatif sur les projets de loi à caractère économique, social, environnemental ou culturel", "C) Juge les ministres", "D) Gère les réserves forestières"],
+    "answer": "B",
+    "explanation": "Le CESEC est une assemblée consultative qui donne des avis et mène des études sur ces domaines spécifiques.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le principe de l'inamovibilité s'applique à quels magistrats en Côte d'Ivoire ?",
+    "options": ["A) Les magistrats du Parquet", "B) Les magistrats du Siège", "C) Tous les magistrats (Siège et Parquet)", "D) Uniquement aux juges du Conseil Constitutionnel"],
+    "answer": "B",
+    "explanation": "Seuls les magistrats du Siège (les juges) bénéficient de l'inamovibilité pour garantir leur indépendance, contrairement au Parquet, soumis à la subordination hiérarchique.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "L'âge minimum pour être candidat à l'élection présidentielle sous la Constitution de 2016 est de :",
+    "options": ["A) 40 ans", "B) 35 ans", "C) 45 ans", "D) 50 ans"],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 a abaissé l'âge minimum d'éligibilité à la Présidence de 40 à 35 ans et a supprimé le plafond d'âge.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans la Constitution de 2016, l'école en Côte d'Ivoire est-elle une obligation fondamentale ?",
+    "options": ["A) Non, c'est une simple recommandation.", "B) Oui, elle est obligatoire et gratuite pour les enfants des deux sexes jusqu'à l'âge requis.", "C) Elle est obligatoire uniquement pour les garçons.", "D) Elle est obligatoire, mais le financement est exclusivement privé."],
+    "answer": "B",
+    "explanation": "L'article 10 de la Constitution de 2016 (et modifiée 2020) garantit le droit à l'éducation, et précise que l'école est obligatoire pour tous les enfants des deux sexes. Elle est gratuite dans les établissements publics.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Parmi ces libertés, laquelle est expressément garantie par le Titre I de la Constitution ivoirienne ?",
+    "options": ["A) Le droit d'acquérir des armes à feu", "B) La liberté d'association, de réunion et de manifestation", "C) Le droit absolu de refuser l'impôt", "D) L'immunité parlementaire pour tout citoyen"],
+    "answer": "B",
+    "explanation": "L'article 20 garantit les libertés d'association, de réunion et de manifestation pacifiques.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Selon la Constitution ivoirienne, qui peut saisir le Conseil constitutionnel pour contrôler la conformité d'une loi avant sa promulgation ?",
+    "options": ["A) Uniquement le Président de la République", "B) Le PR, les Présidents de l'AN et du Sénat, ou 1/10ème des parlementaires", "C) Tout citoyen sans exception", "D) Le Procureur de la République"],
+    "answer": "B",
+    "explanation": "Le contrôle de constitutionnalité a priori peut être déclenché par le Président de la République, le Président de l'Assemblée Nationale, le Président du Sénat ou au moins un dixième des députés ou des sénateurs.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Médiateur de la République ivoirien peut être saisi :",
+    "options": ["A) Pour annuler un jugement d'assises", "B) Pour des différends opposant des personnes physiques ou morales à l'Administration", "C) Pour destituer le Président de la République", "D) Pour lever l'immunité d'un député"],
+    "answer": "B",
+    "explanation": "Le Médiateur est une AAI chargée de régler à l'amiable les litiges entre les usagers et l'Administration publique.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le processus législatif, si une commission paritaire ne parvient pas à un accord sur un texte (navette parlementaire), qui a le dernier mot en Côte d'Ivoire ?",
+    "options": ["A) Le Sénat", "B) L'Assemblée Nationale", "C) Le Conseil d'État", "D) La Haute Autorité pour la Bonne Gouvernance"],
+    "answer": "B",
+    "explanation": "En cas de désaccord persistant (échec de la commission mixte paritaire), c'est l'Assemblée Nationale (élue au suffrage direct) qui a le dernier mot, sur demande du Président de la République.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Haute Autorité pour la Bonne Gouvernance (HABG) a notamment pour mission de :",
+    "options": ["A) Recueillir les déclarations de patrimoine des hautes personnalités.", "B) Auditer les partis politiques pendant les campagnes.", "C) Gérer les fonds souverains de l'État.", "D) Nommer les ambassadeurs."],
+    "answer": "A",
+    "explanation": "L'une des missions centrales de la HABG est la réception, le traitement et la conservation des déclarations de patrimoine des assujettis (ministres, hauts fonctionnaires) pour prévenir l'enrichissement illicite.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Selon la Constitution ivoirienne de 2016, la nomination du Premier Ministre par le Président de la République :",
+    "options": ["A) Doit obligatoirement être contresignée par le Vice-Président.", "B) Est un pouvoir propre du Président, exercé sans contreseing.", "C) Nécessite l'approbation préalable de l'Assemblée Nationale.", "D) Est contresignée par le Président du Sénat."],
+    "answer": "B",
+    "explanation": "La nomination du Premier Ministre est l'un des pouvoirs propres du Chef de l'État (comme la dissolution de l'AN ou le recours au référendum), elle est dispensée du contreseing ministériel.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -16426,6 +18309,636 @@ const QUIZ_QUESTIONS = [
     "options": ["A) La circulaire réglementaire ne peut être attaquée par REP", "B) La circulaire réglementaire édicte des normes nouvelles et peut être attaquée par REP, contrairement à la circulaire interprétative", "C) La circulaire interprétative a une valeur supérieure à la circulaire réglementaire", "D) Les deux types de circulaires ont exactement la même valeur juridique"],
     "answer": "B",
     "explanation": "Depuis l'arrêt CE Institution Notre-Dame du Kreisker, la jurisprudence distingue les circulaires interprétatives (qui se bornent à interpréter un texte sans créer de règle nouvelle, non susceptibles de REP) des circulaires réglementaires (qui créent des règles nouvelles, susceptibles de REP).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel arrêt consacre le principe selon lequel le juge administratif peut annuler un acte administratif pour détournement de pouvoir ?",
+    "options": ["A) Arrêt Pariset", "B) Arrêt Barel", "C) Arrêt Jamart", "D) Arrêt Casanova"],
+    "answer": "A",
+    "explanation": "L'arrêt Pariset (1875) est fondateur sur le détournement de pouvoir.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Trompier-Gravier (1944) est célèbre pour avoir consacré :",
+    "options": ["A) La non-rétroactivité des actes administratifs", "B) Le respect des droits de la défense", "C) L'égalité devant le service public", "D) L'exception d'illégalité"],
+    "answer": "B",
+    "explanation": "Il consacre le PGD du respect des droits de la défense avant toute sanction.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Laquelle de ces affirmations sur l'arrêt Société des concerts du conservatoire (1951) est exacte ?",
+    "options": ["A) Il crée le PGD d'égalité devant le service public.", "B) Il interdit le droit de grève.", "C) Il soumet les SPIC au droit privé exclusivement.", "D) Il donne aux ministres le pouvoir de police générale."],
+    "answer": "A",
+    "explanation": "Cet arrêt érige en PGD le principe d'égalité régissant le fonctionnement des services publics.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En droit administratif ivoirien, la théorie des 'circonstances exceptionnelles' permettant d'assouplir la légalité est issue de :",
+    "options": ["A) L'arrêt Heyriès (1918)", "B) L'arrêt GISTI (1978)", "C) L'arrêt Barel (1954)", "D) L'arrêt Couitéas (1923)"],
+    "answer": "A",
+    "explanation": "L'arrêt Heyriès a consacré la théorie des circonstances exceptionnelles (ici, la Première Guerre mondiale).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l'arrêt Jamart (1936), les ministres disposent :",
+    "options": ["A) D'un pouvoir réglementaire général", "B) Du pouvoir d'organiser leurs services", "C) Du pouvoir de police générale", "D) D'aucun pouvoir réglementaire"],
+    "answer": "B",
+    "explanation": "Même sans texte, tout chef de service (ministres) a le pouvoir d'organiser ses services.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel arrêt admet que l'Administration engage sa responsabilité sans faute pour le préjudice causé par une loi ?",
+    "options": ["A) Arrêt La Fleurette (1938)", "B) Arrêt Regnault-Desroziers (1919)", "C) Arrêt Thouzellier (1956)", "D) Arrêt Couitéas (1923)"],
+    "answer": "A",
+    "explanation": "La Fleurette consacre la responsabilité de l'État du fait des lois sur le fondement de l'égalité devant les charges publiques.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans quel cas la responsabilité pour 'faute lourde' est-elle traditionnellement exigée ?",
+    "options": ["A) Les actes médicaux", "B) Le fonctionnement de la justice administrative", "C) Les activités de police difficiles (Tomaso Grecco)", "D) Les contrats de marché public"],
+    "answer": "C",
+    "explanation": "L'arrêt Tomaso Grecco (1905) admet la responsabilité de l'État pour l'activité des services de police, mais exigeait traditionnellement une faute lourde.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel arrêt fait la distinction entre la faute personnelle et la faute de service ?",
+    "options": ["A) Pelletier (1873)", "B) Anguet (1911)", "C) Époux Lemonnier (1918)", "D) Blanco (1873)"],
+    "answer": "A",
+    "explanation": "L'arrêt Pelletier (Tribunal des conflits) fonde le partage de responsabilité entre l'agent et l'administration.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le cumul d'une faute personnelle et d'une faute de service ayant causé un même dommage a été reconnu par :",
+    "options": ["A) L'arrêt Anguet (1911)", "B) L'arrêt Pelletier (1873)", "C) L'arrêt Tomaso Grecco (1905)", "D) L'arrêt Barel (1954)"],
+    "answer": "A",
+    "explanation": "Anguet admet le cumul de fautes (faute personnelle commise à l'occasion du service et faute de service distincte).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Barel (1954) concerne :",
+    "options": ["A) L'égalité d'accès à la fonction publique", "B) La protection de la dignité humaine", "C) L'interdiction d'extrader pour un motif politique", "D) La liberté d'association"],
+    "answer": "A",
+    "explanation": "Le Conseil d'État a annulé la décision refusant à des candidats de se présenter à l'ENA pour des motifs politiques (communisme), consacrant l'égalité d'accès.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Sur le contrôle de l'esthétique par la police administrative, quel est l'arrêt de référence ?",
+    "options": ["A) Lutetia (1959)", "B) Leroux (1997)", "C) Consorts Baud (1951)", "D) Commune de Morsang-sur-Orge (1995)"],
+    "answer": "B",
+    "explanation": "L'arrêt Leroux (1997) permet à la police d'intervenir pour des motifs d'esthétique (protection de l'environnement).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Commune de Morsang-sur-Orge (1995) a intégré dans l'ordre public :",
+    "options": ["A) La moralité publique", "B) La dignité de la personne humaine", "C) L'esthétique", "D) La sécurité des biens"],
+    "answer": "B",
+    "explanation": "L'arrêt sur le 'lancer de nains' consacre le respect de la dignité de la personne humaine comme composante de l'ordre public.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans quel arrêt le Conseil d'État a-t-il affirmé qu'une mesure de police doit être proportionnée ?",
+    "options": ["A) Arrêt Benjamin (1933)", "B) Arrêt Labonne (1919)", "C) Arrêt Daudignac (1951)", "D) Arrêt Lutetia (1959)"],
+    "answer": "A",
+    "explanation": "L'arrêt Benjamin exige un contrôle de proportionnalité entre les risques de trouble et la liberté de réunion.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l'arrêt Monpeurt (1942), des organismes privés peuvent :",
+    "options": ["A) Prendre des actes administratifs unilatéraux s'ils gèrent un SPA.", "B) Être jugés par les tribunaux de l'ordre judiciaire exclusivement.", "C) Échapper à tout contrôle de légalité.", "D) Adopter des lois de police."],
+    "answer": "A",
+    "explanation": "Monpeurt admet qu'une personne privée gérant un SPA (Service Public Administratif) peut édicter des actes administratifs unilatéraux.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Qu'établit l'arrêt Magnier (1961) en matière d'AAU ?",
+    "options": ["A) Les actes des SPIC gérés par des personnes privées sont administratifs s'ils manifestent des prérogatives de puissance publique.", "B) Tous les actes des SPIC sont privés.", "C) Les circulaires ne sont jamais des AAU.", "D) Les mesures d'ordre intérieur peuvent être annulées."],
+    "answer": "A",
+    "explanation": "Magnier étend la solution Monpeurt aux SPIC (gérés par des personnes privées) si la décision traduit l'exercice d'une prérogative de puissance publique.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Concernant les circulaires, la distinction entre circulaires réglementaires et interprétatives a été dégagée par :",
+    "options": ["A) L'arrêt Chapou (1954)", "B) L'arrêt Kreisker (1954)", "C) L'arrêt Jamart (1936)", "D) L'arrêt Gomard (2000)"],
+    "answer": "B",
+    "explanation": "L'arrêt Notre-Dame du Kreisker (1954) distinguait circulaires réglementaires (susceptibles de recours) et interprétatives (insusceptibles).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un acte administratif préparatoire est-il susceptible de REP (Recours pour Excès de Pouvoir) selon la jurisprudence ?",
+    "options": ["A) Oui, toujours", "B) Non, jamais (ex: Arrêt Nado Koutouan)", "C) Uniquement s'il est publié", "D) Uniquement s'il émane d'un ministre"],
+    "answer": "B",
+    "explanation": "Les actes préparatoires ne font pas grief et ne peuvent faire l'objet d'un REP direct (jurisprudence constante, ex: Nado Koutouan en CI).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Laquelle des théories suivantes justifie la continuité du service public malgré l'illégalité de la nomination de l'agent (Arrêt Ducastel) ?",
+    "options": ["A) Le fonctionnaire de fait", "B) L'urgence absolue", "C) La force majeure", "D) L'imprévision"],
+    "answer": "A",
+    "explanation": "La théorie du fonctionnaire de fait permet de valider les actes d'une personne dont l'investiture est irrégulière, pour garantir la continuité du service public.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En matière de contrats administratifs, l'imprévision (Gaz de Bordeaux, 1916) donne droit à :",
+    "options": ["A) Une résiliation de plein droit", "B) Une indemnisation intégrale du cocontractant", "C) Une indemnité d'imprévision pour l'aider à surmonter la difficulté", "D) L'annulation du contrat"],
+    "answer": "C",
+    "explanation": "Le cocontractant a droit à une aide (indemnité d'imprévision) mais doit continuer à exécuter le contrat.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le 'fait du prince' se caractérise par :",
+    "options": ["A) Un bouleversement économique extérieur", "B) Une mesure prise par l'Administration contractante qui alourdit les charges du cocontractant", "C) Une force majeure irrésistible", "D) Une faute du cocontractant"],
+    "answer": "B",
+    "explanation": "Le fait du prince ouvre droit à une indemnisation intégrale si l'Administration, agissant à un autre titre que contractant, aggrave les charges de son partenaire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Une clause exorbitante du droit commun est un critère :",
+    "options": ["A) De qualification d'un acte administratif unilatéral", "B) Matériel de qualification d'un contrat administratif", "C) De responsabilité sans faute", "D) De la compétence judiciaire"],
+    "answer": "B",
+    "explanation": "La présence d'une clause exorbitante (ou participation au service public) est le critère matériel du contrat administratif.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Dame Lamotte (1950) pose que :",
+    "options": ["A) Le REP est ouvert contre tout acte administratif sans qu'aucun texte ne le prévoie.", "B) Le REP est interdit en matière de police des étrangers.", "C) Seuls les actes publiés peuvent être contestés.", "D) L'Administration ne peut engager sa responsabilité sans faute."],
+    "answer": "A",
+    "explanation": "Le REP est ouvert même sans texte contre tout acte administratif (PGD).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La responsabilité de l'État du fait d'une décision de justice régulière est issue de :",
+    "options": ["A) L'arrêt Couitéas (1923)", "B) L'arrêt La Fleurette (1938)", "C) L'arrêt Barel (1954)", "D) L'arrêt Tomaso Grecco (1905)"],
+    "answer": "A",
+    "explanation": "Dans Couitéas, l'État a refusé de prêter le concours de la force publique pour exécuter une décision de justice, engageant sa responsabilité sans faute (rupture égalité).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quelle autorité dispose du pouvoir de police générale au niveau national (Jurisprudence Labonne) ?",
+    "options": ["A) Le Premier ministre / Le Chef de l'État", "B) Le Ministre de l'Intérieur", "C) Le Préfet", "D) Le Maire"],
+    "answer": "A",
+    "explanation": "L'arrêt Labonne (1919) reconnaît au Chef de l'État (transféré au Premier ministre en France) le pouvoir de police générale sur tout le territoire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Casanova (1901) a admis la recevabilité du recours :",
+    "options": ["A) D'un fonctionnaire contre son supérieur", "B) D'un contribuable local contre une dépense de sa commune", "C) D'un ministre contre un décret", "D) D'un étranger contre son expulsion"],
+    "answer": "B",
+    "explanation": "Casanova consacre l'intérêt à agir du contribuable local contre les décisions ayant des répercussions sur les finances de sa collectivité.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt L'Aurore (1948) érige en PGD :",
+    "options": ["A) La liberté d'expression", "B) Le principe de non-rétroactivité des actes administratifs", "C) Le droit à un procès équitable", "D) L'égalité de traitement"],
+    "answer": "B",
+    "explanation": "L'Aurore affirme que les actes administratifs ne peuvent pas avoir d'effet rétroactif, sauf exception législative.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un recours hiérarchique :",
+    "options": ["A) N'est possible que si un texte le prévoit", "B) S'adresse au supérieur hiérarchique de l'auteur de l'acte", "C) Remplace le juge administratif", "D) Doit obligatoirement être précédé d'un recours gracieux"],
+    "answer": "B",
+    "explanation": "L'arrêt Queralt a établi que le pouvoir hiérarchique existe de plein droit et permet un recours auprès du supérieur de l'auteur de l'acte.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La jurisprudence Commune de Néris-les-Bains (1902) reconnaît :",
+    "options": ["A) Qu'une autorité de police locale peut aggraver une mesure de police nationale si les circonstances locales l'exigent.", "B) Qu'un maire ne peut jamais prendre d'arrêté de police.", "C) Que l'État n'est jamais responsable des fautes des maires.", "D) Qu'un maire est soumis au pouvoir hiérarchique du préfet dans tous les cas."],
+    "answer": "A",
+    "explanation": "Une autorité inférieure peut rendre une mesure de police plus rigoureuse que celle de l'autorité supérieure, justifiée par des circonstances locales.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'ARCOP en Côte d'Ivoire est chargée :",
+    "options": ["A) Du contrôle budgétaire de l'État", "B) De la régulation de la commande publique", "C) De l'organisation des élections", "D) De la nomination des magistrats"],
+    "answer": "B",
+    "explanation": "L'ARCOP (Autorité de Régulation de la Commande Publique) régule les marchés publics en Côte d'Ivoire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le contentieux du foncier en Côte d'Ivoire constitue actuellement :",
+    "options": ["A) La minorité des affaires devant le Conseil d'État", "B) Une partie insignifiante depuis la réforme de 2020", "C) Le contentieux le plus abondant devant le Conseil d'État", "D) Une matière exclusivement judiciaire"],
+    "answer": "C",
+    "explanation": "Les bilans récents de l'activité du CE ivoirien (2025-2026) montrent que le foncier est le contentieux dominant.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Nicolo (1989) consacre :",
+    "options": ["A) La primauté des traités internationaux sur les lois nationales postérieures", "B) La primauté de la Constitution sur les traités", "C) L'incompétence du juge administratif pour interpréter un traité", "D) La responsabilité sans faute pour acte de gouvernement"],
+    "answer": "A",
+    "explanation": "Nicolo marque l'acceptation par le juge administratif de contrôler la conformité d'une loi à un traité international (article 55 Constitution).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Rubin de Servens (1962) qualifie la décision de recourir à l'article 16 (pleins pouvoirs) de :",
+    "options": ["A) Acte administratif réglementaire", "B) Acte de gouvernement insusceptible de recours", "C) Acte préparatoire", "D) Mesure d'ordre intérieur"],
+    "answer": "B",
+    "explanation": "Le recours aux pouvoirs de crise est un acte de gouvernement, échappant au contrôle du juge administratif.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Consorts Baud (1951) fait la distinction entre :",
+    "options": ["A) Police administrative et police judiciaire", "B) Faute lourde et faute simple", "C) SPA et SPIC", "D) Contrat administratif et contrat privé"],
+    "answer": "A",
+    "explanation": "Consorts Baud (CE) et Noualek (TC) posent le critère finaliste (prévention vs répression) pour distinguer police administrative et judiciaire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Une mesure d'ordre intérieur (ex: Arrêt Chapou) :",
+    "options": ["A) Est toujours annulable par le juge", "B) Ne fait généralement pas grief et échappe au REP", "C) Est un synonyme d'acte de gouvernement", "D) Ne concerne que la fonction publique"],
+    "answer": "B",
+    "explanation": "Traditionnellement, les mesures d'ordre intérieur (ex: affectation dans une classe, punition scolaire minime) sont insusceptibles de REP car elles ne font pas grief (sauf si elles affectent les libertés).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le juge de l'excès de pouvoir contrôle-t-il l'opportunité d'une décision administrative ?",
+    "options": ["A) Oui, de manière systématique", "B) Non, il ne contrôle que la légalité", "C) Oui, depuis l'arrêt Barel", "D) Uniquement pour les actes réglementaires"],
+    "answer": "B",
+    "explanation": "Le REP est un contentieux de la légalité, pas de l'opportunité (sauf dans le contrôle de proportionnalité qui s'en rapproche sans être un contrôle pur d'opportunité).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Époux Lemonnier (1918) complète l'arrêt Anguet en admettant :",
+    "options": ["A) La responsabilité sans faute", "B) Le cumul de responsabilités pour une faute unique commise dans le service", "C) L'irresponsabilité de l'État", "D) L'enrichissement sans cause"],
+    "answer": "B",
+    "explanation": "Pour une même faute (unique) commise dans le service, la victime peut rechercher la responsabilité de l'agent (faute personnelle) ET celle de l'Administration (faute de service).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon la jurisprudence Daudignac (1951), l'instauration d'un régime d'autorisation préalable par la police administrative :",
+    "options": ["A) Est toujours légale", "B) Est illégale si elle porte atteinte à la liberté du commerce et de l'industrie sans base légale", "C) Relève du pouvoir discrétionnaire du maire", "D) N'est possible que pour la presse"],
+    "answer": "B",
+    "explanation": "Seul le législateur peut instaurer un régime d'autorisation préalable touchant aux libertés publiques. Le maire ne peut le faire par arrêté (Daudignac).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'arrêt Regnault-Desroziers (1919) fonde la responsabilité de l'État sur :",
+    "options": ["A) Le risque (choses dangereuses)", "B) La faute lourde", "C) Le défaut d'entretien d'un ouvrage public", "D) La rupture de l'égalité devant les charges publiques"],
+    "answer": "A",
+    "explanation": "L'explosion d'un dépôt de munitions a engagé la responsabilité sans faute de l'État basée sur le risque lié aux choses dangereuses.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'ordre de juridiction administrative est coiffé par :",
+    "options": ["A) La Cour Suprême", "B) Le Conseil d'État", "C) Le Conseil Constitutionnel", "D) La Haute Cour de Justice"],
+    "answer": "B",
+    "explanation": "Depuis la Constitution de 2016, l'ordre administratif est dirigé par le Conseil d'État (la Cour Suprême ayant été scindée en Cour de Cassation, CE et Cour des Comptes).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Une décision de l'ARCOP peut-elle faire l'objet d'un recours devant le Conseil d'État ivoirien ?",
+    "options": ["A) Non, ses décisions sont souveraines", "B) Oui, par la voie du REP", "C) Uniquement devant les juridictions civiles", "D) Uniquement par arbitrage international"],
+    "answer": "B",
+    "explanation": "L'ARCOP est une AAI (Autorité Administrative Indépendante) ; ses décisions faisant grief sont des actes administratifs contestables devant le juge administratif.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Laquelle des affirmations suivantes caractérise un Service Public Industriel et Commercial (SPIC) en droit ivoirien ?",
+    "options": ["A) Il est régi exclusivement par le droit public.", "B) Le personnel est soumis au statut général de la fonction publique.", "C) Ses litiges avec les usagers relèvent du juge judiciaire.", "D) Il ne peut jamais prendre d'actes administratifs."],
+    "answer": "C",
+    "explanation": "Les litiges entre un SPIC et ses usagers relèvent en principe du juge judiciaire (Tribunal des conflits, Bac d'Eloka, 1921), même s'il est géré par une personne publique.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans le cadre des marchés publics ivoiriens, quel est le principe général de passation ?",
+    "options": ["A) Le gré à gré", "B) L'appel d'offres ouvert", "C) L'appel d'offres restreint", "D) L'adjudication"],
+    "answer": "B",
+    "explanation": "Selon le Code des marchés publics ivoirien, l'appel d'offres ouvert est la règle. Le gré à gré est une exception strictement encadrée.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Une décision de l'ARCOP (Autorité de Régulation de la Commande Publique) excluant une entreprise des marchés publics pendant 5 ans :",
+    "options": ["A) Est une mesure d'ordre intérieur insusceptible de recours", "B) Relève de la compétence exclusive de la Chambre de Commerce et d'Industrie", "C) Est un acte administratif faisant grief, susceptible de recours pour excès de pouvoir", "D) Ne peut être contestée que par la voie diplomatique"],
+    "answer": "C",
+    "explanation": "L'ARCOP est une Autorité Administrative Indépendante ; ses décisions de sanction font grief et peuvent être attaquées par la voie du REP devant le Conseil d'État.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En matière de contrats administratifs, si le cocontractant de l'Administration est en faute, celle-ci peut :",
+    "options": ["A) S'adresser systématiquement au juge pour prononcer la résiliation.", "B) Prononcer une sanction unilatérale, y compris la résiliation, même sans texte.", "C) Uniquement suspendre le paiement.", "D) Demander l'annulation du contrat pour erreur sur la personne."],
+    "answer": "B",
+    "explanation": "L'Administration dispose d'un pouvoir de sanction unilatérale (pénalités, résiliation pour faute) inhérent aux contrats administratifs, sans avoir besoin de s'adresser au juge au préalable (Arrêt Deville-lès-Rouen).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon la jurisprudence de la Compagnie générale française des tramways (1910), l'Administration peut :",
+    "options": ["A) Modifier unilatéralement un contrat pour motif d'intérêt général.", "B) Refuser de payer son cocontractant sans motif.", "C) Être exemptée de toute responsabilité en cas de force majeure.", "D) Annuler tous les contrats à la fin de l'année budgétaire."],
+    "answer": "A",
+    "explanation": "Cet arrêt reconnaît le pouvoir de modification unilatérale de l'Administration pour les besoins du service public, moyennant une indemnisation du cocontractant.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En Côte d'Ivoire, qu'est-ce qui caractérise le domaine public par rapport au domaine privé de l'État ?",
+    "options": ["A) Il est prescriptible.", "B) Il est aliénable et saisissable.", "C) Il est inaliénable, imprescriptible et insaisissable.", "D) Il est géré exclusivement par des sociétés privées."],
+    "answer": "C",
+    "explanation": "Le domaine public est protégé par les principes d'inaliénabilité, d'imprescriptibilité et d'insaisissabilité pour garantir son affectation à l'utilité publique.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel critère principal permet de déterminer si un bien appartient au domaine public artificiel ?",
+    "options": ["A) L'affectation à l'usage direct du public ou à un service public avec aménagement spécial.", "B) La simple propriété d'une personne publique.", "C) Son enregistrement au cadastre.", "D) Sa valeur vénale supérieure à un milliard de FCFA."],
+    "answer": "A",
+    "explanation": "Pour qu'un bien entre dans le domaine public artificiel, il doit appartenir à une personne publique ET être affecté à l'usage du public, ou à un service public pourvu qu'il fasse l'objet d'un aménagement spécial (ou indispensable depuis la jurisprudence française plus récente).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un ouvrage public est :",
+    "options": ["A) Tout immeuble appartenant à un particulier.", "B) Un bien meuble affecté à un service public.", "C) Un immeuble résultant d'un travail public affecté à un but d'utilité générale.", "D) Obligatoirement une route ou un pont."],
+    "answer": "C",
+    "explanation": "L'ouvrage public est un bien immobilier (immeuble par nature ou par destination) qui est le résultat d'un travail public et qui est affecté à une fin d'intérêt général.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel est le fondement du recours dit 'Tropic Travaux Signalisation' (2007) ?",
+    "options": ["A) Permettre aux tiers évincés de contester la validité du contrat administratif.", "B) Interdire la passation de marchés de gré à gré.", "C) Obliger l'Administration à indemniser en cas d'imprévision.", "D) Transférer le contentieux contractuel au juge judiciaire."],
+    "answer": "A",
+    "explanation": "Cette jurisprudence (puis Tarn-et-Garonne) a ouvert le recours de plein contentieux contre le contrat lui-même aux tiers (notamment les concurrents évincés) justifiant d'un intérêt lésé.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En droit administratif ivoirien, la concession de service public se distingue du marché public principalement par :",
+    "options": ["A) La nature du cocontractant qui doit être obligatoirement public.", "B) Le mode de rémunération, lié substantiellement aux résultats de l'exploitation.", "C) L'absence de procédure de mise en concurrence.", "D) La durée du contrat, qui ne peut excéder un an."],
+    "answer": "B",
+    "explanation": "Dans la concession (ou délégation de service public), la rémunération du cocontractant provient substantiellement des résultats de l'exploitation du service (le risque d'exploitation est transféré au concessionnaire).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l'arrêt TC, Bac d'Eloka (1921), les services publics gérés dans des conditions similaires à celles d'une entreprise privée sont des :",
+    "options": ["A) SPA (Services Publics Administratifs).", "B) SPIC (Services Publics Industriels et Commerciaux).", "C) Établissements d'utilité publique.", "D) Organismes de bienfaisance."],
+    "answer": "B",
+    "explanation": "Cet arrêt fondateur donne naissance à la notion de SPIC, gérés selon des méthodes comparables à celles des entreprises privées et soumis largement au droit privé.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quelle autorité en Côte d'Ivoire est compétente pour déclarer l'utilité publique en vue d'une expropriation ?",
+    "options": ["A) Le Juge civil", "B) Le Chef de village", "C) L'Administration (par décret ou arrêté, selon l'importance)", "D) Le Conseil Constitutionnel"],
+    "answer": "C",
+    "explanation": "La Déclaration d'Utilité Publique (DUP) est un acte administratif préalable à la procédure d'expropriation, relevant de l'exécutif.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans le régime du gré à gré (entente directe) en matière de commande publique ivoirienne :",
+    "options": ["A) L'Administration contracte librement sans aucune justification.", "B) Une autorisation préalable est requise dans des cas limitativement énumérés par le Code (ex: urgence impérieuse).", "C) Le contrat n'a pas la qualification de contrat administratif.", "D) Seules les entreprises étrangères sont éligibles."],
+    "answer": "B",
+    "explanation": "Le marché de gré à gré est une procédure exceptionnelle qui nécessite l'accord des autorités de contrôle (ministre du budget) et doit s'inscrire dans des cas précis (urgence, secret, brevet exclusif...).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le privilège de l'exécution d'office permet à l'Administration de :",
+    "options": ["A) Forcer le juge à rendre une décision.", "B) Imposer directement l'exécution de ses décisions unilatérales sans recourir au juge.", "C) Poursuivre pénalement tout citoyen.", "D) S'exonérer de ses obligations contractuelles sans motif."],
+    "answer": "B",
+    "explanation": "C'est l'essence même de l'acte administratif unilatéral : le privilège du préalable ou de l'exécution d'office permet à l'Administration d'agir sans autorisation du juge.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En cas de dommage causé par un dommage de travaux publics, la victime a le statut de :",
+    "options": ["A) Usager, tiers ou participant.", "B) Fonctionnaire, stagiaire ou contractuel.", "C) Contribuable ou administré.", "D) Créancier chirographaire."],
+    "answer": "A",
+    "explanation": "La responsabilité de l'Administration diffère selon la qualité de la victime : tiers (responsabilité sans faute), usager (faute présumée), ou participant (faute prouvée en général).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quelle est la principale différence entre la théorie de l'imprévision et la force majeure dans les contrats administratifs ?",
+    "options": ["A) L'imprévision entraîne une résiliation immédiate ; la force majeure permet la poursuite du contrat.", "B) L'imprévision donne droit à une aide financière pour continuer ; la force majeure justifie la résiliation.", "C) L'imprévision est causée par l'Administration ; la force majeure par un tiers.", "D) Il n'y a aucune différence en droit ivoirien."],
+    "answer": "B",
+    "explanation": "La force majeure (imprévisible, irrésistible, extérieure) empêche l'exécution et entraîne la résiliation sans indemnisation de l'Administration ; l'imprévision bouleverse l'économie mais ne rend pas l'exécution impossible, donnant droit à une indemnité d'imprévision pour continuer.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'occupation du domaine public :",
+    "options": ["A) Est un droit inaliénable pour tout citoyen.", "B) Est nécessairement temporaire, révocable et précaire.", "C) Confère la propriété des sols occupés au bout de 10 ans.", "D) Ne nécessite aucune autorisation préalable."],
+    "answer": "B",
+    "explanation": "L'autorisation d'occupation du domaine public est toujours délivrée à titre précaire et révocable (pour des motifs d'intérêt général).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Lorsqu'un contrat contient une clause par laquelle l'Administration s'octroie des pouvoirs de contrôle sur le cocontractant qui n'existent pas en droit privé, on parle de :",
+    "options": ["A) Clause de sauvegarde", "B) Clause exorbitante du droit commun", "C) Clause compromissoire", "D) Clause pénale"],
+    "answer": "B",
+    "explanation": "C'est la définition même de la clause exorbitante du droit commun, critère matériel du contrat administratif (jurisprudence Société des granits porphyroïdes des Vosges, 1912).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En matière de domaine public, la 'théorie des mutations domaniales' permet :",
+    "options": ["A) De vendre un bien du domaine public à un particulier.", "B) À l'État de transférer l'affectation d'un bien du domaine public d'une collectivité vers un autre usage public d'intérêt supérieur.", "C) D'intégrer un bien privé dans le domaine public sans DUP.", "D) De modifier les frontières communales."],
+    "answer": "B",
+    "explanation": "Cette théorie jurisprudentielle permet à l'État, garant de l'intérêt général, de modifier l'affectation d'une dépendance du domaine public d'une collectivité (moyennant indemnisation) si un intérêt public supérieur le justifie.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un contrat passé entre deux personnes publiques est présumé être :",
+    "options": ["A) Un contrat de droit privé.", "B) Un contrat administratif.", "C) Insusceptible de recours.", "D) Un acte unilatéral déguisé."],
+    "answer": "B",
+    "explanation": "Selon la jurisprudence UAP (1983), un contrat conclu entre deux personnes publiques est présumé revêtir un caractère administratif (sauf s'il ne fait naître que des rapports de droit privé).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel principe régit le fonctionnement continu des services publics (lois de Rolland) ?",
+    "options": ["A) Le principe d'adaptation (ou mutabilité)", "B) Le principe de continuité", "C) Le principe d'égalité", "D) Le principe de laïcité"],
+    "answer": "B",
+    "explanation": "Les trois 'Lois de Rolland' sont : Continuité, Mutabilité (adaptation), et Égalité. Le fonctionnement continu est dicté par le principe de continuité (Arrêt Dehaene).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans le contentieux de l'expropriation, quelle étape relève de la compétence exclusive du juge judiciaire (en l'absence d'accord amiable) ?",
+    "options": ["A) La déclaration d'utilité publique", "B) L'enquête parcellaire", "C) Le transfert de propriété et la fixation de l'indemnité", "D) L'arrêté de cessibilité"],
+    "answer": "C",
+    "explanation": "L'expropriation comprend une phase administrative (DUP, arrêtés) et une phase judiciaire. Le juge judiciaire est seul compétent (protecteur de la propriété) pour prononcer le transfert de propriété et fixer le montant de l'indemnité s'il n'y a pas d'accord.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La régie est un mode de gestion du service public dans lequel :",
+    "options": ["A) L'Administration confie le service à une société anonyme cotée en bourse.", "B) L'Administration gère elle-même le service avec son propre personnel et ses propres deniers.", "C) Un particulier s'engage à gérer le service à ses risques et périls.", "D) Une ONG gère le service sur fonds internationaux."],
+    "answer": "B",
+    "explanation": "La régie (simple ou autonome) est le mode de gestion directe par la personne publique.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En Côte d'Ivoire, pour être qualifié de marché de partenariat (ou Partenariat Public-Privé - PPP) :",
+    "options": ["A) Le partenaire privé doit assumer la construction, l'entretien, l'exploitation ou la gestion d'un équipement public.", "B) L'État doit transférer la souveraineté au partenaire privé.", "C) Le contrat doit être gratuit.", "D) Le paiement de l'entreprise doit être exclusivement assuré par les péages des usagers."],
+    "answer": "A",
+    "explanation": "Le PPP (marché de partenariat) est un contrat global où le partenaire privé finance, construit, et gère un ouvrage, avec une rémunération versée par la personne publique (contrairement à la concession où l'usager paie en majorité).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le déclassement d'un bien du domaine public (pour le faire entrer dans le domaine privé) exige au préalable :",
+    "options": ["A) Une simple décision du conseil municipal.", "B) La désaffectation de fait ou de droit du bien (fin de son affectation à l'utilité publique).", "C) L'approbation du juge de cassation.", "D) Sa vente aux enchères."],
+    "answer": "B",
+    "explanation": "Pour qu'un bien sorte du domaine public, il faut qu'il y ait d'abord désaffectation matérielle (il ne sert plus au public/service) PUIS un acte juridique de déclassement.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En Côte d'Ivoire, quelle juridiction est compétente en premier ressort pour statuer sur les litiges relatifs à la carrière des fonctionnaires de l'État ?",
+    "options": ["A) Le Conseil d'État, compétence exclusive et directe", "B) Les Tribunaux administratifs", "C) La Cour administrative d'appel", "D) Le Tribunal du Travail"],
+    "answer": "A",
+    "explanation": "Historiquement et encore en grande partie, en attendant le déploiement effectif complet des tribunaux administratifs sur tout le territoire, le Conseil d'État ivoirien (ex-Chambre administrative) a souvent gardé une compétence directe en premier et dernier ressort pour les recours pour excès de pouvoir des fonctionnaires nommés par décret, bien que la loi organique prévoie un démembrement progressif.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel est le délai de droit commun pour introduire un recours pour excès de pouvoir (REP) devant le juge administratif ivoirien ?",
+    "options": ["A) 1 mois", "B) 2 mois", "C) 3 mois", "D) 6 mois"],
+    "answer": "B",
+    "explanation": "Le délai de droit commun pour exercer un REP contre une décision administrative est de deux (2) mois à compter de sa publication ou de sa notification.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le recours gracieux adressé à l'auteur de l'acte a pour effet de :",
+    "options": ["A) Suspendre immédiatement l'exécution de l'acte administratif.", "B) Proroger le délai de recours contentieux.", "C) Rendre l'acte nul de plein droit.", "D) Saisir automatiquement le Conseil d'État après 10 jours."],
+    "answer": "B",
+    "explanation": "Le dépôt d'un recours administratif préalable (gracieux ou hiérarchique) dans le délai de 2 mois interrompt (proroge) le délai de recours contentieux, qui recommence à courir après la réponse de l'Administration.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans le cadre d'un contentieux de pleine juridiction (ou plein contentieux), le juge administratif peut :",
+    "options": ["A) Uniquement annuler la décision administrative.", "B) Modifier la décision, condamner l'Administration au paiement d'indemnités et substituer sa propre décision.", "C) Juger les litiges entre particuliers.", "D) Demander l'avis du Parlement."],
+    "answer": "B",
+    "explanation": "Contrairement au REP où le juge ne peut qu'annuler, dans le plein contentieux, le juge dispose de pouvoirs très étendus : condamnation pécuniaire, réformation de l'acte.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel est le sort d'un recours pour excès de pouvoir (REP) si le requérant ne démontre pas d'intérêt à agir ?",
+    "options": ["A) Il est jugé sur le fond mais les dommages-intérêts sont refusés.", "B) Il est irrecevable.", "C) L'affaire est renvoyée au juge civil.", "D) Le Médiateur de la République est automatiquement saisi."],
+    "answer": "B",
+    "explanation": "L'intérêt à agir (personnel, direct, légitime) est une condition de recevabilité absolue du REP. À défaut, la requête est rejetée pour irrecevabilité (Arrêt Casanova).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En procédure administrative ivoirienne, l'introduction d'un recours contentieux a-t-elle un effet suspensif ?",
+    "options": ["A) Oui, toujours, c're le principe de précaution.", "B) Non, le recours n'a pas d'effet suspensif, sauf exception prévue par la loi ou décision du juge (sursis à exécution/référé).", "C) Oui, si le requérant verse une caution.", "D) Non, sauf si l'acte émane d'un préfet."],
+    "answer": "B",
+    "explanation": "C'est la règle fondamentale du privilège du préalable : le recours contentieux ne suspend pas l'exécution de l'acte administratif, sauf si le juge prononce un sursis à exécution (référé-suspension).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Pour obtenir un sursis à exécution (référé-suspension) d'une décision administrative, quelles sont les deux conditions cumulatives traditionnellement exigées ?",
+    "options": ["A) Urgence et faute grave de l'Administration.", "B) Urgence et doute sérieux quant à la légalité de l'acte.", "C) Préjudice financier et absence d'enquête publique.", "D) Faute personnelle de l'agent et compétence du juge judiciaire."],
+    "answer": "B",
+    "explanation": "Le juge des référés peut suspendre un acte si l'urgence le justifie ET s'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la légalité de la décision.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La procédure du 'référé-liberté' permet au juge administratif de statuer dans un délai d'urgence de :",
+    "options": ["A) 48 heures", "B) 7 jours", "C) 1 mois", "D) 3 mois"],
+    "answer": "A",
+    "explanation": "Le référé-liberté (inspiré du droit français et intégré dans les procédures modernes) impose au juge de statuer dans les 48 heures en cas d'atteinte grave et manifestement illégale à une liberté fondamentale par l'Administration.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La Cour des Comptes, en tant que juridiction financière supérieure, relève-t-elle de l'ordre administratif ivoirien au sens strict des recours des particuliers ?",
+    "options": ["A) Oui, elle juge les recours en annulation des contribuables contre les impôts.", "B) Non, elle forme un ordre juridictionnel financier distinct chargé du contrôle des comptables publics.", "C) Oui, c'est une chambre spécialisée du Conseil d'État.", "D) Non, c'est une juridiction civile."],
+    "answer": "B",
+    "explanation": "La Cour des Comptes juge les comptes des comptables publics et contrôle la gestion financière, mais elle ne juge pas les actes administratifs faisant grief aux citoyens (c'est le rôle du Conseil d'État/Tribunaux administratifs).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Une recommandation émise par la Haute Autorité de la Communication Audiovisuelle (HACA), acte de droit souple :",
+    "options": ["A) N'est jamais susceptible de recours pour excès de pouvoir.", "B) Peut faire l'objet d'un REP si elle produit des effets notables ou a une influence significative sur les comportements (jurisprudence de type Fairvesta/Numericable).", "C) Doit obligatoirement être ratifiée par le Parlement.", "D) Relève exclusivement de la Cour de Cassation."],
+    "answer": "B",
+    "explanation": "Le droit administratif moderne (ex: arrêts Fairvesta et Numericable en France, dont s'inspire la CI) admet la recevabilité du REP contre des actes de droit souple (recommandations, avis) s'ils produisent des effets notables ou sont de nature à influer sur les comportements.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le contentieux de la responsabilité quasi-délictuelle de l'État (dommages causés par un véhicule militaire) relève :",
+    "options": ["A) Du plein contentieux", "B) Du recours pour excès de pouvoir", "C) Du contentieux de l'interprétation", "D) Du contentieux de la répression"],
+    "answer": "A",
+    "explanation": "Tout recours visant à obtenir de l'Administration le versement d'une indemnité en réparation d'un dommage relève du contentieux de pleine juridiction.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Si l'Administration garde le silence pendant deux mois suite à un recours gracieux en Côte d'Ivoire, cela équivaut à :",
+    "options": ["A) Une décision implicite d'acceptation.", "B) Une décision implicite de rejet, permettant de saisir le juge.", "C) Une faute lourde de l'Administration indemnisable d'office.", "D) Un renvoi du dossier au Médiateur de la République."],
+    "answer": "B",
+    "explanation": "Le silence gardé par l'Administration pendant plus de 2 mois vaut généralement décision de rejet, contre laquelle un REP peut être formé.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La Règle de la décision préalable stipule que :",
+    "options": ["A) Le juge ne peut être saisi qu'après une tentative de conciliation en mairie.", "B) Le contentieux administratif ne peut naître que d'une décision (expresse ou implicite) de l'Administration liant le contentieux.", "C) L'Administration doit toujours demander l'avis du juge avant de décider.", "D) Le requérant doit d'abord publier sa requête dans un journal officiel."],
+    "answer": "B",
+    "explanation": "On ne peut saisir le juge administratif qu'en attaquant une décision. S'il n'y en a pas, il faut d'abord adresser une demande à l'Administration pour faire naître une décision (règle de la décision préalable).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Qu'est-ce qu'un recours en révision devant le Conseil d'État ?",
+    "options": ["A) Un recours visant à faire rejuger l'affaire par la même juridiction si une pièce décisive, retenue par la partie adverse, est découverte après l'arrêt.", "B) L'appel d'un jugement du Tribunal administratif.", "C) La demande d'interprétation d'une loi obscure.", "D) Une plainte pénale contre un magistrat."],
+    "answer": "A",
+    "explanation": "Le recours en révision est une voie de rétractation très exceptionnelle ouverte si le jugement a été rendu sur pièces fausses ou si une pièce décisive a été découverte tardivement.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un acte recognitif (qui se borne à reconnaître une situation juridique préexistante sans rien y ajouter) :",
+    "options": ["A) Est l'équivalent d'un règlement autonome.", "B) Fait grief et est donc susceptible de REP.", "C) Ne fait pas grief et ne peut être attaqué par la voie du REP.", "D) Doit toujours être contresigné."],
+    "answer": "C",
+    "explanation": "L'acte purement recognitif ou confirmatif (comme un acte préparatoire ou une mesure d'ordre intérieur) ne modifie pas l'ordonnancement juridique et ne fait pas grief. Il est insusceptible de REP.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La compétence pour statuer sur le contentieux des élections municipales et régionales en Côte d'Ivoire appartient :",
+    "options": ["A) À la Cour de Cassation", "B) Au Conseil Constitutionnel", "C) Au Conseil d'État", "D) À la Commission Électorale Indépendante (CEI)"],
+    "answer": "C",
+    "explanation": "Le Conseil Constitutionnel gère les élections présidentielles et législatives. Le Conseil d'État est le juge du contentieux des élections locales (municipales et régionales).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans le contentieux administratif, la tierce opposition est une voie de recours permettant :",
+    "options": ["A) À l'Administration de refuser d'exécuter un jugement.", "B) À une personne non appelée à l'instance d'attaquer une décision de justice qui préjudicie à ses droits.", "C) D'obliger trois juges à statuer sur l'affaire.", "D) De suspendre le délai de recours contentieux."],
+    "answer": "B",
+    "explanation": "La tierce opposition protège les tiers lésés par un jugement auquel ils n'ont été ni parties ni représentés.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un avis rendu par le Conseil d'État dans sa fonction consultative (avant l'adoption d'un projet de loi) :",
+    "options": ["A) Est un acte administratif susceptible de recours.", "B) Lie obligatoirement le gouvernement qui doit s'y conformer.", "C) Ne fait pas grief et est insusceptible de recours contentieux.", "D) Doit être publié au Journal Officiel obligatoirement."],
+    "answer": "C",
+    "explanation": "Les avis (section consultative) sont des actes préparatoires qui ne font pas grief et ne lient pas l'Exécutif, ils ne peuvent donc pas faire l'objet d'un REP.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le recours en appréciation de validité :",
+    "options": ["A) Est porté devant le juge pénal pour juger de la constitutionnalité d'une loi.", "B) Est une question préjudicielle posée par un juge judiciaire au juge administratif pour contrôler la légalité d'un acte administratif.", "C) Concerne uniquement les actes de gouvernement.", "D) Permet au Président de la République d'évaluer le Parlement."],
+    "answer": "B",
+    "explanation": "Le juge civil, incompétent pour annuler un acte administratif, sursoit à statuer et renvoie la question de la légalité de cet acte au juge administratif via le recours en appréciation de validité.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les litiges relatifs aux contrats comportant occupation du domaine public :",
+    "options": ["A) Relèvent systématiquement de la compétence du juge administratif.", "B) Sont jugés par le juge judiciaire s'il n'y a pas de clause exorbitante.", "C) Relèvent de la Cour Commune de Justice et d'Arbitrage (CCJA).", "D) Sont insusceptibles de recours."],
+    "answer": "A",
+    "explanation": "Par détermination de la loi, les contrats comportant occupation du domaine public sont des contrats administratifs, de la compétence exclusive du juge administratif.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Laquelle de ces autorités judiciaires dirige les formations de jugement au sein du Conseil d'État de Côte d'Ivoire ?",
+    "options": ["A) Le Procureur Général", "B) Le Président du Conseil d'État", "C) Le Premier Président de la Cour de Cassation", "D) Le Ministre de la Justice"],
+    "answer": "B",
+    "explanation": "Le Président du Conseil d'État dirige l'institution. Le Procureur Général est le chef du Parquet Général, mais il ne dirige pas les formations de jugement (siège).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le contentieux fiscal en Côte d'Ivoire (recouvrement des impôts directs par l'État) relève en première instance de :",
+    "options": ["A) La Chambre civile du Tribunal de Première Instance", "B) La juridiction administrative", "C) La Cour des Comptes", "D) La Chambre de Commerce"],
+    "answer": "B",
+    "explanation": "Le contentieux de l'assiette et du recouvrement des impôts directs est un contentieux administratif par excellence (plein contentieux).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'exception d'illégalité permet :",
+    "options": ["A) De soulever l'illégalité d'un règlement à l'occasion d'un recours contre une décision individuelle d'application, même après l'expiration du délai de recours contre le règlement.", "B) D'annuler un acte avec effet rétroactif.", "C) D'invoquer l'immunité diplomatique.", "D) De suspendre l'exécution d'un contrat de travail."],
+    "answer": "A",
+    "explanation": "L'exception d'illégalité permet d'écarter l'application d'un acte réglementaire illégal, même devenu définitif, lors de la contestation d'un acte d'application (principe de l'illégalité perpétuelle des règlements).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Si l'Administration refuse de prendre un règlement d'application d'une loi :",
+    "options": ["A) Elle exerce son pouvoir discrétionnaire sans contrôle possible.", "B) Le refus est un acte faisant grief susceptible de REP, car l'Exécutif a l'obligation de prendre dans un délai raisonnable les mesures d'application des lois.", "C) Seul le Parlement peut la contraindre par une motion de censure.", "D) La loi est réputée inapplicable pour toujours."],
+    "answer": "B",
+    "explanation": "L'Administration est tenue de prendre les décrets d'application d'une loi dans un délai raisonnable. Son refus est illégal et peut être attaqué (Jurisprudence syndicat des ingénieurs conseils).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En Côte d'Ivoire, pour le contrôle de légalité des actes des collectivités territoriales (communes, régions), la tutelle a été remplacée par :",
+    "options": ["A) Un contrôle a priori systématique exercé par le Conseil Constitutionnel.", "B) Un contrôle a posteriori exercé par le Préfet avec saisine du juge administratif (déféré préfectoral).", "C) L'absence totale de contrôle (libre administration absolue).", "D) Le contrôle financier de la BCEAO."],
+    "answer": "B",
+    "explanation": "La décentralisation a transformé la 'tutelle' (approbation préalable) en un 'contrôle de légalité a posteriori', où le Préfet défère l'acte au juge administratif s'il le juge illégal.",
     "theme": "Droit administratif"
   },
 ];
