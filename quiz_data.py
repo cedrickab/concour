@@ -5416,16 +5416,16 @@ THEME_6 = [
         "explanation": "La gratuite du service public ne signifie pas absence de paiement mais que le service est accessible sans que le prix soit un obstacle dirimant."
     },
     {
-        "question": "Quelle est la distinction entre le prefet et le gouverneur en CI ?",
-        "options": ["A) Aucune diff?rence", "B) En CI depuis 2011 le gouverneur dirige le district autonome (Abidjan Yamoussoukro) tandis que le prefet dirige le departement", "C) Le gouverneur est un role historique supprime", "D) Le gouverneur est elu le prefet nomme"],
+        "question": "Quelle est la distinction entre le préfet et le gouverneur en CI ?",
+        "options": ["A) Aucune différence", "B) En CI, depuis 2011, le gouverneur dirige le district autonome (Abidjan, Yamoussoukro) tandis que le préfet dirige le département", "C) Le gouverneur est un rôle historique supprimé", "D) Le gouverneur est élu ; le préfet est nommé"],
         "answer": "B",
-        "explanation": "La Constitution de 2011-2016 a cree des districts autonomes diriges par des gouverneurs nommes par le Pr?sident pour les grandes agglomerations."
+        "explanation": "La Constitution de 2011-2016 a créé des districts autonomes dirigés par des gouverneurs nommés par le Président pour les grandes agglomérations."
     },
     {
-        "question": "Qu'est-ce que la delegation de signature ?",
-        "options": ["A) Un fonctionnaire signe a la place d un autre sans habilitation", "B) Une autorite administrative autorise un de ses subordonnes a signer en son nom certains actes", "C) Le Pr?sident deleguant ses pouvoirs au Premier ministre", "D) L Assemblee nationale delegant ses pouvoirs au gouvernement"],
+        "question": "Qu'est-ce que la délégation de signature ?",
+        "options": ["A) Un fonctionnaire signe à la place d'un autre sans habilitation", "B) Une autorité administrative autorise un de ses subordonnés à signer en son nom certains actes", "C) Le Président délègue ses pouvoirs au Premier ministre", "D) L'Assemblée nationale délègue ses pouvoirs au gouvernement"],
         "answer": "B",
-        "explanation": "La d?l?gation de signature permet a un chef de service d autoriser son subordonné a signer certains actes en son nom. Le deleguant reste responsable."
+        "explanation": "La délégation de signature permet à un chef de service d'autoriser son subordonné à signer certains actes en son nom. Le délégant reste responsable."
     },
     {
         "question": "Piège : la délégation de pouvoirs est-elle différente de la délégation de signature ?",
