@@ -3,11 +3,38 @@
 
 // ===== QUIZ ENGINE =====
 
+const THEME_SPECS = [
+    { name: "Culture Générale — Langue française", count: 150 },
+    { name: "Aptitude Verbale — Phénomènes lexicaux", count: 146 },
+    { name: "Culture Générale — Géographie et connaissances", count: 187 },
+    { name: "Organisations Internationales", count: 163 },
+    { name: "English Grammar", count: 156 },
+    { name: "Culture Générale — Institutions et citoyenneté", count: 129 },
+    { name: "Droit administratif", count: 145 }
+];
+
+function getThemeCatalog() {
+    if (typeof THEME_CATALOG !== 'undefined' && Array.isArray(THEME_CATALOG) && THEME_CATALOG.length > 0) {
+        return THEME_CATALOG;
+    }
+
+    if (!Array.isArray(QUIZ_QUESTIONS)) {
+        throw new Error('Quiz data is unavailable.');
+    }
+
+    let start = 0;
+    return THEME_SPECS.map(spec => {
+        const questions = QUIZ_QUESTIONS.slice(start, start + spec.count);
+        start += spec.count;
+        return { name: spec.name, questions };
+    });
+}
+
 function getQuizQuestions(numQuestions, selectedThemeNames) {
-    let themes = THEME_CATALOG;
+    let themes = getThemeCatalog();
 
     if (selectedThemeNames && selectedThemeNames.length > 0) {
-        themes = THEME_CATALOG.filter(t => selectedThemeNames.includes(t.name));
+        themes = themes.filter(t => selectedThemeNames.includes(t.name));
     }
 
     if (themes.length === 0) return [];
