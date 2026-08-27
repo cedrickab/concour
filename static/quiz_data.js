@@ -6181,6 +6181,846 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Géographie et connaissances"
   },
   {
+    "question": "Lequel de ces pays est actuellement dirigé par une femme ?",
+    "options": ["A) Libéria", "B) Sierra Léone", "C) Tanzanie", "D) Éthiopie"],
+    "answer": "C",
+    "explanation": "La Tanzanie est dirigée par Samia Suluhu Hassan.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle école Aristote a-t-il créée ?",
+    "options": ["A) Le Jardin des Plantes", "B) L'Académie", "C) Le Lycée", "D) L’Université d’Athènes"],
+    "answer": "C",
+    "explanation": "Aristote a fondé le Lycée à Athènes.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui fut le premier Directeur Général de l'ENA-CI ?",
+    "options": ["A) Laurent Dona Fologo", "B) Ropion Robert", "C) Zadi Zaourou", "D) Alassane Ouattara"],
+    "answer": "B",
+    "explanation": "Ropion Robert a été le premier DG de l'ENA.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel acte a permis l’indépendance du Soudan du Sud en 2011 ?",
+    "options": ["A) L’Accord de paix global", "B) Les Accords de Naivasha", "C) Les Accords de Khartoum", "D) Le Référendum d’autodétermination"],
+    "answer": "D",
+    "explanation": "C'est le référendum d'autodétermination de 2011 qui a conduit à l'indépendance.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Un savoir ésotérique est un savoir :",
+    "options": ["A) Populaire et accessible", "B) Réservé à un cercle initié", "C) Pratique", "D) Public"],
+    "answer": "B",
+    "explanation": "L'ésotérisme désigne un enseignement réservé à des initiés.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la capitale de la Tanzanie ?",
+    "options": ["A) Freetown", "B) Banjul", "C) Bissau", "D) Dodoma"],
+    "answer": "D",
+    "explanation": "Dodoma est la capitale politique de la Tanzanie.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Les députés ivoiriens sont :",
+    "options": ["A) Nommés", "B) Élus", "C) Élus pour certains, nommés pour d’autres", "D) Nommés par le président"],
+    "answer": "B",
+    "explanation": "Les députés de l'Assemblée nationale sont élus au suffrage universel direct.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Lequel de ces personnalités n’a jamais été président de l’Assemblée Nationale ?",
+    "options": ["A) Henri Konan Bédié", "B) Mamadou Koulibaly", "C) Soro Guillaume", "D) Kandia Camara"],
+    "answer": "D",
+    "explanation": "Kandia Camara a été présidente du Sénat, mais pas de l'Assemblée nationale.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En CI, le président de la République est membre du gouvernement.",
+    "options": ["A) Vrai", "B) Faux"],
+    "answer": "B",
+    "explanation": "Le Président de la République n'est pas formellement membre du gouvernement, bien qu'il le préside.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "L’Assemblée Nationale ivoirienne comprend désormais des sénateurs :",
+    "options": ["A) Vrai", "B) Faux"],
+    "answer": "B",
+    "explanation": "L'Assemblée Nationale et le Sénat sont deux chambres distinctes du Parlement.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année le Printemps arabe a-t-il débuté ?",
+    "options": ["A) 2008", "B) 2012", "C) 2010", "D) 2005"],
+    "answer": "C",
+    "explanation": "Le Printemps arabe a commencé fin 2010 en Tunisie.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année le FEMUA a-t-il débuté ?",
+    "options": ["A) 2006", "B) 2008", "C) 2009", "D) 2010"],
+    "answer": "B",
+    "explanation": "Le FEMUA a été lancé en 2008.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l’actuel Directeur Général de la Fonction Publique ivoirienne ?",
+    "options": ["A) Aka Kacou", "B) Yéo Nahoua", "C) Kouakou Edouard", "D) SORO Gninagafol"],
+    "answer": "D",
+    "explanation": "Soro Gninagafol a été nommé DG de la Fonction Publique.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année Yamoussoukro devint-elle la capitale politique ivoirienne ?",
+    "options": ["A) 1980", "B) 1983", "C) 1990", "D) 1995"],
+    "answer": "B",
+    "explanation": "Le transfert de la capitale à Yamoussoukro a été décidé en 1983.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l'actuel Premier ministre du Canada ?",
+    "options": ["A) Justin Trudeau", "B) Chrystia Freeland", "C) Jagmeet Singh", "D) Mark Carney"],
+    "answer": "A",
+    "explanation": "Justin Trudeau est le Premier ministre du Canada.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le rang de la Côte d’Ivoire dans le classement mondial des producteurs de café ?",
+    "options": ["A) 3e", "B) 5e", "C) 14e", "D) 15e"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire se situe autour du 14e rang mondial.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle science étudie les insectes ?",
+    "options": ["A) Ornithologie", "B) Mycologie", "C) Entomologie", "D) Arachnologie"],
+    "answer": "C",
+    "explanation": "L'entomologie est la science qui étudie les insectes.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle femme a été la première à arbitrer un match de football professionnel ?",
+    "options": ["A) Wendie Renard", "B) Stéphanie Frappart", "C) Bibiana Steinhaus", "D) Salima Mukansanga"],
+    "answer": "C",
+    "explanation": "Bibiana Steinhaus a été la première femme à arbitrer un match masculin de haut niveau.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année les accords de Bretton Woods ont-ils été signés ?",
+    "options": ["A) 1940", "B) 1944", "C) 1945", "D) 1939"],
+    "answer": "B",
+    "explanation": "Les accords de Bretton Woods ont été signés en 1944.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l'actuel président du Conseil constitutionnel ivoirien ?",
+    "options": ["A) Mamadou Koné", "B) Chantal Nanaba Camara", "C) Francis Wodié", "D) Tia Koné"],
+    "answer": "B",
+    "explanation": "Chantal Nanaba Camara a été nommée présidente du Conseil constitutionnel.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel peintre espagnol est connu pour avoir cofondé le cubisme ?",
+    "options": ["A) Salvador Dalí", "B) Pablo Picasso", "C) Juan Gris"],
+    "answer": "B",
+    "explanation": "Pablo Picasso est l'un des fondateurs du cubisme.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a été couronné empereur français le 2 décembre 1804 ?",
+    "options": ["A) Napoléon Bonaparte", "B) Charlemagne", "C) Louis XIV"],
+    "answer": "A",
+    "explanation": "Napoléon Bonaparte a été sacré empereur en 1804.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le nom de la science qui étudie les fossiles ?",
+    "options": ["A) Paléontologie", "B) Botanique", "C) Archéologie"],
+    "answer": "A",
+    "explanation": "La paléontologie est l'étude des fossiles.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l’actuel Secrétaire Général de l’ENA ?",
+    "options": ["A) Narcisse Sepy Yessoh", "B) Koné Aline", "C) François Kouma"],
+    "answer": "A",
+    "explanation": "Narcisse Sepy Yessoh est le SG actuel de l'ENA.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de pattes possède une araignée ?",
+    "options": ["A) 6", "B) 8", "C) 12"],
+    "answer": "B",
+    "explanation": "Les araignées sont des arachnides et possèdent 8 pattes.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel gaz représente environ 78 % de l’atmosphère terrestre ?",
+    "options": ["A) L’oxygène", "B) Le carbone", "C) Le diazote"],
+    "answer": "C",
+    "explanation": "Le diazote constitue 78% de l'atmosphère.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le Pakistan a pour capitale :",
+    "options": ["A) Kuala Lumpur", "B) Bangkok", "C) Islamabad"],
+    "answer": "C",
+    "explanation": "Islamabad est la capitale du Pakistan.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel éminent diplomate et Ministre des Affaires Etrangères de Cote d’Ivoire a tiré sa révérence le 8 avril 2025 ?",
+    "options": ["A) Essy Amara", "B) Charles Koffi Diby", "C) Siméon Aké"],
+    "answer": "A",
+    "explanation": "Essy Amara est un diplomate ivoirien.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle maison a pour emblème un loup dans la série Game of Thrones ?",
+    "options": ["A) La maison Stark", "B) La maison Baratheon", "C) La maison Lannister"],
+    "answer": "A",
+    "explanation": "L'emblème de la Maison Stark est un loup-garou.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a écrit « Les bouts de bois de Dieu » ?",
+    "options": ["A) Aimé Césaire", "B) Sembene Ousmane", "C) Soro Guéfala"],
+    "answer": "B",
+    "explanation": "Ousmane Sembène a écrit Les Bouts de bois de Dieu.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle planète est surnommée « l’étoile du berger » ?",
+    "options": ["A) Mars", "B) Terre", "C) Vénus"],
+    "answer": "C",
+    "explanation": "Vénus est souvent appelée l'étoile du berger.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel personnage mythologique a été condamné à pousser éternellement un rocher en haut d’une montagne ?",
+    "options": ["A) Sisyphe", "B) Prométhée", "C) Tantale"],
+    "answer": "A",
+    "explanation": "C'est le mythe de Sisyphe.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel traité a mis fin à la première guerre mondiale en 1919 ?",
+    "options": ["A) Le traité de Versailles", "B) Les accords d’Evian", "C) Le traité de Rome"],
+    "answer": "A",
+    "explanation": "Le Traité de Versailles a mis fin à la Première Guerre mondiale.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui était le président américain pendant la seconde guerre mondiale ?",
+    "options": ["A) Richard Nixon", "B) Delano Roosevelt", "C) John Kennedy"],
+    "answer": "B",
+    "explanation": "Franklin Delano Roosevelt était président pendant la majeure partie de la guerre.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le plus médaillé aux Jeux Olympiques ?",
+    "options": ["A) Usain Bolt", "B) Michael Phelps", "C) Larissa Latynina"],
+    "answer": "B",
+    "explanation": "Michael Phelps détient le record du nombre de médailles olympiques.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel stade a accueilli la confrontation entre la Cote d’Ivoire et le Sénégal lors des huitièmes de finale de la 34e édition de la CAN ?",
+    "options": ["A) Le Stade Laurent Pokou", "B) Le Stade de la paix", "C) Le Stade Charles Konan Banny"],
+    "answer": "C",
+    "explanation": "Le match a eu lieu au stade Charles Konan Banny de Yamoussoukro.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien d’Océans il y a-t-il ?",
+    "options": ["A) 4", "B) 5", "C) 6"],
+    "answer": "B",
+    "explanation": "Il y a 5 océans : Atlantique, Pacifique, Indien, Arctique, Antarctique.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le nom à l’état civil de l’artiste zouglou Pat Sacko ?",
+    "options": ["A) Hughes-Patrick Ossohou", "B) Blaise-Patrick Daté", "C) Patrick Yao"],
+    "answer": "A",
+    "explanation": "Son nom à l'état civil est Ossohou Patrick.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le chef-lieu de la région de l’Agnéby -Tiassa ?",
+    "options": ["A) Dabou", "B) Adzopé", "C) Agboville"],
+    "answer": "C",
+    "explanation": "Agboville est le chef-lieu de l'Agnéby-Tiassa.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle mer sépare l’Europe de l’Afrique ?",
+    "options": ["A) Mer Rouge", "B) Mer Noire", "C) Mer Méditerranée"],
+    "answer": "C",
+    "explanation": "La mer Méditerranée sépare l'Europe de l'Afrique.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le seul continent à ne pas avoir de pays ?",
+    "options": ["A) Océanie", "B) Arctique", "C) Antarctique"],
+    "answer": "C",
+    "explanation": "L'Antarctique ne compte aucun pays.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la capitale de la Turquie ?",
+    "options": ["A) Istanbul", "B) Ankara", "C) Izmir"],
+    "answer": "B",
+    "explanation": "Ankara est la capitale de la Turquie.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "A quelles dates se sont déroulées la 3e édition des Journées Portes Ouvertes de l’ENA ?",
+    "options": ["A) Du 25 au 26 février 2025", "B) Du 13 au 15 février 2025", "C) Du 23 au 24 février 2025"],
+    "answer": "B",
+    "explanation": "C'est généralement autour de ces dates.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la nouvelle dénomination de l’ENA France ?",
+    "options": ["A) INSP", "B) ENAMF", "C) APF"],
+    "answer": "A",
+    "explanation": "L'ENA en France a été remplacée par l'Institut national du service public (INSP).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année a eu lieu la prise de la Bastille ?",
+    "options": ["A) 1789", "B) 1791", "C) 1793"],
+    "answer": "A",
+    "explanation": "La prise de la Bastille a eu lieu en 1789.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de langues officielles compte l’Union Européenne ?",
+    "options": ["A) 20", "B) 24", "C) 3"],
+    "answer": "B",
+    "explanation": "L'UE compte 24 langues officielles.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Avec quel pourcentage a été élu le président gabonais Brice Clotaire Oligui N’Guema ?",
+    "options": ["A) 87 %", "B) 90,35 %", "C) 98,85 %"],
+    "answer": "C",
+    "explanation": "Il a été élu avec ce score.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l’actuel secrétaire général de la francophonie ?",
+    "options": ["A) Louise Mushikiwabo", "B) Michael Jean", "C) Abdou Diouf"],
+    "answer": "A",
+    "explanation": "Louise Mushikiwabo est l'actuelle Secrétaire générale.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Où a eu lieu la COP 29 ?",
+    "options": ["A) Bakou", "B) Paris", "C) Belém"],
+    "answer": "A",
+    "explanation": "La COP 29 a eu lieu à Bakou, en Azerbaïdjan.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Sous quel thème est placé le FEMUA 18 ?",
+    "options": ["A) La santé mentale", "B) Intelligence artificielle : menace ou opportunité pour l'Afrique ?", "C) Civisme et sécurité Routière"],
+    "answer": "B",
+    "explanation": "L'IA est le thème du FEMUA 18.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année furent signés les accords de Maastricht ?",
+    "options": ["A) 1962", "B) 1981", "C) 1992"],
+    "answer": "C",
+    "explanation": "Le traité de Maastricht a été signé en 1992.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la monnaie utilisée en Russie ?",
+    "options": ["A) l’euro", "B) le rouble", "C) l’hryvnia"],
+    "answer": "B",
+    "explanation": "Le rouble est la monnaie russe.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "A combien est estimée la population ivoirienne à l’issu du dernier recensement général de la population et de l’habitat ?",
+    "options": ["A) 29 389 150 hbts", "B) 32 167 255 hbts", "C) autre"],
+    "answer": "A",
+    "explanation": "La population est estimée à environ 29,4 millions d'habitants.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Comment appelle-t-on les habitants de Gaza ?",
+    "options": ["A) Les Gazaouis", "B) Les Gazavites", "C) Les Gazawites"],
+    "answer": "A",
+    "explanation": "Les habitants de Gaza sont les Gazaouis.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En mathématiques, quelle est la valeur arrondie de pi ?",
+    "options": ["A) 3,14028", "B) 3,14159", "C) 3,14217"],
+    "answer": "B",
+    "explanation": "La valeur de Pi commence par 3,14159.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la langue principale parlée en Iran ?",
+    "options": ["A) Persan", "B) Kurde", "C) Iranien"],
+    "answer": "A",
+    "explanation": "Le persan est la langue officielle de l'Iran.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est le seul pays au monde à posséder une capitale qui commence par la lettre Z ?",
+    "options": ["A) Suisse", "B) Croatie", "C) Ouganda"],
+    "answer": "B",
+    "explanation": "Zagreb est la capitale de la Croatie.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel verbe est utilisé pour désigner le cri des dauphins ?",
+    "options": ["A) Gazouiller", "B) Glapir", "C) Siffler"],
+    "answer": "C",
+    "explanation": "Les dauphins sifflent.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le coréalisateur du film Marabout chéri au côté de Luis Marquès ?",
+    "options": ["A) Cheick Yvhane", "B) Michel Bohiri", "C) Kadhy Touré"],
+    "answer": "C",
+    "explanation": "Kadhy Touré est co-réalisatrice de Marabout Chéri.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "“Je punirai les serviteurs, les fils et leurs pères” est une :",
+    "options": ["A) Méthaphore", "B) Allégorie", "C) Gradation"],
+    "answer": "C",
+    "explanation": "Il s'agit d'une gradation.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui détient le record du monde du 100 m masculin ?",
+    "options": ["A) Usain Bolt", "B) Noah Lyles", "C) Justin Gatlin"],
+    "answer": "A",
+    "explanation": "Usain Bolt détient le record du monde du 100 m.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est considéré comme le meilleur joueur de basketball de tous les temps ?",
+    "options": ["A) Lebron James", "B) Michael Jordan", "C) Kobe Bryant"],
+    "answer": "B",
+    "explanation": "Michael Jordan est généralement considéré comme le meilleur joueur de basketball.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a été le premier pays à remporter la coupe du monde de football ?",
+    "options": ["A) Urugay", "B) Grande Bretagne", "C) Italie"],
+    "answer": "A",
+    "explanation": "L'Uruguay a remporté la première Coupe du monde en 1930.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a remporté le ballon d’or France football en 2022 ?",
+    "options": ["A) Lionnel Messi", "B) Karim Benzema", "C) Luka Modric"],
+    "answer": "B",
+    "explanation": "Karim Benzema a remporté le Ballon d'or 2022.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel boxeur nommé « the greatest » est considéré comme l’un des plus grands boxeurs de tous les temps ?",
+    "options": ["A) Floyd Mayweather Jr", "B) Mike Tyson", "C) Mohamed Ali"],
+    "answer": "C",
+    "explanation": "Mohamed Ali était surnommé The Greatest.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le joueur de tennis espagnol qui est considéré comme l’un des meilleurs joueurs sur terre battue de tous les temps ?",
+    "options": ["A) Rafael Nadal", "B) Carlos Alcaraz", "C) Manuel Alonzo"],
+    "answer": "A",
+    "explanation": "Rafael Nadal est le roi de la terre battue.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le joueur de golf américain qui est considéré comme l’un des plus grands golfeurs de tous les temps ?",
+    "options": ["A) Jack Nicklaus", "B) Tiger Woods", "C) Arnold Palmer"],
+    "answer": "B",
+    "explanation": "Tiger Woods est l'un des plus grands golfeurs.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le premier joueur ivoirien à avoir marqué en finale d’une CAN ?",
+    "options": ["A) Laurent Pokou", "B) Didier Drogba", "C) Franck Kessié"],
+    "answer": "A",
+    "explanation": "Laurent Pokou.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de buts ont été marqués à la Coupe d’Afrique des Nations 2023 organisé en Côte d’ivoire ?",
+    "options": ["A) 109 buts", "B) 119 buts", "C) 135 buts"],
+    "answer": "B",
+    "explanation": "119 buts ont été marqués lors de la CAN 2023.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le meilleur buteur de l’histoire de la CAN ?",
+    "options": ["A) Didier Drogba", "B) Roger Mila", "C) Samuel Eto’o"],
+    "answer": "C",
+    "explanation": "Samuel Eto'o est le meilleur buteur de l'histoire de la CAN avec 18 buts.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Lors du tour de France, qui est récompensé d’un maillot blanc à pois rouges ?",
+    "options": ["A) Le meilleur grimpeur", "B) Le meilleur coureur", "C) Le meilleur cycliste"],
+    "answer": "A",
+    "explanation": "Le maillot à pois récompense le meilleur grimpeur.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Où se dérouleront les prochains jeux olympiques ?",
+    "options": ["A) Paris", "B) Mexico", "C) Los Angeles"],
+    "answer": "C",
+    "explanation": "Les prochains Jeux Olympiques d'été après 2024 auront lieu à Los Angeles en 2028.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Depuis quelle année le badminton est devenu une discipline olympique ?",
+    "options": ["A) 1992", "B) 2010", "C) 2023"],
+    "answer": "A",
+    "explanation": "Le badminton est sport olympique depuis 1992.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Les IXème jeux de la francophonie se sont déroulés du ……. Au ……….. 2023 à Kinshasa :",
+    "options": ["A) Du 28 juillet au 6 aout", "B) Du 28 février au 7 mars 2023", "C) Du 28 juin au 6 juillet"],
+    "answer": "A",
+    "explanation": "Les Jeux de la Francophonie 2023 se sont tenus fin juillet - début août.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Comment appelle-t-on le tournoi de tennis joué à Paris ?",
+    "options": ["A) Roland-Garros", "B) Wimbledon", "C) Us Open"],
+    "answer": "A",
+    "explanation": "Le tournoi de Paris est Roland-Garros.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a remporté le ballon d’or africain quatre fois consécutives ?",
+    "options": ["A) Georges Weah", "B) Yaya Touré", "C) Samuel Eto’o"],
+    "answer": "B",
+    "explanation": "Yaya Touré a gagné le Ballon d'Or africain quatre fois de suite (2011-2014).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a été le meilleur buteur de la coupe du monde 2014 ?",
+    "options": ["A) James Rodriguez", "B) Thomas Muller", "C) Lionnel Messi"],
+    "answer": "A",
+    "explanation": "James Rodriguez a été le meilleur buteur (6 buts).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le dernier vainqueur français de Roland Garros ?",
+    "options": ["A) Tsonga", "B) Monfils", "C) Noah"],
+    "answer": "C",
+    "explanation": "Yannick Noah en 1983.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans quel pays est né le judo ?",
+    "options": ["A) Chine", "B) Japon", "C) Vietnam"],
+    "answer": "B",
+    "explanation": "Le judo a été créé au Japon par Jigoro Kano.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde FIFA 2022 ?",
+    "options": ["A) France", "B) Brésil", "C) Argentine", "D) Allemagne"],
+    "answer": "C",
+    "explanation": "L'Argentine a remporté la Coupe du Monde 2022.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle ville a accueilli les Jeux Olympiques d’été 2024 ?",
+    "options": ["A) Tokyo", "B) Paris", "C) Los Angelès", "D) Londres"],
+    "answer": "B",
+    "explanation": "Paris a accueilli les JO en 2024.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+    "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+    "answer": "B",
+    "explanation": "Il y a 5 joueurs par équipe sur le terrain.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans quel sport évolue Novak Djokovic ?",
+    "options": ["A) Golf", "B) Tennis", "C) Handball", "D) Boxe"],
+    "answer": "B",
+    "explanation": "Djokovic est un joueur de tennis.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel pays domine historiquement les Jeux Olympiques d’hiver ?",
+    "options": ["A) Norvège", "B) Canada", "C) Russie", "D) USA"],
+    "answer": "A",
+    "explanation": "La Norvège est le pays le plus titré aux JO d'hiver.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a remporté le Ballon d’Or 2020 ?",
+    "options": ["A) Erling Halland", "B) Lionnel Messi", "C) Cristiano R", "D) Modric"],
+    "answer": "B",
+    "explanation": "Le Ballon d'Or 2020 n'a pas été attribué. Il s'agit peut-être d'une erreur dans les options. En l'absence de meilleur choix, on retient Messi.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de sets gagnants faut-il pour remporter un match masculin en Grand Chelem ?",
+    "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+    "answer": "B",
+    "explanation": "Il faut 3 sets gagnants pour remporter un match masculin en Grand Chelem.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel sport utilise les termes “birdie” et “eagle” ?",
+    "options": ["A) Tennis", "B) Golf", "C) Badminton", "D) Baseball"],
+    "answer": "B",
+    "explanation": "Ce sont des termes de golf.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle nation a remporté la CAN 2023 (jouée en 2024) ?",
+    "options": ["A) Sénégal", "B) Maroc", "C) Côte d’Ivoire", "D) Nigéria"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire a remporté la CAN 2023.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de kilomètres mesure un marathon ?",
+    "options": ["A) 40", "B) 41", "C) 41, 195", "D) 43 km"],
+    "answer": "C",
+    "explanation": "Un marathon mesure 42,195 km, l'option C (bien que 41,195 y soit écrite) est l'option la plus proche visée ou une coquille du document original.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans quel sport retrouve-t-on la NBA ?",
+    "options": ["A) Hockey", "B) Baseball", "C) Football", "D) Basketball"],
+    "answer": "D",
+    "explanation": "La NBA est la ligue américaine de basketball.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel joueur est associé au club d’Al Nassr depuis 2023 ?",
+    "options": ["A) Neymar", "B) Benzema", "C) Cristiano R", "D) Messi"],
+    "answer": "C",
+    "explanation": "Cristiano Ronaldo joue pour Al Nassr.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel pays a organisé la Coupe du Monde 2022 ?",
+    "options": ["A) Qatar", "B) Russie", "C) France", "D) Mexique"],
+    "answer": "A",
+    "explanation": "Le Qatar a organisé la Coupe du monde 2022.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En rugby, combien de points vaut un essai ?",
+    "options": ["A) 3", "B) 5", "C) 6", "D) 7"],
+    "answer": "B",
+    "explanation": "Un essai au rugby vaut 5 points.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel club est le plus titré en Ligue des Champions CAF ?",
+    "options": ["A) Al ahly sc", "B) TP Mazembe", "C) Zamalek", "D) Pyramids fc"],
+    "answer": "A",
+    "explanation": "Al Ahly SC est le club le plus titré.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Dans quel sport évolue Francis Ngannou ?",
+    "options": ["A) Boxe MMA", "B) Football", "C) Athlétisme", "D) Lutte"],
+    "answer": "A",
+    "explanation": "Francis Ngannou évolue en MMA et Boxe.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la nature du pouvoir exécutif ivoirien ?",
+    "options": ["A) Monocéphale", "B) Bicéphale", "C) Tricéphale"],
+    "answer": "B",
+    "explanation": "Le pouvoir exécutif ivoirien est bicéphale (Président et Premier Ministre).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le Vice-président de la République de Côte d’Ivoire ?",
+    "options": ["A) Tiemoko Meyliet Koné", "B) Yua Koffi", "C) Beugré Mambé"],
+    "answer": "A",
+    "explanation": "Tiémoko Meyliet Koné est le Vice-président.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le médiateur de la République est nommé pour ?",
+    "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans"],
+    "answer": "C",
+    "explanation": "Le Médiateur de la République est nommé pour un mandat de 6 ans non renouvelable.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l’actuel médiateur de la République de Côte d’Ivoire ?",
+    "options": ["A) Adama Toungara", "B) Eugène Aka Aouelé", "C) Gaoussou Touré"],
+    "answer": "A",
+    "explanation": "Adama Toungara est le Médiateur de la République.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "En quelle année a été nommé le Haut représentant du Président de la république ?",
+    "options": ["A) 2024", "B) 2023", "C) 2022"],
+    "answer": "B",
+    "explanation": "Le Haut représentant a été nommé en 2023.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le parlement ivoirien est ?",
+    "options": ["A) Monocamérale", "B) Bicamérale", "C) aucune réponse n’est correcte"],
+    "answer": "B",
+    "explanation": "Le parlement ivoirien est bicaméral (Assemblée nationale et Sénat).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a été le premier président du Sénat ivoirien ?",
+    "options": ["A) Kandia Camara", "B) Jeannot Ahoussou Kouadio", "C) Dagri Diabaté"],
+    "answer": "B",
+    "explanation": "Jeannot Ahoussou-Kouadio fut le premier président du Sénat.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Comment s’appelle l’actuel président du Conseil Constitutionnel ivoirien ?",
+    "options": ["A) Chantal Naneba Camara", "B) Chantal Nanaba Camara", "C) Chantal Massereba Camara"],
+    "answer": "B",
+    "explanation": "Chantal Nanaba Camara est la présidente du Conseil constitutionnel.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le président du Conseil Régional est élu pour ?",
+    "options": ["A) 6 ans", "B) 5 ans", "C) 4 ans"],
+    "answer": "B",
+    "explanation": "Il est élu pour 5 ans.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le ministre de la fonction publique et de la modernisation de l’administration ?",
+    "options": ["A) Mathieu Ekra", "B) Ally Coulibaly", "C) Anne Ouloto"],
+    "answer": "C",
+    "explanation": "Anne Ouloto est la ministre de la fonction publique.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "L’ordre juridictionnel ivoirien est ?",
+    "options": ["A) Moniste", "B) Dualiste", "C) Atypique"],
+    "answer": "B",
+    "explanation": "L'ordre est dualiste, avec un ordre judiciaire et un ordre administratif.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le président du Conseil d’Etat ivoirien ?",
+    "options": ["A) Patrice Yao Kouakou", "B) Yua Koffi", "C) Lamine Ouattara"],
+    "answer": "A",
+    "explanation": "Patrice Yao Kouakou préside le Conseil d'Etat.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le président de la Cour de Cassation ivoirienne ?",
+    "options": ["A) Yua Koffi", "B) Patrice Yao Kouakou", "C) Théophile Ahoua N’dol"],
+    "answer": "A",
+    "explanation": "Yua Koffi préside la Cour de Cassation.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le président de la Haute Autorité à la Bonne gouvernance ?",
+    "options": ["A) Mamadou Sangafowa", "B) Epiphane Zoro BI", "C) Patrick Achi"],
+    "answer": "B",
+    "explanation": "Epiphane Zoro BI Ballo est le président de la HABG.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Le général Apalo Touré est issu de ?",
+    "options": ["A) La Police", "B) L’armée de l’air", "C) La Gendarmerie"],
+    "answer": "C",
+    "explanation": "Alexandre Apalo Touré est Commandant Supérieur de la Gendarmerie.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la dénomination exacte du Ministère de l’éducation ?",
+    "options": ["A) Ministère d’Etat, Ministère de l’Education Nationale et de l’Alphabétisation", "B) Ministère de l’Education Nationale, de l’Alphabétisation et de l’Enseignement technique", "C) Ministère de l’Education Nationale et de l’Enseignement Supérieur"],
+    "answer": "A",
+    "explanation": "C'est le Ministère de l'Éducation Nationale et de l'Alphabétisation.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Kanvaly Diomandé est le président de laquelle de ces institutions ?",
+    "options": ["A) Commission Electorale Indépendante", "B) Cour des Comptes", "C) Grande Chancellerie de l’ordre national"],
+    "answer": "B",
+    "explanation": "Kanvaly Diomandé est président de la Cour des Comptes.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est le président de la Chambre des Rois et chefs traditionnels de Cote d’ivoire ?",
+    "options": ["A) Sa majesté Nanan Desire Amon-Tanoe", "B) Sa majesté Nanan Desire Amoi-Tano", "C) Sa majesté Nanan Desire Amani-Tanoe"],
+    "answer": "A",
+    "explanation": "Nanan Amon Tanoé Désiré préside la Chambre.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Parmi ces personnalités, laquelle n’a jamais été président de l’Assemblée Nationale en CI ?",
+    "options": ["A) Mamadou Koulibaly", "B) Soro Guillaume", "C) Coulibaly Kuibiert"],
+    "answer": "C",
+    "explanation": "Coulibaly Kuibiert est président de la CEI, non de l'Assemblée Nationale.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Combien de femmes ministres compte l’actuel gouvernement ivoirien ?",
+    "options": ["A) 7", "B) 8", "C) 10"],
+    "answer": "A",
+    "explanation": "Le gouvernement compte plusieurs femmes ministres (autour de 6-7).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle est la plus haute juridiction de l’ordre judiciaire ?",
+    "options": ["A) Cour d’appel", "B) TPI", "C) Cour suprême", "D) Conseil d’État"],
+    "answer": "C",
+    "explanation": "La Cour de Cassation (anciennement chambre judiciaire de la Cour Suprême).",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle juridiction est compétente en matière administrative ?",
+    "options": ["A) Cour de cassation", "B) Conseil d’État", "C) Tribunal pénal"],
+    "answer": "B",
+    "explanation": "Le Conseil d'État est la plus haute juridiction en matière administrative.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quelle juridiction juge les crimes les plus graves ?",
+    "options": ["A) Tribunal correctionnel", "B) Cour d’assises", "C) Tribunal administratif"],
+    "answer": "B",
+    "explanation": "La Cour d'assises juge les crimes.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Les collectivités territoriales comprennent :",
+    "options": ["A) États fédérés", "B) Régions, districts, communes", "C) Régions, départements, villages"],
+    "answer": "B",
+    "explanation": "En Côte d'Ivoire, ce sont principalement les communes, régions et districts autonomes.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui est l’actuel Ministre de l’urbanisme, du logement et du cadre de vie ?",
+    "options": ["A) Bruno N. Koné", "B) Moussa Sanogo", "C) Mariatou Koné"],
+    "answer": "A",
+    "explanation": "Bruno Nabagné Koné occupe ce poste.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
     "question": "En quelle année l'ONU a-t-elle été officiellement créée ?",
     "options": ["A) 1945", "B) 1946", "C) 1944", "D) 1950"],
     "answer": "A",
@@ -13829,6 +14669,356 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Agit si carence Maire", "B) Annule acte", "C) Dissout", "D) Remplace juge"],
     "answer": "A",
     "explanation": "Agit à la place du maire défaillant (sécurité/ordre) après mise en demeure.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le principe de la légalité administrative implique que l’administration doit respecter les textes qui émanent d’elle-même.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "L'administration doit respecter ses propres textes selon le principe de la légalité.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l’arrêt Doublet, l’administration a l’obligation de faire respecter la loi.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "L'arrêt Doublet consacre l'obligation pour l'administration de faire respecter la loi.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l’Arrêt Compagnie France Amérique, l’administration n’est tenue de respecter la loi.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "L'administration est tenue de respecter la loi.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l’Arrêt Société pour l’Estéhétique de France, l’administration a la faculté de faire cesser les situations inégales.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Elle a l'obligation (et non la simple faculté) de faire cesser les situations inégales.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Selon l’Arrêt Couitéas, l’administration ne peut jamais refuser d’apporter son concours à l’exécution des décisions de justice.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Elle peut refuser exceptionnellement pour des motifs d'ordre public.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’administration a le pouvoir d’apprécier les faits et les modalités d’exécution d’une obligation qui lui est faite.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Cela découle de son pouvoir d'appréciation et du pouvoir discrétionnaire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’administration n’est pas soumise au respect du préambule de la constitution.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Le préambule a valeur constitutionnelle et s'impose à l'administration (Arrêt Société EKY).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’acte inexistant est un acte qui est rentre dans l’ordonnancement juridique avant d’en sortir.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "L'acte inexistant est censé n'avoir jamais existé.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Tout pouvoir discrétionnaire comporte une dose de compétence liée.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Il y a toujours un contrôle minimum de légalité (compétence, forme).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Aucun recours n’est possible contre tous les actes de gouvernement.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Exceptionnellement, un recours en indemnité est possible pour rupture d'égalité devant les charges publiques (traités).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "C’est l’arrêt Héyriès qui pose les conditions d’application de la théorie des circonstances exceptionnelles.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "L'arrêt Heyriès consacre les atteintes aux règles de forme et de procédure en période exceptionnelle.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le préfet d’Abidjan décide de l’interdiction de manifester sur toute l’étendue du territoire d’Abidjan jusqu’à nouvel ordre. Cette mesure sera confirmée par le juge au regard de la jurisprudence administrative.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Une interdiction générale et absolue est illégale.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les mesures de police prises dans un but de brimade sont légales.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Elles constituent un détournement de pouvoir.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les autorités parlementaires ne prennent jamais des actes administratifs.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Elles en prennent dans le cadre de la gestion de leurs fonctionnaires (CSCA, Anzian Niamiké).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les autorités administratives peuvent prendre des actes privés.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Oui, dans le cadre de la gestion de leur domaine privé.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les circulaires ne sont jamais des actes administratifs décisoire.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Les circulaires réglementaires peuvent avoir un caractère décisoire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les décisions du conseil municipal sont des délibérations.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Le conseil municipal prend ses décisions sous forme de délibérations.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En CI, le premier ministre peut prendre des ordonnances.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "C'est le Président de la République qui prend des ordonnances.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La décision par laquelle l’inspecteur du travail refuse d’autoriser le licenciement d’un délégué du personnel est un acte administratif.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "C'est un acte administratif susceptible de REP.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Un particulier personne physique peut prendre des actes administratifs.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Oui, s'il gère un service public et est doté de prérogatives de puissance publique (CE, Monpeurt, Magnier).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La notation des fonctionnaires sont des actes administratifs.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "La notation d'un fonctionnaire est un acte administratif (CSCA, Douka Yao Anderson).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’appel d’offres a pour dessein d’attribuer le contrat au soumissionnaire le moins-disant.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "L'appel d'offres vise généralement l'offre économiquement la plus avantageuse, souvent la moins-disante.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La modification unilatérale du prix du contrat est admise par la jurisprudence administrative.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "L'administration ne peut modifier unilatéralement les clauses financières du contrat.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La mise en régie d’office est une matérialisation du pouvoir de sanction de l’autorité contractante.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "C'est une sanction coercitive en cas de défaillance du cocontractant.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La force majeure administrative résulte de plusieurs tentatives infructueuses de viabilisation du contrat par l’autorité administrative.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "La force majeure doit être extérieure, imprévisible et irrésistible.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans la théorie du fait du principe, l’indemnisation du cocontractant est partielle.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Le fait du prince donne droit à une indemnisation intégrale.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le contentieux des contrats administratifs est exclusivement un contentieux de pleine juridiction.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Le REP est possible contre les actes détachables.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L'inaliénabilité du domaine public signifie que les biens affectés à l'utilité publique ne peuvent être vendus ou échangés tant qu'ils sont affectés à un service public.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "C'est la définition du principe d'inaliénabilité du domaine public.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Qu'est-ce qui distingue le domaine public naturel du domaine public artificiel ?",
+    "options": ["a. L'intervention humaine", "b. Le type de propriété", "c. La taille des biens"],
+    "answer": "a. L'intervention humaine",
+    "explanation": "Le domaine public artificiel résulte d'un aménagement humain.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le domaine privé est accessible à tous sans restriction.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Le domaine privé est géré comme la propriété d'un particulier et n'est pas librement accessible à tous.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel document est nécessaire pour déclencher la procédure d'expropriation ?",
+    "options": ["a. Un contrat de vente", "b. Une déclaration d'utilité publique", "c. Un accord de voisinage"],
+    "answer": "b. Une déclaration d'utilité publique",
+    "explanation": "La DUP est l'acte préalable indispensable.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’expropriation pour cause d’utilité publique est chevauchée par une phase administrative et une phase judiciaire.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "L'expropriation comporte une phase administrative (DUP, arrêté de cessibilité) et une phase judiciaire (transfert de propriété, indemnisation).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Dans la permission de voirie, les droits du permissionnaire sont précaires.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "L'autorisation d'occupation du domaine public est par nature précaire et révocable.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel type de fonctionnaires n'est pas concerné par le statut général des fonctionnaires parmi les propositions suivantes ?",
+    "options": ["a - Les agents de la santé", "b - Les magistrats de l'ordre judiciaire", "c - Les enseignants", "d - Les policiers"],
+    "answer": "b - Les magistrats de l'ordre judiciaire",
+    "explanation": "Les magistrats ont un statut autonome particulier.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel grade est associé aux fonctions de conception et de direction selon la loi portant SGFP ?",
+    "options": ["a - Catégorie C", "b - Catégorie A", "c - Catégorie D", "d - Catégorie B"],
+    "answer": "b - Catégorie A",
+    "explanation": "La catégorie A correspond aux fonctions de conception et de direction.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quelle est la différence entre licenciement et révocation parmi les propositions suivantes ?",
+    "options": ["a - Le licenciement peut être pour insuffisance professionnelle, la révocation est une sanction disciplinaire.", "b - Les deux sont des sanctions disciplinaires identiques.", "c - Le licenciement est toujours temporaire, la révocation est définitive.", "d - Le licenciement nécessite un vote, la révocation non"],
+    "answer": "a - Le licenciement peut être pour insuffisance professionnelle, la révocation est une sanction disciplinaire.",
+    "explanation": "La révocation est disciplinaire, le licenciement non disciplinaire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Les sanctions de premier degré sont réservées au ministre technique de l’agent.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Le pouvoir disciplinaire pour le 1er degré appartient au Ministre technique, Préfet ou Directeur d'EP.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La responsabilité de l’administration est engagée sur la base d’une faute lourde pour les dommages causés à la personne visée au cours d’une opération de police matérielle par l’utilisation d’armes dangereuses est consacrée par l’arrêt AUBERGER ET DUMONT.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "C'est une faute simple si la victime est visée, et sans faute si c'est un tiers.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’arrêt SOCIÉTÉ DES TRANSPORTS DU SUD consacre l’exonération totale de la responsabilité de l’administration en cas de faute de la victime.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "La faute de la victime peut être une cause d'exonération partielle ou totale selon les cas.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’administration dispose d’une action récursoire contre l’agent fautif, mais l’agent n’en dispose pas contre l’administration lorsqu’il a réparé intégralement les dommages causés à la victime en cas de cumul de responsabilité.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "L'agent dispose également d'une action récursoire (Arrêt Delville).",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La responsabilité de l’administration est acquise en cas de cumul de fautes.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "La victime peut poursuivre l'administration ou l'agent en cas de cumul de fautes.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "L’intérêt du principe de cumul de responsabilité est d’octroyer un droit d’option à l’administration.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Le droit d'option est octroyé à la victime, pas à l'administration.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le fait du tiers est une cause d’exonération de la responsabilité de l’administration lorsqu’elle est la cause unique.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Le fait du tiers exonère l'administration dans la responsabilité pour faute s'il est la cause exclusive.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Quel type d'intérêt doit être lésé pour qu'il y ait intérêt à agir ?",
+    "options": ["a. Un intérêt personnel", "b. Un intérêt légitime", "c. Un intérêt collectif", "d. Un intérêt anonyme"],
+    "answer": "a. Un intérêt personnel",
+    "explanation": "L'intérêt à agir doit être personnel, direct et certain.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En matière de REP, le moyen d'annulation est synonyme de cas d'ouverture.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Les cas d'ouverture (incompétence, vice de forme, violation de la loi, détournement de pouvoir) sont les moyens d'annulation.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Sont des conditions de recevabilité du REP, Le détournement de procédure et l’incompétence.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Ce sont des cas d'ouverture au fond, pas des conditions de recevabilité.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "En matière d’acte inexistant, les délais sont identiques que les actes susceptibles d’être frappés d’une simple nullité.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "Le recours contre un acte inexistant peut être exercé à tout moment, sans condition de délai.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Le titre foncier n’est pas susceptible de recours pour excès de pouvoir.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Vrai",
+    "explanation": "Le titre foncier est définitif et inattaquable, sauf cas spécifiques de fraude devant le juge judiciaire.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "La déchéance du titre de propriété en terre urbaine n'est pas admise en droit ivoirien.",
+    "options": ["Vrai", "Faux"],
+    "answer": "Faux",
+    "explanation": "La loi prévoit des hypothèses de déchéance en cas d'insuffisance de mise en valeur.",
+    "theme": "Droit administratif"
+  },
+  {
+    "question": "Sont considérés comme insuffisamment mis en valeur :",
+    "options": ["a. Des chantiers de bâtiments inachevés, et laissés à l'abandon", "b. Des terrains faisant uniquement l'objet de clôtures", "c. Des terrains abritant des constructions en matériaux précaires"],
+    "answer": "b. Des terrains faisant uniquement l'objet de clôtures",
+    "explanation": "Une simple clôture ne constitue pas une mise en valeur suffisante.",
     "theme": "Droit administratif"
   },
 ];
