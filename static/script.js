@@ -35,36 +35,60 @@ function getThemeCatalog() {
     return catalog;
 }
 
+const CAS_PRATIQUE_THEME = 'Droit administratif';
+const BONUS_CAS_PRATIQUES = 2; // number of Cas Pratiques added as bonus on top
+
 function getQuizQuestions(numQuestions, selectedThemeNames) {
-    let themes = getThemeCatalog();
+    let allThemes = getThemeCatalog();
+
+    // Separate Cas Pratiques pool from scored themes
+    const casPratiquesTheme = allThemes.find(t => t.name === CAS_PRATIQUE_THEME);
+    let scoredThemes = allThemes.filter(t => t.name !== CAS_PRATIQUE_THEME);
 
     if (selectedThemeNames && selectedThemeNames.length > 0) {
-        themes = themes.filter(t => selectedThemeNames.includes(t.name));
+        scoredThemes = scoredThemes.filter(t => selectedThemeNames.includes(t.name));
     }
 
-    if (themes.length === 0) return [];
+    if (scoredThemes.length === 0 && !casPratiquesTheme) return [];
 
-    const numThemes = themes.length;
-    const perTheme = Math.floor(numQuestions / numThemes);
-    const remaining = numQuestions % numThemes;
+    // --- Build scored questions pool ---
+    let scored = [];
+    if (scoredThemes.length > 0) {
+        const numThemes = scoredThemes.length;
+        const perTheme = Math.floor(numQuestions / numThemes);
+        const remaining = numQuestions % numThemes;
 
-    let selected = [];
+        scoredThemes.forEach((theme, i) => {
+            const n = Math.min(perTheme + (i < remaining ? 1 : 0), theme.questions.length);
+            const shuffled = [...theme.questions].sort(() => Math.random() - 0.5);
+            shuffled.slice(0, n).forEach(q => scored.push({ ...q, theme: theme.name }));
+        });
 
-    themes.forEach((theme, i) => {
-        const n = Math.min(perTheme + (i < remaining ? 1 : 0), theme.questions.length);
-        const shuffled = [...theme.questions].sort(() => Math.random() - 0.5);
-        const picked = shuffled.slice(0, n);
-        picked.forEach(q => selected.push({ ...q, theme: theme.name }));
-    });
-
-    // Fisher-Yates shuffle
-    for (let i = selected.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [selected[i], selected[j]] = [selected[j], selected[i]];
+        // Fisher-Yates shuffle on scored questions
+        for (let i = scored.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [scored[i], scored[j]] = [scored[j], scored[i]];
+        }
+        scored = scored.slice(0, numQuestions);
     }
 
-    return selected.slice(0, numQuestions);
+    // --- Build bonus Cas Pratiques ---
+    let bonus = [];
+    if (casPratiquesTheme) {
+        // If user explicitly selected ONLY Droit Administratif, treat all as bonus (no scored)
+        const onlyCasPratiques = selectedThemeNames &&
+            selectedThemeNames.length === 1 &&
+            selectedThemeNames[0] === CAS_PRATIQUE_THEME;
+
+        const bonusCount = onlyCasPratiques ? numQuestions : BONUS_CAS_PRATIQUES;
+        const shuffledCas = [...casPratiquesTheme.questions].sort(() => Math.random() - 0.5);
+        shuffledCas.slice(0, bonusCount).forEach(q => bonus.push({ ...q, theme: CAS_PRATIQUE_THEME }));
+    }
+
+    // Scored questions first, bonus Cas Pratiques at the end
+    return [...scored, ...bonus];
 }
+
 
 // ===== STATE =====
 let questions = [];
