@@ -328,6 +328,11 @@ body {
     border: 2px solid var(--error-color);
 }
 
+.feedback-box.bonus {
+    background: #f0eeff;
+    border: 2px solid #7c6fcd;
+}
+
 #feedback-content {
     margin-bottom: 15px;
 }

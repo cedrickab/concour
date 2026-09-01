@@ -170,19 +170,38 @@ function loadQuestion() {
     const container = document.getElementById('options-container');
     container.innerHTML = '';
 
-    q.options.forEach(option => {
-        const letter = option.split(')')[0].trim();
-        const btn = document.createElement('button');
-        btn.className = 'option-btn';
-        btn.textContent = option;
-        btn.dataset.answer = letter;
-        btn.addEventListener('click', () => submitAnswer(letter, btn));
-        container.appendChild(btn);
-    });
+    const isCasPratique = q.theme === 'Droit administratif';
+
+    if (isCasPratique) {
+        // Cas Pratique: no options, just a "Révéler l'analyse" button
+        const hint = document.createElement('p');
+        hint.style.cssText = 'color:#7c6fcd;font-style:italic;font-size:0.95em;margin:12px 0;';
+        hint.textContent = '⚖️ Cas pratique — Réfléchissez à la solution juridique, puis révélez l\'analyse.';
+        container.appendChild(hint);
+
+        const revealBtn = document.createElement('button');
+        revealBtn.className = 'option-btn';
+        revealBtn.style.cssText = 'background:#7c6fcd;color:#fff;font-weight:bold;margin-top:8px;border:none;';
+        revealBtn.textContent = '💡 Révéler l\'analyse juridique';
+        revealBtn.addEventListener('click', () => submitAnswer('__cas_pratique__', null));
+        container.appendChild(revealBtn);
+
+        skipBtn.style.display = 'none';
+    } else {
+        q.options.forEach(option => {
+            const letter = option.split(')')[0].trim();
+            const btn = document.createElement('button');
+            btn.className = 'option-btn';
+            btn.textContent = option;
+            btn.dataset.answer = letter;
+            btn.addEventListener('click', () => submitAnswer(letter, btn));
+            container.appendChild(btn);
+        });
+        skipBtn.disabled = false;
+        skipBtn.style.display = '';
+    }
 
     document.getElementById('feedback-box').classList.add('hidden');
-    skipBtn.disabled = false;
-    skipBtn.style.display = '';
 }
 
 // ===== SUBMIT ANSWER =====
@@ -192,52 +211,76 @@ function submitAnswer(answer, clickedBtn) {
     skipBtn.disabled = true;
 
     const q = questions[currentIndex];
+    const isCasPratique = q.theme === 'Droit administratif';
     const skipped = answer === '';
     let isCorrect = null;
 
-    if (!skipped) {
-        isCorrect = answer === q.answer;
-        if (isCorrect) score++;
-        else score--;
-    }
-
-    document.getElementById('current-score').textContent = `Score : ${score}/${currentIndex + 1}`;
-
-    const feedbackBox = document.getElementById('feedback-box');
-    const feedbackContent = document.getElementById('feedback-content');
-
-    if (skipped) {
-        feedbackBox.className = 'feedback-box neutral';
+    if (isCasPratique) {
+        // Bonus question — no score impact
+        const feedbackBox = document.getElementById('feedback-box');
+        const feedbackContent = document.getElementById('feedback-content');
+        feedbackBox.className = 'feedback-box bonus';
         feedbackContent.innerHTML = `
-            <div class="feedback-title">⏭️ Question sautée</div>
-            <div class="feedback-text">Vous n'avez pas répondu. Vous ne gagnez ni ne perdez de point.</div>
-            <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
-    } else if (isCorrect) {
-        if (clickedBtn) clickedBtn.classList.add('correct');
-        feedbackBox.className = 'feedback-box correct';
-        feedbackContent.innerHTML = `
-            <div class="feedback-title">✅ Bonne réponse !</div>
-            <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+            <div class="feedback-title">⚖️ Analyse juridique</div>
+            <div class="feedback-text">💡 <strong>Solution type :</strong> ${q.explanation}</div>`;
+        feedbackBox.classList.remove('hidden');
+
+        answersHistory.push({
+            question: q.question,
+            theme: q.theme,
+            user_answer: '(Cas pratique)',
+            correct_answer: q.answer,
+            is_correct: null,
+            skipped: false,
+            is_cas_pratique: true
+        });
+
     } else {
-        if (clickedBtn) clickedBtn.classList.add('incorrect');
-        feedbackBox.className = 'feedback-box incorrect';
-        allBtns.forEach(b => { if (b.dataset.answer === q.answer) b.classList.add('correct'); });
-        feedbackContent.innerHTML = `
-            <div class="feedback-title">❌ Mauvaise réponse</div>
-            <div class="feedback-text"><strong>La bonne réponse est : ${q.answer}</strong></div>
-            <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        if (!skipped) {
+            isCorrect = answer === q.answer;
+            if (isCorrect) score++;
+            else score--;
+        }
+
+        document.getElementById('current-score').textContent = `Score : ${score}/${currentIndex + 1}`;
+
+        const feedbackBox = document.getElementById('feedback-box');
+        const feedbackContent = document.getElementById('feedback-content');
+
+        if (skipped) {
+            feedbackBox.className = 'feedback-box neutral';
+            feedbackContent.innerHTML = `
+                <div class="feedback-title">⏭️ Question sautée</div>
+                <div class="feedback-text">Vous n'avez pas répondu. Vous ne gagnez ni ne perdez de point.</div>
+                <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        } else if (isCorrect) {
+            if (clickedBtn) clickedBtn.classList.add('correct');
+            feedbackBox.className = 'feedback-box correct';
+            feedbackContent.innerHTML = `
+                <div class="feedback-title">✅ Bonne réponse !</div>
+                <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        } else {
+            if (clickedBtn) clickedBtn.classList.add('incorrect');
+            feedbackBox.className = 'feedback-box incorrect';
+            allBtns.forEach(b => { if (b.dataset.answer === q.answer) b.classList.add('correct'); });
+            feedbackContent.innerHTML = `
+                <div class="feedback-title">❌ Mauvaise réponse</div>
+                <div class="feedback-text"><strong>La bonne réponse est : ${q.answer}</strong></div>
+                <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        }
+
+        feedbackBox.classList.remove('hidden');
+
+        answersHistory.push({
+            question: q.question,
+            theme: q.theme,
+            user_answer: answer || '—',
+            correct_answer: q.answer,
+            is_correct: isCorrect,
+            skipped
+        });
     }
 
-    answersHistory.push({
-        question: q.question,
-        theme: q.theme,
-        user_answer: answer || '—',
-        correct_answer: q.answer,
-        is_correct: isCorrect,
-        skipped
-    });
-
-    feedbackBox.classList.remove('hidden');
     currentIndex++;
 
     if (currentIndex < questions.length) {
@@ -258,7 +301,11 @@ function updateProgress() {
 
 // ===== SHOW RESULTS =====
 function showResults() {
-    const total = questions.length;
+    // Separate Cas Pratiques (bonus) from scored questions
+    const scoredHistory = answersHistory.filter(h => !h.is_cas_pratique);
+    const bonusHistory  = answersHistory.filter(h => h.is_cas_pratique);
+
+    const total = scoredHistory.length;
     const pct = total > 0 ? Math.round((score / total) * 100 * 10) / 10 : 0;
 
     document.getElementById('final-score').textContent = `${score}/${total}`;
@@ -271,9 +318,9 @@ function showResults() {
     else msg = '📚 Continuez à réviser ! La persévérance est la clé de la réussite.';
     document.getElementById('encouragement-message').textContent = msg;
 
-    // Stats by theme
+    // Stats by theme (scored only)
     const themeStats = {};
-    answersHistory.forEach(h => {
+    scoredHistory.forEach(h => {
         if (!themeStats[h.theme]) themeStats[h.theme] = { correct: 0, total: 0 };
         themeStats[h.theme].total++;
         if (h.is_correct) themeStats[h.theme].correct++;
@@ -289,10 +336,20 @@ function showResults() {
         statsContainer.appendChild(div);
     });
 
-    // Recap
+    // Bonus Cas Pratiques stats
+    if (bonusHistory.length > 0) {
+        const bonusDiv = document.createElement('div');
+        bonusDiv.className = 'theme-stat';
+        bonusDiv.style.cssText = 'border-left:4px solid #7c6fcd;background:#f0eeff;';
+        bonusDiv.innerHTML = `<span class="theme-name">⚖️ Droit administratif (Bonus)</span><span class="theme-score">${bonusHistory.length} cas pratique(s) — non comptés</span>`;
+        statsContainer.appendChild(bonusDiv);
+    }
+
+    // Recap — scored questions
     const recapContainer = document.getElementById('answers-recap');
     recapContainer.innerHTML = '';
-    answersHistory.forEach((h, i) => {
+
+    scoredHistory.forEach((h, i) => {
         const status = h.skipped ? '⏭️' : (h.is_correct ? '✅' : '❌');
         const cls = h.skipped ? 'neutral' : (h.is_correct ? 'correct' : 'incorrect');
         const userResp = h.skipped ? 'Question sautée' : h.user_answer;
@@ -311,6 +368,27 @@ function showResults() {
         recapContainer.appendChild(div);
     });
 
+    // Recap — Cas Pratiques bonus section
+    if (bonusHistory.length > 0) {
+        const bonusHeader = document.createElement('div');
+        bonusHeader.style.cssText = 'margin-top:20px;padding:8px 12px;background:#7c6fcd;color:#fff;border-radius:8px;font-weight:bold;';
+        bonusHeader.textContent = `⚖️ Cas Pratiques — ${bonusHistory.length} analysés (non comptés dans le score)`;
+        recapContainer.appendChild(bonusHeader);
+
+        bonusHistory.forEach((h, i) => {
+            const div = document.createElement('div');
+            div.className = 'answer-item neutral';
+            div.style.cssText = 'border-left:4px solid #7c6fcd;';
+            div.innerHTML = `
+                <div class="answer-header">
+                    <span class="answer-status">⚖️</span>
+                    <small>[${h.theme}]</small>
+                </div>
+                <div class="answer-question">Cas ${i + 1}: ${h.question}</div>`;
+            recapContainer.appendChild(div);
+        });
+    }
+
     showPage('results');
 }
 
@@ -325,3 +403,4 @@ function showPage(page) {
     else if (page === 'quiz') quizPage.classList.add('active');
     else if (page === 'results') resultsPage.classList.add('active');
 }
+

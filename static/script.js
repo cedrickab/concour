@@ -1,125 +1,19 @@
-// Quiz ENA - JavaScript
+// Quiz ENA - JavaScript (static client-side version)
+// Scoring: correct = +1, wrong = -1, skip = 0
 
-let currentQuestionNum = 0;
-let totalQuestions = 0;
-let currentScore = 0;
+// ===== QUIZ ENGINE =====
 
-// Éléments DOM
-const homePage = document.getElementById('home-page');
-const quizPage = document.getElementById('quiz-page');
-const resultsPage = document.getElementById('results-page');
-const startBtn = document.getElementById('start-btn');
-const retryBtn = document.getElementById('retry-btn');
-const nextBtn = document.getElementById('next-btn');
-const skipBtn = document.getElementById('skip-btn');
-const modeRandom = document.getElementById('mode-random');
-const modeSelected = document.getElementById('mode-selected');
-const themeSelection = document.getElementById('theme-selection');
-const themeCheckboxes = document.querySelectorAll('.theme-checkbox');
+const THEME_SPECS = [
+    { name: "Culture Générale — Langue française", count: 150 },
+    { name: "Aptitude Verbale — Phénomènes lexicaux", count: 146 },
+    { name: "Culture Générale — Géographie et connaissances", count: 187 },
+    { name: "Organisations Internationales", count: 163 },
+    { name: "English Grammar", count: 156 },
+    { name: "Culture Générale — Institutions et citoyenneté", count: 129 },
+    { name: "Droit administratif", count: 145 }
+];
 
-// Gestion du choix du nombre de questions
-let selectedNumQuestions = 10;
-let selectedQuizMode = 'random';
-const countButtons = document.querySelectorAll('.count-btn');
-const countInfo = document.getElementById('count-info');
-
-function updateCountInfo() {
-    if (selectedQuizMode === 'selected') {
-        const selectedThemes = getSelectedThemes();
-        if (selectedThemes.length === 0) {
-            countInfo.textContent = `📋 ${selectedNumQuestions} questions sur un ou plusieurs thèmes choisis`;
-        } else {
-            countInfo.textContent = `📋 ${selectedNumQuestions} questions sur ${selectedThemes.length} thème(s) choisi(s)`;
-        }
-        return;
-    }
-
-    countInfo.textContent = `📋 ${selectedNumQuestions} questions aléatoires sur les 7 thèmes`;
-}
-
-function getSelectedThemes() {
-    const themes = [];
-    themeCheckboxes.forEach(cb => {
-        if (cb.checked) {
-            themes.push(cb.value);
-        }
-    });
-    return themes;
-}
-
-countButtons.forEach(btn => {
-    btn.addEventListener('click', () => {
-        countButtons.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        selectedNumQuestions = parseInt(btn.dataset.count);
-        updateCountInfo();
-    });
-});
-
-modeRandom.addEventListener('change', () => {
-    selectedQuizMode = 'random';
-    themeSelection.classList.add('hidden');
-    updateCountInfo();
-});
-
-modeSelected.addEventListener('change', () => {
-    selectedQuizMode = 'selected';
-    themeSelection.classList.remove('hidden');
-    updateCountInfo();
-});
-
-themeCheckboxes.forEach(cb => {
-    cb.addEventListener('change', updateCountInfo);
-});
-
-// Démarrer le quiz
-async function startQuiz() {
-    const numQuestions = selectedNumQuestions;
-    const selectedThemes = getSelectedThemes();
-    const mode = selectedQuizMode;
-
-    if (mode === 'selected' && selectedThemes.length === 0) {
-        alert('Veuillez choisir au moins un thème.');
-        return;
-    }
-    
-    try {
-        const response = await fetch('/start_quiz', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                num_questions: numQuestions,
-                mode: mode,
-                selected_themes: selectedThemes
-            })
-        });
-
-        const data = await response.json();
-
-        if (data.status === 'success') {
-            totalQuestions = data.total_questions;
-            currentScore = 0;
-            showPage('quiz');
-            loadQuestion();
-        } else {
-            alert(data.message || 'Erreur lors du démarrage du quiz');
-        }
-    } catch (error) {
-        console.error('Erreur:', error);
-        alert('Erreur lors du démarrage du quiz');
-    }
-}
-
-startBtn.addEventListener('click', startQuiz);
-
-skipBtn.addEventListener('click', async () => {
-    await submitAnswer('', null);
-});
-
-// Charger une question
-async function getThemeCatalog() {
+function getThemeCatalog() {
     if (!Array.isArray(QUIZ_QUESTIONS)) {
         throw new Error('Quiz data is unavailable.');
     }
@@ -141,211 +35,372 @@ async function getThemeCatalog() {
     return catalog;
 }
 
-async function loadQuestion() {
-    try {
-        const response = await fetch('/get_question');
-        const data = await response.json();
-        
-        if (data.status === 'finished') {
-            showResults();
-            return;
-        }
-        
-        if (data.status === 'success') {
-            currentQuestionNum = data.question_num;
-            
-            // Mettre à jour la progression
-            updateProgress();
-            
-            // Afficher le thème
-            document.getElementById('theme-badge').textContent = data.theme;
-            
-            // Afficher la question
-            document.getElementById('question-text').textContent = data.question;
-            
-            // Créer les options
-            const optionsContainer = document.getElementById('options-container');
-            optionsContainer.innerHTML = '';
-            
-            data.options.forEach((option, index) => {
-                const letter = option.split(')')[0];
-                const button = document.createElement('button');
-                button.className = 'option-btn';
-                button.textContent = option;
-                button.dataset.answer = letter;
-                button.addEventListener('click', () => submitAnswer(letter, button));
-                optionsContainer.appendChild(button);
-            });
-            
-            // Cacher le feedback
-            document.getElementById('feedback-box').classList.add('hidden');
-            skipBtn.disabled = false;
-        }
-    } catch (error) {
-        console.error('Erreur:', error);
-        alert('Erreur lors du chargement de la question');
+function getQuizQuestions(numQuestions, selectedThemeNames) {
+    let themes = getThemeCatalog();
+
+    if (selectedThemeNames && selectedThemeNames.length > 0) {
+        themes = themes.filter(t => selectedThemeNames.includes(t.name));
+    }
+
+    if (themes.length === 0) return [];
+
+    const numThemes = themes.length;
+    const perTheme = Math.floor(numQuestions / numThemes);
+    const remaining = numQuestions % numThemes;
+
+    let selected = [];
+
+    themes.forEach((theme, i) => {
+        const n = Math.min(perTheme + (i < remaining ? 1 : 0), theme.questions.length);
+        const shuffled = [...theme.questions].sort(() => Math.random() - 0.5);
+        const picked = shuffled.slice(0, n);
+        picked.forEach(q => selected.push({ ...q, theme: theme.name }));
+    });
+
+    // Fisher-Yates shuffle
+    for (let i = selected.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [selected[i], selected[j]] = [selected[j], selected[i]];
+    }
+
+    return selected.slice(0, numQuestions);
+}
+
+// ===== STATE =====
+let questions = [];
+let currentIndex = 0;
+let score = 0;
+let answersHistory = [];
+
+// ===== DOM =====
+const homePage     = document.getElementById('home-page');
+const quizPage     = document.getElementById('quiz-page');
+const resultsPage  = document.getElementById('results-page');
+const startBtn     = document.getElementById('start-btn');
+const retryBtn     = document.getElementById('retry-btn');
+const nextBtn      = document.getElementById('next-btn');
+const skipBtn      = document.getElementById('skip-btn');
+const modeRandom   = document.getElementById('mode-random');
+const modeSelected = document.getElementById('mode-selected');
+const themeSelBox  = document.getElementById('theme-selection');
+const themeCheckboxes = document.querySelectorAll('.theme-checkbox');
+
+// ===== QUESTION COUNT SELECTOR =====
+let selectedNumQuestions = 10;
+let selectedQuizMode = 'random';
+const countButtons = document.querySelectorAll('.count-btn');
+const countInfo    = document.getElementById('count-info');
+
+function getSelectedThemes() {
+    const out = [];
+    themeCheckboxes.forEach(cb => { if (cb.checked) out.push(cb.value); });
+    return out;
+}
+
+function updateCountInfo() {
+    if (selectedQuizMode === 'selected') {
+        const n = getSelectedThemes().length;
+        countInfo.textContent = n === 0
+            ? `📋 ${selectedNumQuestions} questions sur un ou plusieurs thèmes choisis`
+            : `📋 ${selectedNumQuestions} questions sur ${n} thème(s) choisi(s)`;
+    } else {
+        countInfo.textContent = `📋 ${selectedNumQuestions} questions aléatoires sur les 7 thèmes`;
     }
 }
 
-// Soumettre une réponse
-async function submitAnswer(answer, clickedButton) {
-    const allButtons = document.querySelectorAll('.option-btn');
-    allButtons.forEach(btn => btn.disabled = true);
-    skipBtn.disabled = true;
-
-    try {
-        const response = await fetch('/submit_answer', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({ answer: answer })
-        });
-
-        const data = await response.json();
-
-        if (data.status === 'success') {
-            currentScore = data.current_score;
-
-            document.getElementById('current-score').textContent = `Score : ${currentScore}/${currentQuestionNum}`;
-
-            const feedbackBox = document.getElementById('feedback-box');
-            const feedbackContent = document.getElementById('feedback-content');
-
-            if (data.skipped) {
-                feedbackBox.className = 'feedback-box neutral';
-                feedbackContent.innerHTML = `
-                    <div class="feedback-title">⏭️ Question sautée</div>
-                    <div class="feedback-text">Vous n'avez pas répondu. Vous ne gagnez ni ne perdez de point.</div>
-                    <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
-                `;
-            } else if (data.is_correct) {
-                if (clickedButton) clickedButton.classList.add('correct');
-                feedbackBox.className = 'feedback-box correct';
-                feedbackContent.innerHTML = `
-                    <div class="feedback-title">✅ Bonne réponse !</div>
-                    <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
-                `;
-            } else {
-                if (clickedButton) clickedButton.classList.add('incorrect');
-                feedbackBox.className = 'feedback-box incorrect';
-
-                allButtons.forEach(btn => {
-                    if (btn.dataset.answer === data.correct_answer) {
-                        btn.classList.add('correct');
-                    }
-                });
-
-                feedbackContent.innerHTML = `
-                    <div class="feedback-title">❌ Mauvaise réponse</div>
-                    <div class="feedback-text"><strong>La bonne réponse est : ${data.correct_answer}</strong></div>
-                    <div class="feedback-text">💡 <strong>Explication :</strong> ${data.explanation}</div>
-                `;
-            }
-
-            feedbackBox.classList.remove('hidden');
-
-            if (data.next_question) {
-                nextBtn.textContent = 'Question suivante →';
-                nextBtn.onclick = () => {
-                    loadQuestion();
-                };
-            } else {
-                nextBtn.textContent = 'Voir les résultats →';
-                nextBtn.onclick = () => {
-                    showResults();
-                };
-            }
-        }
-    } catch (error) {
-        console.error('Erreur:', error);
-        alert('Erreur lors de la soumission de la réponse');
-    }
-}
-
-// Mettre à jour la barre de progression
-function updateProgress() {
-    const percentage = ((currentQuestionNum - 1) / totalQuestions) * 100;
-    document.getElementById('progress-fill').style.width = percentage + '%';
-    document.getElementById('progress-text').textContent = `Question ${currentQuestionNum}/${totalQuestions}`;
-}
-
-// Afficher les résultats
-async function showResults() {
-    try {
-        const response = await fetch('/get_results');
-        const data = await response.json();
-        
-        if (data.status === 'success') {
-            // Afficher le score
-            document.getElementById('final-score').textContent = `${data.score}/${data.total_questions}`;
-            document.getElementById('final-percentage').textContent = `${data.percentage}%`;
-            document.getElementById('encouragement-message').textContent = data.message;
-            
-            // Afficher les statistiques par thème
-            const themesStatsContainer = document.getElementById('themes-stats');
-            themesStatsContainer.innerHTML = '';
-            
-            data.themes_stats.forEach(theme => {
-                const statDiv = document.createElement('div');
-                statDiv.className = 'theme-stat';
-                statDiv.innerHTML = `
-                    <span class="theme-name">${theme.theme}</span>
-                    <span class="theme-score">${theme.correct}/${theme.total} (${theme.percentage}%)</span>
-                `;
-                themesStatsContainer.appendChild(statDiv);
-            });
-            
-            // Afficher le récapitulatif
-            const answersRecapContainer = document.getElementById('answers-recap');
-            answersRecapContainer.innerHTML = '';
-            
-            data.answers_history.forEach((answer, index) => {
-                const answerDiv = document.createElement('div');
-                const status = answer.skipped ? '⏭️' : (answer.is_correct ? '✅' : '❌');
-                const answerClass = answer.skipped ? 'neutral' : (answer.is_correct ? 'correct' : 'incorrect');
-                const userResponse = answer.skipped ? 'Question sautée' : answer.user_answer;
-
-                answerDiv.className = `answer-item ${answerClass}`;
-                answerDiv.innerHTML = `
-                    <div class="answer-header">
-                        <span class="answer-status">${status}</span>
-                        <small>[${answer.theme}]</small>
-                    </div>
-                    <div class="answer-question">Q${index + 1}: ${answer.question}</div>
-                    <div class="answer-detail">
-                        Votre réponse : <strong>${userResponse}</strong> | 
-                        Réponse correcte : <strong>${answer.correct_answer}</strong>
-                    </div>
-                `;
-                answersRecapContainer.appendChild(answerDiv);
-            });
-            
-            showPage('results');
-        }
-    } catch (error) {
-        console.error('Erreur:', error);
-        alert('Erreur lors du chargement des résultats');
-    }
-}
-
-// Refaire un quiz
-retryBtn.addEventListener('click', () => {
-    showPage('home');
-    startQuiz();
+countButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+        countButtons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        selectedNumQuestions = parseInt(btn.dataset.count);
+        updateCountInfo();
+    });
 });
 
-// Afficher une page
+modeRandom.addEventListener('change', () => {
+    selectedQuizMode = 'random';
+    themeSelBox.classList.add('hidden');
+    updateCountInfo();
+});
+
+modeSelected.addEventListener('change', () => {
+    selectedQuizMode = 'selected';
+    themeSelBox.classList.remove('hidden');
+    updateCountInfo();
+});
+
+themeCheckboxes.forEach(cb => cb.addEventListener('change', updateCountInfo));
+
+// ===== START QUIZ =====
+function startQuiz() {
+    const selectedThemes = selectedQuizMode === 'selected' ? getSelectedThemes() : [];
+
+    if (selectedQuizMode === 'selected' && selectedThemes.length === 0) {
+        alert('Veuillez choisir au moins un thème.');
+        return;
+    }
+
+    questions = getQuizQuestions(selectedNumQuestions, selectedThemes.length ? selectedThemes : null);
+    currentIndex = 0;
+    score = 0;
+    answersHistory = [];
+    document.getElementById('current-score').textContent = 'Score : 0';
+    showPage('quiz');
+    loadQuestion();
+}
+
+startBtn.addEventListener('click', startQuiz);
+
+// ===== SKIP BUTTON =====
+skipBtn.addEventListener('click', () => submitAnswer('', null));
+
+// ===== LOAD QUESTION =====
+function loadQuestion() {
+    if (currentIndex >= questions.length) {
+        showResults();
+        return;
+    }
+
+    const q = questions[currentIndex];
+    updateProgress();
+
+    document.getElementById('theme-badge').textContent = q.theme;
+    document.getElementById('question-text').textContent = q.question;
+
+    const container = document.getElementById('options-container');
+    container.innerHTML = '';
+
+    const isCasPratique = q.theme === 'Droit administratif';
+
+    if (isCasPratique) {
+        // Cas Pratique: no options, just a "Révéler l'analyse" button
+        const hint = document.createElement('p');
+        hint.style.cssText = 'color:#7c6fcd;font-style:italic;font-size:0.95em;margin:12px 0;';
+        hint.textContent = '⚖️ Cas pratique — Réfléchissez à la solution juridique, puis révélez l\'analyse.';
+        container.appendChild(hint);
+
+        const revealBtn = document.createElement('button');
+        revealBtn.className = 'option-btn';
+        revealBtn.style.cssText = 'background:#7c6fcd;color:#fff;font-weight:bold;margin-top:8px;border:none;';
+        revealBtn.textContent = '💡 Révéler l\'analyse juridique';
+        revealBtn.addEventListener('click', () => submitAnswer('__cas_pratique__', null));
+        container.appendChild(revealBtn);
+
+        skipBtn.style.display = 'none';
+    } else {
+        q.options.forEach(option => {
+            const letter = option.split(')')[0].trim();
+            const btn = document.createElement('button');
+            btn.className = 'option-btn';
+            btn.textContent = option;
+            btn.dataset.answer = letter;
+            btn.addEventListener('click', () => submitAnswer(letter, btn));
+            container.appendChild(btn);
+        });
+        skipBtn.disabled = false;
+        skipBtn.style.display = '';
+    }
+
+    document.getElementById('feedback-box').classList.add('hidden');
+}
+
+// ===== SUBMIT ANSWER =====
+function submitAnswer(answer, clickedBtn) {
+    const allBtns = document.querySelectorAll('.option-btn');
+    allBtns.forEach(b => b.disabled = true);
+    skipBtn.disabled = true;
+
+    const q = questions[currentIndex];
+    const isCasPratique = q.theme === 'Droit administratif';
+    const skipped = answer === '';
+    let isCorrect = null;
+
+    if (isCasPratique) {
+        // Bonus question — no score impact
+        const feedbackBox = document.getElementById('feedback-box');
+        const feedbackContent = document.getElementById('feedback-content');
+        feedbackBox.className = 'feedback-box bonus';
+        feedbackContent.innerHTML = `
+            <div class="feedback-title">⚖️ Analyse juridique</div>
+            <div class="feedback-text">💡 <strong>Solution type :</strong> ${q.explanation}</div>`;
+        feedbackBox.classList.remove('hidden');
+
+        answersHistory.push({
+            question: q.question,
+            theme: q.theme,
+            user_answer: '(Cas pratique)',
+            correct_answer: q.answer,
+            is_correct: null,
+            skipped: false,
+            is_cas_pratique: true
+        });
+
+    } else {
+        if (!skipped) {
+            isCorrect = answer === q.answer;
+            if (isCorrect) score++;
+            else score--;
+        }
+
+        document.getElementById('current-score').textContent = `Score : ${score}/${currentIndex + 1}`;
+
+        const feedbackBox = document.getElementById('feedback-box');
+        const feedbackContent = document.getElementById('feedback-content');
+
+        if (skipped) {
+            feedbackBox.className = 'feedback-box neutral';
+            feedbackContent.innerHTML = `
+                <div class="feedback-title">⏭️ Question sautée</div>
+                <div class="feedback-text">Vous n'avez pas répondu. Vous ne gagnez ni ne perdez de point.</div>
+                <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        } else if (isCorrect) {
+            if (clickedBtn) clickedBtn.classList.add('correct');
+            feedbackBox.className = 'feedback-box correct';
+            feedbackContent.innerHTML = `
+                <div class="feedback-title">✅ Bonne réponse !</div>
+                <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        } else {
+            if (clickedBtn) clickedBtn.classList.add('incorrect');
+            feedbackBox.className = 'feedback-box incorrect';
+            allBtns.forEach(b => { if (b.dataset.answer === q.answer) b.classList.add('correct'); });
+            feedbackContent.innerHTML = `
+                <div class="feedback-title">❌ Mauvaise réponse</div>
+                <div class="feedback-text"><strong>La bonne réponse est : ${q.answer}</strong></div>
+                <div class="feedback-text">💡 <strong>Explication :</strong> ${q.explanation}</div>`;
+        }
+
+        feedbackBox.classList.remove('hidden');
+
+        answersHistory.push({
+            question: q.question,
+            theme: q.theme,
+            user_answer: answer || '—',
+            correct_answer: q.answer,
+            is_correct: isCorrect,
+            skipped
+        });
+    }
+
+    currentIndex++;
+
+    if (currentIndex < questions.length) {
+        nextBtn.textContent = 'Question suivante →';
+        nextBtn.onclick = () => loadQuestion();
+    } else {
+        nextBtn.textContent = 'Voir les résultats →';
+        nextBtn.onclick = () => showResults();
+    }
+}
+
+// ===== PROGRESS =====
+function updateProgress() {
+    const pct = (currentIndex / questions.length) * 100;
+    document.getElementById('progress-fill').style.width = pct + '%';
+    document.getElementById('progress-text').textContent = `Question ${currentIndex + 1}/${questions.length}`;
+}
+
+// ===== SHOW RESULTS =====
+function showResults() {
+    // Separate Cas Pratiques (bonus) from scored questions
+    const scoredHistory = answersHistory.filter(h => !h.is_cas_pratique);
+    const bonusHistory  = answersHistory.filter(h => h.is_cas_pratique);
+
+    const total = scoredHistory.length;
+    const pct = total > 0 ? Math.round((score / total) * 100 * 10) / 10 : 0;
+
+    document.getElementById('final-score').textContent = `${score}/${total}`;
+    document.getElementById('final-percentage').textContent = `${pct}%`;
+
+    let msg = '';
+    if (pct >= 80) msg = '🌟 Excellent ! Vous êtes bien préparé(e) pour le concours ENA !';
+    else if (pct >= 60) msg = '👍 Bon travail ! Continuez à vous entraîner pour progresser.';
+    else if (pct >= 40) msg = '💪 Pas mal, mais il faut encore réviser certains thèmes.';
+    else msg = '📚 Continuez à réviser ! La persévérance est la clé de la réussite.';
+    document.getElementById('encouragement-message').textContent = msg;
+
+    // Stats by theme (scored only)
+    const themeStats = {};
+    scoredHistory.forEach(h => {
+        if (!themeStats[h.theme]) themeStats[h.theme] = { correct: 0, total: 0 };
+        themeStats[h.theme].total++;
+        if (h.is_correct) themeStats[h.theme].correct++;
+    });
+
+    const statsContainer = document.getElementById('themes-stats');
+    statsContainer.innerHTML = '';
+    Object.entries(themeStats).forEach(([theme, st]) => {
+        const tPct = st.total > 0 ? Math.round(st.correct / st.total * 100) : 0;
+        const div = document.createElement('div');
+        div.className = 'theme-stat';
+        div.innerHTML = `<span class="theme-name">${theme}</span><span class="theme-score">${st.correct}/${st.total} (${tPct}%)</span>`;
+        statsContainer.appendChild(div);
+    });
+
+    // Bonus Cas Pratiques stats
+    if (bonusHistory.length > 0) {
+        const bonusDiv = document.createElement('div');
+        bonusDiv.className = 'theme-stat';
+        bonusDiv.style.cssText = 'border-left:4px solid #7c6fcd;background:#f0eeff;';
+        bonusDiv.innerHTML = `<span class="theme-name">⚖️ Droit administratif (Bonus)</span><span class="theme-score">${bonusHistory.length} cas pratique(s) — non comptés</span>`;
+        statsContainer.appendChild(bonusDiv);
+    }
+
+    // Recap — scored questions
+    const recapContainer = document.getElementById('answers-recap');
+    recapContainer.innerHTML = '';
+
+    scoredHistory.forEach((h, i) => {
+        const status = h.skipped ? '⏭️' : (h.is_correct ? '✅' : '❌');
+        const cls = h.skipped ? 'neutral' : (h.is_correct ? 'correct' : 'incorrect');
+        const userResp = h.skipped ? 'Question sautée' : h.user_answer;
+        const div = document.createElement('div');
+        div.className = `answer-item ${cls}`;
+        div.innerHTML = `
+            <div class="answer-header">
+                <span class="answer-status">${status}</span>
+                <small>[${h.theme}]</small>
+            </div>
+            <div class="answer-question">Q${i + 1}: ${h.question}</div>
+            <div class="answer-detail">
+                Votre réponse : <strong>${userResp}</strong> |
+                Réponse correcte : <strong>${h.correct_answer}</strong>
+            </div>`;
+        recapContainer.appendChild(div);
+    });
+
+    // Recap — Cas Pratiques bonus section
+    if (bonusHistory.length > 0) {
+        const bonusHeader = document.createElement('div');
+        bonusHeader.style.cssText = 'margin-top:20px;padding:8px 12px;background:#7c6fcd;color:#fff;border-radius:8px;font-weight:bold;';
+        bonusHeader.textContent = `⚖️ Cas Pratiques — ${bonusHistory.length} analysés (non comptés dans le score)`;
+        recapContainer.appendChild(bonusHeader);
+
+        bonusHistory.forEach((h, i) => {
+            const div = document.createElement('div');
+            div.className = 'answer-item neutral';
+            div.style.cssText = 'border-left:4px solid #7c6fcd;';
+            div.innerHTML = `
+                <div class="answer-header">
+                    <span class="answer-status">⚖️</span>
+                    <small>[${h.theme}]</small>
+                </div>
+                <div class="answer-question">Cas ${i + 1}: ${h.question}</div>`;
+            recapContainer.appendChild(div);
+        });
+    }
+
+    showPage('results');
+}
+
+// ===== PAGE NAVIGATION =====
+retryBtn.addEventListener('click', () => { showPage('home'); });
+
 function showPage(page) {
     homePage.classList.remove('active');
     quizPage.classList.remove('active');
     resultsPage.classList.remove('active');
-    
-    if (page === 'home') {
-        homePage.classList.add('active');
-    } else if (page === 'quiz') {
-        quizPage.classList.add('active');
-    } else if (page === 'results') {
-        resultsPage.classList.add('active');
-    }
+    if (page === 'home') homePage.classList.add('active');
+    else if (page === 'quiz') quizPage.classList.add('active');
+    else if (page === 'results') resultsPage.classList.add('active');
 }
+
