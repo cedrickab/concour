@@ -11844,2368 +11844,1324 @@ THEME_6 = [
 
 THEME_7 = [
     {
-        "question": "Quelle est la source historique du droit administratif français ?",
-        "options": ["A) L'arrêt Blanco", "B) Le droit civil", "C) Le Code pénal", "D) La Constitution de 1848"],
+        "question": "Cas pratique : Le Préfet du Loh-Djiboua prend un arrêté réglementant la circulation à Divo. Le Maire conteste. Quelle est la solution juridique devant le Conseil d'État ivoirien ?",
+        "options": ["A. L'arrêté est illégal pour incompétence.", "B. L'arrêté est légal en vertu des pouvoirs de police du préfet.", "C. Le Maire n'a pas d'intérêt à agir.", "D. C'est un acte de gouvernement."],
+        "answer": "B",
+        "explanation": "Le Préfet a des pouvoirs de police administrative générale sur l'étendue de sa circonscription."
+    },
+    {
+        "question": "Cas pratique : Le Ministre de l'Intérieur dissout le Conseil municipal de Divo pour des raisons politiques. Le Maire saisit le juge. Quelle est la solution ?",
+        "options": ["A. Recevable, annulation pour détournement de pouvoir.", "B. Irrecevable, c'est un acte de tutelle insusceptible de recours.", "C. Recevable mais légal.", "D. Annulation pour incompétence territoriale."],
         "answer": "A",
-        "explanation": "L'arrêt Blanco (1873) fonde la spécificité du droit administratif français et la responsabilité de l'État."
+        "explanation": "La dissolution pour un motif autre que le fonctionnement du conseil ou l'ordre public constitue un détournement de pouvoir."
     },
     {
-        "question": "Quelle juridiction est la plus haute dans l'ordre administratif français ?",
-        "options": ["A) Le tribunal judiciaire", "B) Le Conseil d'État", "C) La Cour de cassation", "D) Le tribunal de commerce"],
+        "question": "Cas pratique : Un professeur d'université est suspendu sans que son dossier disciplinaire lui soit communiqué. Quelle solution ?",
+        "options": ["A. L'acte est légal.", "B. L'acte est entaché de vice de procédure (droits de la défense).", "C. L'acte est inexistant.", "D. C'est un acte préparatoire."],
         "answer": "B",
-        "explanation": "Le Conseil d'État est la juridiction suprême de l'ordre administratif en France."
+        "explanation": "Le respect des droits de la défense impose la communication du dossier avant toute sanction disciplinaire."
     },
     {
-        "question": "Quel principe signifie que l'administration doit agir dans le cadre de la loi ?",
-        "options": ["A) Le principe de légalité", "B) Le principe de gratuité", "C) Le principe de hiérarchie", "D) Le principe d'efficacité"],
+        "question": "Cas pratique : Le Maire de Cocody prend un arrêté sans le dater ni le signer. Quelle solution ?",
+        "options": ["A. Vice de forme, l'acte est illégal.", "B. L'acte est légal car implicite.", "C. Vice de procédure.", "D. Incompétence matérielle."],
         "answer": "A",
-        "explanation": "Le principe de légalité impose à l'administration d'agir conformément à la loi et à la Constitution."
+        "explanation": "L'absence de signature et de date sur une décision administrative expresse constitue un vice de forme substantiel."
     },
     {
-        "question": "Qu'est-ce qu'une personne publique ?",
-        "options": ["A) Un individu privé", "B) Un organisme de droit public exerçant une mission d'intérêt général", "C) Une entreprise commerciale", "D) Une association de loisirs"],
+        "question": "Cas pratique : Un arrêté préfectoral est attaqué 3 mois après sa publication. Quelle solution ?",
+        "options": ["A. Recours recevable.", "B. Recours irrecevable pour forclusion (délai de 2 mois dépassé).", "C. Recevable car c'est un acte réglementaire.", "D. Irrecevable pour défaut d'intérêt."],
         "answer": "B",
-        "explanation": "Les personnes publiques (État, collectivités, établissements publics) sont à la base de l'organisation administrative."
+        "explanation": "Le délai du recours pour excès de pouvoir est de deux mois à compter de la publication pour les actes réglementaires."
     },
     {
-        "question": "Quel est le rôle du préfet ?",
-        "options": ["A) Représenter le gouvernement dans le département", "B) Gérer uniquement les impôts", "C) Juger les litiges privés", "D) Diriger les tribunaux administratifs"],
+        "question": "Cas pratique : Le Ministre des finances prend une circulaire interprétative sur la fiscalité. Une entreprise l'attaque. Quelle solution ?",
+        "options": ["A. Recevable.", "B. Irrecevable, une circulaire purement interprétative ne fait pas grief.", "C. Recevable pour détournement de pouvoir.", "D. Irrecevable pour forclusion."],
+        "answer": "B",
+        "explanation": "Les circulaires interprétatives ne modifient pas l'ordonnancement juridique et sont insusceptibles de recours pour excès de pouvoir (Jurisprudence Notre Dame du Kreisker)."
+    },
+    {
+        "question": "Cas pratique : Un Préfet abroge un permis de conduire obtenu légalement. Quelle solution ?",
+        "options": ["A. Légal, par principe de mutabilité.", "B. Illégal, on ne peut abroger un acte individuel créateur de droits légal.", "C. Légal si l'administré est d'accord.", "D. Illégal pour incompétence temporelle."],
+        "answer": "B",
+        "explanation": "Un acte administratif individuel créateur de droits, lorsqu'il est légal, ne peut être ni abrogé ni retiré."
+    },
+    {
+        "question": "Cas pratique : L'administration retire un arrêté illégal créateur de droits 3 mois après sa signature. Quelle solution ?",
+        "options": ["A. Retrait légal.", "B. Retrait illégal, le délai de retrait est de 2 mois (délai de recours contentieux).", "C. Retrait légal car l'acte est illégal.", "D. Retrait conditionné à l'accord du juge."],
+        "answer": "B",
+        "explanation": "Le retrait des actes créateurs de droits illégaux n'est possible que pendant le délai du recours contentieux de 2 mois."
+    },
+    {
+        "question": "Cas pratique : Le Maire de Bingerville destitue un chef de village pour cause de mésentente. Quelle solution ?",
+        "options": ["A. L'acte est légal.", "B. L'acte est illégal pour incompétence matérielle (compétence du Préfet).", "C. L'acte est illégal pour incompétence territoriale.", "D. L'acte est légal en vertu de la décentralisation."],
+        "answer": "B",
+        "explanation": "En Côte d'Ivoire, les questions relatives à la chefferie traditionnelle relèvent de l'administration préfectorale et non municipale."
+    },
+    {
+        "question": "Cas pratique : Un Directeur de cabinet signe un arrêté à la place du Ministre sans délégation publiée. Quelle solution ?",
+        "options": ["A. L'acte est légal.", "B. L'acte est illégal pour incompétence (défaut de délégation régulière).", "C. Vice de forme.", "D. Vice de procédure."],
+        "answer": "B",
+        "explanation": "La délégation de signature doit être publiée pour entrer en vigueur. Sans cela, le délégataire est incompétent."
+    },
+    {
+        "question": "Cas pratique : Le Conseil des ministres est omis lors de la prise d'un décret présidentiel obligatoire. Quelle solution ?",
+        "options": ["A. Vice de forme.", "B. Vice de procédure substantiel (consultation obligatoire omise).", "C. Incompétence matérielle.", "D. Détournement de pouvoir."],
+        "answer": "B",
+        "explanation": "L'omission de la consultation d'un organisme exigée par les textes constitue un vice de procédure entraînant l'illégalité de l'acte."
+    },
+    {
+        "question": "Cas pratique : Un chef de service affecte un agent loin de sa famille pour le punir de ses opinions syndicales. Quelle solution ?",
+        "options": ["A. Incompétence matérielle.", "B. Détournement de pouvoir (motif politique/personnel au lieu de l'intérêt du service).", "C. Légalité parfaite.", "D. Vice de forme."],
+        "answer": "B",
+        "explanation": "Le détournement de pouvoir consiste pour l'autorité à utiliser ses pouvoirs dans un but autre que celui pour lequel ils lui ont été conférés."
+    },
+    {
+        "question": "Cas pratique : Une administration tarde de 5 mois à répondre à une demande de permis de construire. Quelle solution ?",
+        "options": ["A. Décision implicite d'acceptation.", "B. Décision implicite de rejet (silence de plus de 2 mois).", "C. Pas de décision, on ne peut rien faire.", "D. L'administration a 6 mois pour répondre."],
+        "answer": "B",
+        "explanation": "Le silence gardé par l'administration pendant un certain délai vaut en principe décision de rejet."
+    },
+    {
+        "question": "Cas pratique : Le Maire de Yopougon prend un acte après l'élection de son successeur mais avant la passation des charges. Quelle solution ?",
+        "options": ["A. Légal pour continuité du service.", "B. Illégal pour incompétence temporelle.", "C. Légal si c'est urgent.", "D. Vice de forme."],
+        "answer": "B",
+        "explanation": "L'autorité sortante perd sa compétence dès l'élection ou la nomination de son successeur (sauf affaires courantes strictement définies)."
+    },
+    {
+        "question": "Cas pratique : Un contrat administratif est résilié unilatéralement par le Ministre de l'Équipement pour faute du cocontractant. Quelle solution devant le CE ?",
+        "options": ["A. Recevable en REP.", "B. Irrecevable, c'est du contentieux de pleine juridiction contractuel.", "C. Recevable car c'est un acte détachable.", "D. Légal car le ministre a un droit absolu."],
+        "answer": "B",
+        "explanation": "Les mesures d'exécution et de résiliation des contrats relèvent du juge du contrat (pleine juridiction), pas du juge de l'excès de pouvoir."
+    },
+    {
+        "question": "Cas pratique : Le Président de la République gracie un condamné. La victime attaque le décret de grâce. Quelle solution ?",
+        "options": ["A. Recevable et illégal.", "B. Irrecevable (Acte de gouvernement).", "C. Recevable mais légal.", "D. Annulation pour vice de procédure."],
+        "answer": "B",
+        "explanation": "Le décret de grâce est un acte de gouvernement, insusceptible de tout recours juridictionnel."
+    },
+    {
+        "question": "Cas pratique : Lors d'une mutinerie, un caporal prend des arrêtés pour organiser le ravitaillement de Bouaké. Quelle solution ?",
+        "options": ["A. Actes inexistants.", "B. Actes valables sous la théorie du fonctionnaire de fait (circonstances exceptionnelles).", "C. Actes illégaux pour incompétence.", "D. Actes de gouvernement."],
+        "answer": "B",
+        "explanation": "La théorie du fonctionnaire de fait et des circonstances exceptionnelles permet de valider les actes de personnes incompétentes pour assurer la continuité des services vitaux."
+    },
+    {
+        "question": "Cas pratique : Le Ministre de la santé adresse une lettre d'avertissement simple sans inscription au dossier à un agent. Quelle solution ?",
+        "options": ["A. Recevable en REP.", "B. Irrecevable (Mesure d'ordre intérieur ne faisant pas grief).", "C. Illégal pour vice de forme.", "D. Vice de procédure."],
+        "answer": "B",
+        "explanation": "Les sanctions très légères non inscrites au dossier peuvent constituer des mesures d'ordre intérieur insusceptibles de REP."
+    },
+    {
+        "question": "Cas pratique : Le Maire d'Abobo réglemente la vitesse maximale à 20 km/h sur tout le territoire national. Quelle solution ?",
+        "options": ["A. Illégal pour incompétence territoriale.", "B. Légal par pouvoir de police.", "C. Incompétence matérielle.", "D. Détournement de pouvoir."],
         "answer": "A",
-        "explanation": "Le préfet représente l'État au niveau départemental et assure le contrôle administratif."
+        "explanation": "Le Maire ne peut exercer son pouvoir réglementaire que dans les limites territoriales de sa commune."
     },
     {
-        "question": "Que signifie le principe de non-rétroactivité de la loi pénale ?",
-        "options": ["A) Une loi nouvelle ne peut pas s'appliquer rétroactivement", "B) Une loi ne s'applique qu'après son vote", "C) Une loi peut toujours être appliquée avec effet immédiat", "D) Une loi ne s'applique jamais aux personnes publiques"],
+        "question": "Cas pratique : L'Assemblée Nationale vote une loi d'expropriation. Un propriétaire saisit le juge administratif. Quelle solution ?",
+        "options": ["A. Irrecevable, la loi n'est pas un AAU.", "B. Recevable pour violation de la propriété privée.", "C. Légal et recevable.", "D. Irrecevable pour forclusion."],
         "answer": "A",
-        "explanation": "Le principe de non-rétroactivité est un principe fondamental du droit, surtout en matière pénale."
+        "explanation": "Les lois échappent au contrôle du juge administratif qui ne connaît que des actes des autorités administratives."
     },
     {
-        "question": "Quel acte administratif est généralement pris par le pouvoir exécutif pour un cas particulier ?",
-        "options": ["A) La norme générale", "B) L'acte individuel", "C) Le contrat privé", "D) Le code civil"],
+        "question": "Cas pratique 1 : La Mairie de Yopougon attribue de gré à gré un marché de 100 millions FCFA à BATI-CI. L'ARCOP est saisie. Quelle sera la décision ?",
+        "options": {"A": "Validation, c'est un marché local.", "B": "Annulation, le gré à gré exige l'autorisation de la DMP.", "C": "Amende administrative pour BATI-CI.", "D": "Incompétence du juge."},
         "answer": "B",
-        "explanation": "Un acte individuel vise un cas particulier, par exemple une nomination, une autorisation ou une sanction."
+        "explanation": "Les marchés de gré à gré au-delà du seuil de dispense nécessitent l'autorisation préalable de la Direction des Marchés Publics en CI."
     },
     {
-        "question": "Qu'est-ce que le contrôle de légalité ?",
-        "options": ["A) Le contrôle de la moralité des agents", "B) Le contrôle de la conformité d'un acte à la loi", "C) Le contrôle de la qualité des produits", "D) Le contrôle du budget privé"],
-        "answer": "B",
-        "explanation": "Le contrôle de légalité consiste à vérifier si un acte administratif est conforme aux normes supérieures."
-    },
-    {
-        "question": "Qui est le gardien du droit administratif en France ?",
-        "options": ["A) La Cour de cassation", "B) Le Conseil d'État", "C) Le ministère de la Justice", "D) Le Tribunal de grande instance"],
-        "answer": "B",
-        "explanation": "Le Conseil d'État a une place centrale dans l'interprétation et le développement du droit administratif."
-    },
-    {
-        "question": "Que signifie le principe de sécurité juridique ?",
-        "options": ["A) L'État peut agir sans limites", "B) Les citoyens doivent pouvoir connaître les règles et leurs conséquences", "C) La loi ne s'applique qu'aux entreprises", "D) L'administration ne doit jamais expliquer ses décisions"],
-        "answer": "B",
-        "explanation": "La sécurité juridique garantit la prévisibilité du droit et la protection contre l'arbitraire."
-    },
-    {
-        "question": "Qu'est-ce que le service public selon le droit administratif ?",
-        "options": ["A) Toute entreprise commerciale", "B) Une activite d interet general assuree ou controlee par la puissance publique", "C) Un service rendu uniquement aux fonctionnaires", "D) Un tribunal administratif"],
-        "answer": "B",
-        "explanation": "Le service public est une activite d interet general prise en charge par une personne publique."
-    },
-    {
-        "question": "Quel principe du service public signifie qu il doit fonctionner sans interruption ?",
-        "options": ["A) Le principe de mutabilite", "B) Le principe de continuite", "C) Le principe d egalite", "D) Le principe de neutralite"],
-        "answer": "B",
-        "explanation": "La continuite du service public impose que le service ne soit pas interrompu."
-    },
-    {
-        "question": "Quel principe du service public impose son adaptation aux besoins de la societe ?",
-        "options": ["A) La neutralite", "B) L egalite", "C) La mutabilite", "D) La gratuite"],
+        "question": "Cas pratique 2 : L'État résilie sans faute le contrat de concession de la société SIGMA. Quelle est l'issue ?",
+        "options": {"A": "Rétablissement du contrat.", "B": "Annulation de la résiliation.", "C": "Indemnisation intégrale du cocontractant.", "D": "Rejet de la demande."},
         "answer": "C",
-        "explanation": "Le principe de mutabilite oblige le service public a evoluer en fonction des besoins."
+        "explanation": "L'Administration peut résilier pour motif d'intérêt général, mais doit indemniser intégralement le cocontractant (pertes et manque à gagner)."
     },
     {
-        "question": "Qu'est-ce qu un etablissement public ?",
-        "options": ["A) Une entreprise privee", "B) Une personne morale de droit public chargee d une mission de service public", "C) Un tribunal administratif", "D) Un service deconcentre"],
+        "question": "Cas pratique 3 : Une épidémie oblige l'État à exiger 20% de matériel en plus de YEKOUN-CI. YEKOUN-CI refuse. Décision ?",
+        "options": {"A": "Modification unilatérale justifiée pour intérêt général.", "B": "Le contrat est nul.", "C": "YEKOUN-CI a le droit de refuser.", "D": "Le contrat est caduc."},
+        "answer": "A",
+        "explanation": "Mutabilité des contrats administratifs : l'administration peut imposer des modifications pour l'intérêt général (moyennant indemnisation)."
+    },
+    {
+        "question": "Cas pratique 4 : Le Port d'Abidjan met en régie d'office son concessionnaire fautif sans mise en demeure. Décision ?",
+        "options": {"A": "Validation de la mesure.", "B": "Annulation pour vice de procédure (absence de mise en demeure).", "C": "La régie est impossible au PAA.", "D": "Le concessionnaire est indemnisé."},
         "answer": "B",
-        "explanation": "Un etablissement public est une personne morale de droit public gerant une mission de service public."
+        "explanation": "La mise en demeure est un préalable substantiel avant de prononcer une sanction coercitive comme la régie d'office."
     },
     {
-        "question": "Quelle est la difference entre d?concentration et d?centralisation ?",
-        "options": ["A) Aucune", "B) La d?concentration transfere des pouvoirs a des agents de l'?tat, la d?centralisation a des collectivites autonomes", "C) La d?centralisation est au profit des agents de l'?tat", "D) La d?concentration concerne uniquement les communes"],
-        "answer": "B",
-        "explanation": "La d?concentration deplace des competences au sein de l'?tat, la d?centralisation les transfere a des entites distinctes."
-    },
-    {
-        "question": "Qu'est-ce qu un recours pour exces de pouvoir ?",
-        "options": ["A) Un recours visant a obtenir une indemnite", "B) Un recours en annulation d un acte administratif illegal", "C) Un recours contre les decisions judiciaires", "D) Un recours en interpr?tation"],
-        "answer": "B",
-        "explanation": "Le recours pour exces de pouvoir permet l annulation d un acte administratif illegal."
-    },
-    {
-        "question": "Qu'est-ce que la hi?rarchie des normes ?",
-        "options": ["A) L organisation des minist?res", "B) L organisation pyramidale des regles juridiques, avec la Constitution au sommet", "C) Le classement des juges par anciennete", "D) L ordre alphabetique des lois"],
-        "answer": "B",
-        "explanation": "La hi?rarchie des normes place la Constitution au sommet, suivie des traites, des lois et des r?glements."
-    },
-    {
-        "question": "Qu'est-ce que la responsabilite sans faute de l'?tat ?",
-        "options": ["A) L ?tat ne peut jamais etre condamne", "B) L ?tat peut etre condamne a indemniser meme sans avoir commis de faute", "C) La responsabilite personnelle des fonctionnaires", "D) L ?tat est responsable uniquement des accidents"],
-        "answer": "B",
-        "explanation": "La responsabilite sans faute repose sur le principe d egalite devant les charges publiques."
-    },
-    {
-        "question": "Qu'est-ce qu un acte unilateral de l administration ?",
-        "options": ["A) Un acte signe par deux parties", "B) Un acte par lequel l administration cree des obligations sans le consentement du destinataire", "C) Un contrat administratif", "D) Une loi votee par le Parlement"],
-        "answer": "B",
-        "explanation": "L acte unilateral est pris par l administration seule et s impose aux administres sans leur consentement."
-    },
-    {
-        "question": "Qu'est-ce qu un contrat administratif ?",
-        "options": ["A) Un contrat entre deux entreprises privees", "B) Un contrat conclu par une personne publique dans le cadre d une mission de service public", "C) Un acte unilateral de l administration", "D) Un accord entre deux ?tats"],
-        "answer": "B",
-        "explanation": "Le contrat administratif implique au moins une personne publique et presente des clauses exorbitantes du droit commun."
-    },
-    {
-        "question": "Quelle est la procedure de revision constitutionnelle en CI ?",
-        "options": ["A) Uniquement par r?f?rendum", "B) Par le Parlement seul a la majorite simple", "C) Par le Parlement a la majorite des 3/5 ou par r?f?rendum a l initiative du Pr?sident", "D) Par le Conseil constitutionnel"],
+        "question": "Cas pratique 5 : Une loi crée une taxe douanière ciblant spécifiquement le domaine d'importation du cocontractant de l'État TROPIC. Théorie applicable ?",
+        "options": {"A": "Force majeure.", "B": "Sujétions imprévues.", "C": "Fait du Prince (indemnisation totale).", "D": "Imprévision (indemnisation partielle)."},
         "answer": "C",
-        "explanation": "La revision peut etre adoptee par le Parlement (3/5) ou soumise a r?f?rendum."
+        "explanation": "Une mesure de l'autorité contractante alourdissant les charges du cocontractant déclenche le Fait du Prince."
     },
     {
-        "question": "Qu'est-ce qu une loi organique en droit ivoirien ?",
-        "options": ["A) Une loi votee par r?f?rendum", "B) Une loi qui precise la Constitution dans les domaines qu elle designe expressement", "C) Une loi adoptee a l unanimite", "D) Un decret du Pr?sident"],
-        "answer": "B",
-        "explanation": "Les lois organiques completent la Constitution et sont superieures aux lois ordinaires."
-    },
-    {
-        "question": "Pi?ge : le preambule de la Constitution de 2016 a-t-il une valeur juridique ?",
-        "options": ["A) Non c est un simple texte declaratoire", "B) Oui il fait partie du bloc de constitutionnalit?", "C) Non seul le corps de la Constitution a force contraignante", "D) Oui mais uniquement pour les lois penales"],
-        "answer": "B",
-        "explanation": "Le preambule est integre au bloc de constitutionnalit? et peut servir de base a la censure d une loi."
-    },
-    {
-        "question": "Qu'est-ce que le principe de non-retroactivite des actes administratifs ?",
-        "options": ["A) Un acte ne peut pas etre abroge", "B) Un acte administratif ne peut produire d effets que pour l avenir pas pour le passe", "C) Les actes s appliquent uniquement aux ?trangers", "D) Les r?glements ne s appliquent qu au moment de leur signature"],
-        "answer": "B",
-        "explanation": "L acte administratif prend effet a sa publication. Il ne peut pas s appliquer retroactivement."
-    },
-    {
-        "question": "Qu'est-ce que le principe du contradictoire en procedure administrative ?",
-        "options": ["A) L administration peut decider sans informer l administre", "B) Avant toute decision defavorable l administre doit pouvoir presenter ses observations", "C) L administre peut contredire toutes les decisions", "D) Les fonctionnaires peuvent refuser les ordres"],
-        "answer": "B",
-        "explanation": "Garantie fondamentale : avant toute decision qui lui fait grief l administre doit pouvoir s expliquer."
-    },
-    {
-        "question": "Quelle est la difference entre recours gracieux et recours hierarchique ?",
-        "options": ["A) Ce sont des synonymes", "B) Recours gracieux adresse a l auteur de l acte ; recours hierarchique adresse au superieur", "C) Le recours gracieux va devant un juge", "D) Le hierarchique est plus rapide"],
-        "answer": "B",
-        "explanation": "Gracieux : on demande a l auteur de retirer son acte. Hierarchique : on demande a son superieur de l annuler."
-    },
-    {
-        "question": "Qu'est-ce que l exception d illegalite en droit administratif ?",
-        "options": ["A) Impossibilite d attaquer un acte apres 2 mois", "B) La possibilite de soulever l illegalite d un acte r?glementaire de facon incidente lors d un litige meme hors delai de recours", "C) L annulation automatique de tout acte illegal", "D) Un recours special devant le Conseil constitutionnel"],
-        "answer": "B",
-        "explanation": "L exception d illegalite est imprescriptible pour les actes r?glementaires."
-    },
-    {
-        "question": "Qu'est-ce que le pouvoir discrecionnaire de l administration ?",
-        "options": ["A) Le droit d agir en dehors de la loi", "B) La liberte de choix dont dispose l administration dans les limites fixees par la loi", "C) Le droit de ne pas repondre aux requetes", "D) La possibilite d ignorer les jugements"],
-        "answer": "B",
-        "explanation": "Le pouvoir discrecionnaire permet de choisir comment agir dans un cadre legal."
-    },
-    {
-        "question": "Quelles sont les trois lois de Rolland du service public ?",
-        "options": ["A) Gratuite impartialite efficacite", "B) Continuite egalite mutabilite", "C) Rapidite transparence accessibilite", "D) Neutralite gratuite universalite"],
-        "answer": "B",
-        "explanation": "Lois de Rolland : continuite (pas d interruption) egalite (traitement egaux) mutabilite (adaptation aux besoins)."
-    },
-    {
-        "question": "Pi?ge : le service public peut-il etre gere par une personne privee ?",
-        "options": ["A) Non seul l'?tat peut gerer un service public", "B) Oui via la delegation de service public (concession affermage)", "C) Oui mais uniquement les services industriels", "D) Non c est inconstitutionnel"],
-        "answer": "B",
-        "explanation": "La d?l?gation de service public permet de confier la gestion a un prive."
-    },
-    {
-        "question": "Qu'est-ce qu un contrat de concession de service public ?",
-        "options": ["A) Un contrat de travail d un fonctionnaire", "B) Un contrat par lequel une personne publique confie a un prive la gestion d un service public a ses risques et perils", "C) Un accord international", "D) Un marche public de fournitures"],
-        "answer": "B",
-        "explanation": "Le concessionnaire est remunere par les usagers et assume le risque d exploitation."
-    },
-    {
-        "question": "Quelle est la distinction fondamentale entre marche public et delegation de service public ?",
-        "options": ["A) Aucune distinction", "B) Marche public : remuneration par l administration ; delegation : remuneration par les usagers ou les resultats", "C) Marche public = travaux delegation = services", "D) La d?l?gation s applique uniquement aux communes"],
-        "answer": "B",
-        "explanation": "La difference : le mode de remuneration et le transfert du risque d exploitation."
-    },
-    {
-        "question": "Qu'est-ce que l IGE en CI ?",
-        "options": ["A) Un tribunal administratif", "B) Un corps de controle charge d inspecter les services de l'?tat et de lutter contre la corruption", "C) Le service de securite de la presidence", "D) Un organe de l Assemblee nationale"],
-        "answer": "B",
-        "explanation": "L Inspection Generale d ?tat placee aupres du Pr?sident controle l utilisation des ressources publiques."
-    },
-    {
-        "question": "Qu'est-ce que la titularisation dans la fonction publique ivoirienne ?",
-        "options": ["A) Le recrutement initial", "B) La confirmation definitive du statut de fonctionnaire apres la periode de stage", "C) La promotion a un grade superieur", "D) La mutation vers une autre administration"],
-        "answer": "B",
-        "explanation": "La titularisation met fin au statut de stagiaire et confere le statut definitif de fonctionnaire."
-    },
-    {
-        "question": "Pi?ge : un fonctionnaire peut-il refuser d obeir a un ordre manifestement illegal ?",
-        "options": ["A) Non l obeissance hierarchique est absolue", "B) Oui il peut et doit refuser un ordre manifestement illegal comprometant serieusement un interet public", "C) Oui mais uniquement avec accord du syndicat", "D) Non il doit obeir et signaler apres"],
-        "answer": "B",
-        "explanation": "Le devoir de refuser un ordre manifestement illegal est un principe fondamental de la deontologie fonctionnaire."
-    },
-    {
-        "question": "Qu'est-ce que la disponibilite dans la fonction publique ivoirienne ?",
-        "options": ["A) La periode de conge annuel", "B) La position ou un fonctionnaire cesse temporairement ses fonctions sans perdre son statut", "C) Le droit au teletravail", "D) Une sanction disciplinaire"],
-        "answer": "B",
-        "explanation": "La disponibilite est une position administrative temporaire sans remuneration de l'?tat."
-    },
-    {
-        "question": "Qu'est-ce que le detachement dans la fonction publique ?",
-        "options": ["A) La mise a la retraite anticipee", "B) La position du fonctionnaire qui exerce dans une autre administration en conservant ses droits dans son corps d origine", "C) Une mutation definitive", "D) Un conge pour raisons personnelles"],
-        "answer": "B",
-        "explanation": "Le detachement : exercice temporaire ailleurs avec conservation des droits dans le corps d origine."
-    },
-    {
-        "question": "Pi?ge tres difficile : un acte nul et un acte inexistant sont-ils identiques ?",
-        "options": ["A) Oui synonymes", "B) Non : l acte nul a une apparence juridique et doit etre annule ; l acte inexistant n a aucune valeur et peut etre ignore", "C) Oui memes effets juridiques", "D) Non l acte inexistant entraine des sanctions penales"],
-        "answer": "B",
-        "explanation": "Acte nul : existe juridiquement mais vicie doit etre annule. Acte inexistant : aucune realite juridique."
-    },
-    {
-        "question": "Qu'est-ce que le recours en cassation devant la chambre administrative de la Cour Supr?me ?",
-        "options": ["A) Un appel qui rejuge les faits", "B) Un recours qui controle uniquement la legalite de la decision sans reexaminer les faits", "C) Un recours reserve aux ?trangers", "D) Un recours en responsabilite de l'?tat"],
-        "answer": "B",
-        "explanation": "La cassation verifie que la loi a ete correctement appliquee sans rejuger les faits."
-    },
-    {
-        "question": "Qu'est-ce que le principe de proportionnalite dans l action administrative ?",
-        "options": ["A) L administration traite les fonctionnaires proportionnellement a leur salaire", "B) Les mesures de l administration doivent etre adaptees et proportionnees a l objectif poursuivi", "C) Les taxes sont proportionnelles aux revenus", "D) Les sanctions sont proportionnelles au grade"],
-        "answer": "B",
-        "explanation": "La proportionnalite empeche les mesures excessives par rapport au but recherche."
-    },
-    {
-        "question": "Qu'est-ce que le detournement de pouvoir en droit administratif ?",
-        "options": ["A) Utiliser un droit dans un but autre que celui pour lequel il a ete accorde", "B) Refuser d appliquer la loi", "C) Depasser son budget", "D) Utiliser un droit legal de facon financierement abusive"],
-        "answer": "A",
-        "explanation": "Detournement de pouvoir : une autorite utilise un pouvoir legal a des fins autres que celles prevues."
-    },
-    {
-        "question": "Pi?ge : la force majeure exonere-t-elle toujours l'?tat de sa responsabilite ?",
-        "options": ["A) Oui toujours et totalement", "B) Non l'?tat reste responsable pour certains services dangereux meme en cas de force majeure", "C) Oui si l evenement est imprevisible et irresistible", "D) Non la force majeure n existe pas en droit administratif"],
-        "answer": "B",
-        "explanation": "Pour les activites dangereuses la responsabilite sans faute peut subsister meme en cas de force majeure."
-    },
-    {
-        "question": "Qu'est-ce que le principe de continuite de l'?tat ?",
-        "options": ["A) L ?tat dure indefiniment et ses engagements subsistent au-dela des gouvernements successifs", "B) Le Pr?sident ne peut pas demissionner", "C) Les lois ne peuvent pas etre abrogees", "D) Les fonctionnaires restent en poste independamment des ?lections"],
-        "answer": "A",
-        "explanation": "La continuite de l'?tat : ses engagements juridiques et financiers subsistent malgre les changements de gouvernement."
-    },
-    {
-        "question": "Qu'est-ce que la faute personnelle detachable du service ?",
-        "options": ["A) Un fonctionnaire ne peut jamais etre poursuivi penalement", "B) La faute grave qui revele un comportement incompatible avec les obligations du service exposant le fonctionnaire a des poursuites", "C) Seul le ministre peut etre poursuivi", "D) La faute personnelle engage l'?tat"],
-        "answer": "B",
-        "explanation": "La faute personnelle detachable engage la responsabilite personnelle du fonctionnaire (ex corruption violence deliberee)."
-    },
-    {
-        "question": "Pi?ge : l annulation d un acte administratif par le juge a-t-elle un effet retroactif ?",
-        "options": ["A) Non l annulation ne vaut que pour l avenir", "B) Oui l annulation a un effet retroactif : l acte est cense n avoir jamais existe", "C) Oui mais seulement pour les actes individuels", "D) Non sauf si le juge le decide expressement"],
-        "answer": "B",
-        "explanation": "L annulation par le juge administratif a un effet retroactif (ex tunc) : l acte est cense n avoir jamais produit d effets."
-    },
-    {
-        "question": "Qu'est-ce que le principe d egalite de traitement dans la fonction publique ?",
-        "options": ["A) Tous les fonctionnaires ont le meme salaire", "B) Des agents dans des situations identiques doivent etre traites de maniere identique sans discrimination", "C) Le meme travail est effectue par le meme nombre d agents", "D) Tous les grades sont equivalents"],
-        "answer": "B",
-        "explanation": "Le principe d egalite de traitement interdit toute discrimination dans la gestion des carrieres."
-    },
-    {
-        "question": "Qu'est-ce que le controle de legalite interne d un acte administratif ?",
-        "options": ["A) Verifier la signature", "B) Verifier le fond : le but les motifs de droit et de fait et l objet de l acte", "C) Verifier si l acte a ete publie", "D) Verifier la competence de l auteur"],
-        "answer": "B",
-        "explanation": "Le controle interne porte sur le fond : but motifs de droit motifs de fait contenu."
-    },
-    {
-        "question": "Qu'est-ce que le pouvoir de tutelle administrative en CI ?",
-        "options": ["A) La supervision des orphelins", "B) Le controle exerce par l'?tat sur les collectivites locales et EPN pour garantir la legalite", "C) La supervision des entreprises ?trangeres", "D) Le controle du Pr?sident sur les ministres"],
-        "answer": "B",
-        "explanation": "La tutelle administrative permet a l'?tat de controler les actes des collectivites locales et EPN."
-    },
-    {
-        "question": "Pi?ge : un fonctionnaire detache peut-il etre discipline par son administration d accueil ET son corps d origine ?",
-        "options": ["A) Non seule l administration d accueil est competente", "B) Non seul le corps d origine l est", "C) Oui : administration d accueil pour fautes liees au poste ; corps d origine pour manquements au statut", "D) Oui les deux peuvent sanctionner pour les memes faits"],
+        "question": "Cas pratique 6 : Le prix du pétrole flambe au niveau mondial de 400%, asphyxiant l'entreprise ROUTE-CI dans l'exécution de son marché public ivoirien. Théorie applicable ?",
+        "options": {"A": "Fait du Prince.", "B": "Force majeure.", "C": "Imprévision (indemnité compensatoire).", "D": "Sujétions imprévues."},
         "answer": "C",
-        "explanation": "La discipline en detachement est partagee selon la nature de la faute."
+        "explanation": "L'imprévision (circonstance extérieure, imprévisible et bouleversant l'économie du contrat) oblige l'Administration à aider son cocontractant."
     },
     {
-        "question": "Qu'est-ce que la responsabilite de l'?tat du fait des lois ?",
-        "options": ["A) L ?tat ne peut jamais etre condamne pour une loi", "B) Une loi ne peut pas engager la responsabilite de l'?tat", "C) L ?tat peut etre condamne si une loi cause un prejudice anormal et special meme si elle est legale", "D) Seul le Parlement est responsable des lois"],
-        "answer": "C",
-        "explanation": "Responsabilite sans faute du legislateur : meme une loi valide peut creer une rupture d egalite devant les charges publiques."
-    },
-    {
-        "question": "Qu'est-ce que le principe de bonne foi dans l administration publique ?",
-        "options": ["A) Les agents doivent etre de confession chretienne", "B) L administration doit agir avec loyaute et sincerite dans ses relations avec les administres", "C) Les contrats administratifs n engagent pas l administration", "D) Les agents doivent croire en leur mission"],
+        "question": "Cas pratique 7 : Une parcelle du domaine maritime à San Pedro est vendue à IMMO-SUD qui y construit depuis 15 ans. L'État veut récupérer le terrain.",
+        "options": {"A": "Prescription acquise pour IMMO-SUD.", "B": "Le domaine public étant inaliénable et imprescriptible, restitution obligatoire.", "C": "Expropriation avec indemnisation.", "D": "Compétence du juge civil."},
         "answer": "B",
-        "explanation": "La bonne foi implique que l administration agit loyalement et respecte les expectatives legitimes creees."
+        "explanation": "L'inaliénabilité et l'imprescriptibilité du domaine public empêchent toute acquisition par prescription en Côte d'Ivoire."
     },
     {
-        "question": "Qu'est-ce que le principe d accessibilite du service public ?",
-        "options": ["A) Le service doit etre gratuit pour tous", "B) Le service doit etre physiquement et financierement accessible a tous les usagers de maniere egale", "C) Le service doit etre disponible 24h/24", "D) Le service doit etre numerique"],
-        "answer": "B",
-        "explanation": "L accessibilite est une expression du principe d egalite : le service public doit etre accessible a tous sans discrimination."
-    },
-    {
-        "question": "Qu'est-ce qu un acte r?glementaire en droit administratif ?",
-        "options": ["A) Un acte individuel visant une personne nommement designee", "B) Un acte a portee generale et impersonnelle qui s applique a tous", "C) Un acte du Parlement", "D) Un acte des collectivites locales uniquement"],
-        "answer": "B",
-        "explanation": "L acte r?glementaire a une portee generale : il s applique a toutes les personnes dans la situation qu il definit."
-    },
-    {
-        "question": "Quelle est la difference entre un acte administratif unilateral et un contrat administratif ?",
-        "options": ["A) Aucune diff?rence", "B) L acte unilateral est impose sans consentement du destinataire ; le contrat implique un accord de volontes entre les parties", "C) Le contrat est superieur a l acte unilateral", "D) L acte unilateral est reserved au Pr?sident"],
-        "answer": "B",
-        "explanation": "L acte unilateral s impose sans accord ; le contrat resulte d un accord de volontes entre personne publique et cocontractant."
-    },
-    {
-        "question": "Qu'est-ce que la prescription quadriennale des creances contre l'?tat ?",
-        "options": ["A) L ?tat doit payer ses dettes en 4 mois", "B) Les creances non reclamees contre l'?tat se prescrivent (s eteignent) apres 4 ans", "C) Les impots non payes se prescrivent apres 4 ans", "D) Les contrats administratifs expirent apres 4 ans"],
-        "answer": "B",
-        "explanation": "La prescription quadriennale (4 ans en droit francais inspire le droit ivoirien) eteint les creances non reclamees contre l'?tat."
-    },
-    {
-        "question": "Qu'est-ce qu un acte administratif declaratif ?",
-        "options": ["A) Un acte qui cree des droits nouveaux", "B) Un acte qui constate l existence d une situation juridique prexistante sans creer de droits nouveaux", "C) Un acte qui punit un administre", "D) Un acte qui nomme un fonctionnaire"],
-        "answer": "B",
-        "explanation": "Un acte declaratif (ex diplome reconnaissance de nationalit?) constate ; il ne cree pas de droits nouveaux contrairement a l acte constitutif."
-    },
-    {
-        "question": "Qu'est-ce que le droit de retrait d un acte administratif ?",
-        "options": ["A) L administre peut retirer son dossier", "B) L administration peut supprimer retroactivement un acte illegal dans un delai limite", "C) L administre peut ignorer un acte avec lequel il n est pas d accord", "D) L annulation par un juge"],
-        "answer": "B",
-        "explanation": "Le droit de retrait permet a l autorite administrative de supprimer retroactivement un acte illegal. Le delai est en general de 4 mois."
-    },
-    {
-        "question": "Qu'est-ce que l abrogation d un acte administratif ?",
-        "options": ["A) L annulation retroactive par un juge", "B) La suppression de l acte pour l avenir seulement sans retroactivite", "C) La modification de l acte", "D) Le remplacement de l acte par un autre"],
-        "answer": "B",
-        "explanation": "L abrogation supprime l acte pour l avenir (ex nunc), contrairement au retrait qui est retroactif (ex tunc)."
-    },
-    {
-        "question": "Pi?ge : retrait et abrogation d un acte administratif ont-ils les memes effets ?",
-        "options": ["A) Oui identiques", "B) Non : retrait = effet retroactif (l acte est cense n avoir jamais existe) ; abrogation = effet seulement pour l avenir", "C) Le retrait est plus favorable a l administre", "D) L abrogation est plus grave que le retrait"],
-        "answer": "B",
-        "explanation": "Retrait = retroactif (ex tunc). Abrogation = pour l avenir (ex nunc)."
-    },
-    {
-        "question": "Qu'est-ce que le principe de la securite des relations juridiques ?",
-        "options": ["A) L ?tat garantit la securite physique des citoyens", "B) Les relations juridiques etablies ne peuvent pas etre remises en cause indefiniment ; il faut des delais de stabilisation", "C) Les contrats ne peuvent pas etre modifies", "D) Les lois ne peuvent pas etre changees"],
-        "answer": "B",
-        "explanation": "La securite juridique exige que les relations et les actes acquierent une certaine stabilite apres expiration des delais de recours."
-    },
-    {
-        "question": "Qu'est-ce que l erreur manifeste d appreciation en droit administratif ?",
-        "options": ["A) Une erreur de calcul dans un acte administratif", "B) Une erreur grossiere dans l appreciation des faits par l administration qui entraine l illegalite de l acte", "C) Une faute professionnelle d un fonctionnaire", "D) Un acte redige avec des erreurs de forme"],
-        "answer": "B",
-        "explanation": "L erreur manifeste d appreciation est un controle restreint du juge : il censure les erreurs grossieres dans l appreciation des faits par l administration."
-    },
-    {
-        "question": "Qu'est-ce que le pouvoir de substitution d action en droit administratif ?",
-        "options": ["A) Remplacer un agent par un autre", "B) Le pouvoir du superieur de se substituer a l autorite inferieure defaillante pour agir a sa place", "C) Le droit de l administre de faire appel", "D) La d?l?gation de signature"],
-        "answer": "B",
-        "explanation": "La substitution d action permet au superieur (ex prefet) d agir a la place d une autorite locale defaillante pour garantir l execution des obligations legales."
-    },
-    {
-        "question": "Qu'est-ce que le principe de la responsabilite pour risque en droit administratif ?",
-        "options": ["A) L ?tat est responsable uniquement si ses agents ont commis une faute", "B) L ?tat est responsable du simple fait de la creation d une situation dangereuse meme sans faute", "C) L ?tat n est jamais responsable pour risque", "D) La responsabilite pour risque n existe qu en droit priv?"],
-        "answer": "B",
-        "explanation": "La responsabilite pour risque engage l'?tat du fait d activites dangereuses (armes explosifs) meme en l absence de faute."
-    },
-    {
-        "question": "Qu'est-ce que la Commission Administrative Paritaire (CAP) dans la fonction publique ivoirienne ?",
-        "options": ["A) Un tribunal pour fonctionnaires", "B) Un organisme consultatif paritaire (autant d elus du personnel que de representants de l administration) consulte sur les decisions individuelles (mutations avancement sanctions)", "C) Un syndicat de fonctionnaires", "D) Une instance de controle budg?taire"],
-        "answer": "B",
-        "explanation": "La CAP est consultee sur les decisions individuelles concernant la carriere des fonctionnaires."
-    },
-    {
-        "question": "Qu'est-ce que le droit disciplinaire dans la fonction publique ?",
-        "options": ["A) Le droit du fonctionnaire de refuser des sanctions", "B) L ensemble des regles relatives aux sanctions pouvant etre infligees a un fonctionnaire qui a manque a ses obligations professionnelles", "C) Le droit de retraite des fonctionnaires", "D) Le droit de greve des fonctionnaires"],
-        "answer": "B",
-        "explanation": "Le droit disciplinaire fixe les fautes professionnelles et les sanctions applicables (avertissement bleme suspension revocation)."
-    },
-    {
-        "question": "Pi?ge : un fonctionnaire condamne penalement peut-il etre aussi sanctionne disciplinairement pour les memes faits ?",
-        "options": ["A) Non le principe non bis in idem l interdit", "B) Oui les deux procedures sont independantes", "C) Non il faut choisir l une ou l autre", "D) Oui mais uniquement si la peine est superieure a 6 mois"],
-        "answer": "B",
-        "explanation": "Les procedures penale et disciplinaire sont independantes. Un meme fait peut donner lieu a une sanction penale et a une sanction disciplinaire."
-    },
-    {
-        "question": "Qu'est-ce que l avancement a l anciennete dans la fonction publique ivoirienne ?",
-        "options": ["A) La promotion automatique basee uniquement sur la duree de service", "B) L avancement qui tient compte du temps de service et parfois des notes mais sans selection rigoureuse", "C) La promotion uniquement au merite", "D) L avancement accorde par le Parlement"],
-        "answer": "B",
-        "explanation": "L avancement a l anciennete (increments) est automatique ou semi-automatique en fonction du temps de service."
-    },
-    {
-        "question": "Qu'est-ce que l avancement au choix (ou au merite) dans la fonction publique ivoirienne ?",
-        "options": ["A) L avancement automatique annuel", "B) L avancement decide par l administration apres evaluation des performances et choix parmi les agents eligibles", "C) L avancement par concours interne", "D) L avancement accorde au plus anciens"],
-        "answer": "B",
-        "explanation": "L avancement au choix est decide par l administration parmi les agents eligibles en tenant compte de leurs merites et de leurs notes."
-    },
-    {
-        "question": "Qu'est-ce que la mise en non-activite d un fonctionnaire ivoirien ?",
-        "options": ["A) Le conge annuel", "B) La position administrative ou le fonctionnaire est suspendu temporairement de ses fonctions en attendant une decision (ex enquete disciplinaire)", "C) La retraite", "D) Le detachement"],
-        "answer": "B",
-        "explanation": "La mise en non-activite est une suspension temporaire des fonctions dans l attente d une decision disciplinaire ou judiciaire."
-    },
-    {
-        "question": "Pi?ge : un fonctionnaire suspendu pendant une enquete disciplinaire a-t-il droit a son salaire ?",
-        "options": ["A) Non il perd tout droit a remuneration", "B) Oui il conserve sa remuneration pendant la periode de suspension dans l attente de la decision", "C) Il recoit 50% de son salaire", "D) Cela depend de la gravite des faits"],
-        "answer": "B",
-        "explanation": "Pendant la suspension provisoire en attente de decision disciplinaire le fonctionnaire conserve generalement sa remuneration."
-    },
-    {
-        "question": "Qu'est-ce que le principe d impartialite de l administration ?",
-        "options": ["A) L administration n a aucune opinion", "B) L administration traite toutes les situations similaires de la meme maniere sans favoritisme ni discrimination", "C) L administration ne peut pas donner d avis", "D) L administration doit toujours donner raison au citoyen"],
-        "answer": "B",
-        "explanation": "L impartialite garantit l absence de favoritisme : les agents de l administration ne peuvent pas avantager ou penaliser arbitrairement les administres."
-    },
-    {
-        "question": "Qu'est-ce que la notion de service public en reseau ?",
-        "options": ["A) Un service gere via internet", "B) Un service public organise en infrastructure nationale (eau electricite transport rail) qui necessite des investissements lourds et un acces universel", "C) Un service public gerant les reseaux sociaux", "D) Un service prive de telecommunications"],
-        "answer": "B",
-        "explanation": "Les services en reseau (eau electricite routes ferrees) sont des services publics a acces universel necessitant des infrastructures nationales."
-    },
-    {
-        "question": "Qu'est-ce que le pouvoir de police administrative ?",
-        "options": ["A) Le pouvoir de la police judiciaire de poursuivre les criminels", "B) Le pouvoir des autorites administratives de restreindre les libert?s individuelles pour maintenir l ordre public", "C) Le pouvoir du Parlement de voter des lois securitaires", "D) Le pouvoir des communes de creer des services de securite"],
-        "answer": "B",
-        "explanation": "La police administrative permet a l administration de prevenir les troubles a l ordre public en imposant des restrictions aux libert?s."
-    },
-    {
-        "question": "Quels sont les trois elements de l ordre public en police administrative ?",
-        "options": ["A) Surete tranquillite salubrité", "B) Surete securite efficacite", "C) Egalite liberte fraternite", "D) Ordre paix justice"],
+        "question": "Cas pratique 8 : Le Maire de Bouaké vend une rue publique à un promoteur sans acte de déclassement préalable.",
+        "options": {"A": "La vente est nulle de plein droit.", "B": "La vente est valable.", "C": "La vente est régularisable.", "D": "Seul le préfet peut annuler."},
         "answer": "A",
-        "explanation": "L ordre public en police administrative comprend la surete (securite des personnes et biens) la tranquillite (absence de troubles) et la salubrite (hygiene publique)."
+        "explanation": "Sans désaffectation de fait et déclassement de droit, un bien du domaine public ne peut être cédé (nullité absolue)."
     },
     {
-        "question": "Pi?ge : la police administrative peut-elle etre exercee par une personne privee ?",
-        "options": ["A) Non, c'est une prerogative de puissance publique", "B) Oui dans le cadre de la delegation de service public", "C) Oui toujours", "D) Non meme en cas de delegation"],
-        "answer": "A",
-        "explanation": "La police administrative est une prerogative de puissance publique et ne se delegate pas a une personne privee."
-    },
-    {
-        "question": "Qu'est-ce que le domaine public en droit administratif ivoirien ?",
-        "options": ["A) L ensemble des biens prives de l'?tat", "B) L ensemble des biens affectes a l usage direct du public ou a un service public et soumis a un r?gime de protection special", "C) Les terres agricoles de l'?tat", "D) Les immeubles des minist?res uniquement"],
-        "answer": "B",
-        "explanation": "Le domaine public est insaisissable inalienable et imprescriptible. Il comprend les routes les ponts les cours d eau navigables etc."
-    },
-    {
-        "question": "Pi?ge : l'?tat peut-il vendre un bien du domaine public ivoirien ?",
-        "options": ["A) Oui librement", "B) Non le domaine public est inalienable ; il faut d abord le desaffecter du domaine public pour le vendre", "C) Oui avec l accord du Parlement", "D) Oui mais uniquement a une personne publique"],
-        "answer": "B",
-        "explanation": "L inalienabilite du domaine public interdit sa vente directe. La desaffectation prealable est obligatoire avant toute cession."
-    },
-    {
-        "question": "Qu'est-ce que le droit de preemption de l'?tat en CI ?",
-        "options": ["A) Le droit de l'?tat d acheter en priorite certains biens mis en vente", "B) Le droit de l'?tat de prendre les biens sans indemnisation", "C) Le droit de l'?tat de louer des proprietes privees", "D) Le droit de l'?tat de reclamer des impots en priorite"],
-        "answer": "A",
-        "explanation": "Le droit de preemption permet a l'?tat d acquerir en priorite certains biens mis en vente notamment dans le cadre de l amenagement du territoire."
-    },
-    {
-        "question": "Qu'est-ce que l expropriation pour cause d utilite publique ?",
-        "options": ["A) La confiscation des biens des criminels", "B) La procedure permettant a l'?tat de prendre propriete d un bien prive contre une indemnisation juste et prealable pour un projet d interet general", "C) La saisie des biens en cas de dettes fiscales", "D) La nationalisation d une entreprise"],
-        "answer": "B",
-        "explanation": "L expropriation est encadree : elle necessite une utilite publique reconnue une procedure legale et une indemnisation juste et prealable."
-    },
-    {
-        "question": "Pi?ge : l expropriation sans indemnisation est-elle possible en CI ?",
-        "options": ["A) Oui en cas d urgence nationale", "B) Non elle est inconstitutionnelle : l indemnisation juste et prealable est une garantie constitutionnelle", "C) Oui avec l accord du Conseil constitutionnel", "D) Oui uniquement pour les ?trangers"],
-        "answer": "B",
-        "explanation": "La Constitution garantit le droit de propriete. L expropriation n est possible qu avec une juste et prealable indemnisation."
-    },
-    {
-        "question": "Qu'est-ce que le principe de continuite de l activite administrative ?",
-        "options": ["A) L administration ne ferme jamais", "B) Les services administratifs essentiels doivent fonctionner de maniere continue sans interruption injustifiee", "C) Les fonctionnaires travaillent 24h/24", "D) Les lois ne peuvent pas suspendre les services"],
-        "answer": "B",
-        "explanation": "La continuite administrative garantit que les services publics essentiels (sante securite eau) ne s interrompent pas meme lors de greves."
-    },
-    {
-        "question": "Qu'est-ce que le recours de plein contentieux (ou recours de pleine juridiction) ?",
-        "options": ["A) Un recours qui ne peut annuler un acte", "B) Un recours ou le juge peut annuler reformer ou condamner l administration a payer des dommages et interets", "C) Un recours reserve aux ?trangers", "D) Un recours devant le Conseil constitutionnel"],
-        "answer": "B",
-        "explanation": "Le recours de plein contentieux va au-dela de la simple annulation : le juge peut reformer l acte et accorder des dommages et interets."
-    },
-    {
-        "question": "Qu'est-ce qu un arrete ministeriel ?",
-        "options": ["A) Un arrete pris par le Premier ministre", "B) Un acte r?glementaire ou individuel pris par un ministre dans le cadre de ses attributions", "C) Une loi adoptee par le Parlement", "D) Un decret pr?sidentiel"],
-        "answer": "B",
-        "explanation": "L arrete ministeriel est un acte de l executif pris par un ministre. Il a une portee inferieure aux decrets."
-    },
-    {
-        "question": "Qu'est-ce que la hi?rarchie des actes administratifs en CI ?",
-        "options": ["A) Les decrets > les arretes ministeriels > les arretes prefectoraux > les arretes municipaux", "B) Les arretes municipaux > les arretes prefectoraux", "C) Les arretes ministeriels > les decrets", "D) Tous les actes administratifs ont la meme valeur"],
-        "answer": "A",
-        "explanation": "La hi?rarchie : decrets presidetiels > decrets en conseil des ministres > arretes ministeriels > arretes prefectoraux > arretes municipaux."
-    },
-    {
-        "question": "Qu'est-ce que la competence liee de l administration ?",
-        "options": ["A) L administration a une totale liberte de choix", "B) L administration n a pas de liberte de choix : la loi definit precisement ce qu elle doit faire et comment", "C) La competence exclusive d un minist?re", "D) La competence partagee entre deux autorites"],
-        "answer": "B",
-        "explanation": "La competence liee s oppose au pouvoir discrecionnaire : l administration doit agir d une certaine maniere sans avoir le choix."
-    },
-    {
-        "question": "Pi?ge : l administration peut-elle abroger un r?glement en vigueur a tout moment ?",
-        "options": ["A) Non elle doit maintenir les r?glements en vigueur indefiniment", "B) Oui l administration peut abroger ses propres r?glements a tout moment sauf si l abrogation porte atteinte aux droits acquis", "C) Oui mais uniquement avec l accord du Parlement", "D) Non seul le juge peut abroger un r?glement"],
-        "answer": "B",
-        "explanation": "L administration a le droit et parfois l obligation d abroger ses r?glements illegaux. Cependant l abrogation ne peut pas porter atteinte a des droits acquis legitimes."
-    },
-    {
-        "question": "Qu'est-ce que le principe de la hi?rarchie administrative ?",
-        "options": ["A) Les fonctionnaires sont ordonnes par salaire", "B) Le superieur hierarchique peut donner des instructions a ses subordonnes et exercer sur eux un pouvoir de controle et de sanction", "C) Tous les agents ont la meme autorite", "D) Le plus ancien commande toujours"],
-        "answer": "B",
-        "explanation": "La hi?rarchie administrative implique que le superieur peut donner des instructions des ordres et exercer un pouvoir disciplinaire sur ses subordonnes."
-    },
-    {
-        "question": "Qu'est-ce qu une autorite administrative independante (AAI) ?",
-        "options": ["A) Un tribunal administratif", "B) Une structure administrative dotee d une independance vis-a-vis du gouvernement creee pour reguler des secteurs sensibles", "C) Un minist?re autonome", "D) Une collectivit? territoriale"],
-        "answer": "B",
-        "explanation": "Les AAI (ex ARTCI HACA CMI) sont des structures administratives independantes du gouvernement chargees de reguler des secteurs qui necessitent une neutralite politique."
-    },
-    {
-        "question": "Qu'est-ce que la HACA en CI ?",
-        "options": ["A) Haute Autorite des Collectivites Administratives", "B) Haute Autorite de la Communication Audiovisuelle : autorite qui regule les medias audiovisuels en CI", "C) Haute Assemblee des Citoyens Africains", "D) Haute Administration des Charges et Achats"],
-        "answer": "B",
-        "explanation": "La HACA est l autorite administrative independante chargee de reguler la communication audiovisuelle (television radio) en C?te d'Ivoire."
-    },
-    {
-        "question": "Pi?ge : les AAI (autorites administratives independantes) font-elles partie de l'?tat ?",
-        "options": ["A) Non elles sont totalement independantes", "B) Oui elles font partie de l'?tat mais disposent d une independance organique et fonctionnelle vis-a-vis du gouvernement", "C) Non elles sont des organismes prives", "D) Oui elles sont sous l autorite directe du Pr?sident"],
-        "answer": "B",
-        "explanation": "Les AAI font partie de l'?tat mais avec une independance institutionnelle garantissant leur neutralite par rapport au gouvernement du jour."
-    },
-    {
-        "question": "Qu'est-ce que le contentieux de la responsabilite administrative ?",
-        "options": ["A) La responsabilite penale des fonctionnaires", "B) Le litige devant le juge administratif tendant a obtenir la reparation d un dommage cause par une personne publique", "C) Le contentieux fiscal entre l'?tat et les entreprises", "D) Les litiges entre fonctionnaires"],
-        "answer": "B",
-        "explanation": "Le contentieux de la responsabilite administrative permet aux victimes d actes ou de comportements fautifs de l administration d obtenir une indemnisation."
-    },
-    {
-        "question": "Qu'est-ce que la rupture d egalite devant les charges publiques ?",
-        "options": ["A) Une inegalite de traitement entre fonctionnaires", "B) Le fait qu une decision ou une action de l administration fait supporter a un particulier un prejudice anormal et special que les autres citoyens ne supportent pas", "C) Une inegalite fiscale", "D) Une discrimination a l embauche dans la fonction publique"],
-        "answer": "B",
-        "explanation": "La rupture d egalite fonde la responsabilite sans faute : si l action de l'?tat cree un prejudice anormal et special l'?tat doit indemniser meme sans avoir commis de faute."
-    },
-    {
-        "question": "Qu'est-ce que le recours indemnitaire en droit administratif ?",
-        "options": ["A) Un recours pour annuler un acte", "B) Un recours tendant a obtenir une compensation financiere pour un prejudice subi du fait de l administration", "C) Un recours pour obtenir un logement social", "D) Un recours contre les impots"],
-        "answer": "B",
-        "explanation": "Le recours indemnitaire (ou de plein contentieux) permet d obtenir la condamnation de l administration a payer des dommages et interets."
-    },
-    {
-        "question": "Qu'est-ce que la mise en demeure de l administration ?",
-        "options": ["A) Une sanction administrative", "B) Un acte par lequel l administre ou le juge somme l administration d executer ses obligations dans un delai determine", "C) Une convocation disciplinaire", "D) Un ordre de paiement"],
-        "answer": "B",
-        "explanation": "La mise en demeure invite l administration a remplir ses obligations. Si elle ne s execute pas le juge peut prononcer des astreintes."
-    },
-    {
-        "question": "Qu'est-ce que l astreinte en droit administratif ?",
-        "options": ["A) Une peine privative de liberte pour un fonctionnaire", "B) Une sanction financiere prononcee par le juge pour contraindre l administration a executer une decision de justice", "C) Une amende fiscale", "D) Une retenue sur salaire"],
-        "answer": "B",
-        "explanation": "L astreinte est une condamnation financiere par jour de retard : elle vise a contraindre l administration a executer les decisions de justice."
-    },
-    {
-        "question": "Pi?ge : le juge administratif peut-il adresser des injonctions a l administration en CI ?",
-        "options": ["A) Non le juge ne peut qu annuler les actes", "B) Oui depuis les reformes recentes le juge administratif peut adresser des injonctions et prononcer des astreintes pour assurer l execution de ses decisions", "C) Non le juge administratif n a aucun pouvoir d execution", "D) Oui mais uniquement en matiere financiere"],
-        "answer": "B",
-        "explanation": "Les reformes du droit administratif modeme reconnaissent au juge le pouvoir d injonction et d astreinte pour faire executer ses decisions."
-    },
-    {
-        "question": "Qu'est-ce que le principe de publicite des actes administratifs ?",
-        "options": ["A) Tous les actes doivent passer a la television", "B) Pour etre opposables les actes administratifs doivent etre portes a la connaissance de leurs destinataires par publication ou notification", "C) Les actes administratifs sont confidentiels", "D) Seuls les decrets pr?sidentiels doivent etre publies"],
-        "answer": "B",
-        "explanation": "La publicite des actes administratifs est une condition de leur opposabilite : les r?glements doivent etre publies les actes individuels notifies."
-    },
-    {
-        "question": "Qu'est-ce que le principe du service minimum en cas de greve dans les services publics essentiels ?",
-        "options": ["A) Les greves sont interdites dans les services publics", "B) En cas de greve dans les services essentiels (hopitaux transports) un service minimum doit etre maintenu pour proteger la continuite", "C) Les fonctionnaires greves doivent assurer 100% du service", "D) Le service minimum n existe pas en CI"],
-        "answer": "B",
-        "explanation": "Le service minimum concilie le droit de greve et la continuite des services essentiels. Des agents doivent maintenir un service de base."
-    },
-    {
-        "question": "Qu'est-ce que le principe de l autorite de la chose jugee en droit administratif ?",
-        "options": ["A) Un acte administratif ne peut jamais etre modifie", "B) Une decision de justice devient definitive et lie les parties une fois les voies de recours epuisees", "C) L administration doit obeir aux jugements uniquement si elle le souhaite", "D) Seul le Conseil constitutionnel peut rendre des decisions definitives"],
-        "answer": "B",
-        "explanation": "L autorite de la chose jugee signifie qu une decision definitive s impose a tous y compris a l administration."
-    },
-    {
-        "question": "Qu'est-ce que le pouvoir réglementaire autonome en CI ?",
-        "options": ["A) Le pouvoir du Parlement de prendre des règlements", "B) Le pouvoir du Président et du gouvernement de prendre des règlements dans des matières non réservées à la loi", "C) Le pouvoir des communes de voter leurs propres lois", "D) Le pouvoir du Conseil constitutionnel de réguler les lois"],
-        "answer": "B",
-        "explanation": "Le pouvoir réglementaire autonome permet à l'exécutif de régler les matières qui ne sont pas du domaine de la loi défini par la Constitution."
-    },
-    {
-        "question": "Qu'est-ce que le droit de retrait d'un acte administratif créateur de droits ?",
-        "options": ["A) Il peut être retiré à tout moment", "B) Il ne peut être retiré que dans un délai de 4 mois s'il est illégal, pour ne pas priver injustement un administré de ses droits acquis", "C) Il ne peut jamais être retiré", "D) Seul le juge peut l'annuler"],
-        "answer": "B",
-        "explanation": "Un acte créateur de droits illégal peut être retiré dans un délai de 4 mois (principe de sécurité juridique vs légalité)."
-    },
-    {
-        "question": "Quelle est la différence entre un marché public et une concession de service public ?",
-        "options": ["A) Aucune différence", "B) Dans un marché public l'administration paye le prestataire ; dans la concession le concessionnaire se rémunère sur les usagers", "C) La concession est réservée aux collectivités locales", "D) Le marché public implique un transfert de risque"],
-        "answer": "B",
-        "explanation": "Marché public : rémunération par l'administration. Concession : rémunération par les usagers + transfert du risque d'exploitation."
-    },
-    {
-        "question": "Qu'est-ce que la faute de service en droit administratif ?",
-        "options": ["A) Une faute personnelle du fonctionnaire", "B) Une faute commise dans l'exercice de la mission de service public, engageant la responsabilité de l'administration", "C) Un manquement disciplinaire", "D) Une infraction pénale"],
-        "answer": "B",
-        "explanation": "La faute de service (impersonnelle) engage la responsabilité de l'État ; la faute personnelle engage celle du fonctionnaire."
-    },
-    {
-        "question": "Qu'est-ce que le principe de mutabilité du service public ?",
-        "options": ["A) Le service public peut être supprimé à tout moment", "B) Le service public doit s'adapter à l'évolution des besoins collectifs", "C) Le service public ne peut jamais être modifié", "D) Le service public est immuable dans ses tarifs"],
-        "answer": "B",
-        "explanation": "La mutabilité (adaptabilité) oblige le service public à évoluer en fonction des besoins de la société."
-    },
-    {
-        "question": "Qu'est-ce qu'un arrêté préfectoral ?",
-        "options": ["A) Un acte du Président de la République", "B) Un acte réglementaire ou individuel pris par un préfet dans le cadre de ses attributions territoriales", "C) Une loi locale", "D) Un acte du gouvernement central"],
-        "answer": "B",
-        "explanation": "L'arrêté préfectoral est un acte administratif unilatéral du préfet, applicable dans son département."
-    },
-    {
-        "question": "Quelle est la condition de l'urgence dans le recours en référé administratif ?",
-        "options": ["A) Il suffit que l'administré le demande", "B) Il faut que le délai ordinaire mette en péril un intérêt légitime de façon grave et immédiate", "C) Il n'y a pas de condition d'urgence", "D) L'urgence doit être déclarée par le gouvernement"],
-        "answer": "B",
-        "explanation": "Le référé-suspension (art. L.521-1 CJA) exige une urgence et un doute sérieux sur la légalité de l'acte."
-    },
-    {
-        "question": "Qu'est-ce que la clause exorbitante de droit commun dans les contrats administratifs ?",
-        "options": ["A) Une clause habituelle dans tous les contrats", "B) Une clause qui ne pourrait exister dans un contrat de droit privé et qui traduit le caractère inégalitaire du contrat administratif", "C) Une clause pénale", "D) Une clause secrète"],
-        "answer": "B",
-        "explanation": "Les clauses exorbitantes (ex. : pouvoir de modification unilatérale, résiliation pour motif d'intérêt général) marquent les contrats administratifs."
-    },
-    {
-        "question": "Qu'est-ce que la prescription quadriennale des créances sur l'État en droit ivoirien ?",
-        "options": ["A) L'État peut s'endetter pendant 4 ans sans limite", "B) Les créances non réclamées contre l'État s'éteignent après 4 ans", "C) Les impôts se prescrivent en 4 ans", "D) Les contrats administratifs expirent après 4 ans"],
-        "answer": "B",
-        "explanation": "La prescription quadriennale (inspirée du droit français) éteint les créances sur l'État non réclamées dans les 4 ans."
-    },
-    {
-        "question": "Quelle est la différence entre déconcentration et délégation de compétence ?",
-        "options": ["A) Ce sont des synonymes", "B) La déconcentration est un déplacement interne de compétences au sein de l'État ; la délégation est un transfert de pouvoirs d'une autorité à une autre", "C) La délégation concerne uniquement les collectivités", "D) La déconcentration supprime les intermédiaires"],
-        "answer": "B",
-        "explanation": "Déconcentration = mouvement interne de l'État (préfets). Délégation = transfert de compétences d'une autorité à une autre."
-    },
-    {
-        "question": "Qu'est-ce que l'acte de gouvernement en droit administratif ?",
-        "options": ["A) Tout acte pris par le gouvernement", "B) Un acte relatif aux relations entre les pouvoirs publics ou avec des États étrangers, insusceptible de recours juridictionnel", "C) Un acte législatif", "D) Un acte pris par décret"],
-        "answer": "B",
-        "explanation": "Les actes de gouvernement (diplomatie, grâce, dissolution) échappent au contrôle du juge administratif."
-    },
-    {
-        "question": "Qu'est-ce que le pouvoir de suspension d'un acte administratif par le préfet ?",
-        "options": ["A) Le préfet peut annuler tout acte local", "B) Le préfet peut demander au tribunal de suspendre un acte local illégal", "C) Le préfet peut abroger un acte local", "D) Le préfet peut modifier les actes locaux"],
-        "answer": "B",
-        "explanation": "En droit ivoirien, le représentant de l'État peut saisir le juge pour suspendre des actes des collectivités illégaux."
-    },
-    {
-        "question": "Quel est le délai de recours pour excès de pouvoir devant le juge administratif en CI ?",
-        "options": ["A) 10 jours", "B) 2 mois à compter de la publication ou notification de l'acte", "C) 1 an", "D) 6 mois"],
-        "answer": "B",
-        "explanation": "Le délai de recours pour excès de pouvoir est généralement de 2 mois en droit administratif ivoirien."
-    },
-    {
-        "question": "Qu'est-ce que le principe d'égalité des usagers devant le service public ?",
-        "options": ["A) Tous les usagers paient le même prix", "B) Les usagers dans une situation identique doivent recevoir le même traitement", "C) Les étrangers sont exclus du service public", "D) Les fonctionnaires ont accès prioritaire"],
-        "answer": "B",
-        "explanation": "L'égalité devant le service public interdit les discriminations entre usagers se trouvant dans une situation comparable."
-    },
-    {
-        "question": "Qu'est-ce qu'un établissement public industriel et commercial (EPIC) ?",
-        "options": ["A) Une entreprise privée", "B) Un établissement public gérant une activité à caractère industriel ou commercial, soumis principalement au droit privé pour ses rapports commerciaux", "C) Une collectivité territoriale", "D) Un service déconcentré"],
-        "answer": "B",
-        "explanation": "Un EPIC (ex : SODEXAM, CIE en CI) est une personne publique dont les activités relèvent principalement du droit privé."
-    },
-    {
-        "question": "Qu'est-ce que l'obligation de motivation des actes administratifs en CI ?",
-        "options": ["A) Tout acte doit obligatoirement être motivé", "B) Certains actes défavorables doivent être motivés (rejet de demande, sanction) pour permettre à l'administré de comprendre et contester la décision", "C) La motivation est facultative", "D) Seuls les actes réglementaires sont motivés"],
-        "answer": "B",
-        "explanation": "L'obligation de motivation s'applique notamment aux actes individuels défavorables, garantissant les droits de la défense."
-    },
-    {
-        "question": "Qu'est-ce que la personnalité juridique d'une collectivité territoriale ?",
-        "options": ["A) Elle n'a pas de personnalité juridique", "B) Elle lui permet d'avoir des droits et des obligations propres, d'agir en justice et de contracter", "C) Elle lui permet de voter des lois", "D) Elle est identique à la personnalité de l'État"],
-        "answer": "B",
-        "explanation": "La personnalité juridique donne à la collectivité la capacité de contracter, d'ester en justice et d'avoir un budget propre."
-    },
-    {
-        "question": "Qu'est-ce que le principe de proportionnalité dans les mesures de police administrative ?",
-        "options": ["A) La police peut prendre toutes mesures nécessaires", "B) Les restrictions apportées aux libertés doivent être strictement nécessaires et proportionnées à l'objectif d'ordre public poursuivi", "C) La proportionnalité s'applique uniquement en droit pénal", "D) Les mesures de police sont toujours définitives"],
-        "answer": "B",
-        "explanation": "Toute restriction à la liberté par la police administrative doit être proportionnée au risque : ni trop, ni trop peu."
-    },
-    {
-        "question": "Qu'est-ce que la compétence liée de l'administration ?",
-        "options": ["A) L'administration peut agir librement", "B) La loi détermine exactement comment l'administration doit agir : elle n'a aucune liberté de choix", "C) L'administration est compétente dans tous les domaines", "D) La compétence est déléguée à un tiers"],
-        "answer": "B",
-        "explanation": "En compétence liée, l'administration est obligée d'agir d'une manière précise définie par la loi, sans pouvoir discrétionnaire."
-    },
-    {
-        "question": "Qu'est-ce que la théorie de l'imprévision dans les contrats administratifs ?",
-        "options": ["A) Le cocontractant peut refuser d'exécuter le contrat", "B) Lorsqu'un événement imprévisible bouleverse l'économie du contrat, le cocontractant peut obtenir une indemnité partielle tout en continuant à exécuter le contrat", "C) L'administration peut modifier le contrat à tout moment", "D) Le contrat est automatiquement résilié en cas d'imprévision"],
-        "answer": "B",
-        "explanation": "La théorie de l'imprévision (arrêt Gaz de Bordeaux, 1916) permet d'indemniser partiellement le cocontractant sans résilier le contrat."
-    },
-    {
-        "question": "Qu'est-ce que le contrôle de légalité interne d'un acte administratif ?",
-        "options": ["A) Vérifier la signature de l'acte", "B) Vérifier le fond de l'acte : le but, les motifs de droit, les motifs de fait et le contenu", "C) Vérifier la publication de l'acte", "D) Vérifier la compétence de l'auteur"],
-        "answer": "B",
-        "explanation": "Le contrôle interne porte sur le fond : le but poursuivi, la base légale, les faits et le contenu de la décision."
-    },
-    {
-        "question": "Qu'est-ce que la responsabilité de l'État du fait des lois ?",
-        "options": ["A) L'État n'est jamais responsable des lois qu'il édicte", "B) L'État peut être tenu responsable si une loi, bien que légale, cause un préjudice anormal et spécial à un administré, rompant l'égalité devant les charges publiques", "C) Seul le Parlement est responsable des lois", "D) La responsabilité législative est couverte par l'immunité parlementaire"],
-        "answer": "B",
-        "explanation": "Même une loi valide peut engager la responsabilité sans faute de l'État si elle crée un préjudice anormal et spécial."
-    },
-    {
-        "question": "Qu'est-ce que le principe de légalité criminelle en droit administratif répressif ?",
-        "options": ["A) L'administration peut sanctionner librement", "B) Les sanctions administratives doivent être prévues par un texte, proportionnées et respecter les droits de la défense", "C) Seul le juge pénal peut infliger des sanctions", "D) Il n'y a pas de sanctions administratives"],
-        "answer": "B",
-        "explanation": "Le principe de légalité s'applique aussi aux sanctions administratives : texte préalable, proportionnalité, droits de la défense."
-    },
-    {
-        "question": "Qu'est-ce que le juge des référés administratifs ?",
-        "options": ["A) Un juge pénal d'urgence", "B) Un juge administratif qui peut prononcer des mesures provisoires urgentes sans attendre un jugement au fond", "C) Un arbitre entre l'État et les entreprises", "D) Un juge spécialisé dans les collectivités locales"],
-        "answer": "B",
-        "explanation": "Le juge des référés administratifs peut suspendre un acte, ordonner des mesures conservatoires ou de sauvegarde en urgence."
-    },
-    {
-        "question": "Qu'est-ce que le droit à un recours effectif en droit administratif ivoirien ?",
-        "options": ["A) Tout citoyen peut saisir n'importe quelle juridiction", "B) Toute personne lésée par un acte administratif a le droit de soumettre sa contestation à un juge et d'obtenir une décision", "C) Seuls les nationaux ivoiriens ont ce droit", "D) Ce droit n'existe pas en droit ivoirien"],
-        "answer": "B",
-        "explanation": "Le droit à un recours effectif est garanti par la Constitution et les traités internationaux ratifiés par la CI."
-    },
-    {
-        "question": "Qu'est-ce que la notion d'ordre public en police administrative ?",
-        "options": ["A) L'ordre militaire", "B) L'ensemble des impératifs de sécurité, de tranquillité et de salubrité publiques que l'autorité administrative est chargée de maintenir", "C) L'ordre économique", "D) L'ordre parlementaire"],
-        "answer": "B",
-        "explanation": "L'ordre public comprend la sécurité des personnes et des biens, la tranquillité publique et la salubrité."
-    },
-    {
-        "question": "Qu'est-ce que l'interprétation administrative (circulaire interprétative) en CI ?",
-        "options": ["A) Une loi issue de l'administration", "B) Un document interne qui guide les agents dans l'application d'un texte, sans créer de droits pour les administrés", "C) Un décret d'application", "D) Un arrêté ministériel"],
-        "answer": "B",
-        "explanation": "Les circulaires interprétatives orientent l'action des agents mais ne lient pas les administrés ni les juges."
-    },
-    {
-        "question": "Qu'est-ce que le droit au logement opposable (DALO) dans sa conception théorique ?",
-        "options": ["A) Le droit pour tout citoyen d'occuper n'importe quel logement vide", "B) Le droit pour certaines personnes défavorisées d'obtenir un logement décent et indépendant grâce à l'obligation faite à l'État", "C) Un droit sans mécanisme d'application", "D) Un droit réservé aux fonctionnaires"],
-        "answer": "B",
-        "explanation": "Le DALO rend opposable le droit au logement : les personnes sans abri peuvent saisir une commission pour être relogées."
-    },
-    {
-        "question": "Qu'est-ce que la décision d'espèce (acte individuel non décisoire) ?",
-        "options": ["A) Une décision applicable à tout le monde", "B) Une mesure qui ne crée pas de droits nouveaux et ne modifie pas l'ordonnancement juridique (ex. : avis, vœu, recommandation)", "C) Un acte de gouvernement", "D) Un acte réglementaire"],
-        "answer": "B",
-        "explanation": "Les mesures d'ordre intérieur et les actes préparatoires ne sont pas des décisions administratives attaquables."
-    },
-    {
-        "question": "Qu'est-ce que le recours en cassation devant la Cour Suprême en CI ?",
-        "options": ["A) Un nouveau jugement sur les faits", "B) Un contrôle de la régularité juridique d'une décision sans réexamen des faits", "C) Un appel de la décision de première instance", "D) Un recours réservé à l'État"],
-        "answer": "B",
-        "explanation": "La cassation vérifie que la loi a été correctement appliquée. Elle ne juge pas les faits à nouveau."
-    },
-    {
-        "question": "Qu'est-ce que l'exécution forcée en droit administratif ivoirien ?",
-        "options": ["A) L'administration peut toujours exécuter ses décisions par la force", "B) L'administration peut recourir à la contrainte physique uniquement en cas d'urgence ou de texte l'autorisant expressément", "C) L'exécution forcée est interdite en droit ivoirien", "D) Seul le juge peut ordonner l'exécution forcée"],
-        "answer": "B",
-        "explanation": "Le recours à la force physique par l'administration (voie de fait) est exceptionnel et encadré en droit administratif."
-    },
-    {
-        "question": "Qu'est-ce que la notion d'administration active en droit administratif ?",
-        "options": ["A) L'administration qui contrôle les autres administrations", "B) L'administration qui agit, prend des décisions et exécute les politiques publiques (gouvernement, préfets, maires)", "C) L'administration consultative", "D) L'administration juridictionnelle"],
-        "answer": "B",
-        "explanation": "L'administration active est l'ensemble des organes qui prennent des décisions exécutoires : gouvernement, préfets, maires, etc."
-    },
-    {
-        "question": "Quel est le principe d'interdiction de la voie de fait en droit administratif ?",
-        "options": ["A) L'administration peut toujours agir par la force", "B) L'administration ne peut pas porter atteinte à la liberté individuelle ou à la propriété privée de manière manifestement illégale sans texte l'y autorisant", "C) La voie de fait est autorisée en cas d'urgence", "D) Ce principe n'existe pas en CI"],
-        "answer": "B",
-        "explanation": "La voie de fait est une atteinte grave et illégale aux libertés fondamentales par l'administration, qui échappe au juge administratif et relève du juge judiciaire."
-    },
-    {
-        "question": "Qu'est-ce que la notion de bloc de compétence en droit administratif ?",
-        "options": ["A) Toutes les affaires vont au même juge", "B) Certains litiges sont attribués globalement à un ordre de juridiction (administratif ou judiciaire) pour éviter les conflits de compétence", "C) Les compétences sont réparties aléatoirement", "D) Le bloc de compétence concerne uniquement le droit pénal"],
-        "answer": "B",
-        "explanation": "Le bloc de compétence concentre les litiges d'un même domaine devant un seul juge pour des raisons de cohérence et d'efficacité."
-    },
-    {
-        "question": "Qu'est-ce que le recours pour excès de pouvoir (REP) en droit administratif ivoirien ?",
-        "options": ["A) Un recours pour obtenir des dommages et intérêts", "B) Un recours tendant à l'annulation d'un acte administratif illégal, ouvert à tout intéressé", "C) Un recours réservé aux fonctionnaires", "D) Un recours devant la Cour constitutionnelle"],
-        "answer": "B",
-        "explanation": "Le REP est le recours contentieux administratif le plus important : il vise à l'annulation des actes illégaux de l'administration."
-    },
-    {
-        "question": "Quelle est la différence entre une autorité administrative indépendante (AAI) et un établissement public (EP) ?",
-        "options": ["A) Aucune différence", "B) Une AAI bénéficie d'une indépendance vis-à-vis du gouvernement pour ses missions de régulation ; un EP est soumis à la tutelle de l'État", "C) Un EP est indépendant, une AAI dépend du gouvernement", "D) Les AAI ont plus de personnel"],
-        "answer": "B",
-        "explanation": "L'indépendance organisationnelle de l'AAI vis-à-vis du pouvoir exécutif est ce qui la distingue d'un établissement public classique."
-    },
-    {
-        "question": "Qu'est-ce que le principe de précaution en droit administratif français (applicable en CI) ?",
-        "options": ["A) Agir seulement en cas de certitude scientifique", "B) En cas de risque grave et irréversible pour l'environnement ou la santé, prendre des mesures préventives sans attendre la certitude scientifique", "C) Interdire toute innovation", "D) Attendre l'autorisation parlementaire avant d'agir"],
-        "answer": "B",
-        "explanation": "Le principe de précaution (Charte de l'environnement 2004 en France) autorise l'action préventive en situation d'incertitude scientifique."
-    },
-    {
-        "question": "Qu'est-ce que le principe de subsidiarité en droit administratif ?",
-        "options": ["A) L'État décide de tout", "B) Les décisions doivent être prises au niveau le plus proche des citoyens, le niveau supérieur n'intervenant que si le niveau inférieur est insuffisant", "C) Les collectivités locales n'ont aucune compétence", "D) Le gouvernement peut toujours se substituer aux collectivités"],
-        "answer": "B",
-        "explanation": "Le principe de subsidiarité organise la répartition des compétences : le pouvoir local d'abord, le supérieur en dernier recours."
-    },
-    {
-        "question": "Qu'est-ce que la notion de domaine privé de l'État en droit administratif ivoirien ?",
-        "options": ["A) Les biens de l'État sont tous imprescriptibles et inaliénables", "B) Le domaine privé regroupe les biens de l'État non affectés à l'usage public ; il peut être géré, loué ou vendu comme des biens privés", "C) Le domaine privé appartient aux fonctionnaires", "D) Le domaine privé comprend les routes et les bâtiments publics"],
-        "answer": "B",
-        "explanation": "Le domaine privé de l'État (forêts, terres agricoles, actifs financiers) est géré selon des règles proches du droit privé, contrairement au domaine public."
-    },
-    {
-        "question": "Qu'est-ce que l'obligation de publication des actes administratifs réglementaires ?",
-        "options": ["A) Les règlements sont secrets", "B) Les actes réglementaires doivent être publiés (Journal Officiel) pour être opposables aux administrés", "C) La publication est facultative", "D) Seuls les décrets présidentiels sont publiés"],
-        "answer": "B",
-        "explanation": "La publication (JO, recueil des actes) conditionne l'entrée en vigueur et l'opposabilité des actes réglementaires."
-    },
-    {
-        "question": "Qu'est-ce que la responsabilité de l'État du fait des travaux publics ?",
-        "options": ["A) L'État n'est pas responsable des travaux publics", "B) L'État peut être tenu responsable des dommages causés à des tiers ou à des usagers par des travaux publics, même sans faute", "C) Seul le maître d'ouvrage privé est responsable", "D) La responsabilité est limitée aux accidents mortels"],
-        "answer": "B",
-        "explanation": "La responsabilité du fait des travaux publics peut être engagée sans faute (pour les tiers) ou pour faute (pour les usagers)."
-    },
-    {
-        "question": "Qu'est-ce que la notion de service public constitutionnel en CI ?",
-        "options": ["A) Un service géré par le Conseil constitutionnel", "B) Un service public dont la création est imposée par la Constitution (enseignement, défense, justice)", "C) Un service public payant", "D) Un service public réservé aux élus"],
-        "answer": "B",
-        "explanation": "Certains services publics sont directement fondés et imposés par la Constitution (justice, défense, éducation)."
-    },
-    {
-        "question": "Qu'est-ce que le droit de préemption de l'État en matière foncière en CI ?",
-        "options": ["A) L'État peut prendre des terres sans compensation", "B) L'État peut acquérir en priorité certains biens mis en vente pour des raisons d'intérêt public", "C) Les particuliers ne peuvent pas vendre leurs terres", "D) L'État peut louer des terres privées de force"],
-        "answer": "B",
-        "explanation": "Le droit de préemption permet à l'État d'acheter prioritairement certains biens mis en vente, notamment pour l'aménagement du territoire."
-    },
-    {
-        "question": "Qu'est-ce que l'acte administratif unilatéral à portée générale et impersonnelle ?",
-        "options": ["A) Un acte visant une seule personne", "B) Un acte qui s'applique à une catégorie de personnes indéfiniment déterminées par des critères généraux (comme une loi)", "C) Un acte secret", "D) Un acte pris sans base légale"],
-        "answer": "B",
-        "explanation": "L'acte réglementaire est unilatéral, général et impersonnel : il s'applique à toute personne entrant dans la catégorie qu'il définit."
-    },
-    {
-        "question": "Qu'est-ce que le recours de pleine juridiction (plein contentieux) en droit administratif ivoirien ?",
-        "options": ["A) Un recours qui ne peut annuler l'acte", "B) Un recours où le juge a tous les pouvoirs : annuler, réformer, condamner l'administration à payer des dommages et intérêts", "C) Un recours réservé aux étrangers", "D) Un recours uniquement devant la Cour Suprême"],
-        "answer": "B",
-        "explanation": "Le plein contentieux permet au juge d'aller au-delà de la simple annulation : il peut réformer et allouer une indemnité."
-    },
-    {
-        "question": "Qu'est-ce que la notion de délégation interservices en administration ivoirienne ?",
-        "options": ["A) Un agent qui signe pour un autre sans autorisation", "B) La coordination administrative entre différents services d'un ministère ou entre ministères pour gérer des projets transversaux", "C) La suppression d'un service", "D) Le transfert d'un service à une collectivité"],
-        "answer": "B",
-        "explanation": "La délégation interservices permet une coordination efficace entre directions et ministères sur des projets communs."
-    },
-    {
-        "question": "En Côte d'Ivoire, quel organe constitue la plus haute juridiction de l'ordre administratif ?",
-        "options": ["A) La Cour Suprême", "B) Le Conseil d'État", "C) La Cour de Cassation", "D) La Cour des Comptes"],
-        "answer": "B",
-        "explanation": "Depuis la Constitution de 2016, le Conseil d'État est la plus haute juridiction de l'ordre administratif, succédant à la Chambre Administrative de la Cour Suprême."
-    },
-    {
-        "question": "Lequel de ces actes est insusceptible de recours pour excès de pouvoir en droit administratif ivoirien ?",
-        "options": ["A) Un arrêté municipal", "B) Un décret de nomination", "C) Un acte de gouvernement", "D) Une circulaire réglementaire"],
-        "answer": "C",
-        "explanation": "Les actes de gouvernement (touchant aux rapports avec les pouvoirs publics ou les relations internationales) bénéficient d'une immunité juridictionnelle."
-    },
-    {
-        "question": "Quel principe régit la responsabilité de la puissance publique en cas de dommages causés par les travaux publics ?",
-        "options": ["A) La responsabilité pour faute prouvée", "B) La responsabilité sans faute", "C) L'irresponsabilité totale", "D) La responsabilité contractuelle"],
-        "answer": "B",
-        "explanation": "Pour les dommages de travaux publics subis par un tiers, la responsabilité de l'administration est sans faute."
-    },
-    {
-        "question": "Le Préfet de département en Côte d'Ivoire est-il une autorité déconcentrée ou décentralisée ?",
-        "options": ["A) Décentralisée", "B) Déconcentrée", "C) À la fois déconcentrée et décentralisée", "D) Aucune des deux"],
-        "answer": "B",
-        "explanation": "Le préfet est le représentant de l'État dans le département, c'est une autorité déconcentrée."
-    },
-    {
-        "question": "Quelle est la durée du mandat d'un maire en Côte d'Ivoire ?",
-        "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
-        "answer": "B",
-        "explanation": "Les conseillers municipaux et le maire sont élus pour un mandat de 5 ans."
-    },
-    {
-        "question": "Acte de Gouvernement :",
-        "options": ["A) Nomination ministre", "B) Expropriation", "C) Mutation", "D) Marché public"],
-        "answer": "A",
-        "explanation": "Insusceptible de REP, motivé politiquement."
-    },
-    {
-        "question": "Sujétions imprévues donne droit à :",
-        "options": ["A) Résiliation", "B) Indemnisation totale", "C) Pénalité", "D) Réduction"],
-        "answer": "B",
-        "explanation": "Compensation intégrale du surcoût matériel."
-    },
-    {
-        "question": "Délai REP en CI ?",
-        "options": ["A) 1 mois", "B) 2 mois", "C) 3 mois", "D) 6 mois"],
-        "answer": "B",
-        "explanation": "2 mois après publication/notification."
-    },
-    {
-        "question": "Domaine public (propriété) :",
-        "options": ["A) Inaliénable", "B) Imprescriptible", "C) Insaisissable", "D) Les trois"],
+        "question": "Cas pratique 9 : Lors des travaux à Yamoussoukro, BTP-CI découvre un sol rocheux d'une dureté exceptionnelle et imprévisible. Théorie applicable ?",
+        "options": {"A": "Fait du Prince.", "B": "Force majeure.", "C": "Imprévision.", "D": "Sujétions imprévues."},
         "answer": "D",
-        "explanation": "Les 3 grands principes de protection."
+        "explanation": "La découverte d'obstacles matériels imprévisibles constitue une sujétion imprévue justifiant une indemnisation intégrale."
     },
     {
-        "question": "Recours circulaire interprétative ?",
-        "options": ["A) Toujours", "B) Jamais", "C) Si ajoute à la loi", "D) Accord min"],
+        "question": "Cas pratique 10 : Une grève nationale paralysant tout le pays empêche CLEAN-CI de ramasser les ordures à Daloa. La Mairie résilie pour faute.",
+        "options": {"A": "Validation de la résiliation.", "B": "Annulation, la grève constituant ici un cas de force majeure.", "C": "L'entreprise doit payer des pénalités.", "D": "Application de l'imprévision."},
+        "answer": "B",
+        "explanation": "Une grève générale imprévisible et irrésistible constitue un cas de force majeure, exonérant le cocontractant de toute faute."
+    },
+    {
+        "question": "Cas pratique 11 : Le contrat de fourniture de l'Université stipule des pénalités de retard. L'entreprise défaillante estime que seul le juge peut les prononcer.",
+        "options": {"A": "Vrai, la sanction appartient au juge.", "B": "Faux, l'Administration dispose d'un pouvoir de sanction unilatéral.", "C": "Vrai, s'agissant d'une EPA.", "D": "Faux, mais il faut un arrêté préfectoral."},
+        "answer": "B",
+        "explanation": "En matière de contrats administratifs, l'Administration a le pouvoir d'infliger unilatéralement des sanctions, même financières."
+    },
+    {
+        "question": "Cas pratique 12 : L'État exproprie la famille KOUAKOU pour utilité publique mais 'oublie' l'enquête de commodo et incommodo.",
+        "options": {"A": "Expropriation régulière car urgente.", "B": "Annulation de la DUP pour vice de procédure substantiel.", "C": "Indemnisation double mais pas d'annulation.", "D": "L'enquête n'est pas obligatoire."},
+        "answer": "B",
+        "explanation": "L'enquête publique (commodo et incommodo) est une condition de légalité de la Déclaration d'Utilité Publique en CI."
+    },
+    {
+        "question": "Cas pratique 13 : Un particulier, M. DIALLO, occupe depuis 30 ans le domaine privé de l'État et demande un titre foncier par prescription.",
+        "options": {"A": "La prescription est toujours interdite contre l'État.", "B": "Le domaine privé est prescriptible (sous conditions de droit privé et en l'absence de purge/immatriculation par l'État).", "C": "Seul le domaine public est prescriptible.", "D": "L'État est obligé de lui donner le titre."},
+        "answer": "B",
+        "explanation": "Le domaine privé obéit aux règles du droit privé, rendant théoriquement possible la prescription acquisitive, contrairement au domaine public (bien que souvent neutralisé par l'immatriculation)."
+    },
+    {
+        "question": "Cas pratique 14 : Un entrepreneur a fourni des faux documents fiscaux au CHU de Cocody. L'autorité résilie unilatéralement le marché.",
+        "options": {"A": "La résiliation est illégale.", "B": "C'est une résiliation pour faute justifiée.", "C": "L'entrepreneur a droit à une indemnité.", "D": "Seul le juge pénal peut annuler."},
+        "answer": "B",
+        "explanation": "La fraude (faux documents) constitue une faute grave justifiant une résiliation unilatérale aux torts exclusifs de l'entreprise."
+    },
+    {
+        "question": "Cas pratique 15 : BTP-DIVO arrête le chantier car le Ministère ne paie plus ses factures. Le Ministère résilie pour abandon.",
+        "options": {"A": "Annulation, exception d'inexécution valide.", "B": "Validation, l'exception d'inexécution ne s'applique pas au cocontractant administratif.", "C": "Suspension du contrat.", "D": "Paiement forcé ordonné."},
+        "answer": "B",
+        "explanation": "Principe de continuité : le cocontractant de l'Administration ne peut pas suspendre l'exécution en invoquant l'exception d'inexécution."
+    },
+    {
+        "question": "Cas pratique 16 : Une rébellion s'empare de la ville, empêchant définitivement l'exécution du marché de BTP. Conséquence ?",
+        "options": {"A": "Résiliation pour force majeure (sans faute).", "B": "Résiliation pour faute de BTP.", "C": "Application de l'imprévision.", "D": "Suspension infinie."},
+        "answer": "A",
+        "explanation": "L'impossibilité définitive d'exécuter causée par un événement irrésistible (guerre) entraîne la résiliation pour force majeure."
+    },
+    {
+        "question": "Cas pratique 17 : L'Administration modifie unilatéralement les clauses tarifaires (le prix payé au cocontractant) pour économiser de l'argent.",
+        "options": {"A": "Validé par le pouvoir de modification.", "B": "Annulé, l'équation financière est intangible unilatéralement.", "C": "Validé sous réserve de l'ARCOP.", "D": "Compétence du juge civil."},
+        "answer": "B",
+        "explanation": "L'Administration ne peut modifier unilatéralement les clauses financières (intangibilité financière), seules les clauses d'exécution sont mutables."
+    },
+    {
+        "question": "Cas pratique 18 : Le nouveau Maire de Man reprend en régie la gestion de la gare routière avant le terme de la concession, sans faute du concessionnaire.",
+        "options": {"A": "Résiliation illégale.", "B": "Résiliation pour motif d'intérêt général avec indemnisation.", "C": "Résiliation sans indemnisation.", "D": "Obligation d'aller au terme."},
+        "answer": "B",
+        "explanation": "La personne publique peut toujours mettre fin prématurément à un contrat dans l'intérêt du service public, moyennant indemnisation."
+    },
+    {
+        "question": "Cas pratique 19 : Le Ministère des Eaux et Forêts exproprie de fait un champ (sans DUP) avec des bulldozers. M. ZADI saisit le juge judiciaire.",
+        "options": {"A": "Incompétence du JJ.", "B": "Compétence du JJ car c'est une emprise irrégulière / voie de fait.", "C": "Compétence du Conseil d'État.", "D": "Tribunal de commerce."},
+        "answer": "B",
+        "explanation": "L'emprise irrégulière entraînant la dépossession foncière / voie de fait fonde la compétence du juge judiciaire."
+    },
+    {
+        "question": "Cas pratique 20 : Le contrat de fourniture de SOTRA stipule que les pénalités de retard sont fixées à 1% par jour. L'ARCOP trouve ça abusif.",
+        "options": {"A": "Le juge peut modérer les pénalités manifestement excessives.", "B": "Le juge ne peut pas modifier le contrat.", "C": "Les pénalités sont illégales.", "D": "L'ARCOP annule le contrat."},
+        "answer": "A",
+        "explanation": "La jurisprudence administrative moderne autorise le juge à modérer les pénalités contractuelles manifestement excessives."
+    },
+    {
+        "question": "Cas pratique 21 : L'entreprise omet de renouveler sa garantie de bonne exécution (caution). Le CHU de Treichville résilie.",
+        "options": {"A": "Résiliation abusive.", "B": "Résiliation pour faute justifiée.", "C": "Mise en régie obligatoire.", "D": "Application de l'imprévision."},
+        "answer": "B",
+        "explanation": "Le défaut de constitution ou de renouvellement des garanties financières est une faute contractuelle justifiant la résiliation."
+    },
+    {
+        "question": "Cas pratique 22 : Le sous-préfet décide de louer le stade municipal (domaine public) à une église pour un week-end. C'est :",
+        "options": {"A": "Une vente illégale.", "B": "Une occupation temporaire du domaine public (autorisation précaire et révocable).", "C": "Un déclassement.", "D": "Un contrat de droit privé."},
+        "answer": "B",
+        "explanation": "L'utilisation privative du domaine public peut faire l'objet d'une autorisation ou convention d'occupation temporaire (précaire et révocable)."
+    },
+    {
+        "question": "Cas pratique 23 : M. TAPE a construit un kiosque sur le trottoir. Le Maire le détruit d'office sans recours au juge car il gêne la circulation urgente.",
+        "options": {"A": "Voie de fait systématique.", "B": "Exécution d'office légale en cas d'urgence ou d'occupation sans titre du domaine public.", "C": "Indemnisation de TAPE.", "D": "Le trottoir est du domaine privé."},
+        "answer": "B",
+        "explanation": "L'Administration peut procéder à l'exécution d'office (destruction matérielle) pour libérer le domaine public illégalement occupé en cas d'urgence."
+    },
+    {
+        "question": "Cas pratique 24 : Le concessionnaire du service de l'eau en CI voit ses canalisations détruites par des travaux publics de l'État.",
+        "options": {"A": "Fait du prince (indemnisation intégrale).", "B": "Force majeure.", "C": "Imprévision.", "D": "Faute du concessionnaire."},
+        "answer": "A",
+        "explanation": "Le dommage causé par l'autorité contractante agissant dans une autre qualité constitue un fait du prince s'il aggrave les charges du cocontractant."
+    },
+    {
+        "question": "Cas pratique 25 : La Mairie d'Adzopé conclut un bail commercial (droit privé) avec un boucher pour une boutique dans le marché couvert (domaine public).",
+        "options": {"A": "Le bail commercial est légal.", "B": "Un bail commercial est impossible sur le domaine public (nullité).", "C": "Le bail est soumis au droit administratif uniquement si la valeur est élevée.", "D": "Compétence de l'ARCOP."},
+        "answer": "B",
+        "explanation": "Le domaine public étant inaliénable, on ne peut y constituer de droits réels de type bail commercial classique qui octroie une propriété commerciale."
+    },
+    {
+        "question": "Cas pratique 26 : Le Conseil municipal de Koumassi vote le déclassement de la place publique, puis le Maire la vend le lendemain à un privé.",
+        "options": {"A": "Vente illégale, la place doit d'abord être matériellement désaffectée.", "B": "Vente légale, le déclassement juridique suffit.", "C": "Vente nulle car la place appartient à l'État.", "D": "Le préfet doit d'abord valider."},
+        "answer": "A",
+        "explanation": "La sortie du domaine public exige deux conditions cumulatives : la désaffectation matérielle (fait) ET le déclassement formel (acte)."
+    },
+    {
+        "question": "Cas pratique 27 : L'appel d'offres pour la construction du Ministère de la Justice est restreint à 3 entreprises sans justification au regard du Code des marchés publics.",
+        "options": {"A": "Légalité du marché.", "B": "Annulation pour violation du principe de libre accès à la commande publique.", "C": "Validation par l'ARCOP si le prix est bon.", "D": "Vice de forme mineur."},
+        "answer": "B",
+        "explanation": "Le recours injustifié à l'appel d'offres restreint au lieu de l'appel d'offres ouvert viole le principe fondamental de mise en concurrence."
+    },
+    {
+        "question": "Cas pratique 28 : Une entreprise remporte un marché, mais le contrat stipule qu'en cas de litige, l'arbitrage CCI (Chambre de Commerce Internationale) à Paris s'imposera. Est-ce valable en droit public ivoirien ?",
+        "options": {"A": "Totalement interdit pour l'État.", "B": "Admis sous conditions et autorisation pour les contrats de partenariat et concessions internationales.", "C": "L'arbitrage est obligatoire partout.", "D": "Seule la CCJA est compétente."},
+        "answer": "B",
+        "explanation": "Historiquement interdit, l'arbitrage international est aujourd'hui admis en droit ivoirien pour certains contrats complexes (PPP, concessions) si autorisé par la loi."
+    },
+    {
+        "question": "Cas pratique 29 : L'État ne paye pas la société de nettoyage. Le juge condamne l'État à payer sous astreinte de 1 million / jour. L'État refuse d'exécuter.",
+        "options": {"A": "L'État est insaisissable (pas d'exécution forcée directe sur ses biens).", "B": "L'huissier peut saisir les comptes du Trésor public.", "C": "Le créancier peut vendre les locaux de l'État.", "D": "Le contrat est annulé."},
+        "answer": "A",
+        "explanation": "Les biens des personnes publiques sont insaisissables (impossibilité d'exécution forcée de droit privé). Le créancier dépend des mécanismes d'ordonnancement public."
+    },
+    {
+        "question": "Cas pratique 30 : Un marché de gré à gré est conclu en urgence impérieuse suite à l'effondrement d'un pont. La DMP refuse son visa.",
+        "options": {"A": "Le marché est nul.", "B": "Le gré à gré est toujours légal en cas d'urgence impérieuse avérée, le refus est abusif.", "C": "Le Maire est condamné.", "D": "Le Conseil d'État annulera l'urgence."},
+        "answer": "B",
+        "explanation": "Le Code des marchés publics ivoirien prévoit expressément le gré à gré en cas d'urgence impérieuse résultant de circonstances imprévisibles."
+    },
+    {
+        "question": "Cas pratique 31 : L'entreprise X signe un contrat avec le Ministère, mais le Ministre n'était pas compétent pour signer sans délégation du Ministre de l'Économie.",
+        "options": {"A": "Le contrat est valide (théorie de l'apparence).", "B": "Le contrat est nul pour incompétence de l'auteur de l'acte.", "C": "Le contrat devient un acte privé.", "D": "Le Ministre est condamné pénalement."},
+        "answer": "B",
+        "explanation": "L'incompétence de l'autorité signataire entache le contrat administratif de nullité absolue, sauf ratification a posteriori par l'autorité compétente."
+    },
+    {
+        "question": "Cas pratique 32 : Le Préfet d'Abidjan conclut un bail avec un privé pour loger ses services (domaine privé du propriétaire). Nature du contrat ?",
+        "options": {"A": "Contrat administratif par détermination de la loi.", "B": "Contrat de droit privé (bail de droit commun), compétence du juge judiciaire.", "C": "Marché public.", "D": "Concession."},
+        "answer": "B",
+        "explanation": "La simple location par l'Administration d'un immeuble appartenant à un privé, sans clause exorbitante, constitue un contrat de droit privé (bail ordinaire)."
+    },
+    {
+        "question": "Cas pratique 33 : Le Ministère de la Défense achète des armes. Il ne fait pas d'appel d'offres ouvert.",
+        "options": {"A": "Illégal, l'appel d'offres ouvert est la règle absolue.", "B": "Légal, les marchés liés à la sécurité nationale / secret-défense bénéficient de procédures dérogatoires (gré à gré).", "C": "Seul le Président peut acheter des armes.", "D": "Le marché sera annulé par l'ARCOP."},
+        "answer": "B",
+        "explanation": "Le Code des marchés publics prévoit des exceptions (gré à gré, secret) pour les marchés intéressant la sécurité ou la défense nationale."
+    },
+    {
+        "question": "Cas pratique 34 : L'Administration découvre que son cocontractant sous-traite 80% du marché sans autorisation. Sanction ?",
+        "options": {"A": "La sous-traitance est totalement libre.", "B": "Résiliation unilatérale pour faute (violation des règles de sous-traitance).", "C": "Augmentation du délai du marché.", "D": "Modification unilatérale."},
+        "answer": "B",
+        "explanation": "La sous-traitance dans les marchés publics ivoiriens est encadrée (limitation en % et nécessité d'agrément de l'Administration). Le dépassement ou la dissimulation est une faute justifiant résiliation."
+    },
+    {
+        "question": "Cas pratique 35 : La Mairie cède l'exploitation exclusive de la distribution d'eau à la SODECI. Le contrat prévoit que la SODECI se rémunère sur les usagers. Nature du contrat ?",
+        "options": {"A": "Marché public.", "B": "Délégation de service public (concession ou affermage).", "C": "Contrat de partenariat.", "D": "Convention de domaine public."},
+        "answer": "B",
+        "explanation": "Le contrat par lequel le cocontractant assume le risque d'exploitation et se rémunère substantiellement par les redevances perçues sur les usagers est une délégation de service public."
+    },
+    {
+        "question": "Cas pratique 36 : Lors d'une expropriation, le juge fixe une indemnité de 10 millions FCFA. L'État expulse le propriétaire avant même de payer. Légalité ?",
+        "options": {"A": "Légal, l'urgence l'exige.", "B": "Illégal, l'expropriation exige une juste et préalable indemnisation (Constitution ivoirienne).", "C": "L'indemnisation se fait toujours a posteriori.", "D": "Le juge l'autorisera."},
+        "answer": "B",
+        "explanation": "La Constitution de CI et le droit de l'expropriation posent le principe de l'indemnisation 'juste et préalable'. L'expulsion avant paiement est une voie de fait."
+    },
+    {
+        "question": "Cas pratique 37 : L'autorité contractante impose à son cocontractant un changement des modalités techniques. Le cocontractant refuse et résilie lui-même le contrat.",
+        "options": {"A": "Légal, nul n'est tenu d'accepter une modification unilatérale.", "B": "Illégal, seul le juge administratif peut prononcer la résiliation aux torts de l'Administration à la demande du cocontractant.", "C": "Légal si la modification dépasse 50%.", "D": "L'ARCOP validera."},
+        "answer": "B",
+        "explanation": "Le cocontractant n'a jamais le droit de résilier unilatéralement le contrat, même en cas de faute ou d'abus de l'Administration. Il doit saisir le juge pour demander la résiliation judiciaire."
+    },
+    {
+        "question": "Cas pratique 38 : Un marché public est conclu avec KOFFI. Le contrat comporte une clause autorisant KOFFI à suspendre les travaux si l'État ne paie pas. Validité ?",
+        "options": {"A": "Clause valide.", "B": "Clause réputée non écrite car contraire au principe de continuité du service public.", "C": "Clause validée par l'ARCOP.", "D": "Valide seulement pour les PPP."},
+        "answer": "B",
+        "explanation": "L'interdiction de l'exception d'inexécution dans les contrats administratifs est d'ordre public. Toute clause contraire est réputée non écrite."
+    },
+    {
+        "question": "Cas pratique 39 : Pour construire une route, l'État a besoin du terrain de Bamba pour y stocker temporairement des engins. Procédure ?",
+        "options": {"A": "Expropriation totale.", "B": "Occupation temporaire (servitude administrative) donnant lieu à indemnisation.", "C": "Confiscation.", "D": "Réquisition."},
+        "answer": "B",
+        "explanation": "La loi prévoit la procédure d'occupation temporaire des propriétés privées pour la réalisation de travaux publics, contre indemnisation des dégradations."
+    },
+    {
+        "question": "Cas pratique 40 : Un administré tombe dans un trou laissé béant par l'entreprise de travaux publics SITRAP. Qui est responsable ?",
+        "options": {"A": "L'Administration exclusivement.", "B": "L'entreprise titulaire des travaux publics, responsable envers les tiers (dommage de travaux publics).", "C": "L'usager (force majeure).", "D": "L'ARCOP."},
+        "answer": "B",
+        "explanation": "Les dommages causés aux tiers par les travaux publics engagent la responsabilité de l'entrepreneur (et solidairement du maître d'ouvrage public) sur le terrain de la responsabilité sans faute (risque)."
+    },
+    {
+        "question": "Cas pratique 41 : Un avenant à un marché public de 100 millions augmente le prix initial de 40 millions (40%). L'ARCOP est saisie.",
+        "options": {"A": "Avenant valide.", "B": "Avenant illégal car il bouleverse l'économie du marché (seuil maximal généralement de 15-20% pour un avenant, au-delà = nouveau marché).", "C": "L'ARCOP n'est pas compétente.", "D": "Avenant validé si l'entrepreneur est d'accord."},
+        "answer": "B",
+        "explanation": "Un avenant ne doit pas bouleverser l'économie initiale du marché (limite fixée par la réglementation, souvent 20%). Au-delà, l'Administration doit lancer une nouvelle procédure de mise en concurrence."
+    },
+    {
+        "question": "Cas pratique 42 : L'entreprise BTP-CI est en faillite (liquidation judiciaire). L'Administration est-elle tenue de poursuivre le contrat avec le liquidateur ?",
+        "options": {"A": "Oui, pour sauver l'entreprise.", "B": "Non, la faillite/liquidation entraîne la résiliation de plein droit (ou par l'Administration) du contrat (intuitu personae).", "C": "Le juge consulaire obligera l'Administration.", "D": "La sous-traitance est imposée."},
+        "answer": "B",
+        "explanation": "Les contrats administratifs étant conclus 'intuitu personae', la faillite du cocontractant justifie généralement la résiliation de plein droit."
+    },
+    {
+        "question": "Cas pratique 43 : Le Conseil Régional du Gôh achète 50 véhicules de fonction. La procédure utilisée est la demande de cotation (3 devis).",
+        "options": {"A": "Procédure légale si le montant global est inférieur au seuil de l'appel d'offres.", "B": "La demande de cotation n'existe pas en CI.", "C": "Les véhicules nécessitent un PPP.", "D": "Le gré à gré est imposé."},
+        "answer": "A",
+        "explanation": "La demande de cotation (procédures simplifiées) est autorisée par le Code des marchés publics pour les achats courants de faible montant sous le seuil légal de l'appel d'offres."
+    },
+    {
+        "question": "Cas pratique 44 : L'État ivoirien signe un accord de prêt (Traité) avec la Banque Mondiale prévoyant des règles de passation spécifiques pour un barrage, contraires au Code ivoirien des marchés.",
+        "options": {"A": "Le Code ivoirien s'applique toujours.", "B": "Les directives de la Banque Mondiale priment (suprématie des traités et conventions de financement sur le droit interne).", "C": "Le contrat est nul.", "D": "Compétence de la CCJA."},
+        "answer": "B",
+        "explanation": "L'article 87 de la Constitution (suprématie des traités) et le Code des marchés publics disposent que les règles des bailleurs de fonds internationaux priment sur le code national en cas de conflit."
+    },
+    {
+        "question": "Cas pratique 45 : Une Mairie attribue la gestion de son abattoir à un boucher local. C'est le boucher qui a conçu lui-même l'idée et proposé le projet au Maire spontanément (Offre spontanée).",
+        "options": {"A": "Le Maire peut signer directement de gré à gré.", "B": "L'offre spontanée nécessite d'être soumise à concurrence (appel d'offres ouvert avec une prime d'avance pour le concepteur).", "C": "L'offre spontanée est interdite.", "D": "Le Maire sera révoqué."},
+        "answer": "B",
+        "explanation": "Le cadre juridique ivoirien des PPP/DSP encadre les offres spontanées : elles ne dispensent pas de la mise en concurrence (même si le promoteur initial a un avantage)."
+    },
+    {
+        "question": "Cas pratique 46 : L'Université de Cocody concède un terrain de son campus pour 30 ans à SCI-Campus pour y construire des résidences universitaires, la SCI devant les gérer puis les rendre (Bail emphytéotique administratif).",
+        "options": {"A": "Interdit sur le domaine public.", "B": "Le BEA (Bail Emphytéotique Administratif) est autorisé par des textes spéciaux pour valoriser le domaine public.", "C": "La SCI devient propriétaire définitif.", "D": "C'est une voie de fait."},
+        "answer": "B",
+        "explanation": "Le droit a évolué pour permettre des montages immobiliers complexes sur le domaine public, comme le BEA ou les Autorisations d'Occupation Temporaire (AOT) constitutives de droits réels."
+    },
+    {
+        "question": "Cas pratique 47 : Lors de l'examen des offres pour l'hôpital d'Odienné, la Commission d'Ouverture des Plis et d'Évaluation des Offres (COPEO) écarte l'offre la moins chère car elle est 'anormalement basse' (sous-évaluée de 50%). L'entreprise conteste.",
+        "options": {"A": "La COPEO a tort, il faut toujours prendre le moins disant.", "B": "La COPEO a le droit et l'obligation d'écarter une offre anormalement basse après avoir demandé des justifications (risque de non-exécution).", "C": "La COPEO doit saisir le Président.", "D": "L'ARCOP obligera à prendre l'offre basse."},
+        "answer": "B",
+        "explanation": "Le Code des marchés publics protège l'Administration contre le 'dumping'. Si une offre est anormalement basse et que l'entreprise ne justifie pas son prix, elle doit être rejetée pour garantir l'exécution."
+    },
+    {
+        "question": "Cas pratique 48 : M. SANGARE construit un mur qui déborde de 2 mètres sur la voie publique (alignement). Le Préfet peut-il ordonner la démolition ?",
+        "options": {"A": "Non, droit de propriété.", "B": "Oui, c'est une atteinte au domaine public (infraction de grande voirie) justifiant démolition et amende.", "C": "Il doit lui vendre les 2 mètres.", "D": "Le Conseil d'État est incompétent."},
+        "answer": "B",
+        "explanation": "L'occupation sans titre et la dégradation du domaine public routier (contraventions de voirie) entraînent l'obligation de remise en état (démolition de l'empiètement) et amende."
+    },
+    {
+        "question": "Cas pratique 49 : M. YAPO, agriculteur, conteste l'indemnité d'expropriation fixée par la Commission Administrative d'expropriation pour son champ.",
+        "options": {"A": "Il doit saisir le Conseil d'État.", "B": "Le contentieux du montant de l'indemnité d'expropriation relève exclusivement du juge judiciaire (Tribunal de 1ère instance).", "C": "Il doit faire une marche pacifique.", "D": "L'ARCOP est compétente."},
+        "answer": "B",
+        "explanation": "Si le juge administratif contrôle la légalité de la procédure (la DUP), seul le juge judiciaire (protecteur constitutionnel de la propriété) est compétent pour fixer le montant de l'indemnité d'expropriation."
+    },
+    {
+        "question": "Cas pratique 50 : Le Ministre de la Santé signe un contrat de gré à gré de 5 milliards FCFA. Le contrat est transmis pour approbation. Qui doit l'approuver ?",
+        "options": {"A": "Le Président de la République.", "B": "Le Ministre du Budget / des Finances (selon les seuils, souvent Ministre du Budget pour les gros montants en CI).", "C": "Le préfet d'Abidjan.", "D": "L'ARCOP."},
+        "answer": "B",
+        "explanation": "Les marchés de l'État de montants très élevés sont soumis à l'approbation conjointe ou exclusive du Ministre en charge du Budget et des Finances, autorité d'approbation désignée."
+    },
+    {
+        "question": "Cas pratique 51 : Le Directeur d'un Hôpital public attribue tous les marchés de fourniture à l'entreprise de son épouse. Délit pénal ?",
+        "options": {"A": "Non, c'est du favoritisme administratif simple.", "B": "Oui, délit d'octroi d'avantage injustifié (favoritisme) et prise illégale d'intérêts pénalement sanctionnés.", "C": "C'est légal si les prix sont bons.", "D": "Seul le licenciement est possible."},
+        "answer": "B",
+        "explanation": "L'atteinte à la liberté d'accès et à l'égalité dans les marchés publics (favoritisme, prise illégale d'intérêts) est un délit réprimé par le Code pénal ivoirien."
+    },
+    {
+        "question": "Cas pratique 52 : La commune de Man refuse de payer un entrepreneur ayant achevé la construction de l'école parce que 'le budget communal de l'année est épuisé'.",
+        "options": {"A": "L'entrepreneur perd son argent.", "B": "La dette de la commune (marché exécuté) est certaine, l'épuisement des crédits n'efface pas l'obligation de payer (mandatement d'office possible par la tutelle).", "C": "La commune est en faillite.", "D": "Le contrat est annulé."},
+        "answer": "B",
+        "explanation": "L'insuffisance de crédit n'est pas une excuse absolutoire pour l'Administration. Le cocontractant ayant exécuté sa prestation a droit à son paiement (avec intérêts moratoires)."
+    },
+    {
+        "question": "Cas pratique 53 : L'entreprise BATI-CI a un retard d'exécution de 30 jours. L'administration ne lui inflige aucune pénalité et l'exonère (remise gracieuse) pour des raisons politiques. Légalité ?",
+        "options": {"A": "Légal, pouvoir discrétionnaire de la remise des pénalités.", "B": "Illégal en l'absence de motif lié à l'exécution ou à la force majeure, ce qui s'apparente à une libéralité (don) interdite pour une personne publique.", "C": "Légal car la Mairie fait ce qu'elle veut.", "D": "La DMP est seule compétente."},
+        "answer": "B",
+        "explanation": "Les personnes publiques ne peuvent consentir des libéralités (abandon de créance non justifié). Une remise gracieuse de pénalités doit être motivée par l'équité ou le comportement de l'Administration."
+    },
+    {
+        "question": "Cas pratique 54 : Lors d'une procédure d'appel d'offres pour l'acquisition d'ordinateurs, la Mairie du Plateau exige que les ordinateurs soient exclusivement de la marque Apple. Une autre entreprise de marque HP conteste.",
+        "options": {"A": "Légal, la mairie choisit son matériel.", "B": "Illégal, interdiction de mentionner une marque commerciale spécifique sans ajouter 'ou équivalent' (atteinte à la concurrence).", "C": "Légal car Apple est meilleur.", "D": "ARCOP se déclare incompétente."},
+        "answer": "B",
+        "explanation": "Le Code des marchés publics interdit de spécifier une marque, un brevet ou une origine précise dans les spécifications techniques, sauf si accompagné de la mention 'ou équivalent'."
+    },
+    {
+        "question": "Cas pratique 55 : Une concession d'autoroute arrive à son terme normal. L'entreprise concessionnaire demande à conserver les gares de péage construites par elle.",
+        "options": {"A": "Les gares lui appartiennent.", "B": "Principe de la théorie des biens de retour : les biens nécessaires au service public reviennent gratuitement à la personne publique en fin de concession.", "C": "Elle doit les détruire.", "D": "L'État doit les racheter au prix fort."},
+        "answer": "B",
+        "explanation": "Dans une concession (ou DSP), les ouvrages établis par le concessionnaire et indispensables au fonctionnement du service public ('biens de retour') deviennent la propriété de l'autorité délégante à la fin du contrat, sans indemnité (sauf amortissement inachevé)."
+    },
+    {
+        "question": "Cas pratique 56 : Un préfet recrute par contrat un agent contractuel de la fonction publique (CDD d'un an). A l'échéance, il ne renouvelle pas le contrat. L'agent attaque pour licenciement abusif.",
+        "options": {"A": "C'est un licenciement abusif.", "B": "Le non-renouvellement d'un CDD n'est pas un licenciement, l'agent n'a aucun droit acquis au renouvellement.", "C": "L'agent devient automatiquement fonctionnaire.", "D": "L'État doit payer 10 ans de salaire."},
+        "answer": "B",
+        "explanation": "L'agent contractuel de l'Administration embauché en CDD n'a pas droit au maintien de son emploi. Le non-renouvellement arrivé à terme ne constitue pas une sanction ni un licenciement."
+    },
+    {
+        "question": "Cas pratique 57 : Le Ministère impose de nouvelles normes de sécurité sismique en cours de chantier, alourdissant le coût du marché de 20%.",
+        "options": {"A": "L'entreprise doit payer elle-même.", "B": "Il s'agit d'une modification unilatérale justifiée, l'Administration doit supporter le surcoût (indemnisation intégrale du cocontractant).", "C": "Le marché est caduc.", "D": "Sujétion imprévue."},
+        "answer": "B",
+        "explanation": "C'est l'exercice du pouvoir de modification unilatérale du cahier des charges par l'Administration, qui engendre le droit pour le cocontractant de voir l'équilibre financier rétabli."
+    },
+    {
+        "question": "Cas pratique 58 : M. CISSE achète un terrain immatriculé appartenant au domaine privé de l'État de Côte d'Ivoire selon les procédures normales de cession domaniale (lettre d'attribution, arrêté de concession provisoire).",
+        "options": {"A": "Il acquiert une propriété absolue immédiatement.", "B": "Il doit obligatoirement mettre en valeur le terrain dans un délai imparti (mise en valeur) avant d'obtenir le Titre Foncier (Arrêté de concession définitive).", "C": "L'État peut reprendre à tout moment sans faute.", "D": "Il doit louer le terrain."},
+        "answer": "B",
+        "explanation": "La procédure domaniale ivoirienne (domaine urbain privé de l'État) impose la mise en valeur du terrain sous peine de retrait (déchéance) avant l'octroi de l'ACD (Arrêté de Concession Définitive) valant titre de propriété pleine."
+    },
+    {
+        "question": "Cas pratique 59 : Le Maire d'une commune de 10.000 habitants conclut un contrat de 5 milliards FCFA sans que son Conseil municipal n'ait délibéré (pas de budget voté ni d'autorisation).",
+        "options": {"A": "Contrat nul pour incompétence (vice de forme/procédure et dépassement de budget).", "B": "Contrat valable, le Maire est le chef.", "C": "L'ARCOP paiera la différence.", "D": "Contrat rétroactivement validé."},
+        "answer": "A",
+        "explanation": "La conclusion d'un marché public par l'exécutif local nécessite obligatoirement l'autorisation préalable (délibération) de l'organe délibérant (le Conseil municipal) et la disponibilité des crédits budgétaires."
+    },
+    {
+        "question": "Cas pratique 60 : La commune confie l'éclairage public (service public) à une association de quartier subventionnée sans aucune procédure de publicité. Le contrat est attaqué.",
+        "options": {"A": "Contrat légal car c'est une association.", "B": "Contrat illégal (qualifié de délégation de service public dissimulée ou marché public, soumis aux règles de mise en concurrence).", "C": "Les associations échappent au droit.", "D": "Validé par le Préfet."},
+        "answer": "B",
+        "explanation": "Le transfert de la gestion d'un service public à un tiers, même une association à but non lucratif subventionnée, constitue un contrat de la commande publique (souvent DSP) et nécessite publicité et concurrence."
+    },
+    {
+        "question": "Cas pratique 61 : L'autorité contractante résilie un marché de gré à gré après qu'un rapport de l'Inspection Générale de l'État ait révélé des pots-de-vin.",
+        "options": {"A": "Résiliation impossible, il faut un jugement pénal.", "B": "Résiliation unilatérale justifiée pour faute grave (corruption) et protection des deniers publics.", "C": "Théorie de l'imprévision.", "D": "Faute de l'Administration exclusive."},
+        "answer": "B",
+        "explanation": "La corruption avérée (acte délictuel de l'attributaire) vicie gravement la moralité et l'intégrité du marché, autorisant l'Administration à résilier le contrat pour faute (sans préjudice de l'exclusion des marchés publics)."
+    },
+    {
+        "question": "Cas pratique 62 : La CCJA (Cour Commune de Justice et d'Arbitrage) d'Abidjan (droit OHADA) est saisie d'un litige sur l'exécution d'un marché public national ivoirien ordinaire sans clause d'arbitrage.",
+        "options": {"A": "La CCJA est incompétente. Le contrat administratif relève de la juridiction administrative national (Conseil d'État).", "B": "La CCJA est toujours compétente en affaires.", "C": "Le litige va à la CPI.", "D": "Le tribunal de commerce tranche."},
+        "answer": "A",
+        "explanation": "L'OHADA concerne le droit des affaires (privé). Les marchés publics internes de l'État (contrats administratifs) sont expressément exclus du droit OHADA et relèvent du juge administratif national (Conseil d'État)."
+    },
+    {
+        "question": "Cas pratique 63 : L'entreprise SIFCA, victime d'un vol de son matériel sur le chantier par des bandits armés la nuit, invoque la force majeure pour échapper aux pénalités de retard.",
+        "options": {"A": "Le vol de matériel banal ne constitue généralement pas un cas de force majeure (il n'est pas imprévisible et irrésistible sur un chantier classique).", "B": "C'est un cas de force majeure avéré.", "C": "C'est le Fait du Prince.", "D": "L'État doit sécuriser les chantiers."},
+        "answer": "A",
+        "explanation": "La jurisprudence administrative est stricte : le vol de matériel, l'incendie classique, ou la défaillance d'un sous-traitant ne revêtent pas les caractères de la force majeure. L'entrepreneur reste responsable."
+    },
+    {
+        "question": "Cas pratique 64 : L'Administration découvre qu'une clause de révision des prix insérée dans le marché initial est contraire à l'ordre public financier. Que fait le juge administratif ?",
+        "options": {"A": "Il annule tout le contrat.", "B": "Il déclare la seule clause illégale (ou réputée non écrite), le reste du marché étant maintenu si la clause n'est pas indivisible.", "C": "Il modifie lui-même la clause.", "D": "Il augmente le délai d'exécution."},
+        "answer": "B",
+        "explanation": "Le juge privilégie la sauvegarde du contrat (lointain écho de la jurisprudence 'Béziers I' en France, applicable en CI). Une clause illégale détachable peut être annulée seule sans anéantir le contrat entier."
+    },
+    {
+        "question": "Cas pratique 65 : L'ARCOP de CI décide d'exclure la Société XYZ de toute participation aux marchés publics pour une durée de 5 ans, pour usage de faux documents.",
+        "options": {"A": "L'ARCOP n'a pas de pouvoir de sanction.", "B": "L'ARCOP dispose d'un pouvoir de sanction disciplinaire (exclusion temporaire ou définitive) à l'encontre des acteurs de la commande publique fautifs.", "C": "Seul le juge pénal peut exclure.", "D": "L'exclusion est limitée à 1 an maximum."},
+        "answer": "B",
+        "explanation": "En Côte d'Ivoire, l'ARCOP (organe de régulation) dispose d'importants pouvoirs de sanction, dont la suspension ou l'exclusion temporaire des entreprises ayant violé la réglementation."
+    },
+    {
+        "question": "Cas pratique 66 : Le concessionnaire du PAA (Port Autonome d'Abidjan) installe des grues gigantesques. À la fin du contrat, le PAA les réclame.",
+        "options": {"A": "Biens de reprise (rachetés).", "B": "Biens de retour (gratuits si amortis).", "C": "Biens propres.", "D": "Appartient à l'État."},
+        "answer": "B",
+        "explanation": "Les équipements indispensables au SP sont des biens de retour, revenant à l'autorité concédante à la fin, gratuitement s'ils sont totalement amortis."
+    },
+    {
+        "question": "Cas pratique 67 : L'Hôpital psychiatrique de Bingerville achète en gré à gré de la nourriture pour ses malades mentaux internés d'urgence.",
+        "options": {"A": "Urgence impérieuse légale.", "B": "Annulation pour défaut de publicité.", "C": "Condamnation du directeur.", "D": "Gré à gré civil."},
+        "answer": "A",
+        "explanation": "L'alimentation des internés d'urgence et le risque vital justifient souvent l'urgence impérieuse permettant de déroger temporairement à la mise en concurrence."
+    },
+    {
+        "question": "Cas pratique 68 : L'entreprise omet de publier son avis d'attribution dans le Bulletin Officiel des Marchés Publics de Côte d'Ivoire.",
+        "options": {"A": "Vice sans conséquence.", "B": "La publicité de l'attribution est une formalité substantielle, son absence rend le marché attaquable par les tiers évincés.", "C": "Seule l'ARCOP est punie.", "D": "La DMP corrige elle-même."},
+        "answer": "B",
+        "explanation": "La transparence de la commande publique exige la publication des résultats pour permettre les recours des candidats évincés."
+    },
+    {
+        "question": "Cas pratique 69 : L'État exproprie pour cause d'utilité publique, mais au bout de 10 ans, le terrain est laissé en friche et abandonné.",
+        "options": {"A": "L'État peut le garder indéfiniment.", "B": "Le propriétaire initial a un droit de rétrocession (reprise du bien moyennant remboursement) si l'affectation à l'utilité publique n'a pas été réalisée.", "C": "Le domaine public est prescrit.", "D": "Il doit être donné à la commune."},
+        "answer": "B",
+        "explanation": "En cas de défaut prolongé de réalisation de l'affectation d'utilité publique justifiant l'expropriation, l'ancien propriétaire peut exercer son droit de rétrocession."
+    },
+    {
+        "question": "Cas pratique 70 : L'État signe un contrat d'occupation du domaine public avec un affichiste pour des panneaux. Le Préfet révoque l'autorisation 2 mois après pour installer un rond-point.",
+        "options": {"A": "L'affichiste ne peut rien dire.", "B": "L'autorisation est précaire et révocable à tout moment pour motif d'intérêt général (moyennant indemnisation si convention le prévoit, souvent non).", "C": "Le rond-point est illégal.", "D": "L'affichiste est indemnisé à 100% systématiquement."},
+        "answer": "B",
+        "explanation": "Toute permission de voirie ou AOT sur le domaine public est par essence précaire et révocable sans indemnité de droit pour des motifs d'intérêt général tenant au domaine."
+    },
+    {
+        "question": "Cas pratique 71 : La construction de l'Université de San Pedro est retardée à cause de pluies exceptionnelles qualifiées de catastrophe naturelle par l'État.",
+        "options": {"A": "Force majeure : aucune pénalité de retard, délai prorogé.", "B": "Imprévision : indemnisation partielle.", "C": "Fait du prince.", "D": "Pénalité maintenue."},
+        "answer": "A",
+        "explanation": "La catastrophe naturelle imprévisible et irrésistible retarde légitimement le chantier, entraînant une exonération des pénalités (force majeure)."
+    },
+    {
+        "question": "Cas pratique 72 : La Présidence achète directement des hélicoptères de combat. Procédure ?",
+        "options": {"A": "Gré à gré 'secret défense' autorisé sans publicité.", "B": "Appel d'offres restreint obligatoire.", "C": "Appel d'offres ouvert impératif.", "D": "Interdiction d'achat par l'État."},
+        "answer": "A",
+        "explanation": "Les marchés liés à la sécurité de l'État (secret défense) dérogent aux règles de transparence et se passent de gré à gré exclusif."
+    },
+    {
+        "question": "Cas pratique 73 : Un concurrent évincé découvre que l'attributaire n'a pas payé ses impôts en CI.",
+        "options": {"A": "Le marché est néanmoins valable.", "B": "Le marché est illégal. Être en règle fiscalement est une condition sine qua non de participation (dossier administratif).", "C": "L'attributaire paiera après.", "D": "L'ARCOP le protège."},
+        "answer": "B",
+        "explanation": "Le Code des marchés publics exige que tout soumissionnaire prouve être à jour de ses cotisations fiscales et sociales. À défaut, son offre est irrecevable."
+    },
+    {
+        "question": "Cas pratique 74 : Le Ministre de la Fonction Publique signe un contrat pour la construction de logements sociaux (ne relève pas de ses attributions).",
+        "options": {"A": "Validité.", "B": "Incompétence matérielle (nullité de l'acte).", "C": "Validation par le Conseil d'État.", "D": "Incompétence temporelle."},
+        "answer": "B",
+        "explanation": "Le signataire d'un contrat de l'Administration doit agir dans les limites de ses attributions matérielles (domaine de compétence). Sinon le contrat est entaché d'incompétence matérielle."
+    },
+    {
+        "question": "Cas pratique 75 : L'entreprise BATI-CI a sous-évalué son offre (dumping). Elle réclame au bout d'un mois une indemnité d'imprévision car elle perd de l'argent.",
+        "options": {"A": "Indemnité d'imprévision accordée.", "B": "Rejet : l'imprévision suppose un fait extérieur, pas la propre erreur de prévision économique du cocontractant.", "C": "Fait du prince.", "D": "Sujétions imprévues."},
+        "answer": "B",
+        "explanation": "La théorie de l'imprévision ne couvre jamais le défaut de prévoyance de l'entrepreneur, ni son erreur de calcul initiale (risque normal d'entreprise)."
+    },
+    {
+        "question": "Cas pratique 76 : Une église est construite sur un terrain sans titre de l'État. L'État détruit au bulldozer un dimanche.",
+        "options": {"A": "Voie de fait car l'église est un lieu de culte et la destruction hors urgence sans décision de justice est gravement illégale.", "B": "Exécution d'office légale.", "C": "Fait du prince.", "D": "Domaine public inaliénable."},
+        "answer": "A",
+        "explanation": "En l'absence d'urgence impérieuse ou de loi l'autorisant expressément, l'exécution forcée par l'Administration d'une décision d'expulsion (destruction) d'une emprise privée/lieu de culte est une voie de fait."
+    },
+    {
+        "question": "Cas pratique 77 : La commune confie la collecte des taxes de marché à une structure privée, qui gardera 20% des sommes perçues.",
+        "options": {"A": "C'est légal, c'est une concession de service public.", "B": "C'est illégal : par principe, la perception de l'impôt et des taxes relève de la souveraineté de l'État (sauf régie habilitée), on ne concède pas la puissance fiscale.", "C": "Marché public de services.", "D": "C'est légal sans condition."},
+        "answer": "B",
+        "explanation": "Certaines activités inhérentes à la souveraineté de l'État (police, impôts de l'État stricto sensu) ne peuvent pas faire l'objet d'une délégation de service public."
+    },
+    {
+        "question": "Cas pratique 78 : Le gouvernement ivoirien adopte une mesure générale de hausse du SMIG. Les entreprises de nettoyage sous contrat avec l'État voient leurs charges salariales exploser et demandent indemnisation (Fait du Prince).",
+        "options": {"A": "Le Fait du Prince s'applique toujours.", "B": "Le Fait du Prince ne s'applique pas car la mesure est d'ordre général et non spécifique aux cocontractants (éventuellement imprévision si cela bouleverse l'économie).", "C": "Force majeure.", "D": "Résiliation d'office."},
+        "answer": "B",
+        "explanation": "Une mesure législative ou réglementaire de portée générale (comme la hausse du SMIG ou des impôts généraux) ne constitue pas un Fait du Prince indemnisable intégralement, à l'inverse d'une mesure spécifique au contrat."
+    },
+    {
+        "question": "Cas pratique 79 : Une route nationale est désaffectée de fait (elle n'est plus utilisée, envahie par la forêt). M. DIOMANDE l'occupe et demande la prescription acquisitive au bout de 30 ans.",
+        "options": {"A": "Il gagne, la route n'étant plus affectée.", "B": "Il perd, car sans déclassement juridique formel, la désaffectation de fait ne suffit pas à faire sortir le bien du domaine public (il reste inaliénable).", "C": "La route appartient à la forêt.", "D": "Il gagne après 10 ans."},
+        "answer": "B",
+        "explanation": "Un bien du domaine public ne perd son caractère public que par l'effet cumulé d'une désaffectation matérielle et d'un acte de déclassement exprès. À défaut, l'imprescriptibilité demeure."
+    },
+    {
+        "question": "Cas pratique 80 : Lors de l'exécution d'un marché public, les plans fournis par l'architecte de l'Administration sont gravement erronés, entraînant la destruction de l'ouvrage.",
+        "options": {"A": "C'est la faute exclusive de l'entrepreneur.", "B": "La responsabilité de l'Administration (maître d'ouvrage public) est engagée (faute lourde ou fait de l'Administration).", "C": "Force majeure.", "D": "Imprévision."},
+        "answer": "B",
+        "explanation": "Les fautes commises par les services de l'Administration (ou ses mandataires, ex: plans erronés) engagent sa responsabilité à l'égard de l'entrepreneur, limitant ou supprimant celle de ce dernier."
+    },
+    {
+        "question": "Cas pratique 81 : Le Conseil Régional du Poro décide de rompre unilatéralement son marché de construction d'une route car 'le Président du Conseil a changé et n'aime pas le style de la route'.",
+        "options": {"A": "Résiliation pour faute.", "B": "Résiliation illégale (détournement de pouvoir ou motif étranger à l'intérêt général).", "C": "Résiliation pour intérêt général valable.", "D": "Modification unilatérale."},
+        "answer": "B",
+        "explanation": "La résiliation unilatérale pour motif d'intérêt général doit être justifiée par de réelles nécessités de service public, et non par des convenances personnelles ou politiques (détournement de pouvoir)."
+    },
+    {
+        "question": "Cas pratique 82 : La Mairie cède de gré à gré une parcelle de son domaine privé à un investisseur à un prix dérisoire (1 franc symbolique) pour y construire un casino privé.",
+        "options": {"A": "C'est légal pour attirer des touristes.", "B": "Cession à vil prix illégale (interdiction pour les personnes publiques de consentir des libéralités ou ventes à prix symbolique sans forte contrepartie d'intérêt général).", "C": "L'ARCOP annule.", "D": "C'est une concession."},
+        "answer": "B",
+        "explanation": "La vente d'un bien du domaine privé d'une personne publique à un prix inférieur à sa valeur vénale est illégale, sauf si elle est justifiée par un motif d'intérêt général et assortie de contreparties suffisantes."
+    },
+    {
+        "question": "Cas pratique 83 : Une commune attribue un marché d'assainissement de 1 milliard à une PME locale créée la veille, sans références, alors qu'une multinationale avait concouru.",
+        "options": {"A": "C'est légal pour favoriser les PME.", "B": "Illégal, violation des critères de qualification technique et financière exigés dans les dossiers d'appel d'offres.", "C": "L'ARCOP félicite la commune.", "D": "L'État paiera la différence."},
+        "answer": "B",
+        "explanation": "L'attribution d'un marché doit se fonder sur l'examen rigoureux des capacités techniques, financières et professionnelles (références) du soumissionnaire tel qu'exigé par la réglementation."
+    },
+    {
+        "question": "Cas pratique 84 : Lors de la construction d'un barrage, l'État ivoirien exige de l'entreprise SINO-HYDRO de construire un pont supplémentaire non prévu au contrat (qui dépasse 50% de la valeur initiale du contrat).",
+        "options": {"A": "SINO-HYDRO doit s'exécuter unilatéralement.", "B": "Le bouleversement (modification dépassant le seuil légal de l'avenant) est tel qu'il sort de l'épure du contrat. L'entreprise peut refuser et demander un nouveau marché.", "C": "Imprévision totale.", "D": "Régie d'office obligatoire."},
+        "answer": "B",
+        "explanation": "Le pouvoir de modification unilatérale trouve sa limite dans le bouleversement de l'objet ou de l'économie du contrat (travaux constituant un projet nouveau). L'entrepreneur n'est pas tenu de les accepter."
+    },
+    {
+        "question": "Cas pratique 85 : Un fonctionnaire du CHU achète des médicaments pour l'hôpital sur ses fonds propres en cas de rupture de stock, de son propre chef. Il demande remboursement (théorie de l'enrichissement sans cause/gestion d'affaires).",
+        "options": {"A": "Il ne sera jamais remboursé.", "B": "La jurisprudence admet parfois le remboursement (quasi-contrat) si les dépenses ont été utiles à l'Administration et de bonne foi (enrichissement sans cause).", "C": "Il sera révoqué.", "D": "Il s'agit d'un marché public occulte."},
+        "answer": "B",
+        "explanation": "Les quasi-contrats administratifs (enrichissement sans cause de l'Administration) permettent d'indemniser une personne (même un agent) ayant exposé des frais utiles pour la collectivité de bonne foi."
+    },
+    {
+        "question": "Cas pratique 86 : Le Ministère passe un marché avec l'entreprise Z et précise : 'aucun recours juridictionnel n'est possible, seule l'ARCOP est compétente en dernier ressort'.",
+        "options": {"A": "Clause licite.", "B": "Clause réputée non écrite : on ne peut interdire l'accès au juge (Conseil d'État) par voie contractuelle (ordre public).", "C": "Clause validée par l'ARCOP.", "D": "L'OHADA s'applique."},
+        "answer": "B",
+        "explanation": "Le droit d'exercer un recours juridictionnel devant le juge de l'excès de pouvoir ou de plein contentieux administratif est un principe général du droit à valeur constitutionnelle. Une clause d'interdiction est nulle."
+    },
+    {
+        "question": "Cas pratique 87 : Une entreprise de cantine scolaire continue de fournir des repas à l'école alors que son marché est expiré depuis 6 mois, avec l'accord verbal du Directeur.",
+        "options": {"A": "Elle a droit à 100% de la valeur du contrat (maintien du contrat).", "B": "Le contrat est expiré, mais l'entreprise a droit à l'indemnisation de ses dépenses utiles sur la base de l'enrichissement sans cause (quasi-contrat) sans marge bénéficiaire.", "C": "Elle ne perçoit absolument rien.", "D": "Le Directeur paie de sa poche."},
+        "answer": "B",
+        "explanation": "Les prestations fournies hors contrat (marché expiré) sont indemnisées au titre de l'enrichissement sans cause de l'Administration, excluant la marge bénéficiaire de l'entreprise."
+    },
+    {
+        "question": "Cas pratique 88 : L'ARCOP annule la décision d'attribution du marché de l'ONAD à la société X, suite au recours de la société Y. L'ONAD refuse de s'y soumettre.",
+        "options": {"A": "L'ONAD est souveraine.", "B": "Les décisions de l'ARCOP ont un caractère contraignant et s'imposent à l'autorité contractante.", "C": "La société Y doit saisir la CEDEAO.", "D": "Le Ministre a le dernier mot."},
+        "answer": "B",
+        "explanation": "En Côte d'Ivoire, l'organe de régulation (ARCOP) rend des décisions exécutoires dans la phase de passation des marchés publics, qui s'imposent à l'Administration, sous réserve d'un recours au Conseil d'État."
+    },
+    {
+        "question": "Cas pratique 89 : Le Préfet d'Agboville décide de déclarer d'utilité publique l'expropriation d'un terrain pour y installer sa propre résidence privée.",
+        "options": {"A": "C'est légal.", "B": "Détournement de pouvoir (l'expropriation ne sert pas l'intérêt général mais un intérêt privé). Annulation de la DUP.", "C": "Le propriétaire est doublement indemnisé.", "D": "Validation par le juge judiciaire."},
+        "answer": "B",
+        "explanation": "L'expropriation pour cause d'utilité publique doit avoir pour but exclusif la satisfaction d'un intérêt public réel. L'utiliser pour un intérêt privé est un cas d'école de détournement de pouvoir."
+    },
+    {
+        "question": "Cas pratique 90 : M. OUATTARA loue un local de la Mairie situé dans le domaine privé. Le Maire résilie le bail pour non-paiement. Juge compétent ?",
+        "options": {"A": "Conseil d'État.", "B": "Juge judiciaire (Tribunal de Première Instance) car le bail du domaine privé est un contrat de droit privé.", "C": "ARCOP.", "D": "Tribunal administratif."},
+        "answer": "B",
+        "explanation": "La gestion du domaine privé (notamment les baux à loyer ordinaires) ressortit au droit privé et relève donc des juridictions judiciaires (sauf clause exorbitante)."
+    },
+    {
+        "question": "Cas pratique 91 : L'entreprise BTP a mal exécuté le toit de la Mairie, qui s'effondre 8 ans après la réception définitive des travaux sans réserve.",
+        "options": {"A": "La garantie est éteinte.", "B": "La responsabilité décennale des constructeurs s'applique (garantie de 10 ans pour les gros ouvrages).", "C": "La Mairie paie les réparations.", "D": "Force majeure."},
+        "answer": "B",
+        "explanation": "En matière de travaux publics, la garantie décennale oblige l'entrepreneur (et l'architecte) à réparer les vices cachés compromettant la solidité de l'ouvrage survenant dans les 10 ans suivant la réception."
+    },
+    {
+        "question": "Cas pratique 92 : Le sous-sol de la résidence de l'Ambassadeur de France en CI regorge d'or. L'État ivoirien veut l'exploiter. A qui appartient ce sous-sol ?",
+        "options": {"A": "À la France.", "B": "À l'Ambassadeur.", "C": "À l'État ivoirien (le domaine minier appartient à l'État, peu importe le propriétaire de la surface).", "D": "À personne (res nullius)."},
         "answer": "C",
-        "explanation": "Circulaire réglementaire faisant grief (Duvignères)."
+        "explanation": "Selon le Code minier ivoirien, les gisements naturels du sous-sol (mines) appartiennent à l'État de Côte d'Ivoire. Le propriétaire du sol n'est pas propriétaire du sous-sol minier."
     },
     {
-        "question": "Rémunération concessionnaire ?",
-        "options": ["A) Par l'Etat", "B) Usagers", "C) Sans risque", "D) Salaire"],
+        "question": "Cas pratique 93 : Une délégation de service public confie la collecte des péages de l'autoroute du Nord au Fond d'Entretien Routier (FER). Les péages sont perçus en son nom.",
+        "options": {"A": "Le FER est une régie.", "B": "Le FER est un concessionnaire qui assume les risques d'exploitation (rémunéré par les usagers).", "C": "Le FER est une ONG.", "D": "Les péages sont illégaux."},
         "answer": "B",
-        "explanation": "Rémunération substantielle liée à l'exploitation (usagers)."
+        "explanation": "Le concessionnaire de service public se distingue par le fait qu'il est rémunéré substantiellement par les résultats de l'exploitation (les redevances des usagers), assumant ainsi un risque économique."
     },
     {
-        "question": "Faute personnelle de l'agent :",
-        "options": ["A) Gravité", "B) Détachable service", "C) Lieu", "D) Grade"],
+        "question": "Cas pratique 94 : L'Administration omet d'indiquer la voie et les délais de recours dans la notification de résiliation du marché de l'entreprise X.",
+        "options": {"A": "La décision est nulle.", "B": "L'absence de cette mention a pour effet de rendre le délai de recours contentieux (habituellement 2 mois) inopposable à l'entreprise, qui peut attaquer sans délai.", "C": "L'ARCOP annule.", "D": "Rien ne change."},
         "answer": "B",
-        "explanation": "Faute détachable de l'exercice normal des fonctions."
+        "explanation": "En droit administratif ivoirien, le délai de recours ne court à l'encontre de l'administré que si la notification de la décision mentionne expressément les voies et délais de recours. À défaut, le délai ne court pas."
     },
     {
-        "question": "Fait du prince (contrat) :",
-        "options": ["A) Nature", "B) Admin cocontractante modifie", "C) Résiliation", "D) Tiers"],
+        "question": "Cas pratique 95 : Une autorité ivoirienne lance un appel d'offres international. Elle demande aux candidats d'écrire leurs offres en anglais.",
+        "options": {"A": "C'est légal pour s'ouvrir au monde.", "B": "Illégal, la Constitution ivoirienne dispose que le français est la langue officielle, les offres de marchés publics en CI doivent être rédigées ou traduites en français.", "C": "L'ARCOP choisira l'anglais.", "D": "C'est selon l'envie du Ministre."},
         "answer": "B",
-        "explanation": "L'administration modifie les conditions, ouvrant indemnisation."
+        "explanation": "Les procédures de passation des marchés publics de l'État de Côte d'Ivoire requièrent formellement l'usage de la langue française, langue officielle de la République."
     },
     {
-        "question": "Juge suprême REP contre décrets ?",
-        "options": ["A) TPI", "B) Conseil Etat", "C) Appel", "D) Cons Constit"],
+        "question": "Cas pratique 96 : L'entreprise étrangère KAGAME BTP conteste un marché ivoirien parce qu'une prime de préférence nationale de 15% a été accordée à l'entreprise ivoirienne SORO BTP.",
+        "options": {"A": "C'est du favoritisme illégal.", "B": "C'est légal, le Code des marchés publics ivoirien et communautaire (UEMOA) consacre une marge de préférence communautaire/nationale (jusqu'à 15%) pour les entreprises locales.", "C": "La prime est limitée à 5%.", "D": "C'est l'OHADA qui régit ça."},
         "answer": "B",
-        "explanation": "Le Conseil d'Etat (compétence 1er/dernier ressort)."
+        "explanation": "La préférence nationale et communautaire est légalement prévue et encadrée dans les marchés publics de la zone UEMOA afin de favoriser les entreprises régionales."
     },
     {
-        "question": "Délégation de signature :",
-        "options": ["A) Dessaisit", "B) Ne dessaisit pas", "C) Juge", "D) Transmet auto"],
+        "question": "Cas pratique 97 : Une entreprise gagne un marché de 50 millions FCFA. Le contrat est signé, mais la Direction des Marchés Publics refuse son visa pour une erreur formelle.",
+        "options": {"A": "Le marché est exécutoire sans visa.", "B": "Le contrat n'entre pas en vigueur : le visa de la DMP (et/ou l'approbation de l'autorité compétente) est une formalité substantielle de l'existence juridique du contrat.", "C": "L'entreprise doit poursuivre.", "D": "L'ARCOP obligera le visa."},
         "answer": "B",
-        "explanation": "Le délégant conserve sa compétence."
+        "explanation": "Un marché public ne devient exécutoire et définitif qu'après son approbation par l'autorité compétente, sanctionnée souvent par l'immatriculation ou le visa de contrôle."
     },
     {
-        "question": "Expropriation exige :",
-        "options": ["A) Accord", "B) Juste/préalable indemnité", "C) Décret PM", "D) Loi"],
+        "question": "Cas pratique 98 : Le Maire de San Pedro met fin à une concession de plage pour faute grave de l'exploitant, mais ne précise pas le motif dans la lettre de résiliation.",
+        "options": {"A": "La résiliation est légale, le maire n'a pas à se justifier.", "B": "Vice de forme (défaut de motivation). Une sanction doit être obligatoirement motivée en fait et en droit.", "C": "Le préfet motivera plus tard.", "D": "La plage est du domaine privé."},
         "answer": "B",
-        "explanation": "Protection constitutionnelle de la propriété."
+        "explanation": "Les décisions administratives défavorables, et notamment les actes infligeant une sanction (comme la résiliation pour faute), doivent être expressément motivées pour permettre le contrôle du juge."
     },
     {
-        "question": "Contrôle pouvoir discrétionnaire :",
-        "options": ["A) Aucun", "B) Erreur manifeste", "C) Illégal", "D) Réservé PR"],
+        "question": "Cas pratique 99 : La Société Nationale des Autoroutes perçoit une taxe sur chaque kilomètre parcouru, mais les péages ne sont ni entretenus ni éclairés. L'association des usagers porte plainte.",
+        "options": {"A": "Les usagers ont toujours tort.", "B": "Les redevances pour service rendu doivent correspondre à un service effectivement rendu. En l'absence d'entretien, le service est défaillant, engageant la responsabilité du concessionnaire.", "C": "C'est un impôt direct.", "D": "La route appartient à la CEDEAO."},
         "answer": "B",
-        "explanation": "Le juge vérifie l'absence d'EMA (Erreur Manifeste d'Appréciation)."
+        "explanation": "La redevance (contrairement à l'impôt) est la contrepartie financière d'un service rendu (péage = droit d'usage d'une infrastructure entretenue). Le défaut d'entretien constitue une inexécution contractuelle (ou quasi-délictuelle vis-à-vis de l'usager)."
     },
     {
-        "question": "Principe Service Public :",
-        "options": ["A) Rentabilité", "B) Mutabilité", "C) Concurrence", "D) Rigidité"],
+        "question": "Cas pratique 100 : En Côte d'Ivoire, l'ARCOP, lors d'un audit a posteriori, découvre qu'un marché public de 10 milliards a été attribué de manière fictive. Le marché est entièrement exécuté et payé.",
+        "options": {"A": "L'ARCOP ne peut rien faire, c'est payé.", "B": "L'ARCOP peut saisir le Procureur de la République pour des poursuites pénales (détournement de deniers publics, corruption) contre les auteurs et l'entreprise.", "C": "L'ARCOP détruit l'ouvrage.", "D": "Le Conseil d'État ordonne le remboursement."},
         "answer": "B",
-        "explanation": "Loi de Rolland : Adaptation/Mutabilité."
+        "explanation": "L'ARCOP mène des audits réguliers. Lorsqu'elle décèle des infractions pénales (fraude, corruption, faux) dans un marché (même exécuté), elle a l'obligation d'en référer aux autorités judiciaires (Tribunal, Pôle pénal financier)."
     },
     {
-        "question": "But police administrative :",
-        "options": ["A) Répression", "B) Prévention troubles", "C) Enquête", "D) Arrestation"],
-        "answer": "B",
-        "explanation": "Prévention de l'ordre public."
-    },
-    {
-        "question": "Arrêt Blanco :",
-        "options": ["A) Irresponsabilité", "B) Compétence JA/Autonomie", "C) Imprévision", "D) REP"],
-        "answer": "B",
-        "explanation": "Fonde l'autonomie du droit administratif (1873)."
-    },
-    {
-        "question": "Silence 4 mois admin CI :",
-        "options": ["A) Rejet", "B) Accept", "C) Sursis", "D) Juge"],
-        "answer": "A",
-        "explanation": "Silence vaut décision implicite de rejet (général)."
-    },
-    {
-        "question": "Détournement pouvoir :",
-        "options": ["A) Incompétence", "B) Forme", "C) Loi", "D) But autre"],
-        "answer": "D",
-        "explanation": "Utiliser son pouvoir pour un but illégitime."
-    },
-    {
-        "question": "Refus ordre manifestement illégal :",
-        "options": ["A) Obéissance aveugle", "B) Baïonnette intelligente", "C) Insubordination", "D) Exception"],
-        "answer": "B",
-        "explanation": "Devoir de désobéissance si illégal et dangereux."
-    },
-    {
-        "question": "Exception illégalité :",
-        "options": ["A) Annule après délai", "B) Écarte règlement illégal", "C) Punit min", "D) Modifie constit"],
-        "answer": "B",
-        "explanation": "Moyen de défense perpétuel contre un acte réglementaire."
-    },
-    {
-        "question": "Régularisation contrat (Tarn/Garonne) :",
-        "options": ["A) Toujours annulé", "B) Sauvetage si possible", "C) Inattaquable", "D) Modifié usager"],
-        "answer": "B",
-        "explanation": "Privilégie la survie du contrat (loyauté contractuelle)."
-    },
-    {
-        "question": "Imprévision (Gaz Bordeaux) :",
-        "options": ["A) Prévisible", "B) Imprévisible/bouleversant", "C) Définitif", "D) Faute admin"],
-        "answer": "B",
-        "explanation": "Évènement exceptionnel déséquilibrant temporairement le contrat."
-    },
-    {
-        "question": "Préfet est autorité :",
-        "options": ["A) Décentralisée", "B) Déconcentrée", "C) Fédérale", "D) Judiciaire"],
-        "answer": "B",
-        "explanation": "Représentant local du pouvoir central de l'Etat."
-    },
-    {
-        "question": "Maire agent de l'Etat (cas) :",
-        "options": ["A) Marchés", "B) Personnel", "C) État civil", "D) Voies"],
+        "question": "Cas pratique 1 : Sieur KPANGO subit une intervention au CHU de Cocody. Une pince est oubliée. Régime de responsabilité ?",
+        "options": {"A": "Sans faute", "B": "Faute lourde", "C": "Faute simple de service", "D": "Faute personnelle"},
         "answer": "C",
-        "explanation": "Officier d'état civil agissant au nom de l'Etat."
+        "explanation": "La faute médicale au CHU relève de la faute simple de service."
     },
     {
-        "question": "Acte inexistant :",
-        "options": ["A) 2 mois", "B) Aucun recours", "C) Nul, contestable tjrs", "D) Implicite"],
+        "question": "Cas pratique 2 : Lors d'une manifestation, DJ MÔKÔ, passant, est blessé par un tir policier. Régime applicable ?",
+        "options": {"A": "Faute lourde", "B": "Sans faute pour risque", "C": "Faute personnelle", "D": "Aucune responsabilité"},
+        "answer": "B",
+        "explanation": "Les tiers aux opérations de police bénéficient de la responsabilité sans faute."
+    },
+    {
+        "question": "Cas pratique 3 : Le Maire d'Agboville interdit un concert sans motif. Analyse ?",
+        "options": {"A": "Légal, pouvoir discrétionnaire", "B": "Illégal, contrôle de proportionnalité", "C": "Légal avec accord préfet", "D": "Illégal pour incompétence"},
+        "answer": "B",
+        "explanation": "Atteinte disproportionnée à la liberté (Arrêt Benjamin)."
+    },
+    {
+        "question": "Cas pratique 4 : Dame AFFOUÉ tombe dans un trou non signalé de l'AGEROUTE. Régime ?",
+        "options": {"A": "Faute prouvée", "B": "Défaut d'entretien normal", "C": "Faute lourde", "D": "Responsabilité de la mairie"},
+        "answer": "B",
+        "explanation": "L'usager bénéficie de la présomption de défaut d'entretien normal de l'ouvrage public."
+    },
+    {
+        "question": "Cas pratique 5 : Refus de concours de la force publique pour expulser des squatteurs. Régime ?",
+        "options": {"A": "Faute simple", "B": "Sans faute (rupture d'égalité)", "C": "Faute lourde", "D": "Irresponsabilité"},
+        "answer": "B",
+        "explanation": "Jurisprudence Couitéas, responsabilité sans faute pour préjudice anormal et spécial."
+    },
+    {
+        "question": "Cas pratique 6 : Un arrêté préfectoral interdit toutes les réunions ad vitam aeternam. Légalité ?",
+        "options": {"A": "Illégal (général et absolu)", "B": "Légal", "C": "Acte de gouvernement", "D": "Légal en crise"},
+        "answer": "A",
+        "explanation": "Une mesure de police ne peut être générale et absolue."
+    },
+    {
+        "question": "Cas pratique 7 : M. TOURE glisse sur un sol mouillé sans panneau au CHU. Responsabilité ?",
+        "options": {"A": "Faute personnelle", "B": "Faute de service", "C": "Sans faute", "D": "Force majeure"},
+        "answer": "B",
+        "explanation": "Négligence dans l'organisation du service engage la responsabilité de l'hôpital."
+    },
+    {
+        "question": "Cas pratique 8 : Gendarme frappant par vengeance avec son arme de service. Analyse ?",
+        "options": {"A": "Faute de service exclusive", "B": "Faute personnelle sans lien", "C": "Cumul de responsabilités (Lemonnier)", "D": "Sans faute"},
         "answer": "C",
-        "explanation": "Vice si grave qu'il n'existe juridiquement pas (pas de délai)."
+        "explanation": "Faute personnelle commise avec les moyens du service."
     },
     {
-        "question": "Tutelle administrative s'exerce sur :",
-        "options": ["A) Préfet", "B) Collectivités locales", "C) Ministres", "D) Sociétés"],
+        "question": "Cas pratique 9 : Pont en construction effondré blessant un ouvrier de l'entreprise. Régime ?",
+        "options": {"A": "Sans faute de l'Etat", "B": "Droit du travail / sécurité sociale", "C": "Faute lourde", "D": "Faute de service"},
         "answer": "B",
-        "explanation": "Contrôle de l'Etat sur les entités décentralisées."
+        "explanation": "Les participants aux travaux publics relèvent du droit du travail."
     },
     {
-        "question": "Accident véhicule admin jugé par :",
-        "options": ["A) TA", "B) Juge Judiciaire", "C) CE", "D) TM"],
-        "answer": "B",
-        "explanation": "Loi 1957 confie ces litiges au juge judiciaire."
-    },
-    {
-        "question": "Lien usager-SPIC :",
-        "options": ["A) Administratif", "B) Privé (contractuel)", "C) Mixte", "D) Pénal"],
-        "answer": "B",
-        "explanation": "Contrat de droit privé."
-    },
-    {
-        "question": "Recours gracieux adressé à :",
-        "options": ["A) Supérieur", "B) Auteur de l'acte", "C) Juge", "D) Médiateur"],
-        "answer": "B",
-        "explanation": "À l'autorité qui a pris la décision."
-    },
-    {
-        "question": "Fin phase admin expropriation :",
-        "options": ["A) Arrêté cessibilité", "B) Jugement", "C) Ordonnance", "D) DUP"],
+        "question": "Cas pratique 10 : Arbre abattu par la mairie tombant sur une voiture. Régime ?",
+        "options": {"A": "Sans faute (tiers)", "B": "Faute prouvée", "C": "Défaut d'entretien", "D": "Force majeure"},
         "answer": "A",
-        "explanation": "L'arrêté de cessibilité (qui transfère au juge civil la suite)."
+        "explanation": "Responsabilité sans faute pour le tiers par rapport à l'ouvrage public."
     },
     {
-        "question": "EPA soumis au principe de :",
-        "options": ["A) Spécialité", "B) Concurrence", "C) Universalité", "D) Rentabilité"],
+        "question": "Cas pratique 11 : Maire détruisant une maison menaçant ruine. But de police ?",
+        "options": {"A": "Salubrité et sécurité", "B": "Tranquillité", "C": "Esthétique", "D": "Moralité"},
         "answer": "A",
-        "explanation": "Principe de spécialité de l'établissement public."
+        "explanation": "La sécurité publique est visée pour prévenir un effondrement."
     },
     {
-        "question": "Marché TP vs Fournitures :",
-        "options": ["A) Montant", "B) Immeuble", "C) Passation", "D) Cocontractant"],
+        "question": "Cas pratique 12 : Inaction de l'administration face à une épidémie. Responsabilité ?",
+        "options": {"A": "Faute de service (carence)", "B": "Acte de gouvernement", "C": "Sans faute", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "La carence de police ou d'organisation constitue une faute de service."
+    },
+    {
+        "question": "Cas pratique 13 : Malade psychiatrique dangereux échappé. Régime ?",
+        "options": {"A": "Faute de surveillance (service)", "B": "Sans faute", "C": "Faute lourde", "D": "Faute personnelle"},
+        "answer": "A",
+        "explanation": "Le défaut de surveillance d'un patient dangereux est une faute de service."
+    },
+    {
+        "question": "Cas pratique 14 : Policier hors service utilisant son arme pour un meurtre. Régime ?",
+        "options": {"A": "Faute de service", "B": "Cumul (arme de service)", "C": "Détachable", "D": "Sans faute"},
         "answer": "B",
-        "explanation": "Le TP implique un travail sur un bien immobilier public."
+        "explanation": "L'utilisation de l'arme de service permet d'engager la responsabilité de l'Etat."
     },
     {
-        "question": "Conseil Etat CI comme juge appel :",
-        "options": ["A) Tous litiges", "B) Décisions TPI admin", "C) Impôts", "D) Jamais"],
+        "question": "Cas pratique 15 : Interdiction de lancer de nains. Motif ?",
+        "options": {"A": "Dignité humaine", "B": "Tranquillité", "C": "Sécurité", "D": "Esthétique"},
+        "answer": "A",
+        "explanation": "La dignité humaine est une composante de l'ordre public (Morsang-sur-Orge)."
+    },
+    {
+        "question": "Cas pratique 16 : Pompiers en retard pour panne matérielle non entretenue. Régime ?",
+        "options": {"A": "Faute lourde", "B": "Faute simple", "C": "Sans faute", "D": "Force majeure"},
         "answer": "B",
-        "explanation": "Statuant sur les appels des juridictions du 1er degré admin."
+        "explanation": "La jurisprudence exige désormais une faute simple pour ce dysfonctionnement."
     },
     {
-        "question": "Non-privilège admin :",
-        "options": ["A) Décision exécutoire", "B) Exécution forcée", "C) Égalité stricte", "D) Expropriation"],
+        "question": "Cas pratique 17 : Policier frappant un contrevenant insolent. Juge compétent ?",
+        "options": {"A": "Juge administratif (faute service)", "B": "Juge pénal", "C": "Juge civil", "D": "Tribunal des conflits"},
+        "answer": "A",
+        "explanation": "Si faute de service, compétence du juge administratif (TC Pelletier)."
+    },
+    {
+        "question": "Cas pratique 18 : Loi d'amnistie causant préjudice. Régime ?",
+        "options": {"A": "Faute", "B": "Sans faute du fait des lois", "C": "Irresponsabilité", "D": "Force majeure"},
+        "answer": "B",
+        "explanation": "Responsabilité sans faute de l'Etat législateur (La Fleurette)."
+    },
+    {
+        "question": "Cas pratique 19 : Interdiction réunion pour critique gouvernementale. Analyse ?",
+        "options": {"A": "Légal", "B": "Détournement de pouvoir", "C": "Ordre public", "D": "Acte de gouvernement"},
+        "answer": "B",
+        "explanation": "La police ne doit poursuivre que le maintien matériel de l'ordre, non la censure."
+    },
+    {
+        "question": "Cas pratique 20 : Camion poubelle renversant un piéton. Juge compétent ?",
+        "options": {"A": "Administratif", "B": "Judiciaire", "C": "Tribunal des conflits", "D": "Pénal seul"},
+        "answer": "B",
+        "explanation": "Exception légale (loi 1957) attribuant le contentieux des véhicules au juge judiciaire."
+    },
+    {
+        "question": "Cas pratique 21 : Fermeture d'un maquis très bruyant après avertissements. Analyse ?",
+        "options": {"A": "Illégal", "B": "Légal (tranquillité publique proportionnée)", "C": "Actes de gouvernement", "D": "Faute lourde"},
+        "answer": "B",
+        "explanation": "Mesure proportionnée pour assurer la tranquillité publique."
+    },
+    {
+        "question": "Cas pratique 22 : Transfusion sanguine et VIH au CHU. Régime ?",
+        "options": {"A": "Faute lourde", "B": "Faute simple", "C": "Sans faute pour risque", "D": "Force majeure"},
         "answer": "C",
-        "explanation": "L'administration n'est pas l'égale du particulier (pouvoir exhorbitant)."
+        "explanation": "Les contaminations transfusionnelles engagent la responsabilité sans faute de l'hôpital."
     },
     {
-        "question": "Faute lourde exigée (tradition) :",
-        "options": ["A) Police matérielle", "B) Hôpital simple", "C) Police terrain/fisc/justice", "D) TP"],
+        "question": "Cas pratique 23 : Réquisition de stations-service en crise. Théorie ?",
+        "options": {"A": "Circonstances exceptionnelles", "B": "Pouvoir discrétionnaire", "C": "Acte de gouvernement", "D": "Faute lourde"},
+        "answer": "A",
+        "explanation": "En période de crise, les pouvoirs de police sont élargis (Arrêt Heyriès)."
+    },
+    {
+        "question": "Cas pratique 24 : Refus illégal de passeport causant dommage. Régime ?",
+        "options": {"A": "Faute de service", "B": "Sans faute", "C": "Irresponsabilité", "D": "Faute personnelle"},
+        "answer": "A",
+        "explanation": "Toute illégalité fautive engage la responsabilité de l'administration."
+    },
+    {
+        "question": "Cas pratique 25 : Feu d'artifice de la commune blessant un spectateur. Régime ?",
+        "options": {"A": "Sans faute pour activité dangereuse", "B": "Faute simple", "C": "Faute lourde", "D": "Force majeure"},
+        "answer": "A",
+        "explanation": "Activité dangereuse créant un risque anormal pour les tiers."
+    },
+    {
+        "question": "Cas pratique 26 : Agent des douanes volant des marchandises saisies. Responsabilité de l'Etat ?",
+        "options": {"A": "Aucune, faute personnelle détachable", "B": "Faute de service", "C": "Cumul", "D": "Sans faute"},
+        "answer": "A",
+        "explanation": "Le vol est une faute personnelle dépourvue de tout lien avec le service."
+    },
+    {
+        "question": "Cas pratique 27 : Erreur de diagnostic d'un médecin du CHU Yopougon. Régime ?",
+        "options": {"A": "Faute lourde", "B": "Faute simple", "C": "Sans faute", "D": "Force majeure"},
+        "answer": "B",
+        "explanation": "L'exigence de faute lourde médicale a été abandonnée."
+    },
+    {
+        "question": "Cas pratique 28 : Effondrement de la toiture d'une mairie sur un usager. Régime ?",
+        "options": {"A": "Défaut d'entretien normal", "B": "Faute prouvée", "C": "Sans faute (tiers)", "D": "Force majeure"},
+        "answer": "A",
+        "explanation": "Responsabilité présumée pour défaut d'entretien de l'ouvrage public (usager)."
+    },
+    {
+        "question": "Cas pratique 29 : Dommage causé par un attroupement violent ciblant la préfecture. Régime ?",
+        "options": {"A": "Responsabilité de l'Etat (attroupement)", "B": "Faute de service", "C": "Faute personnelle", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Régime spécial de responsabilité de l'Etat pour les dommages des attroupements."
+    },
+    {
+        "question": "Cas pratique 30 : Injonction du maire de démolir un mur clôture sans péril imminent. Analyse ?",
+        "options": {"A": "Illégal (empiètement judiciaire)", "B": "Légal", "C": "Pouvoir de police général", "D": "Circonstance exceptionnelle"},
+        "answer": "A",
+        "explanation": "Sans péril imminent, la voie de fait ou l'illégalité est caractérisée."
+    },
+    {
+        "question": "Cas pratique 31 : Agent ivoirien tabasse un détenu à la MACA. Régime ?",
+        "options": {"A": "Faute personnelle", "B": "Faute de service", "C": "Cumul de responsabilités", "D": "Sans faute"},
         "answer": "C",
-        "explanation": "Activités régaliennes particulièrement difficiles."
+        "explanation": "Faute personnelle (violence) commise à l'occasion du service (MACA)."
     },
     {
-        "question": "Tiers victime TP :",
-        "options": ["A) Faute simple", "B) Faute lourde", "C) Sans faute", "D) Contrat"],
+        "question": "Cas pratique 32 : Ministre prend un décret rétroactif causant dommage. Régime ?",
+        "options": {"A": "Faute de service (illégalité)", "B": "Sans faute", "C": "Acte gouvernement", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Un acte illégal (rétroactivité) est une faute de service."
+    },
+    {
+        "question": "Cas pratique 33 : Maire réglemente la circulation pour cause de travaux publics. Légalité ?",
+        "options": {"A": "Légal (police de la circulation)", "B": "Illégal", "C": "Seul le préfet peut", "D": "Incompétence"},
+        "answer": "A",
+        "explanation": "Le maire dispose de la police de la circulation sur sa commune."
+    },
+    {
+        "question": "Cas pratique 34 : Promeneur blessé par un tir de militaire à l'entraînement. Régime ?",
+        "options": {"A": "Sans faute (risque)", "B": "Faute lourde", "C": "Défaut d'entretien", "D": "Faute personnelle"},
+        "answer": "A",
+        "explanation": "L'utilisation d'armes à feu engage la responsabilité sans faute de l'Etat pour les tiers."
+    },
+    {
+        "question": "Cas pratique 35 : Dommages causés par l'exécution d'un traité international. Régime ?",
+        "options": {"A": "Sans faute (égalité devant les charges publiques)", "B": "Faute", "C": "Acte gouvernement inattaquable", "D": "Faute lourde"},
+        "answer": "A",
+        "explanation": "Jurisprudence Compagnie Générale d'Energie Radioélectrique (indemnisation possible)."
+    },
+    {
+        "question": "Cas pratique 36 : Morsure par un chien policier lors d'une traque. Régime pour le suspect ?",
+        "options": {"A": "Faute (si l'utilisation du chien est fautive)", "B": "Sans faute (tiers)", "C": "Force majeure", "D": "Faute personnelle"},
+        "answer": "A",
+        "explanation": "Pour la personne visée par la police, il faut prouver une faute (souvent simple)."
+    },
+    {
+        "question": "Cas pratique 37 : Patient s'échappe de l'hôpital et se suicide. Responsabilité de l'hôpital ?",
+        "options": {"A": "Faute dans l'organisation (surveillance)", "B": "Sans faute", "C": "Force majeure", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Défaut de surveillance d'un patient à risque suicidaire connu est une faute de service."
+    },
+    {
+        "question": "Cas pratique 38 : Maire d'Abobo instaure un couvre-feu permanent sans motif précis. Légalité ?",
+        "options": {"A": "Illégal (disproportionné)", "B": "Légal", "C": "Circonstance exceptionnelle", "D": "Légal si visé par le préfet"},
+        "answer": "A",
+        "explanation": "Mesure générale et absolue non justifiée par les circonstances (Arrêt Daudignac/Benjamin)."
+    },
+    {
+        "question": "Cas pratique 39 : KPAKPATO heurte un panneau de signalisation tombé sur la route. Régime ?",
+        "options": {"A": "Défaut d'entretien normal", "B": "Sans faute pour tiers", "C": "Faute prouvée", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "L'usager de l'ouvrage public bénéficie de la présomption de défaut d'entretien."
+    },
+    {
+        "question": "Cas pratique 40 : Un ministre refuse d'exécuter un arrêt du Conseil d'Etat. Responsabilité ?",
+        "options": {"A": "Faute de service", "B": "Acte de gouvernement", "C": "Sans faute", "D": "Voie de fait"},
+        "answer": "A",
+        "explanation": "Le refus d'exécuter la chose jugée est une illégalité fautive."
+    },
+    {
+        "question": "Cas pratique 41 : Policier ivre en service blesse un collègue. Régime ?",
+        "options": {"A": "Cumul de responsabilités", "B": "Sans faute", "C": "Faute exclusive de l'administration", "D": "Faute personnelle pure"},
+        "answer": "A",
+        "explanation": "Faute personnelle détachable commise pendant le service."
+    },
+    {
+        "question": "Cas pratique 42 : Travaux bruyants d'un hôpital la nuit causant un préjudice au voisinage. Régime ?",
+        "options": {"A": "Sans faute (dommage permanent de TP)", "B": "Faute", "C": "Défaut d'entretien", "D": "Force majeure"},
+        "answer": "A",
+        "explanation": "Le tiers voisin d'un ouvrage public subissant des nuisances anormales est indemnisé sans faute."
+    },
+    {
+        "question": "Cas pratique 43 : Coupure d'électricité prolongée (CIE) causant la perte de stocks d'un boucher. Régime ?",
+        "options": {"A": "Défaut d'entretien ou faute contractuelle du concessionnaire", "B": "Sans faute", "C": "Force majeure automatique", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Le concessionnaire (CIE) est responsable du fonctionnement du service (faute présumée ou prouvée)."
+    },
+    {
+        "question": "Cas pratique 44 : Maire interdit le port du masque sanitaire pour esthétique. Légalité ?",
+        "options": {"A": "Illégal (incompétence et détournement)", "B": "Légal", "C": "Salubrité publique", "D": "Moralité"},
+        "answer": "A",
+        "explanation": "Le maire ne peut s'opposer aux règles sanitaires nationales pour des motifs esthétiques mineurs."
+    },
+    {
+        "question": "Cas pratique 45 : Retard abusif dans la délivrance d'un permis de construire. Responsabilité ?",
+        "options": {"A": "Faute de service", "B": "Sans faute", "C": "Faute lourde", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Le retard illégal et excessif engage la responsabilité pour faute de l'administration."
+    },
+    {
+        "question": "Cas pratique 46 : Dommage lié à la méthode éducative libérale dans un centre pour délinquants. Régime ?",
+        "options": {"A": "Sans faute pour risque", "B": "Faute", "C": "Défaut d'entretien", "D": "Faute personnelle"},
+        "answer": "A",
+        "explanation": "L'utilisation de méthodes dangereuses pour les tiers (Arrêt Thouzellier) engage la responsabilité sans faute."
+    },
+    {
+        "question": "Cas pratique 47 : Enseignant du public blesse un élève en le frappant. Régime ?",
+        "options": {"A": "Loi du 5 avril 1937 (substitution de l'Etat)", "B": "Sans faute", "C": "Faute de service classique", "D": "Faute personnelle au pénal seul"},
+        "answer": "A",
+        "explanation": "L'Etat se substitue à l'enseignant fautif devant les tribunaux judiciaires pour les dommages aux élèves."
+    },
+    {
+        "question": "Cas pratique 48 : L'Etat interdit un produit dangereux après des mois d'études. Légalité de l'interdiction ?",
+        "options": {"A": "Légal, précaution et salubrité", "B": "Illégal, atteinte au commerce", "C": "Acte de gouvernement", "D": "Compétence judiciaire"},
+        "answer": "A",
+        "explanation": "La police administrative peut interdire des produits dangereux pour protéger la salubrité."
+    },
+    {
+        "question": "Cas pratique 49 : Médecin privé réquisitionné lors d'une catastrophe, se blesse. Régime d'indemnisation ?",
+        "options": {"A": "Collaborateur occasionnel du SP (sans faute)", "B": "Faute lourde", "C": "Sécurité sociale", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Jurisprudence Commune de Saint-Priest-la-Plaine (responsabilité sans faute pour le collaborateur)."
+    },
+    {
+        "question": "Cas pratique 50 : Chute d'un arbre d'alignement non entretenu sur un piéton. Régime ?",
+        "options": {"A": "Défaut d'entretien normal (usager TP)", "B": "Sans faute pour tiers", "C": "Faute personnelle du jardinier", "D": "Force majeure"},
+        "answer": "A",
+        "explanation": "Le piéton sur le trottoir est usager de l'ouvrage public."
+    },
+    {
+        "question": "Cas pratique 51 : Préfet refuse la force publique pour expulser un syndicat en grève. Régime ?",
+        "options": {"A": "Responsabilité sans faute (Couitéas)", "B": "Faute", "C": "Irresponsabilité", "D": "Acte de gouvernement"},
+        "answer": "A",
+        "explanation": "Refus justifié par l'ordre public social, mais indemnisation sans faute du propriétaire."
+    },
+    {
+        "question": "Cas pratique 52 : Chasse-neige blesse un skieur en station publique (Côte d'Ivoire n'a pas de neige, prenons un tracteur de voirie). Régime ?",
+        "options": {"A": "Véhicule administratif (compétence judiciaire)", "B": "Travaux publics", "C": "Faute de service administrative", "D": "Sans faute"},
+        "answer": "A",
+        "explanation": "Les dommages par véhicules (loi 1957) relèvent du juge judiciaire."
+    },
+    {
+        "question": "Cas pratique 53 : Arrêté du maire de Yamoussoukro interdisant toute mendicité au centre-ville. Légalité ?",
+        "options": {"A": "Légal si limité et justifié par l'ordre public", "B": "Illégal car général et absolu", "C": "Compétence du préfet", "D": "Acte insusceptible de recours"},
+        "answer": "A",
+        "explanation": "Les interdictions de mendicité sont légales si elles sont limitées dans le temps/l'espace et justifiées."
+    },
+    {
+        "question": "Cas pratique 54 : Policiers cassent la porte d'un voisin par erreur lors d'une perquisition. Régime pour le voisin ?",
+        "options": {"A": "Responsabilité sans faute (tiers)", "B": "Faute lourde", "C": "Faute personnelle", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Le tiers bénéficie de la responsabilité sans faute (rupture égalité)."
+    },
+    {
+        "question": "Cas pratique 55 : Une erreur de diagnostic vétérinaire de l'Etat cause la mort du troupeau de M. N'GUESSAN. Régime ?",
+        "options": {"A": "Faute simple", "B": "Faute lourde", "C": "Sans faute", "D": "Force majeure"},
+        "answer": "A",
+        "explanation": "La faute simple est suffisante aujourd'hui pour les services de contrôle ou vétérinaires."
+    },
+    {
+        "question": "Cas pratique 56 : Maire ordonne de tuer des chiens errants menaçants. Police ?",
+        "options": {"A": "Sécurité et salubrité", "B": "Tranquillité", "C": "Moralité", "D": "Esthétique"},
+        "answer": "A",
+        "explanation": "La lutte contre les animaux errants dangereux relève de la sécurité/salubrité."
+    },
+    {
+        "question": "Cas pratique 57 : Effondrement de la voie publique suite à de fortes pluies prévisibles. Voiture endommagée. Régime ?",
+        "options": {"A": "Défaut d'entretien normal (pas de force majeure si prévisible)", "B": "Force majeure", "C": "Faute exclusive victime", "D": "Sans faute pour risque"},
+        "answer": "A",
+        "explanation": "L'intempérie prévisible n'est pas la force majeure. Présomption de défaut d'entretien."
+    },
+    {
+        "question": "Cas pratique 58 : Refus d'agrément d'une clinique illégalement prononcé par le Ministre. Régime indemnitaire ?",
+        "options": {"A": "Faute de service", "B": "Acte de gouvernement", "C": "Sans faute", "D": "Détournement sans faute"},
+        "answer": "A",
+        "explanation": "L'acte illégal est une faute."
+    },
+    {
+        "question": "Cas pratique 59 : Maire d'Adjamé ferme un commerce pour insalubrité avérée. Recours du gérant ?",
+        "options": {"A": "Rejet, mesure de police justifiée", "B": "Annulation, incompétence", "C": "Annulation, liberté de commerce absolue", "D": "Indemnisation sans faute"},
+        "answer": "A",
+        "explanation": "La fermeture pour insalubrité est légale."
+    },
+    {
+        "question": "Cas pratique 60 : Agent des impôts diffamant un contribuable sur les réseaux. Régime ?",
+        "options": {"A": "Faute personnelle détachable", "B": "Faute de service", "C": "Cumul", "D": "Sans faute"},
+        "answer": "A",
+        "explanation": "Faute personnelle sans lien avec le service."
+    },
+    {
+        "question": "Cas pratique 61 : Dommage causé par un détenu en semi-liberté. Régime ?",
+        "options": {"A": "Responsabilité sans faute (méthode libérale dangereuse)", "B": "Faute", "C": "Défaut d'entretien", "D": "Irresponsabilité"},
+        "answer": "A",
+        "explanation": "Jurisprudence Thouzellier / Garde des Sceaux contre C."
+    },
+    {
+        "question": "Cas pratique 62 : Loi interdisant la production d'un produit (amiante) et causant la ruine du producteur. Indemnisation ?",
+        "options": {"A": "Responsabilité sans faute du fait des lois (La Fleurette) si non exclu", "B": "Faute du législateur", "C": "Irresponsabilité totale en matière sanitaire", "D": "Responsabilité pour risque"},
+        "answer": "A",
+        "explanation": "L'indemnisation est possible si la loi ne l'exclut pas et préjudice grave."
+    },
+    {
+        "question": "Cas pratique 63 : Préfet couvre-feu à San Pedro pendant crise grave. Légalité ?",
+        "options": {"A": "Légal (Théorie circonstances exceptionnelles)", "B": "Illégal", "C": "Faute lourde", "D": "Acte de gouvernement"},
+        "answer": "A",
+        "explanation": "Circonstances exceptionnelles valident des mesures de police restrictives."
+    },
+    {
+        "question": "Cas pratique 64 : Maire réglemente l'affichage sauvage pour protéger des monuments. Police de l'esthétique ?",
+        "options": {"A": "Oui, reconnue jurisprudentiellement", "B": "Non, illégal", "C": "Relève de la moralité", "D": "Acte de gouvernement"},
+        "answer": "A",
+        "explanation": "La jurisprudence admet la protection de l'esthétique monumentale."
+    },
+    {
+        "question": "Cas pratique 65 : Blessure d'un élève pendant le cours d'EPS par la chute d'un poteau. Régime ?",
+        "options": {"A": "Défaut d'entretien normal de l'ouvrage public", "B": "Faute personnelle du prof", "C": "Loi de 1937", "D": "Sans faute"},
+        "answer": "A",
+        "explanation": "Si lié à l'infrastructure (poteau), c'est un dommage de travaux publics."
+    },
+    {
+        "question": "Cas pratique 66 : Infirmier ivre administre un mauvais traitement. Régime ?",
+        "options": {"A": "Cumul (faute personnelle en service)", "B": "Faute de service seule", "C": "Détachable seule", "D": "Sans faute"},
+        "answer": "A",
+        "explanation": "L'ivresse est une faute personnelle, mais sur le lieu et temps de service (cumul)."
+    },
+    {
+        "question": "Cas pratique 67 : Bruit excessif permanent d'un aéroport militaire. Régime pour les voisins ?",
+        "options": {"A": "Sans faute (dommage permanent TP)", "B": "Faute de pilotage", "C": "Défaut d'entretien", "D": "Acte de gouvernement"},
+        "answer": "A",
+        "explanation": "Préjudice anormal et spécial pour les riverains de l'ouvrage public."
+    },
+    {
+        "question": "Cas pratique 68 : Décision du président ivoirien d'engager les forces armées à la frontière. Recours de KOFFI pour annuler l'ordre ?",
+        "options": {"A": "Irrecevable, acte de gouvernement", "B": "Recevable", "C": "Responsabilité pour faute", "D": "Illégal pour défaut de visa"},
+        "answer": "A",
+        "explanation": "Les actes concernant les opérations militaires et diplomatiques sont des actes de gouvernement."
+    },
+    {
+        "question": "Cas pratique 69 : Inaction de la police face à un lynchage public malgré les appels. Responsabilité ?",
+        "options": {"A": "Faute de service (carence)", "B": "Faute personnelle", "C": "Irresponsabilité", "D": "Sans faute"},
+        "answer": "A",
+        "explanation": "La carence à assurer l'ordre public est une faute engageant l'Etat."
+    },
+    {
+        "question": "Cas pratique 70 : Dommage causé à un passant par la chute d'un panneau électoral posé par l'Etat. Régime ?",
+        "options": {"A": "Défaut d'entretien de l'ouvrage public", "B": "Faute", "C": "Sans faute (tiers)", "D": "Irresponsabilité"},
         "answer": "C",
-        "explanation": "Responsabilité sans faute (risque) pour le tiers."
+        "explanation": "Si c'est un ouvrage public et la victime est un tiers (pas usager du panneau), responsabilité sans faute."
     },
     {
-        "question": "Moyen d'ordre public :",
-        "options": ["A) Non soulevable", "B) Juge soulève d'office", "C) Procureur", "D) Prescrit"],
-        "answer": "B",
-        "explanation": "Le juge a l'obligation de le soulever (ex: incompétence)."
-    },
-    {
-        "question": "Responsabilité ministre (pénale/historique) :",
-        "options": ["A) Cassation", "B) Haute Cour", "C) Cour Comptes", "D) CE"],
-        "answer": "B",
-        "explanation": "La Haute Cour de Justice (historiquement) juge les ministres pour crimes/délits."
-    },
-    {
-        "question": "Voie de fait :",
-        "options": ["A) Route", "B) Atteinte grave hors droit", "C) Agression", "D) Annulation"],
-        "answer": "B",
-        "explanation": "Atteinte manifeste liberté/propriété non rattachable à un pouvoir."
-    },
-    {
-        "question": "Révocation étudiant :",
-        "options": ["A) Appel civil", "B) REP", "C) Pénal", "D) Aucun"],
-        "answer": "B",
-        "explanation": "C'est une sanction administrative d'EPA, attaquable par REP."
-    },
-    {
-        "question": "Référé-liberté :",
-        "options": ["A) Libérer", "B) Sauver liberté en urgence", "C) Impôt", "D) Indemnité"],
-        "answer": "B",
-        "explanation": "Procédure d'urgence pour cessation d'atteinte grave à liberté."
-    },
-    {
-        "question": "AAI (Autorité Admin Indép) :",
-        "options": ["A) PM", "B) Pas de tutelle", "C) Privée", "D) Lois"],
-        "answer": "B",
-        "explanation": "Absence de pouvoir hiérarchique du gouvernement."
-    },
-    {
-        "question": "Contrat privé devient admin si :",
-        "options": ["A) >10M", "B) Mandat pour Etat", "C) Notaire", "D) >5 ans"],
-        "answer": "B",
-        "explanation": "Théorie du mandat (Peyrot)."
-    },
-    {
-        "question": "Contentieux fiscal CI :",
-        "options": ["A) RAP (Réclamation pralable)", "B) Direct juge", "C) Incompétence JA", "D) Gratuit"],
+        "question": "Cas pratique 71 : Maire interdit le passage des camions de plus de 10T dans une rue fragile. Légalité ?",
+        "options": {"A": "Légal (police de conservation de la voie)", "B": "Illégal", "C": "Incompétence", "D": "Général et absolu"},
         "answer": "A",
-        "explanation": "Le RAP (recours administratif préalable) est obligatoire."
+        "explanation": "Mesure proportionnée pour protéger la voirie."
     },
     {
-        "question": "Imprescriptibilité domaine pub :",
-        "options": ["A) Vente", "B) Usucapion impossible", "C) Utilisation", "D) Déclassement"],
-        "answer": "B",
-        "explanation": "L'occupation prolongée ne donne pas la propriété."
-    },
-    {
-        "question": "Passage domaine public à privé :",
-        "options": ["A) Mutation", "B) Déclassement", "C) Permis", "D) Bail"],
-        "answer": "B",
-        "explanation": "L'acte de déclassement fait sortir le bien du domaine public."
-    },
-    {
-        "question": "Exequatur sentence arbitrale marché public :",
-        "options": ["A) Paix", "B) Juge compétent (Admin/Exécution)", "C) CC", "D) Cassation"],
-        "answer": "B",
-        "explanation": "Le juge compétent pour l'exécution du contrat le valide."
-    },
-    {
-        "question": "Cassation au CE :",
-        "options": ["A) Uniquement droit", "B) Droit + faits", "C) Opportunité", "D) Constit"],
+        "question": "Cas pratique 72 : Erreur matérielle dans le calcul de la note d'un fonctionnaire causant son éviction. Régime ?",
+        "options": {"A": "Faute de service", "B": "Sans faute", "C": "Faute personnelle", "D": "Irréparable"},
         "answer": "A",
-        "explanation": "Contrôle uniquement l'application du droit par les juges du fond."
+        "explanation": "L'erreur de l'administration est une faute."
     },
     {
-        "question": "Révocation maire (CI) :",
-        "options": ["A) Politique", "B) Acte tutelle attaquable", "C) Impossible", "D) Législatif"],
-        "answer": "B",
-        "explanation": "Acte administratif soumis au REP."
-    },
-    {
-        "question": "Directive UEMOA :",
-        "options": ["A) Direct", "B) Fixe résultat/Laisse moyens", "C) Recommandation", "D) Jugement"],
-        "answer": "B",
-        "explanation": "Nécessite transposition en droit interne."
-    },
-    {
-        "question": "Pouvoir substitution Préfet :",
-        "options": ["A) Agit si carence Maire", "B) Annule acte", "C) Dissout", "D) Remplace juge"],
+        "question": "Cas pratique 73 : Un véhicule de la BAC renverse M. DIABY lors d'une course-poursuite. Victime = tiers. Régime ?",
+        "options": {"A": "Loi de 1957 (véhicules, compétence judiciaire)", "B": "Sans faute administrative", "C": "Faute lourde", "D": "Tribunal des conflits"},
         "answer": "A",
-        "explanation": "Agit à la place du maire défaillant (sécurité/ordre) après mise en demeure."
+        "explanation": "Dommage causé par véhicule = juge judiciaire."
     },
     {
-        "question": "Le principe de la légalité administrative implique que l’administration doit respecter les textes qui émanent d’elle-même.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 74 : Refus d'application d'un traité par le juge ivoirien au nom de la constitution. Principe ?",
+        "options": {"A": "Suprématie constitutionnelle (Sarran/Fraisse)", "B": "Supériorité des traités", "C": "Acte de gouvernement", "D": "Contrôle de légalité"},
         "answer": "A",
-        "explanation": "L'administration doit respecter ses propres textes selon le principe de la légalité."
+        "explanation": "Dans l'ordre interne, la Constitution prime."
     },
     {
-        "question": "Selon l’arrêt Doublet, l’administration a l’obligation de faire respecter la loi.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 75 : Maire d'Abengourou prend un arrêté ordonnant à tous les habitants de peindre leur maison en blanc. Légalité ?",
+        "options": {"A": "Illégal (atteinte disproportionnée au droit de propriété)", "B": "Légal (esthétique)", "C": "Légal si vote du conseil", "D": "Acte de gouvernement"},
         "answer": "A",
-        "explanation": "L'arrêt Doublet consacre l'obligation pour l'administration de faire respecter la loi."
+        "explanation": "Mesure disproportionnée et excessive."
     },
     {
-        "question": "Selon l’Arrêt Compagnie France Amérique, l’administration n’est tenue de respecter la loi.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "L'administration est tenue de respecter la loi."
-    },
-    {
-        "question": "Selon l’Arrêt Société pour l’Estéhétique de France, l’administration a la faculté de faire cesser les situations inégales.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Elle a l'obligation (et non la simple faculté) de faire cesser les situations inégales."
-    },
-    {
-        "question": "Selon l’Arrêt Couitéas, l’administration ne peut jamais refuser d’apporter son concours à l’exécution des décisions de justice.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Elle peut refuser exceptionnellement pour des motifs d'ordre public."
-    },
-    {
-        "question": "L’administration a le pouvoir d’apprécier les faits et les modalités d’exécution d’une obligation qui lui est faite.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 76 : Patient infecté par une bactérie nosocomiale au CHU. Régime ?",
+        "options": {"A": "Responsabilité sans faute (risque ou loi spéciale)", "B": "Faute prouvée", "C": "Faute lourde", "D": "Irresponsabilité"},
         "answer": "A",
-        "explanation": "Cela découle de son pouvoir d'appréciation et du pouvoir discrétionnaire."
+        "explanation": "Les infections nosocomiales relèvent d'un régime de responsabilité sans faute de l'établissement."
     },
     {
-        "question": "L’administration n’est pas soumise au respect du préambule de la constitution.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Le préambule a valeur constitutionnelle et s'impose à l'administration (Arrêt Société EKY)."
-    },
-    {
-        "question": "L’acte inexistant est un acte qui est rentre dans l’ordonnancement juridique avant d’en sortir.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "L'acte inexistant est censé n'avoir jamais existé."
-    },
-    {
-        "question": "Tout pouvoir discrétionnaire comporte une dose de compétence liée.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 77 : Arrestation arbitraire de M. KAMAGATE par un préfet hors de ses pouvoirs. Recours ?",
+        "options": {"A": "Voie de fait (compétence juge judiciaire)", "B": "Faute simple", "C": "Excès de pouvoir classique", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "Il y a toujours un contrôle minimum de légalité (compétence, forme)."
+        "explanation": "Atteinte grave à la liberté individuelle par un acte manifestement insusceptible de se rattacher à un pouvoir de l'administration = voie de fait."
     },
     {
-        "question": "Aucun recours n’est possible contre tous les actes de gouvernement.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Exceptionnellement, un recours en indemnité est possible pour rupture d'égalité devant les charges publiques (traités)."
-    },
-    {
-        "question": "C’est l’arrêt Héyriès qui pose les conditions d’application de la théorie des circonstances exceptionnelles.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 78 : Agent blessé dans ses fonctions par un déséquilibré. Régime d'indemnisation par l'Etat ?",
+        "options": {"A": "Sans faute (collaborateur/agent du SP)", "B": "Faute", "C": "Irresponsabilité de l'Etat", "D": "Loi 1957"},
         "answer": "A",
-        "explanation": "L'arrêt Heyriès consacre les atteintes aux règles de forme et de procédure en période exceptionnelle."
+        "explanation": "L'Etat protège ses agents pour les dommages subis dans le service (responsabilité sans faute / garantie)."
     },
     {
-        "question": "Le préfet d’Abidjan décide de l’interdiction de manifester sur toute l’étendue du territoire d’Abidjan jusqu’à nouvel ordre. Cette mesure sera confirmée par le juge au regard de la jurisprudence administrative.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Une interdiction générale et absolue est illégale."
-    },
-    {
-        "question": "Les mesures de police prises dans un but de brimade sont légales.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Elles constituent un détournement de pouvoir."
-    },
-    {
-        "question": "Les autorités parlementaires ne prennent jamais des actes administratifs.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Elles en prennent dans le cadre de la gestion de leurs fonctionnaires (CSCA, Anzian Niamiké)."
-    },
-    {
-        "question": "Les autorités administratives peuvent prendre des actes privés.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 79 : Maire interdit un film pourtant visé par le ministre. Condition de légalité ?",
+        "options": {"A": "Circonstances locales particulières (Lutetia)", "B": "Incompétence absolue", "C": "Faute", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "Oui, dans le cadre de la gestion de leur domaine privé."
+        "explanation": "La police municipale peut aggraver la mesure nationale s'il y a des circonstances locales particulières."
     },
     {
-        "question": "Les circulaires ne sont jamais des actes administratifs décisoire.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Les circulaires réglementaires peuvent avoir un caractère décisoire."
-    },
-    {
-        "question": "Les décisions du conseil municipal sont des délibérations.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 80 : Coupure de route nationale par des éboulements fréquents non signalés. Régime ?",
+        "options": {"A": "Défaut d'entretien normal", "B": "Force majeure", "C": "Sans faute (risque)", "D": "Faute personnelle"},
         "answer": "A",
-        "explanation": "Le conseil municipal prend ses décisions sous forme de délibérations."
+        "explanation": "L'absence de signalisation d'un danger fréquent est un défaut d'entretien."
     },
     {
-        "question": "En CI, le premier ministre peut prendre des ordonnances.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "C'est le Président de la République qui prend des ordonnances."
-    },
-    {
-        "question": "La décision par laquelle l’inspecteur du travail refuse d’autoriser le licenciement d’un délégué du personnel est un acte administratif.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 81 : Grève des éboueurs à Abidjan causant amoncellement d'ordures et épidémie. Responsabilité ?",
+        "options": {"A": "Faute dans l'organisation du service", "B": "Force majeure (grève)", "C": "Sans faute", "D": "Acte de gouvernement"},
         "answer": "A",
-        "explanation": "C'est un acte administratif susceptible de REP."
+        "explanation": "L'administration doit assurer un service minimum ou réquisitionner pour préserver la salubrité."
     },
     {
-        "question": "Un particulier personne physique peut prendre des actes administratifs.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 82 : M. ZADI aide bénévolement les pompiers de Daloa et se brûle. Indemnisation ?",
+        "options": {"A": "Sans faute (collaborateur occasionnel)", "B": "Faute des pompiers prouvée", "C": "Aucune, il est bénévole", "D": "Assurance personnelle seule"},
         "answer": "A",
-        "explanation": "Oui, s'il gère un service public et est doté de prérogatives de puissance publique (CE, Monpeurt, Magnier)."
+        "explanation": "Le collaborateur occasionnel du service public bénéficie de la responsabilité sans faute de l'administration."
     },
     {
-        "question": "La notation des fonctionnaires sont des actes administratifs.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 83 : Interdiction de stationnement devant les bouches d'incendie par le maire. Légalité ?",
+        "options": {"A": "Légal (sécurité publique)", "B": "Illégal", "C": "Détournement de pouvoir", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "La notation d'un fonctionnaire est un acte administratif (CSCA, Douka Yao Anderson)."
+        "explanation": "Mesure normale de police pour garantir l'accès aux secours."
     },
     {
-        "question": "L’appel d’offres a pour dessein d’attribuer le contrat au soumissionnaire le moins-disant.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 84 : Délai déraisonnable de jugement devant la juridiction administrative ivoirienne. Régime ?",
+        "options": {"A": "Faute de service de l'Etat", "B": "Sans faute", "C": "Irresponsabilité (séparation des pouvoirs)", "D": "Force majeure"},
         "answer": "A",
-        "explanation": "L'appel d'offres vise généralement l'offre économiquement la plus avantageuse, souvent la moins-disante."
+        "explanation": "Le dysfonctionnement de la justice (délai excessif) engage la responsabilité pour faute lourde ou simple selon les évolutions jurisprudentielles (Magiera)."
     },
     {
-        "question": "La modification unilatérale du prix du contrat est admise par la jurisprudence administrative.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "L'administration ne peut modifier unilatéralement les clauses financières du contrat."
-    },
-    {
-        "question": "La mise en régie d’office est une matérialisation du pouvoir de sanction de l’autorité contractante.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 85 : Un ministre annule un concours après les résultats pour fraude massive. Légalité ?",
+        "options": {"A": "Légal (pouvoir d'appréciation de l'ordre public / régularité)", "B": "Illégal (droits acquis)", "C": "Voie de fait", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "C'est une sanction coercitive en cas de défaillance du cocontractant."
+        "explanation": "Le ministre peut et doit annuler un concours entaché de fraude massive avant nomination."
     },
     {
-        "question": "La force majeure administrative résulte de plusieurs tentatives infructueuses de viabilisation du contrat par l’autorité administrative.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "La force majeure doit être extérieure, imprévisible et irrésistible."
-    },
-    {
-        "question": "Dans la théorie du fait du principe, l’indemnisation du cocontractant est partielle.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Le fait du prince donne droit à une indemnisation intégrale."
-    },
-    {
-        "question": "Le contentieux des contrats administratifs est exclusivement un contentieux de pleine juridiction.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Le REP est possible contre les actes détachables."
-    },
-    {
-        "question": "L'inaliénabilité du domaine public signifie que les biens affectés à l'utilité publique ne peuvent être vendus ou échangés tant qu'ils sont affectés à un service public.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 86 : Agent de l'Etat utilise son ordinateur de service pour pirater des banques. Responsabilité Etat ?",
+        "options": {"A": "Cumul (faute avec les moyens du service)", "B": "Faute exclusive de l'Etat", "C": "Faute personnelle sans lien", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "C'est la définition du principe d'inaliénabilité du domaine public."
+        "explanation": "L'utilisation des moyens du service permet d'attraire l'Etat."
     },
     {
-        "question": "Qu'est-ce qui distingue le domaine public naturel du domaine public artificiel ?",
-        "options": ["A) a. L'intervention humaine", "B) b. Le type de propriété", "C) c. La taille des biens"],
+        "question": "Cas pratique 87 : L'administration confie l'entretien d'une route à une entreprise qui fait faillite. Route dégradée, accident. Recours victime ?",
+        "options": {"A": "Contre l'administration (défaut d'entretien)", "B": "Contre l'entreprise faillie uniquement", "C": "Force majeure", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "Le domaine public artificiel résulte d'un aménagement humain."
+        "explanation": "L'administration maître de l'ouvrage reste responsable vis-à-vis des usagers."
     },
     {
-        "question": "Le domaine privé est accessible à tous sans restriction.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Le domaine privé est géré comme la propriété d'un particulier et n'est pas librement accessible à tous."
-    },
-    {
-        "question": "Quel document est nécessaire pour déclencher la procédure d'expropriation ?",
-        "options": ["A) a. Un contrat de vente", "B) b. Une déclaration d'utilité publique", "C) c. Un accord de voisinage"],
-        "answer": "B",
-        "explanation": "La DUP est l'acte préalable indispensable."
-    },
-    {
-        "question": "L’expropriation pour cause d’utilité publique est chevauchée par une phase administrative et une phase judiciaire.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 88 : Refus d'inscrire M. KOUAKOU à l'université publique pour motif politique. Analyse ?",
+        "options": {"A": "Détournement de pouvoir (illégalité fautive)", "B": "Légal (discrétionnaire)", "C": "Ordre public", "D": "Acte de gouvernement"},
         "answer": "A",
-        "explanation": "L'expropriation comporte une phase administrative (DUP, arrêté de cessibilité) et une phase judiciaire (transfert de propriété, indemnisation)."
+        "explanation": "La décision est prise dans un but autre que l'intérêt du service."
     },
     {
-        "question": "Dans la permission de voirie, les droits du permissionnaire sont précaires.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 89 : Le préfet ordonne la destruction d'une cargaison de viande avariée arrivée au port d'Abidjan. Légalité ?",
+        "options": {"A": "Légal (salubrité publique, destruction en cas de péril)", "B": "Voie de fait", "C": "Atteinte au droit de propriété injustifiée", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "L'autorisation d'occupation du domaine public est par nature précaire et révocable."
+        "explanation": "Mesure de salubrité publique justifiée par le danger immédiat pour la santé."
     },
     {
-        "question": "Quel type de fonctionnaires n'est pas concerné par le statut général des fonctionnaires parmi les propositions suivantes ?",
-        "options": ["A) a - Les agents de la santé", "B) b - Les magistrats de l'ordre judiciaire", "C) c - Les enseignants", "D) d - Les policiers"],
-        "answer": "B",
-        "explanation": "Les magistrats ont un statut autonome particulier."
-    },
-    {
-        "question": "Quel grade est associé aux fonctions de conception et de direction selon la loi portant SGFP ?",
-        "options": ["A) a - Catégorie C", "B) b - Catégorie A", "C) c - Catégorie D", "D) d - Catégorie B"],
-        "answer": "B",
-        "explanation": "La catégorie A correspond aux fonctions de conception et de direction."
-    },
-    {
-        "question": "Quelle est la différence entre licenciement et révocation parmi les propositions suivantes ?",
-        "options": ["A) a - Le licenciement peut être pour insuffisance professionnelle, la révocation est une sanction disciplinaire.", "B) b - Les deux sont des sanctions disciplinaires identiques.", "C) c - Le licenciement est toujours temporaire, la révocation est définitive.", "D) d - Le licenciement nécessite un vote, la révocation non"],
+        "question": "Cas pratique 90 : Un enfant est blessé par la chute d'un panier de basket mal fixé dans une école communale. Régime ?",
+        "options": {"A": "Défaut d'entretien de l'ouvrage public", "B": "Sans faute", "C": "Loi de 1937", "D": "Irresponsabilité"},
         "answer": "A",
-        "explanation": "La révocation est disciplinaire, le licenciement non disciplinaire."
+        "explanation": "Dommage causé par l'équipement immobilier (ouvrage public) à un usager."
     },
     {
-        "question": "Les sanctions de premier degré sont réservées au ministre technique de l’agent.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 91 : Lors d'une émeute, les forces de l'ordre utilisent des grenades lacrymogènes qui incendient la maison d'un tiers. Régime ?",
+        "options": {"A": "Responsabilité sans faute (tiers à l'opération)", "B": "Faute lourde", "C": "Irresponsabilité absolue", "D": "Faute personnelle"},
         "answer": "A",
-        "explanation": "Le pouvoir disciplinaire pour le 1er degré appartient au Ministre technique, Préfet ou Directeur d'EP."
+        "explanation": "Le tiers victime de l'utilisation d'armes dangereuses par la police est indemnisé sans faute."
     },
     {
-        "question": "La responsabilité de l’administration est engagée sur la base d’une faute lourde pour les dommages causés à la personne visée au cours d’une opération de police matérielle par l’utilisation d’armes dangereuses est consacrée par l’arrêt AUBERGER ET DUMONT.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "C'est une faute simple si la victime est visée, et sans faute si c'est un tiers."
-    },
-    {
-        "question": "L’arrêt SOCIÉTÉ DES TRANSPORTS DU SUD consacre l’exonération totale de la responsabilité de l’administration en cas de faute de la victime.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "La faute de la victime peut être une cause d'exonération partielle ou totale selon les cas."
-    },
-    {
-        "question": "L’administration dispose d’une action récursoire contre l’agent fautif, mais l’agent n’en dispose pas contre l’administration lorsqu’il a réparé intégralement les dommages causés à la victime en cas de cumul de responsabilité.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "L'agent dispose également d'une action récursoire (Arrêt Delville)."
-    },
-    {
-        "question": "La responsabilité de l’administration est acquise en cas de cumul de fautes.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 92 : Interdiction du port de tenues religieuses dans les écoles publiques ivoiriennes par le ministre. Recours ?",
+        "options": {"A": "Annulation si contraire à la Constitution/laïcité ou légal si justifié", "B": "Voie de fait", "C": "Acte de gouvernement", "D": "Irrecevable"},
         "answer": "A",
-        "explanation": "La victime peut poursuivre l'administration ou l'agent en cas de cumul de fautes."
+        "explanation": "Contrôle de légalité classique sur l'étendue du pouvoir réglementaire et la liberté de religion."
     },
     {
-        "question": "L’intérêt du principe de cumul de responsabilité est d’octroyer un droit d’option à l’administration.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Le droit d'option est octroyé à la victime, pas à l'administration."
-    },
-    {
-        "question": "Le fait du tiers est une cause d’exonération de la responsabilité de l’administration lorsqu’elle est la cause unique.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 93 : Dommage causé par le fonctionnement d'un radar défectueux (PV injustifiés). Responsabilité ?",
+        "options": {"A": "Faute de service (dysfonctionnement)", "B": "Sans faute", "C": "Faute du conducteur", "D": "Irresponsabilité"},
         "answer": "A",
-        "explanation": "Le fait du tiers exonère l'administration dans la responsabilité pour faute s'il est la cause exclusive."
+        "explanation": "Le dysfonctionnement du matériel administratif générant des actes illégaux est une faute."
     },
     {
-        "question": "Quel type d'intérêt doit être lésé pour qu'il y ait intérêt à agir ?",
-        "options": ["A) a. Un intérêt personnel", "B) b. Un intérêt légitime", "C) c. Un intérêt collectif", "D) d. Un intérêt anonyme"],
+        "question": "Cas pratique 94 : Le Président de la République gracie un condamné qui récidive immédiatement. Recours des victimes contre l'Etat ?",
+        "options": {"A": "Irrecevable (la grâce est un acte de gouvernement inattaquable)", "B": "Recevable pour faute", "C": "Recevable sans faute", "D": "Compétence judiciaire"},
         "answer": "A",
-        "explanation": "L'intérêt à agir doit être personnel, direct et certain."
+        "explanation": "Le décret de grâce relève traditionnellement des actes de gouvernement insusceptibles de recours."
     },
     {
-        "question": "En matière de REP, le moyen d'annulation est synonyme de cas d'ouverture.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 95 : Un fonctionnaire est mis à la retraite d'office par erreur sur son âge. Il demande réparation. Régime ?",
+        "options": {"A": "Faute de service (illégalité)", "B": "Sans faute", "C": "Irresponsabilité", "D": "Faute personnelle du DRH"},
         "answer": "A",
-        "explanation": "Les cas d'ouverture (incompétence, vice de forme, violation de la loi, détournement de pouvoir) sont les moyens d'annulation."
+        "explanation": "Illégalité fautive engageant l'administration."
     },
     {
-        "question": "Sont des conditions de recevabilité du REP, Le détournement de procédure et l’incompétence.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Ce sont des cas d'ouverture au fond, pas des conditions de recevabilité."
-    },
-    {
-        "question": "En matière d’acte inexistant, les délais sont identiques que les actes susceptibles d’être frappés d’une simple nullité.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "Le recours contre un acte inexistant peut être exercé à tout moment, sans condition de délai."
-    },
-    {
-        "question": "Le titre foncier n’est pas susceptible de recours pour excès de pouvoir.",
-        "options": ["A) Vrai", "B) Faux"],
+        "question": "Cas pratique 96 : M. BAMBA est mordu par un serpent qui s'est échappé du zoo d'Abidjan (géré par l'Etat). Régime ?",
+        "options": {"A": "Sans faute pour risque (chose dangereuse)", "B": "Faute prouvée (surveillance)", "C": "Faute lourde", "D": "Défaut d'entretien de l'ouvrage public"},
         "answer": "A",
-        "explanation": "Le titre foncier est définitif et inattaquable, sauf cas spécifiques de fraude devant le juge judiciaire."
+        "explanation": "La garde d'animaux dangereux par le SP justifie une responsabilité pour risque."
     },
     {
-        "question": "La déchéance du titre de propriété en terre urbaine n'est pas admise en droit ivoirien.",
-        "options": ["A) Vrai", "B) Faux"],
-        "answer": "B",
-        "explanation": "La loi prévoit des hypothèses de déchéance en cas d'insuffisance de mise en valeur."
-    },
-    {
-        "question": "Sont considérés comme insuffisamment mis en valeur :",
-        "options": ["A) a. Des chantiers de bâtiments inachevés, et laissés à l'abandon", "B) b. Des terrains faisant uniquement l'objet de clôtures", "C) c. Des terrains abritant des constructions en matériaux précaires"],
-        "answer": "B",
-        "explanation": "Une simple clôture ne constitue pas une mise en valeur suffisante."
-    },
-    {
-        "question": "L'arrêt Dame veuve Trompier-Gravier consacre quel principe général du droit ?",
-        "options": ["A) La non-rétroactivité des actes", "B) Le droit de la défense", "C) L'égalité devant le service public", "D) Le recours pour excès de pouvoir"],
-        "answer": "B",
-        "explanation": "L'arrêt Dame veuve Trompier-Gravier est l'arrêt fondateur du principe général du droit de la défense, obligeant l'administration à entendre toute personne avant de prendre une décision défavorable."
-    },
-    {
-        "question": "Selon l'arrêt Société du journal l'Aurore, quel principe général du droit est dégagé ?",
-        "options": ["A) Le droit de la défense", "B) L'égalité de traitement dans le SP", "C) La non-rétroactivité des actes administratifs", "D) L'accès au service public"],
-        "answer": "C",
-        "explanation": "L'arrêt Société du journal l'Aurore consacre le principe de non-rétroactivité des actes administratifs : un acte administratif ne peut en principe produire d'effets avant sa signature."
-    },
-    {
-        "question": "L'arrêt Dame Lamotte consacre quel principe ?",
-        "options": ["A) L'obligation de motiver les actes", "B) L'existence d'un droit au recours pour excès de pouvoir", "C) Le droit de la défense", "D) La responsabilité sans faute de l'État"],
-        "answer": "B",
-        "explanation": "L'arrêt Dame Lamotte consacre comme principe général du droit le recours pour excès de pouvoir, qui est ouvert même sans texte contre tout acte administratif."
-    },
-    {
-        "question": "Selon l'arrêt Barel, quel principe général du droit est consacré ?",
-        "options": ["A) L'égalité de traitement dans le service public", "B) L'égalité d'accès à la fonction publique", "C) Le droit de la défense", "D) La liberté du commerce et de l'industrie"],
-        "answer": "B",
-        "explanation": "L'arrêt Barel consacre le principe général d'égalité d'accès à la fonction publique, interdisant toute discrimination dans le recrutement des fonctionnaires."
-    },
-    {
-        "question": "L'arrêt Rubin de Servens concerne quel domaine ?",
-        "options": ["A) La responsabilité sans faute de l'État", "B) Les actes de gouvernement échappant au REP", "C) La délégation de compétence", "D) Les circonstances exceptionnelles"],
-        "answer": "B",
-        "explanation": "L'arrêt Rubin de Servens traite des actes de gouvernement, qui sont des actes politiques par nature échappant au contrôle du juge administratif, notamment les actes pris dans les relations entre les pouvoirs constitutionnels."
-    },
-    {
-        "question": "Dans le cadre du principe de légalité, l'arrêt Société EKY établit que :",
-        "options": ["A) Les traités internationaux priment sur la Constitution", "B) Le préambule de la Constitution est source de légalité", "C) Les actes de gouvernement sont inconstitutionnels", "D) Les PGD priment sur les lois"],
-        "answer": "B",
-        "explanation": "L'arrêt Société EKY affirme que le préambule de la Constitution constitue une source de légalité administrative, lui donnant ainsi une valeur juridique contraignante."
-    },
-    {
-        "question": "Lequel de ces arrêts concerne la théorie des circonstances exceptionnelles ?",
-        "options": ["A) Arrêt Barel", "B) Arrêt Heyriès", "C) Arrêt Pariset", "D) Arrêt Pelletier"],
-        "answer": "B",
-        "explanation": "L'arrêt Heyriès (1918) est l'un des arrêts fondateurs de la théorie des circonstances exceptionnelles, permettant à l'administration de s'affranchir temporairement de certaines règles en période de crise."
-    },
-    {
-        "question": "Selon la théorie des circonstances exceptionnelles, laquelle de ces conditions N'EST PAS requise ?",
-        "options": ["A) La situation doit être d'une gravité exceptionnelle", "B) La mesure doit être proportionnée et limitée dans le temps", "C) L'autorité compétente doit obtenir l'accord du Parlement", "D) Les moyens normaux doivent être insuffisants"],
-        "answer": "C",
-        "explanation": "La théorie des circonstances exceptionnelles ne requiert pas l'accord du Parlement. Elle permet à l'administration d'agir au-delà de ses compétences habituelles face à une situation de crise grave, sans texte d'habilitation préalable."
-    },
-    {
-        "question": "Lequel des arrêts suivants n'illustre PAS la théorie des circonstances exceptionnelles ?",
-        "options": ["A) Arrêt Laugier", "B) Arrêt Dame de la murette", "C) Arrêt Adriamisera", "D) Arrêt Casanova"],
-        "answer": "D",
-        "explanation": "L'arrêt Casanova concerne les conditions de recevabilité du REP (l'intérêt pour agir), et non la théorie des circonstances exceptionnelles. Les arrêts Laugier, Dame de la murette et Adriamisera sont tous des arrêts relatifs aux circonstances exceptionnelles."
-    },
-    {
-        "question": "Quel est le délai de recours contentieux contre un acte administratif nul (nullité relative) ?",
-        "options": ["A) 1 mois", "B) 2 mois", "C) 6 mois", "D) Aucun délai"],
-        "answer": "B",
-        "explanation": "Selon la jurisprudence (notamment l'arrêt Dame Cachet), le délai de recours en annulation d'un acte administratif irrégulier est de 2 mois à compter de sa publication ou notification."
-    },
-    {
-        "question": "L'acte inexistant se distingue de l'acte nul notamment parce que :",
-        "options": ["A) L'acte inexistant peut faire l'objet d'un retrait dans les 2 mois", "B) L'acte inexistant n'est soumis à aucun délai de recours", "C) L'acte inexistant produit des effets de droit jusqu'à son annulation", "D) L'acte inexistant ne peut être contesté que par les parties"],
-        "answer": "B",
-        "explanation": "L'acte inexistant est tellement entaché d'illégalité (ex: une usurpation de fonctions) qu'il est réputé n'avoir jamais existé. Il peut donc être contesté à tout moment, sans délai de recours."
-    },
-    {
-        "question": "L'arrêt Rosan Girard illustre quel concept de droit administratif ?",
-        "options": ["A) La faute personnelle", "B) L'acte inexistant", "C) La théorie du fonctionnaire de fait", "D) L'imprévision"],
-        "answer": "B",
-        "explanation": "L'arrêt Rosan Girard, comme les arrêts Laffite et Megevand, illustre la notion d'acte inexistant : un acte si gravement irrégulier qu'il est dépourvu de toute existence juridique."
-    },
-    {
-        "question": "Le critère organique de l'acte administratif unilatéral implique que :",
-        "options": ["A) Seules les autorités administratives peuvent émettre des AAU", "B) Toute autorité administrative émet des actes présumés administratifs, avec exceptions", "C) Les actes des personnes privées ne peuvent jamais être administratifs", "D) Seuls les actes du Président de la République sont des AAU"],
-        "answer": "B",
-        "explanation": "Le critère organique établit une présomption d'administrativité pour les actes des autorités administratives. Mais il existe des exceptions : certains actes d'autorités administratives ne sont pas administratifs (ex: actes de gestion privée), et inversement, certains actes de personnes privées gérant un SP peuvent être administratifs."
-    },
-    {
-        "question": "Selon l'arrêt CE Monpeurt, une personne privée peut émettre des actes administratifs si elle :",
-        "options": ["A) Est mandatée par une autorité publique", "B) Gère un service public industriel et commercial (SPIC)", "C) Gère un service public administratif (SPA)", "D) A reçu une délégation de signature"],
-        "answer": "C",
-        "explanation": "L'arrêt CE Monpeurt établit que les personnes privées gérant un service public administratif (SPA) peuvent être habilitées à prendre des actes administratifs unilatéraux."
-    },
-    {
-        "question": "Parmi les actes suivants, lequel est considéré comme un acte NON-décisoire (non-AAU) ?",
-        "options": ["A) Un arrêté de nomination", "B) Une circulaire interprétative", "C) Un décret d'application d'une loi", "D) Une mise en demeure"],
-        "answer": "B",
-        "explanation": "Selon l'arrêt CE, Institution Notre-Dame du Kreisker, les circulaires purement interprétatives ne créent pas de droits et n'ont pas de caractère décisoire : elles ne font pas grief et sont donc insusceptibles de REP."
-    },
-    {
-        "question": "L'arrêt CSCA, Nado Koutouan illustre le cas des :",
-        "options": ["A) Mesures d'ordre intérieur", "B) Actes confirmatifs", "C) Actes préparatoires", "D) Circulaires réglementaires"],
-        "answer": "C",
-        "explanation": "L'arrêt CSCA Nado Koutouan illustre les actes préparatoires, qui sont des étapes procédurales préalables à un acte définitif. Ils ne font pas grief en eux-mêmes et ne sont donc pas susceptibles de REP."
-    },
-    {
-        "question": "La théorie du fonctionnaire de fait, illustrée par les arrêts Ducastel et Marrion, permet de :",
-        "options": ["A) Poursuivre un agent pour faute personnelle", "B) Valider les actes pris par un agent dont le titre est irrégulier", "C) Déléguer une signature à un subordonné", "D) Permettre à l'administration de se retirer d'un contrat"],
-        "answer": "B",
-        "explanation": "La théorie du fonctionnaire de fait permet de maintenir la validité des actes pris par un agent dont la désignation ou le titre est entaché d'irrégularité, afin de protéger la continuité du service public et la sécurité juridique des administrés."
-    },
-    {
-        "question": "L'arrêt Dame Cachet régit principalement :",
-        "options": ["A) Le retrait des actes irréguliers créateurs de droits (délai 2 mois)", "B) L'abrogation des règlements illégaux", "C) La responsabilité sans faute de l'État", "D) Les conditions de recevabilité du REP"],
+        "question": "Cas pratique 97 : Le conseil municipal de Bingerville refuse d'exécuter un contrat public. Le cocontractant demande réparation. Juge compétent ?",
+        "options": {"A": "Juge administratif (responsabilité contractuelle)", "B": "Juge civil", "C": "Juge pénal", "D": "Tribunal de commerce"},
         "answer": "A",
-        "explanation": "L'arrêt Dame Cachet pose la règle du parallélisme des délais pour le retrait des actes irréguliers créateurs de droits : l'administration ne peut les retirer que dans le délai du recours contentieux (2 mois)."
+        "explanation": "Le contentieux des contrats administratifs relève du juge administratif (pleine juridiction)."
     },
     {
-        "question": "En droit des contrats administratifs, le critère matériel alternatif est :",
-        "options": ["A) La présence d'au moins deux personnes publiques au contrat", "B) La clause exorbitante du droit commun OU la participation à l'exécution d'un SP", "C) L'objet financier du contrat supérieur à un seuil fixé par décret", "D) L'approbation préalable du contrôleur financier"],
-        "answer": "B",
-        "explanation": "Pour qu'un contrat soit qualifié d'administratif par le juge, il faut un critère organique (au moins une personne publique) ET un critère matériel alternatif : soit une clause exorbitante du droit commun, soit que le contrat porte sur l'exécution même d'un service public."
-    },
-    {
-        "question": "Le 'fait du prince' en droit des contrats administratifs désigne :",
-        "options": ["A) La décision du chef de l'État de mettre fin à un contrat", "B) Une mesure de l'autorité contractante qui modifie les conditions du contrat hors du champ contractuel", "C) La force majeure imputable à une décision d'État étranger", "D) L'exercice par l'administration de son pouvoir de modification unilatérale"],
-        "answer": "B",
-        "explanation": "Le fait du prince désigne une mesure prise par l'autorité publique contractante (mais en dehors de sa qualité de cocontractant) qui aggrave les charges du cocontractant. Il donne droit à une indemnisation intégrale."
-    },
-    {
-        "question": "La théorie de l'imprévision en droit administratif se distingue de la force majeure car :",
-        "options": ["A) L'imprévision libère le cocontractant de ses obligations", "B) L'imprévision est un bouleversement temporaire, extérieur et imprévisible qui n'exonère pas mais donne droit à une indemnisation partielle", "C) L'imprévision ne donne droit à aucune indemnisation", "D) L'imprévision résulte nécessairement d'une décision de l'administration"],
-        "answer": "B",
-        "explanation": "À la différence de la force majeure qui libère les parties, la théorie de l'imprévision en droit administratif permet de poursuivre le contrat en accordant une indemnité partielle (non intégrale) au cocontractant confronté à un aléa économique extérieur, imprévisible et temporaire."
-    },
-    {
-        "question": "L'arrêt TC Pelletier est le fondement de :",
-        "options": ["A) La responsabilité sans faute pour risque", "B) La distinction entre faute personnelle et faute de service", "C) La théorie de l'imprévision", "D) Le principe d'égalité devant les charges publiques"],
-        "answer": "B",
-        "explanation": "L'arrêt TC Pelletier (1873) est l'arrêt fondateur de la distinction entre faute personnelle (engageant la responsabilité personnelle de l'agent) et faute de service (engageant la responsabilité de l'administration)."
-    },
-    {
-        "question": "L'arrêt CE Anguet consacre :",
-        "options": ["A) L'exonération de l'État en cas de faute de la victime", "B) Le cumul de fautes (personnelle et de service) engageant la double responsabilité", "C) La responsabilité exclusive de l'agent fautif", "D) Le principe de la faute lourde en matière de police judiciaire"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Anguet consacre le cumul des fautes : lorsqu'un même dommage résulte à la fois d'une faute de service et d'une faute personnelle de l'agent, la victime peut choisir de mettre en jeu la responsabilité de l'administration ou celle de l'agent."
-    },
-    {
-        "question": "En matière de responsabilité sans faute pour risque, l'arrêt CE Regnault-Desroziers concerne :",
-        "options": ["A) Les dommages causés lors d'activités sportives", "B) Les dommages résultant de l'utilisation d'armes et engins dangereux", "C) Les dommages causés par des détenus en liberté conditionnelle", "D) Les dommages résultant de travaux publics"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Regnault-Desroziers fonde la responsabilité sans faute de l'État pour les dommages causés par des choses dangereuses (ici, des grenades et obus), établissant ainsi le régime de responsabilité pour risque dû aux armes et engins dangereux."
-    },
-    {
-        "question": "L'arrêt CE La Fleurette consacre la responsabilité de l'État du fait :",
-        "options": ["A) Des traités internationaux", "B) Des lois (rupture d'égalité devant les charges publiques)", "C) Des actes réglementaires", "D) Des décisions de justice"],
-        "answer": "B",
-        "explanation": "L'arrêt CE La Fleurette (1938) engage la responsabilité sans faute de l'État du fait des lois qui, sans en avoir l'intention, causent un préjudice spécial et anormal à certains administrés, rompant l'égalité devant les charges publiques."
-    },
-    {
-        "question": "L'arrêt CE Couitéas engage la responsabilité de l'État sur quel fondement ?",
-        "options": ["A) Faute de service grave", "B) Rupture d'égalité devant les charges publiques (refus d'exécuter une décision de justice)", "C) Risque créé par une chose dangereuse", "D) Faute personnelle d'un agent"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Couitéas engage la responsabilité sans faute de l'État pour refus d'exécuter une décision de justice afin de préserver l'ordre public. Ce refus, justifié, crée néanmoins une rupture d'égalité devant les charges publiques ouvrant droit à indemnisation."
-    },
-    {
-        "question": "En matière de responsabilité administrative, la cause d'exonération de 'faute de la victime' est illustrée par :",
-        "options": ["A) Arrêt CE Regnault-Desroziers", "B) Arrêt CE Amoudruz", "C) Arrêt CE Thouzellier", "D) Arrêt CE Perruche"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Amoudruz traite de la faute de la victime comme cause d'exonération totale ou partielle de la responsabilité de l'administration."
-    },
-    {
-        "question": "Les opérations de police à chaud (interventions immédiates) requièrent, selon la jurisprudence, une faute de quelle nature pour engager la responsabilité de l'État ?",
-        "options": ["A) Faute simple", "B) Faute personnelle détachable", "C) Faute lourde", "D) Aucune faute (responsabilité sans faute)"],
-        "answer": "C",
-        "explanation": "Selon l'arrêt CE Tomaso Grecco et la jurisprudence classique, les opérations de police à chaud (interventions immédiates sur le terrain) engagent la responsabilité de l'État uniquement en cas de faute lourde, compte tenu des difficultés inhérentes à ces interventions."
-    },
-    {
-        "question": "Le recours pour excès de pouvoir (REP) est qualifié de recours :",
-        "options": ["A) De plein contentieux, suspensif et réservé aux personnes lésées", "B) D'utilité publique, d'ordre public et non suspensif", "C) Gracieux, obligatoire et préalable à tout recours contentieux", "D) Exceptionnel, suspensif et à caractère personnel"],
-        "answer": "B",
-        "explanation": "Le REP est un recours d'utilité publique (ouvert à tout intéressé), d'ordre public (le juge peut le soulever d'office) et non suspensif (l'acte continue de produire ses effets pendant le recours)."
-    },
-    {
-        "question": "Dans le REP, la condition d'intérêt pour agir a été précisée par l'arrêt CE Casanova qui étend le droit de recours :",
-        "options": ["A) Aux seuls contribuables nationaux", "B) Aux contribuables locaux pour contester les actes de leur collectivité", "C) Aux seuls agents de l'administration", "D) Aux associations déclarées seulement"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Casanova reconnaît la qualité pour agir des contribuables locaux pour contester la légalité d'actes pris par les collectivités territoriales dès lors qu'ils ont un intérêt à le faire."
-    },
-    {
-        "question": "L'arrêt CE Pariset illustre quel cas d'ouverture du REP ?",
-        "options": ["A) L'incompétence ratione materiae", "B) Le vice de procédure substantielle", "C) Le détournement de pouvoir", "D) L'erreur manifeste d'appréciation"],
-        "answer": "C",
-        "explanation": "L'arrêt CE Pariset est l'arrêt de référence sur le détournement de pouvoir : l'autorité a agi dans les limites de sa compétence, mais dans un but autre que celui pour lequel le pouvoir lui a été conféré."
-    },
-    {
-        "question": "En matière d'organisation administrative, le contrôle de tutelle se distingue du contrôle hiérarchique car :",
-        "options": ["A) La tutelle est plus large que le contrôle hiérarchique", "B) Il ne peut exister de tutelle sans texte, contrairement au contrôle hiérarchique qui est de droit", "C) La tutelle permet de réformer les actes, ce que le contrôle hiérarchique ne permet pas", "D) La tutelle s'exerce sur les agents, et le contrôle hiérarchique sur les actes"],
-        "answer": "B",
-        "explanation": "Selon l'arrêt Commune de Néris-les-Bains, il ne peut exister de tutelle sans texte : la tutelle est d'attribution. En revanche, le contrôle hiérarchique est de droit ; il naît automatiquement de la relation entre supérieur et subordonné."
-    },
-    {
-        "question": "Lequel de ces arrêts concerne le contrôle hiérarchique sur les actes administratifs ?",
-        "options": ["A) Arrêt Queralt", "B) Arrêt Casanova", "C) Arrêt Heyriès", "D) Arrêt Pelletier"],
+        "question": "Cas pratique 98 : Le Maire ordonne de disperser un attroupement menaçant l'hôtel de ville par des canons à eau. Légalité ?",
+        "options": {"A": "Légal, pouvoir de police face à un trouble imminent proportionné", "B": "Illégal, seul le préfet peut", "C": "Voie de fait", "D": "Sans faute"},
         "answer": "A",
-        "explanation": "L'arrêt Queralt est une référence en matière de contrôle hiérarchique, précisant l'étendue du pouvoir du supérieur hiérarchique sur les actes de ses subordonnés (pouvoir d'instruction, de réformation et d'annulation)."
+        "explanation": "Mesure de maintien de l'ordre justifiée et proportionnée."
     },
     {
-        "question": "La police administrative se distingue de la police judiciaire en ce que :",
-        "options": ["A) La police administrative réprime les infractions déjà commises", "B) La police administrative est une activité préventive qui vise à maintenir l'ordre public", "C) La police judiciaire relève de l'administration et la police administrative du ministère de la justice", "D) La police administrative n'est pas soumise au contrôle du juge"],
-        "answer": "B",
-        "explanation": "Selon l'arrêt CE Consorts Baud, la police administrative est une activité préventive visant à maintenir l'ordre public, tandis que la police judiciaire est répressive et vise à constater les infractions et en poursuivre les auteurs."
-    },
-    {
-        "question": "Le triptyque classique de l'ordre public en police administrative comprend :",
-        "options": ["A) Sécurité, moralité et dignité humaine", "B) Sécurité, tranquillité et salubrité publiques", "C) Liberté, égalité et fraternité", "D) Ordre, neutralité et continuité"],
-        "answer": "B",
-        "explanation": "Le triptyque classique de l'ordre public, objectif de la police administrative, comprend la sécurité, la tranquillité et la salubrité publiques. La jurisprudence a ajouté ultérieurement d'autres composantes comme la moralité, l'esthétique et la dignité humaine."
-    },
-    {
-        "question": "L'arrêt CE Commune de Morsang-sur-Orge (1995) a élargi l'ordre public à :",
-        "options": ["A) La moralité publique", "B) L'esthétique urbaine", "C) La dignité humaine", "D) La protection de l'environnement"],
-        "answer": "C",
-        "explanation": "L'arrêt CE Commune de Morsang-sur-Orge, dit 'arrêt du lancer de nain', a consacré la dignité humaine comme composante de l'ordre public, permettant d'interdire des spectacles portant atteinte à la dignité de la personne humaine, même avec le consentement de la victime."
-    },
-    {
-        "question": "L'arrêt CE Lutetia (1959) a reconnu la moralité publique comme composante de l'ordre public afin de :",
-        "options": ["A) Permettre au maire d'interdire une réunion politique", "B) Permettre au maire d'interdire des films contraires aux bonnes mœurs", "C) Interdire la vente de boissons alcoolisées", "D) Réglementer les horaires des établissements de nuit"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Lutetia reconnaît la moralité publique comme composante de l'ordre public et valide le pouvoir du maire d'interdire la projection d'un film jugé contraire aux bonnes mœurs dans sa commune, même si ce film a reçu le visa ministériel."
-    },
-    {
-        "question": "Selon l'arrêt CE Benjamin, l'exercice du pouvoir de police administrative doit :",
-        "options": ["A) Toujours favoriser l'ordre sur la liberté", "B) Être proportionné au risque de trouble à l'ordre public et respecter les libertés publiques", "C) Être préalablement soumis à l'approbation du préfet", "D) Se fonder exclusivement sur des textes législatifs"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Benjamin pose le principe de proportionnalité en matière de police administrative : les mesures de police doivent être strictement nécessaires et proportionnées au trouble à l'ordre public. L'autorité de police ne peut pas interdire une réunion si des mesures moins restrictives suffisent à maintenir l'ordre."
-    },
-    {
-        "question": "Qui est l'autorité de police administrative générale au niveau national ayant fondé sa compétence sur l'arrêt CE Labonne ?",
-        "options": ["A) Le Premier Ministre", "B) Le Président de la République", "C) Le Ministre de l'Intérieur", "D) Le Préfet"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Labonne reconnaît au Président de la République un pouvoir de police administrative générale au niveau national, même sans texte d'habilitation expresse, sur la base de ses pouvoirs propres d'organisation des services publics."
-    },
-    {
-        "question": "PIÈGE - L'arrêt CE Société des concerts du conservatoire consacre quel principe ?",
-        "options": ["A) L'égalité d'accès à la fonction publique", "B) L'égalité de traitement des usagers au sein du service public", "C) Le droit de la défense dans le service public", "D) La liberté de conscience des agents publics"],
-        "answer": "B",
-        "explanation": "PIÈGE : L'arrêt Société des concerts du conservatoire (à ne pas confondre avec l'arrêt Barel sur l'égalité d'accès à la FP) consacre l'égalité de traitement entre usagers au sein d'un même service public."
-    },
-    {
-        "question": "PIÈGE - L'abrogation d'un acte administratif réglementaire illégal est :",
-        "options": ["A) Facultative pour l'administration", "B) Obligatoire à tout moment sur demande d'un administré", "C) Impossible une fois que l'acte est entré en vigueur", "D) Soumise au délai de 2 mois"],
-        "answer": "B",
-        "explanation": "Selon l'arrêt CE Syndicat national de Meunerie à Seigle, l'administration a l'obligation d'abroger un règlement illégal dès lors qu'un administré en fait la demande. C'est le corollaire du principe de légalité."
-    },
-    {
-        "question": "PIÈGE - En matière de délégation de compétence, la délégation de signature diffère de la délégation de pouvoir car :",
-        "options": ["A) La délégation de signature transfère définitivement la compétence", "B) La délégation de signature n'opère pas de transfert de compétence; le délégant reste responsable", "C) La délégation de pouvoir est toujours révocable", "D) La délégation de signature doit être approuvée par le juge administratif"],
-        "answer": "B",
-        "explanation": "Dans la délégation de signature, l'autorité délégante reste compétente et responsable ; le délégataire signe en son nom. Dans la délégation de pouvoir (ou de compétence), la compétence est réellement transférée au délégataire qui agit en son propre nom."
-    },
-    {
-        "question": "PIÈGE - Un acte administratif 'confirmatif' est-il susceptible de recours pour excès de pouvoir ?",
-        "options": ["A) Oui, car il exprime une nouvelle décision de l'administration", "B) Non, car il ne fait que répéter une décision antérieure sans la modifier, donc sans faire grief", "C) Oui, si la décision initiale était illégale", "D) Non, sauf si le demandeur ignorait la décision initiale"],
-        "answer": "B",
-        "explanation": "Un acte confirmatif répète une décision antérieure sans y ajouter d'éléments nouveaux. Il ne fait donc pas grief par lui-même et n'est pas susceptible de REP. Pour contester, il faut attaquer la décision initiale (dans les délais)."
-    },
-    {
-        "question": "L'arrêt CE Dégni-Segui (CSCA) précise que l'AAU doit avoir un caractère :",
-        "options": ["A) Gracieux et motivé", "B) Exécutoire et décisoire", "C) Réglementaire et normatif", "D) Public et opposable"],
-        "answer": "B",
-        "explanation": "L'arrêt CSCA Dégni-Segui précise que pour qu'un acte soit qualifié d'acte administratif unilatéral, il doit avoir un caractère exécutoire (applicable de droit sans recours au juge) et décisoire (modifier l'ordonnancement juridique)."
-    },
-    {
-        "question": "En droit administratif ivoirien, quel organe est compétent en matière de contentieux administratif ?",
-        "options": ["A) La Cour d'Appel", "B) La Cour de Cassation", "C) Le Conseil d'État", "D) Le Tribunal de Première Instance"],
-        "answer": "C",
-        "explanation": "En Côte d'Ivoire, depuis la réforme de 2018, le Conseil d'État est la juridiction administrative suprême compétente pour connaître des contentieux administratifs. L'ordre juridictionnel ivoirien est dualiste (ordre judiciaire et ordre administratif)."
-    },
-    {
-        "question": "L'ARCOP en Côte d'Ivoire est l'autorité de régulation compétente pour :",
-        "options": ["A) La régulation de la presse et de la communication", "B) La commande publique (marchés publics)", "C) Le contrôle des concessions et délégations de service public", "D) La régulation du secteur bancaire"],
-        "answer": "B",
-        "explanation": "L'Autorité de Régulation de la Commande Publique (ARCOP) est l'organe ivoirien chargé de réguler et de contrôler la passation des marchés publics et des délégations de service public, garantissant la transparence et l'efficacité de la commande publique."
-    },
-    {
-        "question": "En Côte d'Ivoire, la décentralisation territoriale comprend quelles collectivités territoriales ?",
-        "options": ["A) Seulement les communes et les régions", "B) Les communes, les régions et les districts autonomes", "C) Les communes, les départements et les régions", "D) Les villages, les communes et les préfectures"],
-        "answer": "B",
-        "explanation": "La décentralisation en Côte d'Ivoire reconnaît trois catégories de collectivités territoriales : les communes, les régions et les districts autonomes (notamment le District Autonome d'Abidjan et le District Autonome de Yamoussoukro)."
-    },
-    {
-        "question": "PIÈGE - Quelle est la différence entre déconcentration et décentralisation ?",
-        "options": ["A) La déconcentration confère la personnalité juridique aux entités locales, la décentralisation non", "B) La décentralisation transfère des compétences à des collectivités ayant la personnalité morale, la déconcentration transfère des pouvoirs à des agents de l'État", "C) La déconcentration s'applique au niveau national et la décentralisation au niveau international", "D) Il n'y a pas de différence fondamentale entre les deux"],
-        "answer": "B",
-        "explanation": "La déconcentration consiste à transférer des pouvoirs à des agents de l'État (préfets, sous-préfets) qui restent soumis au pouvoir hiérarchique central. La décentralisation transfère des compétences à des collectivités distinctes de l'État, dotées de la personnalité morale et d'une autonomie de gestion."
-    },
-    {
-        "question": "PIÈGE - La compétence ratione loci d'une autorité administrative concerne :",
-        "options": ["A) La durée pendant laquelle elle peut exercer ses fonctions", "B) La matière (le domaine) dans laquelle elle peut agir", "C) Le territoire géographique sur lequel elle peut exercer ses attributions", "D) La hiérarchie des normes qu'elle doit respecter"],
-        "answer": "C",
-        "explanation": "La compétence ratione loci est la compétence territoriale : elle définit le territoire géographique dans les limites duquel une autorité administrative peut exercer légalement ses attributions. La compétence ratione materiae est la compétence par matière et la compétence ratione temporis est la compétence temporelle."
-    },
-    {
-        "question": "Quel est le fondement de la compétence du Conseil d'État ivoirien en matière de contrôle des actes des collectivités territoriales ?",
-        "options": ["A) La Constitution de 1960", "B) La loi organique sur le Conseil d'État issue des réformes de la IIIe République", "C) Un traité CEDEAO sur la gouvernance locale", "D) Le Code général des collectivités territoriales de 2003"],
-        "answer": "B",
-        "explanation": "Le Conseil d'État ivoirien, réorganisé dans le cadre des réformes institutionnelles de la IIIe République (Constitution 2016 et textes organiques suivants), exerce le contrôle juridictionnel sur les actes des collectivités territoriales décentralisées."
-    },
-    {
-        "question": "PIÈGE AVANCÉ - Lorsqu'un agent public commet une faute personnelle 'non dépourvue de tout lien avec le service', la victime peut-elle agir contre l'administration ?",
-        "options": ["A) Non, seul l'agent est responsable de sa faute personnelle", "B) Oui, grâce à la théorie du cumul de responsabilités (arrêt Epoux Lemonnier)", "C) Oui, mais uniquement si la faute a été commise dans les locaux administratifs", "D) Non, car la responsabilité personnelle exclut totalement la responsabilité du service"],
-        "answer": "B",
-        "explanation": "L'arrêt CE Epoux Lemonnier admet que lorsqu'une faute personnelle d'un agent n'est pas dépourvue de tout lien avec le service, la victime peut engager la responsabilité de l'administration (cumul de responsabilités), lui offrant ainsi une meilleure garantie d'indemnisation."
-    },
-    {
-        "question": "PIÈGE AVANCÉ - La police administrative spéciale diffère de la police administrative générale en ce que :",
-        "options": ["A) La police spéciale a un champ d'application plus large", "B) La police spéciale n'est exercée que par le Préfet", "C) La police spéciale est attribuée par des textes particuliers à des autorités précises pour des domaines déterminés", "D) La police spéciale peut s'exercer sans base légale"],
-        "answer": "C",
-        "explanation": "La police administrative spéciale est définie et attribuée par des textes particuliers à des autorités précises (ministres, maires, présidents d'université) pour des domaines réglementés spécifiques (cinéma, santé, urbanisme...). Elle coexiste avec la police générale mais ses règles propres priment dans son domaine."
-    },
-    {
-        "question": "PIÈGE AVANCÉ - En cas de conflit entre police générale et police spéciale, quelle est la règle ?",
-        "options": ["A) La police générale prime toujours sur la police spéciale", "B) La police spéciale prime sur la police générale dans son domaine, sauf circonstances exceptionnelles autorisant le recours à la police générale", "C) Le préfet décide au cas par cas lequel des deux régimes s'applique", "D) Les deux régimes s'appliquent simultanément et cumulativement"],
-        "answer": "B",
-        "explanation": "Lorsqu'une police spéciale est instituée dans un domaine, ses règles priment sur celles de la police générale. Cependant, en cas de circonstances exceptionnelles (trouble grave à l'ordre public), l'autorité de police générale peut intervenir en complément, comme l'illustre la jurisprudence sur le cinéma (arrêts Lutétia et Société Les Films Lutetia)."
-    },
-    {
-        "question": "PIÈGE AVANCÉ - Une circulaire réglementaire (impérative) diffère d'une circulaire interprétative car :",
-        "options": ["A) La circulaire réglementaire ne peut être attaquée par REP", "B) La circulaire réglementaire édicte des normes nouvelles et peut être attaquée par REP, contrairement à la circulaire interprétative", "C) La circulaire interprétative a une valeur supérieure à la circulaire réglementaire", "D) Les deux types de circulaires ont exactement la même valeur juridique"],
-        "answer": "B",
-        "explanation": "Depuis l'arrêt CE Institution Notre-Dame du Kreisker, la jurisprudence distingue les circulaires interprétatives (qui se bornent à interpréter un texte sans créer de règle nouvelle, non susceptibles de REP) des circulaires réglementaires (qui créent des règles nouvelles, susceptibles de REP)."
-    },
-    {
-        "question": "Quel arrêt consacre le principe selon lequel le juge administratif peut annuler un acte administratif pour détournement de pouvoir ?",
-        "options": ["A) Arrêt Pariset", "B) Arrêt Barel", "C) Arrêt Jamart", "D) Arrêt Casanova"],
+        "question": "Cas pratique 99 : Patient décède suite à une panne d'électricité au CHU (groupe électrogène défectueux). Régime ?",
+        "options": {"A": "Faute de service (défaut d'organisation)", "B": "Force majeure", "C": "Faute personnelle du directeur", "D": "Irresponsabilité"},
         "answer": "A",
-        "explanation": "L'arrêt Pariset (1875) est fondateur sur le détournement de pouvoir."
+        "explanation": "Le défaut de maintenance des équipements vitaux est une faute."
     },
     {
-        "question": "L'arrêt Trompier-Gravier (1944) est célèbre pour avoir consacré :",
-        "options": ["A) La non-rétroactivité des actes administratifs", "B) Le respect des droits de la défense", "C) L'égalité devant le service public", "D) L'exception d'illégalité"],
-        "answer": "B",
-        "explanation": "Il consacre le PGD du respect des droits de la défense avant toute sanction."
-    },
-    {
-        "question": "Laquelle de ces affirmations sur l'arrêt Société des concerts du conservatoire (1951) est exacte ?",
-        "options": ["A) Il crée le PGD d'égalité devant le service public.", "B) Il interdit le droit de grève.", "C) Il soumet les SPIC au droit privé exclusivement.", "D) Il donne aux ministres le pouvoir de police générale."],
+        "question": "Cas pratique 100 : Sieur KOUASSI voit sa parcelle inondée par le refoulement des égouts communaux mal conçus. Régime ?",
+        "options": {"A": "Responsabilité sans faute (dommage de travaux publics pour tiers/voisin)", "B": "Faute prouvée", "C": "Force majeure automatique", "D": "Défaut d'entretien"},
         "answer": "A",
-        "explanation": "Cet arrêt érige en PGD le principe d'égalité régissant le fonctionnement des services publics."
-    },
-    {
-        "question": "En droit administratif ivoirien, la théorie des 'circonstances exceptionnelles' permettant d'assouplir la légalité est issue de :",
-        "options": ["A) L'arrêt Heyriès (1918)", "B) L'arrêt GISTI (1978)", "C) L'arrêt Barel (1954)", "D) L'arrêt Couitéas (1923)"],
-        "answer": "A",
-        "explanation": "L'arrêt Heyriès a consacré la théorie des circonstances exceptionnelles (ici, la Première Guerre mondiale)."
-    },
-    {
-        "question": "Selon l'arrêt Jamart (1936), les ministres disposent :",
-        "options": ["A) D'un pouvoir réglementaire général", "B) Du pouvoir d'organiser leurs services", "C) Du pouvoir de police générale", "D) D'aucun pouvoir réglementaire"],
-        "answer": "B",
-        "explanation": "Même sans texte, tout chef de service (ministres) a le pouvoir d'organiser ses services."
-    },
-    {
-        "question": "Quel arrêt admet que l'Administration engage sa responsabilité sans faute pour le préjudice causé par une loi ?",
-        "options": ["A) Arrêt La Fleurette (1938)", "B) Arrêt Regnault-Desroziers (1919)", "C) Arrêt Thouzellier (1956)", "D) Arrêt Couitéas (1923)"],
-        "answer": "A",
-        "explanation": "La Fleurette consacre la responsabilité de l'État du fait des lois sur le fondement de l'égalité devant les charges publiques."
-    },
-    {
-        "question": "Dans quel cas la responsabilité pour 'faute lourde' est-elle traditionnellement exigée ?",
-        "options": ["A) Les actes médicaux", "B) Le fonctionnement de la justice administrative", "C) Les activités de police difficiles (Tomaso Grecco)", "D) Les contrats de marché public"],
-        "answer": "C",
-        "explanation": "L'arrêt Tomaso Grecco (1905) admet la responsabilité de l'État pour l'activité des services de police, mais exigeait traditionnellement une faute lourde."
-    },
-    {
-        "question": "Quel arrêt fait la distinction entre la faute personnelle et la faute de service ?",
-        "options": ["A) Pelletier (1873)", "B) Anguet (1911)", "C) Époux Lemonnier (1918)", "D) Blanco (1873)"],
-        "answer": "A",
-        "explanation": "L'arrêt Pelletier (Tribunal des conflits) fonde le partage de responsabilité entre l'agent et l'administration."
-    },
-    {
-        "question": "Le cumul d'une faute personnelle et d'une faute de service ayant causé un même dommage a été reconnu par :",
-        "options": ["A) L'arrêt Anguet (1911)", "B) L'arrêt Pelletier (1873)", "C) L'arrêt Tomaso Grecco (1905)", "D) L'arrêt Barel (1954)"],
-        "answer": "A",
-        "explanation": "Anguet admet le cumul de fautes (faute personnelle commise à l'occasion du service et faute de service distincte)."
-    },
-    {
-        "question": "L'arrêt Barel (1954) concerne :",
-        "options": ["A) L'égalité d'accès à la fonction publique", "B) La protection de la dignité humaine", "C) L'interdiction d'extrader pour un motif politique", "D) La liberté d'association"],
-        "answer": "A",
-        "explanation": "Le Conseil d'État a annulé la décision refusant à des candidats de se présenter à l'ENA pour des motifs politiques (communisme), consacrant l'égalité d'accès."
-    },
-    {
-        "question": "Sur le contrôle de l'esthétique par la police administrative, quel est l'arrêt de référence ?",
-        "options": ["A) Lutetia (1959)", "B) Leroux (1997)", "C) Consorts Baud (1951)", "D) Commune de Morsang-sur-Orge (1995)"],
-        "answer": "B",
-        "explanation": "L'arrêt Leroux (1997) permet à la police d'intervenir pour des motifs d'esthétique (protection de l'environnement)."
-    },
-    {
-        "question": "L'arrêt Commune de Morsang-sur-Orge (1995) a intégré dans l'ordre public :",
-        "options": ["A) La moralité publique", "B) La dignité de la personne humaine", "C) L'esthétique", "D) La sécurité des biens"],
-        "answer": "B",
-        "explanation": "L'arrêt sur le 'lancer de nains' consacre le respect de la dignité de la personne humaine comme composante de l'ordre public."
-    },
-    {
-        "question": "Dans quel arrêt le Conseil d'État a-t-il affirmé qu'une mesure de police doit être proportionnée ?",
-        "options": ["A) Arrêt Benjamin (1933)", "B) Arrêt Labonne (1919)", "C) Arrêt Daudignac (1951)", "D) Arrêt Lutetia (1959)"],
-        "answer": "A",
-        "explanation": "L'arrêt Benjamin exige un contrôle de proportionnalité entre les risques de trouble et la liberté de réunion."
-    },
-    {
-        "question": "Selon l'arrêt Monpeurt (1942), des organismes privés peuvent :",
-        "options": ["A) Prendre des actes administratifs unilatéraux s'ils gèrent un SPA.", "B) Être jugés par les tribunaux de l'ordre judiciaire exclusivement.", "C) Échapper à tout contrôle de légalité.", "D) Adopter des lois de police."],
-        "answer": "A",
-        "explanation": "Monpeurt admet qu'une personne privée gérant un SPA (Service Public Administratif) peut édicter des actes administratifs unilatéraux."
-    },
-    {
-        "question": "Qu'établit l'arrêt Magnier (1961) en matière d'AAU ?",
-        "options": ["A) Les actes des SPIC gérés par des personnes privées sont administratifs s'ils manifestent des prérogatives de puissance publique.", "B) Tous les actes des SPIC sont privés.", "C) Les circulaires ne sont jamais des AAU.", "D) Les mesures d'ordre intérieur peuvent être annulées."],
-        "answer": "A",
-        "explanation": "Magnier étend la solution Monpeurt aux SPIC (gérés par des personnes privées) si la décision traduit l'exercice d'une prérogative de puissance publique."
-    },
-    {
-        "question": "Concernant les circulaires, la distinction entre circulaires réglementaires et interprétatives a été dégagée par :",
-        "options": ["A) L'arrêt Chapou (1954)", "B) L'arrêt Kreisker (1954)", "C) L'arrêt Jamart (1936)", "D) L'arrêt Gomard (2000)"],
-        "answer": "B",
-        "explanation": "L'arrêt Notre-Dame du Kreisker (1954) distinguait circulaires réglementaires (susceptibles de recours) et interprétatives (insusceptibles)."
-    },
-    {
-        "question": "Un acte administratif préparatoire est-il susceptible de REP (Recours pour Excès de Pouvoir) selon la jurisprudence ?",
-        "options": ["A) Oui, toujours", "B) Non, jamais (ex: Arrêt Nado Koutouan)", "C) Uniquement s'il est publié", "D) Uniquement s'il émane d'un ministre"],
-        "answer": "B",
-        "explanation": "Les actes préparatoires ne font pas grief et ne peuvent faire l'objet d'un REP direct (jurisprudence constante, ex: Nado Koutouan en CI)."
-    },
-    {
-        "question": "Laquelle des théories suivantes justifie la continuité du service public malgré l'illégalité de la nomination de l'agent (Arrêt Ducastel) ?",
-        "options": ["A) Le fonctionnaire de fait", "B) L'urgence absolue", "C) La force majeure", "D) L'imprévision"],
-        "answer": "A",
-        "explanation": "La théorie du fonctionnaire de fait permet de valider les actes d'une personne dont l'investiture est irrégulière, pour garantir la continuité du service public."
-    },
-    {
-        "question": "En matière de contrats administratifs, l'imprévision (Gaz de Bordeaux, 1916) donne droit à :",
-        "options": ["A) Une résiliation de plein droit", "B) Une indemnisation intégrale du cocontractant", "C) Une indemnité d'imprévision pour l'aider à surmonter la difficulté", "D) L'annulation du contrat"],
-        "answer": "C",
-        "explanation": "Le cocontractant a droit à une aide (indemnité d'imprévision) mais doit continuer à exécuter le contrat."
-    },
-    {
-        "question": "Le 'fait du prince' se caractérise par :",
-        "options": ["A) Un bouleversement économique extérieur", "B) Une mesure prise par l'Administration contractante qui alourdit les charges du cocontractant", "C) Une force majeure irrésistible", "D) Une faute du cocontractant"],
-        "answer": "B",
-        "explanation": "Le fait du prince ouvre droit à une indemnisation intégrale si l'Administration, agissant à un autre titre que contractant, aggrave les charges de son partenaire."
-    },
-    {
-        "question": "Une clause exorbitante du droit commun est un critère :",
-        "options": ["A) De qualification d'un acte administratif unilatéral", "B) Matériel de qualification d'un contrat administratif", "C) De responsabilité sans faute", "D) De la compétence judiciaire"],
-        "answer": "B",
-        "explanation": "La présence d'une clause exorbitante (ou participation au service public) est le critère matériel du contrat administratif."
-    },
-    {
-        "question": "L'arrêt Dame Lamotte (1950) pose que :",
-        "options": ["A) Le REP est ouvert contre tout acte administratif sans qu'aucun texte ne le prévoie.", "B) Le REP est interdit en matière de police des étrangers.", "C) Seuls les actes publiés peuvent être contestés.", "D) L'Administration ne peut engager sa responsabilité sans faute."],
-        "answer": "A",
-        "explanation": "Le REP est ouvert même sans texte contre tout acte administratif (PGD)."
-    },
-    {
-        "question": "La responsabilité de l'État du fait d'une décision de justice régulière est issue de :",
-        "options": ["A) L'arrêt Couitéas (1923)", "B) L'arrêt La Fleurette (1938)", "C) L'arrêt Barel (1954)", "D) L'arrêt Tomaso Grecco (1905)"],
-        "answer": "A",
-        "explanation": "Dans Couitéas, l'État a refusé de prêter le concours de la force publique pour exécuter une décision de justice, engageant sa responsabilité sans faute (rupture égalité)."
-    },
-    {
-        "question": "Quelle autorité dispose du pouvoir de police générale au niveau national (Jurisprudence Labonne) ?",
-        "options": ["A) Le Premier ministre / Le Chef de l'État", "B) Le Ministre de l'Intérieur", "C) Le Préfet", "D) Le Maire"],
-        "answer": "A",
-        "explanation": "L'arrêt Labonne (1919) reconnaît au Chef de l'État (transféré au Premier ministre en France) le pouvoir de police générale sur tout le territoire."
-    },
-    {
-        "question": "L'arrêt Casanova (1901) a admis la recevabilité du recours :",
-        "options": ["A) D'un fonctionnaire contre son supérieur", "B) D'un contribuable local contre une dépense de sa commune", "C) D'un ministre contre un décret", "D) D'un étranger contre son expulsion"],
-        "answer": "B",
-        "explanation": "Casanova consacre l'intérêt à agir du contribuable local contre les décisions ayant des répercussions sur les finances de sa collectivité."
-    },
-    {
-        "question": "L'arrêt L'Aurore (1948) érige en PGD :",
-        "options": ["A) La liberté d'expression", "B) Le principe de non-rétroactivité des actes administratifs", "C) Le droit à un procès équitable", "D) L'égalité de traitement"],
-        "answer": "B",
-        "explanation": "L'Aurore affirme que les actes administratifs ne peuvent pas avoir d'effet rétroactif, sauf exception législative."
-    },
-    {
-        "question": "Un recours hiérarchique :",
-        "options": ["A) N'est possible que si un texte le prévoit", "B) S'adresse au supérieur hiérarchique de l'auteur de l'acte", "C) Remplace le juge administratif", "D) Doit obligatoirement être précédé d'un recours gracieux"],
-        "answer": "B",
-        "explanation": "L'arrêt Queralt a établi que le pouvoir hiérarchique existe de plein droit et permet un recours auprès du supérieur de l'auteur de l'acte."
-    },
-    {
-        "question": "La jurisprudence Commune de Néris-les-Bains (1902) reconnaît :",
-        "options": ["A) Qu'une autorité de police locale peut aggraver une mesure de police nationale si les circonstances locales l'exigent.", "B) Qu'un maire ne peut jamais prendre d'arrêté de police.", "C) Que l'État n'est jamais responsable des fautes des maires.", "D) Qu'un maire est soumis au pouvoir hiérarchique du préfet dans tous les cas."],
-        "answer": "A",
-        "explanation": "Une autorité inférieure peut rendre une mesure de police plus rigoureuse que celle de l'autorité supérieure, justifiée par des circonstances locales."
-    },
-    {
-        "question": "L'ARCOP en Côte d'Ivoire est chargée :",
-        "options": ["A) Du contrôle budgétaire de l'État", "B) De la régulation de la commande publique", "C) De l'organisation des élections", "D) De la nomination des magistrats"],
-        "answer": "B",
-        "explanation": "L'ARCOP (Autorité de Régulation de la Commande Publique) régule les marchés publics en Côte d'Ivoire."
-    },
-    {
-        "question": "Le contentieux du foncier en Côte d'Ivoire constitue actuellement :",
-        "options": ["A) La minorité des affaires devant le Conseil d'État", "B) Une partie insignifiante depuis la réforme de 2020", "C) Le contentieux le plus abondant devant le Conseil d'État", "D) Une matière exclusivement judiciaire"],
-        "answer": "C",
-        "explanation": "Les bilans récents de l'activité du CE ivoirien (2025-2026) montrent que le foncier est le contentieux dominant."
-    },
-    {
-        "question": "L'arrêt Nicolo (1989) consacre :",
-        "options": ["A) La primauté des traités internationaux sur les lois nationales postérieures", "B) La primauté de la Constitution sur les traités", "C) L'incompétence du juge administratif pour interpréter un traité", "D) La responsabilité sans faute pour acte de gouvernement"],
-        "answer": "A",
-        "explanation": "Nicolo marque l'acceptation par le juge administratif de contrôler la conformité d'une loi à un traité international (article 55 Constitution)."
-    },
-    {
-        "question": "L'arrêt Rubin de Servens (1962) qualifie la décision de recourir à l'article 16 (pleins pouvoirs) de :",
-        "options": ["A) Acte administratif réglementaire", "B) Acte de gouvernement insusceptible de recours", "C) Acte préparatoire", "D) Mesure d'ordre intérieur"],
-        "answer": "B",
-        "explanation": "Le recours aux pouvoirs de crise est un acte de gouvernement, échappant au contrôle du juge administratif."
-    },
-    {
-        "question": "L'arrêt Consorts Baud (1951) fait la distinction entre :",
-        "options": ["A) Police administrative et police judiciaire", "B) Faute lourde et faute simple", "C) SPA et SPIC", "D) Contrat administratif et contrat privé"],
-        "answer": "A",
-        "explanation": "Consorts Baud (CE) et Noualek (TC) posent le critère finaliste (prévention vs répression) pour distinguer police administrative et judiciaire."
-    },
-    {
-        "question": "Une mesure d'ordre intérieur (ex: Arrêt Chapou) :",
-        "options": ["A) Est toujours annulable par le juge", "B) Ne fait généralement pas grief et échappe au REP", "C) Est un synonyme d'acte de gouvernement", "D) Ne concerne que la fonction publique"],
-        "answer": "B",
-        "explanation": "Traditionnellement, les mesures d'ordre intérieur (ex: affectation dans une classe, punition scolaire minime) sont insusceptibles de REP car elles ne font pas grief (sauf si elles affectent les libertés)."
-    },
-    {
-        "question": "Le juge de l'excès de pouvoir contrôle-t-il l'opportunité d'une décision administrative ?",
-        "options": ["A) Oui, de manière systématique", "B) Non, il ne contrôle que la légalité", "C) Oui, depuis l'arrêt Barel", "D) Uniquement pour les actes réglementaires"],
-        "answer": "B",
-        "explanation": "Le REP est un contentieux de la légalité, pas de l'opportunité (sauf dans le contrôle de proportionnalité qui s'en rapproche sans être un contrôle pur d'opportunité)."
-    },
-    {
-        "question": "L'arrêt Époux Lemonnier (1918) complète l'arrêt Anguet en admettant :",
-        "options": ["A) La responsabilité sans faute", "B) Le cumul de responsabilités pour une faute unique commise dans le service", "C) L'irresponsabilité de l'État", "D) L'enrichissement sans cause"],
-        "answer": "B",
-        "explanation": "Pour une même faute (unique) commise dans le service, la victime peut rechercher la responsabilité de l'agent (faute personnelle) ET celle de l'Administration (faute de service)."
-    },
-    {
-        "question": "Selon la jurisprudence Daudignac (1951), l'instauration d'un régime d'autorisation préalable par la police administrative :",
-        "options": ["A) Est toujours légale", "B) Est illégale si elle porte atteinte à la liberté du commerce et de l'industrie sans base légale", "C) Relève du pouvoir discrétionnaire du maire", "D) N'est possible que pour la presse"],
-        "answer": "B",
-        "explanation": "Seul le législateur peut instaurer un régime d'autorisation préalable touchant aux libertés publiques. Le maire ne peut le faire par arrêté (Daudignac)."
-    },
-    {
-        "question": "L'arrêt Regnault-Desroziers (1919) fonde la responsabilité de l'État sur :",
-        "options": ["A) Le risque (choses dangereuses)", "B) La faute lourde", "C) Le défaut d'entretien d'un ouvrage public", "D) La rupture de l'égalité devant les charges publiques"],
-        "answer": "A",
-        "explanation": "L'explosion d'un dépôt de munitions a engagé la responsabilité sans faute de l'État basée sur le risque lié aux choses dangereuses."
-    },
-    {
-        "question": "En Côte d'Ivoire, l'ordre de juridiction administrative est coiffé par :",
-        "options": ["A) La Cour Suprême", "B) Le Conseil d'État", "C) Le Conseil Constitutionnel", "D) La Haute Cour de Justice"],
-        "answer": "B",
-        "explanation": "Depuis la Constitution de 2016, l'ordre administratif est dirigé par le Conseil d'État (la Cour Suprême ayant été scindée en Cour de Cassation, CE et Cour des Comptes)."
-    },
-    {
-        "question": "Une décision de l'ARCOP peut-elle faire l'objet d'un recours devant le Conseil d'État ivoirien ?",
-        "options": ["A) Non, ses décisions sont souveraines", "B) Oui, par la voie du REP", "C) Uniquement devant les juridictions civiles", "D) Uniquement par arbitrage international"],
-        "answer": "B",
-        "explanation": "L'ARCOP est une AAI (Autorité Administrative Indépendante) ; ses décisions faisant grief sont des actes administratifs contestables devant le juge administratif."
-    },
-    {
-        "question": "Laquelle des affirmations suivantes caractérise un Service Public Industriel et Commercial (SPIC) en droit ivoirien ?",
-        "options": ["A) Il est régi exclusivement par le droit public.", "B) Le personnel est soumis au statut général de la fonction publique.", "C) Ses litiges avec les usagers relèvent du juge judiciaire.", "D) Il ne peut jamais prendre d'actes administratifs."],
-        "answer": "C",
-        "explanation": "Les litiges entre un SPIC et ses usagers relèvent en principe du juge judiciaire (Tribunal des conflits, Bac d'Eloka, 1921), même s'il est géré par une personne publique."
-    },
-    {
-        "question": "Dans le cadre des marchés publics ivoiriens, quel est le principe général de passation ?",
-        "options": ["A) Le gré à gré", "B) L'appel d'offres ouvert", "C) L'appel d'offres restreint", "D) L'adjudication"],
-        "answer": "B",
-        "explanation": "Selon le Code des marchés publics ivoirien, l'appel d'offres ouvert est la règle. Le gré à gré est une exception strictement encadrée."
-    },
-    {
-        "question": "Une décision de l'ARCOP (Autorité de Régulation de la Commande Publique) excluant une entreprise des marchés publics pendant 5 ans :",
-        "options": ["A) Est une mesure d'ordre intérieur insusceptible de recours", "B) Relève de la compétence exclusive de la Chambre de Commerce et d'Industrie", "C) Est un acte administratif faisant grief, susceptible de recours pour excès de pouvoir", "D) Ne peut être contestée que par la voie diplomatique"],
-        "answer": "C",
-        "explanation": "L'ARCOP est une Autorité Administrative Indépendante ; ses décisions de sanction font grief et peuvent être attaquées par la voie du REP devant le Conseil d'État."
-    },
-    {
-        "question": "En matière de contrats administratifs, si le cocontractant de l'Administration est en faute, celle-ci peut :",
-        "options": ["A) S'adresser systématiquement au juge pour prononcer la résiliation.", "B) Prononcer une sanction unilatérale, y compris la résiliation, même sans texte.", "C) Uniquement suspendre le paiement.", "D) Demander l'annulation du contrat pour erreur sur la personne."],
-        "answer": "B",
-        "explanation": "L'Administration dispose d'un pouvoir de sanction unilatérale (pénalités, résiliation pour faute) inhérent aux contrats administratifs, sans avoir besoin de s'adresser au juge au préalable (Arrêt Deville-lès-Rouen)."
-    },
-    {
-        "question": "Selon la jurisprudence de la Compagnie générale française des tramways (1910), l'Administration peut :",
-        "options": ["A) Modifier unilatéralement un contrat pour motif d'intérêt général.", "B) Refuser de payer son cocontractant sans motif.", "C) Être exemptée de toute responsabilité en cas de force majeure.", "D) Annuler tous les contrats à la fin de l'année budgétaire."],
-        "answer": "A",
-        "explanation": "Cet arrêt reconnaît le pouvoir de modification unilatérale de l'Administration pour les besoins du service public, moyennant une indemnisation du cocontractant."
-    },
-    {
-        "question": "En Côte d'Ivoire, qu'est-ce qui caractérise le domaine public par rapport au domaine privé de l'État ?",
-        "options": ["A) Il est prescriptible.", "B) Il est aliénable et saisissable.", "C) Il est inaliénable, imprescriptible et insaisissable.", "D) Il est géré exclusivement par des sociétés privées."],
-        "answer": "C",
-        "explanation": "Le domaine public est protégé par les principes d'inaliénabilité, d'imprescriptibilité et d'insaisissabilité pour garantir son affectation à l'utilité publique."
-    },
-    {
-        "question": "Quel critère principal permet de déterminer si un bien appartient au domaine public artificiel ?",
-        "options": ["A) L'affectation à l'usage direct du public ou à un service public avec aménagement spécial.", "B) La simple propriété d'une personne publique.", "C) Son enregistrement au cadastre.", "D) Sa valeur vénale supérieure à un milliard de FCFA."],
-        "answer": "A",
-        "explanation": "Pour qu'un bien entre dans le domaine public artificiel, il doit appartenir à une personne publique ET être affecté à l'usage du public, ou à un service public pourvu qu'il fasse l'objet d'un aménagement spécial (ou indispensable depuis la jurisprudence française plus récente)."
-    },
-    {
-        "question": "Un ouvrage public est :",
-        "options": ["A) Tout immeuble appartenant à un particulier.", "B) Un bien meuble affecté à un service public.", "C) Un immeuble résultant d'un travail public affecté à un but d'utilité générale.", "D) Obligatoirement une route ou un pont."],
-        "answer": "C",
-        "explanation": "L'ouvrage public est un bien immobilier (immeuble par nature ou par destination) qui est le résultat d'un travail public et qui est affecté à une fin d'intérêt général."
-    },
-    {
-        "question": "Quel est le fondement du recours dit 'Tropic Travaux Signalisation' (2007) ?",
-        "options": ["A) Permettre aux tiers évincés de contester la validité du contrat administratif.", "B) Interdire la passation de marchés de gré à gré.", "C) Obliger l'Administration à indemniser en cas d'imprévision.", "D) Transférer le contentieux contractuel au juge judiciaire."],
-        "answer": "A",
-        "explanation": "Cette jurisprudence (puis Tarn-et-Garonne) a ouvert le recours de plein contentieux contre le contrat lui-même aux tiers (notamment les concurrents évincés) justifiant d'un intérêt lésé."
-    },
-    {
-        "question": "En droit administratif ivoirien, la concession de service public se distingue du marché public principalement par :",
-        "options": ["A) La nature du cocontractant qui doit être obligatoirement public.", "B) Le mode de rémunération, lié substantiellement aux résultats de l'exploitation.", "C) L'absence de procédure de mise en concurrence.", "D) La durée du contrat, qui ne peut excéder un an."],
-        "answer": "B",
-        "explanation": "Dans la concession (ou délégation de service public), la rémunération du cocontractant provient substantiellement des résultats de l'exploitation du service (le risque d'exploitation est transféré au concessionnaire)."
-    },
-    {
-        "question": "Selon l'arrêt TC, Bac d'Eloka (1921), les services publics gérés dans des conditions similaires à celles d'une entreprise privée sont des :",
-        "options": ["A) SPA (Services Publics Administratifs).", "B) SPIC (Services Publics Industriels et Commerciaux).", "C) Établissements d'utilité publique.", "D) Organismes de bienfaisance."],
-        "answer": "B",
-        "explanation": "Cet arrêt fondateur donne naissance à la notion de SPIC, gérés selon des méthodes comparables à celles des entreprises privées et soumis largement au droit privé."
-    },
-    {
-        "question": "Quelle autorité en Côte d'Ivoire est compétente pour déclarer l'utilité publique en vue d'une expropriation ?",
-        "options": ["A) Le Juge civil", "B) Le Chef de village", "C) L'Administration (par décret ou arrêté, selon l'importance)", "D) Le Conseil Constitutionnel"],
-        "answer": "C",
-        "explanation": "La Déclaration d'Utilité Publique (DUP) est un acte administratif préalable à la procédure d'expropriation, relevant de l'exécutif."
-    },
-    {
-        "question": "Dans le régime du gré à gré (entente directe) en matière de commande publique ivoirienne :",
-        "options": ["A) L'Administration contracte librement sans aucune justification.", "B) Une autorisation préalable est requise dans des cas limitativement énumérés par le Code (ex: urgence impérieuse).", "C) Le contrat n'a pas la qualification de contrat administratif.", "D) Seules les entreprises étrangères sont éligibles."],
-        "answer": "B",
-        "explanation": "Le marché de gré à gré est une procédure exceptionnelle qui nécessite l'accord des autorités de contrôle (ministre du budget) et doit s'inscrire dans des cas précis (urgence, secret, brevet exclusif...)."
-    },
-    {
-        "question": "Le privilège de l'exécution d'office permet à l'Administration de :",
-        "options": ["A) Forcer le juge à rendre une décision.", "B) Imposer directement l'exécution de ses décisions unilatérales sans recourir au juge.", "C) Poursuivre pénalement tout citoyen.", "D) S'exonérer de ses obligations contractuelles sans motif."],
-        "answer": "B",
-        "explanation": "C'est l'essence même de l'acte administratif unilatéral : le privilège du préalable ou de l'exécution d'office permet à l'Administration d'agir sans autorisation du juge."
-    },
-    {
-        "question": "En cas de dommage causé par un dommage de travaux publics, la victime a le statut de :",
-        "options": ["A) Usager, tiers ou participant.", "B) Fonctionnaire, stagiaire ou contractuel.", "C) Contribuable ou administré.", "D) Créancier chirographaire."],
-        "answer": "A",
-        "explanation": "La responsabilité de l'Administration diffère selon la qualité de la victime : tiers (responsabilité sans faute), usager (faute présumée), ou participant (faute prouvée en général)."
-    },
-    {
-        "question": "Quelle est la principale différence entre la théorie de l'imprévision et la force majeure dans les contrats administratifs ?",
-        "options": ["A) L'imprévision entraîne une résiliation immédiate ; la force majeure permet la poursuite du contrat.", "B) L'imprévision donne droit à une aide financière pour continuer ; la force majeure justifie la résiliation.", "C) L'imprévision est causée par l'Administration ; la force majeure par un tiers.", "D) Il n'y a aucune différence en droit ivoirien."],
-        "answer": "B",
-        "explanation": "La force majeure (imprévisible, irrésistible, extérieure) empêche l'exécution et entraîne la résiliation sans indemnisation de l'Administration ; l'imprévision bouleverse l'économie mais ne rend pas l'exécution impossible, donnant droit à une indemnité d'imprévision pour continuer."
-    },
-    {
-        "question": "L'occupation du domaine public :",
-        "options": ["A) Est un droit inaliénable pour tout citoyen.", "B) Est nécessairement temporaire, révocable et précaire.", "C) Confère la propriété des sols occupés au bout de 10 ans.", "D) Ne nécessite aucune autorisation préalable."],
-        "answer": "B",
-        "explanation": "L'autorisation d'occupation du domaine public est toujours délivrée à titre précaire et révocable (pour des motifs d'intérêt général)."
-    },
-    {
-        "question": "Lorsqu'un contrat contient une clause par laquelle l'Administration s'octroie des pouvoirs de contrôle sur le cocontractant qui n'existent pas en droit privé, on parle de :",
-        "options": ["A) Clause de sauvegarde", "B) Clause exorbitante du droit commun", "C) Clause compromissoire", "D) Clause pénale"],
-        "answer": "B",
-        "explanation": "C'est la définition même de la clause exorbitante du droit commun, critère matériel du contrat administratif (jurisprudence Société des granits porphyroïdes des Vosges, 1912)."
-    },
-    {
-        "question": "En matière de domaine public, la 'théorie des mutations domaniales' permet :",
-        "options": ["A) De vendre un bien du domaine public à un particulier.", "B) À l'État de transférer l'affectation d'un bien du domaine public d'une collectivité vers un autre usage public d'intérêt supérieur.", "C) D'intégrer un bien privé dans le domaine public sans DUP.", "D) De modifier les frontières communales."],
-        "answer": "B",
-        "explanation": "Cette théorie jurisprudentielle permet à l'État, garant de l'intérêt général, de modifier l'affectation d'une dépendance du domaine public d'une collectivité (moyennant indemnisation) si un intérêt public supérieur le justifie."
-    },
-    {
-        "question": "Un contrat passé entre deux personnes publiques est présumé être :",
-        "options": ["A) Un contrat de droit privé.", "B) Un contrat administratif.", "C) Insusceptible de recours.", "D) Un acte unilatéral déguisé."],
-        "answer": "B",
-        "explanation": "Selon la jurisprudence UAP (1983), un contrat conclu entre deux personnes publiques est présumé revêtir un caractère administratif (sauf s'il ne fait naître que des rapports de droit privé)."
-    },
-    {
-        "question": "Quel principe régit le fonctionnement continu des services publics (lois de Rolland) ?",
-        "options": ["A) Le principe d'adaptation (ou mutabilité)", "B) Le principe de continuité", "C) Le principe d'égalité", "D) Le principe de laïcité"],
-        "answer": "B",
-        "explanation": "Les trois 'Lois de Rolland' sont : Continuité, Mutabilité (adaptation), et Égalité. Le fonctionnement continu est dicté par le principe de continuité (Arrêt Dehaene)."
-    },
-    {
-        "question": "Dans le contentieux de l'expropriation, quelle étape relève de la compétence exclusive du juge judiciaire (en l'absence d'accord amiable) ?",
-        "options": ["A) La déclaration d'utilité publique", "B) L'enquête parcellaire", "C) Le transfert de propriété et la fixation de l'indemnité", "D) L'arrêté de cessibilité"],
-        "answer": "C",
-        "explanation": "L'expropriation comprend une phase administrative (DUP, arrêtés) et une phase judiciaire. Le juge judiciaire est seul compétent (protecteur de la propriété) pour prononcer le transfert de propriété et fixer le montant de l'indemnité s'il n'y a pas d'accord."
-    },
-    {
-        "question": "La régie est un mode de gestion du service public dans lequel :",
-        "options": ["A) L'Administration confie le service à une société anonyme cotée en bourse.", "B) L'Administration gère elle-même le service avec son propre personnel et ses propres deniers.", "C) Un particulier s'engage à gérer le service à ses risques et périls.", "D) Une ONG gère le service sur fonds internationaux."],
-        "answer": "B",
-        "explanation": "La régie (simple ou autonome) est le mode de gestion directe par la personne publique."
-    },
-    {
-        "question": "En Côte d'Ivoire, pour être qualifié de marché de partenariat (ou Partenariat Public-Privé - PPP) :",
-        "options": ["A) Le partenaire privé doit assumer la construction, l'entretien, l'exploitation ou la gestion d'un équipement public.", "B) L'État doit transférer la souveraineté au partenaire privé.", "C) Le contrat doit être gratuit.", "D) Le paiement de l'entreprise doit être exclusivement assuré par les péages des usagers."],
-        "answer": "A",
-        "explanation": "Le PPP (marché de partenariat) est un contrat global où le partenaire privé finance, construit, et gère un ouvrage, avec une rémunération versée par la personne publique (contrairement à la concession où l'usager paie en majorité)."
-    },
-    {
-        "question": "Le déclassement d'un bien du domaine public (pour le faire entrer dans le domaine privé) exige au préalable :",
-        "options": ["A) Une simple décision du conseil municipal.", "B) La désaffectation de fait ou de droit du bien (fin de son affectation à l'utilité publique).", "C) L'approbation du juge de cassation.", "D) Sa vente aux enchères."],
-        "answer": "B",
-        "explanation": "Pour qu'un bien sorte du domaine public, il faut qu'il y ait d'abord désaffectation matérielle (il ne sert plus au public/service) PUIS un acte juridique de déclassement."
-    },
-    {
-        "question": "En Côte d'Ivoire, quelle juridiction est compétente en premier ressort pour statuer sur les litiges relatifs à la carrière des fonctionnaires de l'État ?",
-        "options": ["A) Le Conseil d'État, compétence exclusive et directe", "B) Les Tribunaux administratifs", "C) La Cour administrative d'appel", "D) Le Tribunal du Travail"],
-        "answer": "A",
-        "explanation": "Historiquement et encore en grande partie, en attendant le déploiement effectif complet des tribunaux administratifs sur tout le territoire, le Conseil d'État ivoirien (ex-Chambre administrative) a souvent gardé une compétence directe en premier et dernier ressort pour les recours pour excès de pouvoir des fonctionnaires nommés par décret, bien que la loi organique prévoie un démembrement progressif."
-    },
-    {
-        "question": "Quel est le délai de droit commun pour introduire un recours pour excès de pouvoir (REP) devant le juge administratif ivoirien ?",
-        "options": ["A) 1 mois", "B) 2 mois", "C) 3 mois", "D) 6 mois"],
-        "answer": "B",
-        "explanation": "Le délai de droit commun pour exercer un REP contre une décision administrative est de deux (2) mois à compter de sa publication ou de sa notification."
-    },
-    {
-        "question": "Le recours gracieux adressé à l'auteur de l'acte a pour effet de :",
-        "options": ["A) Suspendre immédiatement l'exécution de l'acte administratif.", "B) Proroger le délai de recours contentieux.", "C) Rendre l'acte nul de plein droit.", "D) Saisir automatiquement le Conseil d'État après 10 jours."],
-        "answer": "B",
-        "explanation": "Le dépôt d'un recours administratif préalable (gracieux ou hiérarchique) dans le délai de 2 mois interrompt (proroge) le délai de recours contentieux, qui recommence à courir après la réponse de l'Administration."
-    },
-    {
-        "question": "Dans le cadre d'un contentieux de pleine juridiction (ou plein contentieux), le juge administratif peut :",
-        "options": ["A) Uniquement annuler la décision administrative.", "B) Modifier la décision, condamner l'Administration au paiement d'indemnités et substituer sa propre décision.", "C) Juger les litiges entre particuliers.", "D) Demander l'avis du Parlement."],
-        "answer": "B",
-        "explanation": "Contrairement au REP où le juge ne peut qu'annuler, dans le plein contentieux, le juge dispose de pouvoirs très étendus : condamnation pécuniaire, réformation de l'acte."
-    },
-    {
-        "question": "Quel est le sort d'un recours pour excès de pouvoir (REP) si le requérant ne démontre pas d'intérêt à agir ?",
-        "options": ["A) Il est jugé sur le fond mais les dommages-intérêts sont refusés.", "B) Il est irrecevable.", "C) L'affaire est renvoyée au juge civil.", "D) Le Médiateur de la République est automatiquement saisi."],
-        "answer": "B",
-        "explanation": "L'intérêt à agir (personnel, direct, légitime) est une condition de recevabilité absolue du REP. À défaut, la requête est rejetée pour irrecevabilité (Arrêt Casanova)."
-    },
-    {
-        "question": "En procédure administrative ivoirienne, l'introduction d'un recours contentieux a-t-elle un effet suspensif ?",
-        "options": ["A) Oui, toujours, c're le principe de précaution.", "B) Non, le recours n'a pas d'effet suspensif, sauf exception prévue par la loi ou décision du juge (sursis à exécution/référé).", "C) Oui, si le requérant verse une caution.", "D) Non, sauf si l'acte émane d'un préfet."],
-        "answer": "B",
-        "explanation": "C'est la règle fondamentale du privilège du préalable : le recours contentieux ne suspend pas l'exécution de l'acte administratif, sauf si le juge prononce un sursis à exécution (référé-suspension)."
-    },
-    {
-        "question": "Pour obtenir un sursis à exécution (référé-suspension) d'une décision administrative, quelles sont les deux conditions cumulatives traditionnellement exigées ?",
-        "options": ["A) Urgence et faute grave de l'Administration.", "B) Urgence et doute sérieux quant à la légalité de l'acte.", "C) Préjudice financier et absence d'enquête publique.", "D) Faute personnelle de l'agent et compétence du juge judiciaire."],
-        "answer": "B",
-        "explanation": "Le juge des référés peut suspendre un acte si l'urgence le justifie ET s'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la légalité de la décision."
-    },
-    {
-        "question": "La procédure du 'référé-liberté' permet au juge administratif de statuer dans un délai d'urgence de :",
-        "options": ["A) 48 heures", "B) 7 jours", "C) 1 mois", "D) 3 mois"],
-        "answer": "A",
-        "explanation": "Le référé-liberté (inspiré du droit français et intégré dans les procédures modernes) impose au juge de statuer dans les 48 heures en cas d'atteinte grave et manifestement illégale à une liberté fondamentale par l'Administration."
-    },
-    {
-        "question": "La Cour des Comptes, en tant que juridiction financière supérieure, relève-t-elle de l'ordre administratif ivoirien au sens strict des recours des particuliers ?",
-        "options": ["A) Oui, elle juge les recours en annulation des contribuables contre les impôts.", "B) Non, elle forme un ordre juridictionnel financier distinct chargé du contrôle des comptables publics.", "C) Oui, c'est une chambre spécialisée du Conseil d'État.", "D) Non, c'est une juridiction civile."],
-        "answer": "B",
-        "explanation": "La Cour des Comptes juge les comptes des comptables publics et contrôle la gestion financière, mais elle ne juge pas les actes administratifs faisant grief aux citoyens (c'est le rôle du Conseil d'État/Tribunaux administratifs)."
-    },
-    {
-        "question": "Une recommandation émise par la Haute Autorité de la Communication Audiovisuelle (HACA), acte de droit souple :",
-        "options": ["A) N'est jamais susceptible de recours pour excès de pouvoir.", "B) Peut faire l'objet d'un REP si elle produit des effets notables ou a une influence significative sur les comportements (jurisprudence de type Fairvesta/Numericable).", "C) Doit obligatoirement être ratifiée par le Parlement.", "D) Relève exclusivement de la Cour de Cassation."],
-        "answer": "B",
-        "explanation": "Le droit administratif moderne (ex: arrêts Fairvesta et Numericable en France, dont s'inspire la CI) admet la recevabilité du REP contre des actes de droit souple (recommandations, avis) s'ils produisent des effets notables ou sont de nature à influer sur les comportements."
-    },
-    {
-        "question": "Le contentieux de la responsabilité quasi-délictuelle de l'État (dommages causés par un véhicule militaire) relève :",
-        "options": ["A) Du plein contentieux", "B) Du recours pour excès de pouvoir", "C) Du contentieux de l'interprétation", "D) Du contentieux de la répression"],
-        "answer": "A",
-        "explanation": "Tout recours visant à obtenir de l'Administration le versement d'une indemnité en réparation d'un dommage relève du contentieux de pleine juridiction."
-    },
-    {
-        "question": "Si l'Administration garde le silence pendant deux mois suite à un recours gracieux en Côte d'Ivoire, cela équivaut à :",
-        "options": ["A) Une décision implicite d'acceptation.", "B) Une décision implicite de rejet, permettant de saisir le juge.", "C) Une faute lourde de l'Administration indemnisable d'office.", "D) Un renvoi du dossier au Médiateur de la République."],
-        "answer": "B",
-        "explanation": "Le silence gardé par l'Administration pendant plus de 2 mois vaut généralement décision de rejet, contre laquelle un REP peut être formé."
-    },
-    {
-        "question": "La Règle de la décision préalable stipule que :",
-        "options": ["A) Le juge ne peut être saisi qu'après une tentative de conciliation en mairie.", "B) Le contentieux administratif ne peut naître que d'une décision (expresse ou implicite) de l'Administration liant le contentieux.", "C) L'Administration doit toujours demander l'avis du juge avant de décider.", "D) Le requérant doit d'abord publier sa requête dans un journal officiel."],
-        "answer": "B",
-        "explanation": "On ne peut saisir le juge administratif qu'en attaquant une décision. S'il n'y en a pas, il faut d'abord adresser une demande à l'Administration pour faire naître une décision (règle de la décision préalable)."
-    },
-    {
-        "question": "Qu'est-ce qu'un recours en révision devant le Conseil d'État ?",
-        "options": ["A) Un recours visant à faire rejuger l'affaire par la même juridiction si une pièce décisive, retenue par la partie adverse, est découverte après l'arrêt.", "B) L'appel d'un jugement du Tribunal administratif.", "C) La demande d'interprétation d'une loi obscure.", "D) Une plainte pénale contre un magistrat."],
-        "answer": "A",
-        "explanation": "Le recours en révision est une voie de rétractation très exceptionnelle ouverte si le jugement a été rendu sur pièces fausses ou si une pièce décisive a été découverte tardivement."
-    },
-    {
-        "question": "Un acte recognitif (qui se borne à reconnaître une situation juridique préexistante sans rien y ajouter) :",
-        "options": ["A) Est l'équivalent d'un règlement autonome.", "B) Fait grief et est donc susceptible de REP.", "C) Ne fait pas grief et ne peut être attaqué par la voie du REP.", "D) Doit toujours être contresigné."],
-        "answer": "C",
-        "explanation": "L'acte purement recognitif ou confirmatif (comme un acte préparatoire ou une mesure d'ordre intérieur) ne modifie pas l'ordonnancement juridique et ne fait pas grief. Il est insusceptible de REP."
-    },
-    {
-        "question": "La compétence pour statuer sur le contentieux des élections municipales et régionales en Côte d'Ivoire appartient :",
-        "options": ["A) À la Cour de Cassation", "B) Au Conseil Constitutionnel", "C) Au Conseil d'État", "D) À la Commission Électorale Indépendante (CEI)"],
-        "answer": "C",
-        "explanation": "Le Conseil Constitutionnel gère les élections présidentielles et législatives. Le Conseil d'État est le juge du contentieux des élections locales (municipales et régionales)."
-    },
-    {
-        "question": "Dans le contentieux administratif, la tierce opposition est une voie de recours permettant :",
-        "options": ["A) À l'Administration de refuser d'exécuter un jugement.", "B) À une personne non appelée à l'instance d'attaquer une décision de justice qui préjudicie à ses droits.", "C) D'obliger trois juges à statuer sur l'affaire.", "D) De suspendre le délai de recours contentieux."],
-        "answer": "B",
-        "explanation": "La tierce opposition protège les tiers lésés par un jugement auquel ils n'ont été ni parties ni représentés."
-    },
-    {
-        "question": "Un avis rendu par le Conseil d'État dans sa fonction consultative (avant l'adoption d'un projet de loi) :",
-        "options": ["A) Est un acte administratif susceptible de recours.", "B) Lie obligatoirement le gouvernement qui doit s'y conformer.", "C) Ne fait pas grief et est insusceptible de recours contentieux.", "D) Doit être publié au Journal Officiel obligatoirement."],
-        "answer": "C",
-        "explanation": "Les avis (section consultative) sont des actes préparatoires qui ne font pas grief et ne lient pas l'Exécutif, ils ne peuvent donc pas faire l'objet d'un REP."
-    },
-    {
-        "question": "Le recours en appréciation de validité :",
-        "options": ["A) Est porté devant le juge pénal pour juger de la constitutionnalité d'une loi.", "B) Est une question préjudicielle posée par un juge judiciaire au juge administratif pour contrôler la légalité d'un acte administratif.", "C) Concerne uniquement les actes de gouvernement.", "D) Permet au Président de la République d'évaluer le Parlement."],
-        "answer": "B",
-        "explanation": "Le juge civil, incompétent pour annuler un acte administratif, sursoit à statuer et renvoie la question de la légalité de cet acte au juge administratif via le recours en appréciation de validité."
-    },
-    {
-        "question": "Les litiges relatifs aux contrats comportant occupation du domaine public :",
-        "options": ["A) Relèvent systématiquement de la compétence du juge administratif.", "B) Sont jugés par le juge judiciaire s'il n'y a pas de clause exorbitante.", "C) Relèvent de la Cour Commune de Justice et d'Arbitrage (CCJA).", "D) Sont insusceptibles de recours."],
-        "answer": "A",
-        "explanation": "Par détermination de la loi, les contrats comportant occupation du domaine public sont des contrats administratifs, de la compétence exclusive du juge administratif."
-    },
-    {
-        "question": "Laquelle de ces autorités judiciaires dirige les formations de jugement au sein du Conseil d'État de Côte d'Ivoire ?",
-        "options": ["A) Le Procureur Général", "B) Le Président du Conseil d'État", "C) Le Premier Président de la Cour de Cassation", "D) Le Ministre de la Justice"],
-        "answer": "B",
-        "explanation": "Le Président du Conseil d'État dirige l'institution. Le Procureur Général est le chef du Parquet Général, mais il ne dirige pas les formations de jugement (siège)."
-    },
-    {
-        "question": "Le contentieux fiscal en Côte d'Ivoire (recouvrement des impôts directs par l'État) relève en première instance de :",
-        "options": ["A) La Chambre civile du Tribunal de Première Instance", "B) La juridiction administrative", "C) La Cour des Comptes", "D) La Chambre de Commerce"],
-        "answer": "B",
-        "explanation": "Le contentieux de l'assiette et du recouvrement des impôts directs est un contentieux administratif par excellence (plein contentieux)."
-    },
-    {
-        "question": "L'exception d'illégalité permet :",
-        "options": ["A) De soulever l'illégalité d'un règlement à l'occasion d'un recours contre une décision individuelle d'application, même après l'expiration du délai de recours contre le règlement.", "B) D'annuler un acte avec effet rétroactif.", "C) D'invoquer l'immunité diplomatique.", "D) De suspendre l'exécution d'un contrat de travail."],
-        "answer": "A",
-        "explanation": "L'exception d'illégalité permet d'écarter l'application d'un acte réglementaire illégal, même devenu définitif, lors de la contestation d'un acte d'application (principe de l'illégalité perpétuelle des règlements)."
-    },
-    {
-        "question": "Si l'Administration refuse de prendre un règlement d'application d'une loi :",
-        "options": ["A) Elle exerce son pouvoir discrétionnaire sans contrôle possible.", "B) Le refus est un acte faisant grief susceptible de REP, car l'Exécutif a l'obligation de prendre dans un délai raisonnable les mesures d'application des lois.", "C) Seul le Parlement peut la contraindre par une motion de censure.", "D) La loi est réputée inapplicable pour toujours."],
-        "answer": "B",
-        "explanation": "L'Administration est tenue de prendre les décrets d'application d'une loi dans un délai raisonnable. Son refus est illégal et peut être attaqué (Jurisprudence syndicat des ingénieurs conseils)."
-    },
-    {
-        "question": "En Côte d'Ivoire, pour le contrôle de légalité des actes des collectivités territoriales (communes, régions), la tutelle a été remplacée par :",
-        "options": ["A) Un contrôle a priori systématique exercé par le Conseil Constitutionnel.", "B) Un contrôle a posteriori exercé par le Préfet avec saisine du juge administratif (déféré préfectoral).", "C) L'absence totale de contrôle (libre administration absolue).", "D) Le contrôle financier de la BCEAO."],
-        "answer": "B",
-        "explanation": "La décentralisation a transformé la 'tutelle' (approbation préalable) en un 'contrôle de légalité a posteriori', où le Préfet défère l'acte au juge administratif s'il le juge illégal."
+        "explanation": "Le tiers/voisin d'un ouvrage public subissant un dommage anormal est indemnisé sans faute."
     },
 ]
 
