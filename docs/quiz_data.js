@@ -12355,111 +12355,6 @@ const QUIZ_QUESTIONS = [
     "theme": "English Grammar"
   },
   {
-    "question": "Quelle est la différence entre une loi et un règlement ?",
-    "options": ["A) Une loi est générale et abstraite, le règlement précise son application", "B) Le règlement est supérieur à la loi", "C) Une loi ne s'applique qu'aux entreprises", "D) Il n'y a pas de différence"],
-    "answer": "A",
-    "explanation": "La loi fixe les principes généraux, tandis que les règlements les appliquent au niveau technique et administratif.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quel est le rôle principal du Conseil constitutionnel en France ?",
-    "options": ["A) Gérer le budget", "B) Contrôler la constitutionnalité des lois", "C) Diriger les administrations", "D) Nommer les juges"],
-    "answer": "B",
-    "explanation": "Le Conseil constitutionnel veille à la conformité des lois à la Constitution.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Que signifie le principe de laïcité ?",
-    "options": ["A) L'État impose une religion", "B) La séparation des Églises et de l'État", "C) L'abolition des droits fondamentaux", "D) L'État ne protège que les croyants"],
-    "answer": "B",
-    "explanation": "La laïcité garantit la neutralité religieuse de l'État et la liberté de conscience.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quel est le devoir citoyen le plus directement lié au vote ?",
-    "options": ["A) Le respect des horaires", "B) La participation politique", "C) Le paiement des impôts", "D) Le port de l'uniforme"],
-    "answer": "B",
-    "explanation": "Le vote est un acte central de participation à la vie politique et de citoyenneté.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qui est titulaire du pouvoir exécutif en France ?",
-    "options": ["A) Le Parlement", "B) Le Président de la République et le Gouvernement", "C) Le Conseil d'État", "D) Le Tribunal administratif"],
-    "answer": "B",
-    "explanation": "Le pouvoir exécutif est exercé par le Président et le Gouvernement, dans le cadre de la Constitution.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce qu'un citoyen ?",
-    "options": ["A) Un individu soumis uniquement aux règles fiscales", "B) Un membre d'une communauté politique jouissant de droits et devoirs", "C) Une personne ayant un passeport", "D) Un fonctionnaire"],
-    "answer": "B",
-    "explanation": "Le citoyen est inscrit dans une communauté politique et bénéficie de droits, avec des devoirs corrélatifs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quel document fonde les droits fondamentaux en France ?",
-    "options": ["A) Le Code civil", "B) La Constitution", "C) Le règlement intérieur", "D) Le code du travail"],
-    "answer": "B",
-    "explanation": "La Constitution et la Déclaration des droits de l'homme placent les droits fondamentaux au cœur de l'ordre juridique.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Que garantit le principe d'égalité ?",
-    "options": ["A) Une égalité totale de fortune", "B) Une égalité devant la loi et l'accès aux droits", "C) L'absence de différences sociales", "D) Une égalité des compétences"],
-    "answer": "B",
-    "explanation": "L'égalité juridique ne signifie pas l'uniformité des situations, mais une même protection devant la loi.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce qu'une institution ?",
-    "options": ["A) Un objet de décoration", "B) Une organisation dotée d'un rôle public", "C) Un simple document administratif", "D) Une loi fiscale"],
-    "answer": "B",
-    "explanation": "Une institution est une structure organisée qui assure un rôle au sein de la société et de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quel est le rôle du Parlement ?",
-    "options": ["A) Dire le droit en dernier ressort", "B) Élaborer et voter les lois", "C) Nommer les maires", "D) Gérer la police"],
-    "answer": "B",
-    "explanation": "Le Parlement a pour fonction principale la préparation, le vote et le contrôle des lois.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que la séparation des pouvoirs ?",
-    "options": ["A) Un régime où une seule personne détient tous les pouvoirs", "B) Le principe selon lequel le pouvoir exécutif, législatif et judiciaire sont distincts", "C) Un mode d'organisation des partis politiques", "D) La séparation de l'Église et de l'État"],
-    "answer": "B",
-    "explanation": "La séparation des pouvoirs (Montesquieu) garantit que les pouvoirs législatif, exécutif et judiciaire sont exercés par des organes distincts.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le suffrage universel ?",
-    "options": ["A) Le droit de vote réservé aux propriétaires", "B) Le droit de vote accordé à tous les citoyens sans condition de fortune", "C) Le droit de vote réservé aux hommes", "D) Le vote au sein des parlements"],
-    "answer": "B",
-    "explanation": "Le suffrage universel accorde le droit de vote à tous les citoyens majeurs, sans distinction.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que la présomption d'innocence ?",
-    "options": ["A) Toute personne est coupable jusqu'à preuve du contraire", "B) Toute personne est présumée innocente jusqu'à preuve de sa culpabilité", "C) Les accusés n'ont pas droit à un avocat", "D) Les condamnations ne peuvent pas être contestées"],
-    "answer": "B",
-    "explanation": "La présomption d'innocence est un droit fondamental : nul n'est coupable sans jugement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce qu'une constitution ?",
-    "options": ["A) Un règlement interne d'une entreprise", "B) Un code pénal", "C) La loi fondamentale qui organise l'État et protège les droits fondamentaux", "D) Un traité international"],
-    "answer": "C",
-    "explanation": "La constitution est la norme suprême d'un État organisant les pouvoirs publics et garantissant les droits fondamentaux.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le droit de grève ?",
-    "options": ["A) Le droit de refuser de payer des impôts", "B) Le droit pour les travailleurs de cesser le travail pour défendre leurs intérêts", "C) Le droit de manifester contre le gouvernement", "D) Le droit de quitter son emploi"],
-    "answer": "B",
-    "explanation": "Le droit de grève est un droit constitutionnel permettant aux travailleurs de cesser le travail collectivement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Quelle institution ivoirienne contrôle la constitutionnalité des lois ?",
     "options": ["A) Le Tribunal de Première Instance", "B) La Cour d'Appel", "C) Le Conseil constitutionnel", "D) La Cour des Comptes"],
     "answer": "C",
@@ -12471,27 +12366,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) 10", "B) 12", "C) 14", "D) 33"],
     "answer": "C",
     "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce qu'un référendum ?",
-    "options": ["A) Un vote réservé au Parlement", "B) Une procédure par laquelle les citoyens se prononcent directement sur une question", "C) L'élection du Président de la République", "D) Un vote de confiance au gouvernement"],
-    "answer": "B",
-    "explanation": "Le référendum est un mécanisme de démocratie directe.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le Défenseur des droits en France ?",
-    "options": ["A) Il défend la France devant les juridictions internationales", "B) Il protège les droits fondamentaux des citoyens face aux administrations", "C) Il gère le budget de l'État", "D) Il nomme les juges"],
-    "answer": "B",
-    "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quel est le rôle du Défenseur des droits ?",
-    "options": ["A) Il défend la France devant les juridictions internationales", "B) Il protège les droits fondamentaux des citoyens face aux administrations", "C) Il gère le budget de l'État", "D) Il nomme les juges"],
-    "answer": "B",
-    "explanation": "Le Défenseur des droits veille au respect des droits et libertés des citoyens face aux administrations.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -12635,24 +12509,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Quelle organisation gère le franc CFA des pays de l'UEMOA ?",
-    "options": ["A) La Banque mondiale", "B) La BCEAO", "C) La BAD", "D) La Banque de France"],
-    "answer": "B",
-    "explanation": "La BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) siège à Dakar.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "En quelle année la Constitution actuelle de la CI a-t-elle été adoptée ?",
     "options": ["A) 2000", "B) 2011", "C) 2016", "D) 2020"],
     "answer": "C",
     "explanation": "La Constitution de 2016 a été adoptée par référendum le 30 octobre 2016.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le principe de spécialité d'un établissement public ?",
-    "options": ["A) Il peut agir dans n'importe quel domaine", "B) Il est limité à la mission précise pour laquelle il a été créé", "C) Il dépend uniquement du ministre", "D) Il peut voter des lois"],
-    "answer": "B",
-    "explanation": "Le principe de spécialité limite l'action de l'établissement public à l'objet fixé par ses textes.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -12667,13 +12527,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Un juge civil", "B) Une autorité indépendante qui reçoit les réclamations des citoyens contre l'administration", "C) Le président de l'Assemblée nationale", "D) Un représentant du gouvernement"],
     "answer": "B",
     "explanation": "Le Médiateur de la République traite les réclamations des citoyens contre les administrations.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que la distinction SPA et SPIC ?",
-    "options": ["A) Aucune différence", "B) SPA = droit administratif ; SPIC = principalement droit privé", "C) SPIC géré par l'État SPA par des privés", "D) SPA génère des profits SPIC non"],
-    "answer": "B",
-    "explanation": "SPA = droit public. SPIC (eau, électricité) = droit privé pour usagers et personnel.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -12705,13 +12558,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que le principe de séparation entre ordonnateur et comptable public ?",
-    "options": ["A) Aucun principe en CI", "B) L'agent qui autorise une dépense ne peut pas être celui qui la paie : garantie contre les détournements", "C) Le comptable est supérieur à l'ordonnateur", "D) Ce principe ne s'applique qu'aux grandes villes"],
-    "answer": "B",
-    "explanation": "Ce principe empêche une même personne d'autoriser et de réaliser une dépense.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Combien de langues et dialectes compte la CI ?",
     "options": ["A) 20-30", "B) 60-70", "C) Plus de 60", "D) 10-15"],
     "answer": "C",
@@ -12730,13 +12576,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Programme de planification économique", "B) Initiative Pays Pauvres Très Endettés : allègement de la dette", "C) Plan de promotion du tourisme", "D) Programme de protection des terres"],
     "answer": "B",
     "explanation": "En 2012, la CI a bénéficié de l'initiative PPTE, obtenant un allègement substantiel de sa dette.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Piège : un acte administratif illégalement signé peut-il être validé ?",
-    "options": ["A) Oui par ratification expresse de l'autorité compétente", "B) Non, jamais", "C) Oui automatiquement après 3 mois", "D) Non sauf si le Conseil constitutionnel l'approuve"],
-    "answer": "A",
-    "explanation": "Certains actes irréguliers peuvent être régularisés par ratification expresse.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -12772,20 +12611,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Aucune diff?rence", "B) Le maire est ?lu par les habitants pour g?rer la commune ; le pr?fet est nomm? par l'?tat pour le repr?senter dans le d?partement", "C) Le prefet est superieur au maire en tout", "D) Le maire est nomme par le gouvernement"],
     "answer": "B",
     "explanation": "Le maire est ?lu local ; le pr?fet est agent de l'?tat nomm? par d?cret. Leurs r?les et l?gitimit?s diff?rent.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce qu'un service d?concentr? de l'?tat ?",
-    "options": ["A) Un service prive", "B) Un service de l'?tat implant? localement sous l'autorit? d'un repr?sentant de l'?tat (pr?fet, sous-pr?fet)", "C) Un etablissement public", "D) Une collectivit? territoriale"],
-    "answer": "B",
-    "explanation": "Les services d?concentr?s (DRE, DRSP, etc.) repr?sentent les minist?res au niveau local sous l'autorit? du pr?fet.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le contr?le de l?gitimit? dans le cadre de la d?centralisation ?",
-    "options": ["A) Le controle exerce par les citoyens sur les elus locaux", "B) Le contr?le exerc? par le repr?sentant de l'?tat sur la l?galit? des actes des collectivit?s locales", "C) Le controle financier des collectivites", "D) L audit annuel des collectivites"],
-    "answer": "B",
-    "explanation": "Le repr?sentant de l'?tat contr?le que les actes des collectivit?s sont conformes ? la loi.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -12873,24 +12698,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Quel est le principe de la neutralité du service public ?",
-    "options": ["A) Le service public doit être gratuit", "B) Le service public ne doit pas être influencé par des considérations politiques, religieuses ou idéologiques", "C) Le service public ne peut pas sous-traiter", "D) Le service public doit être géré par des fonctionnaires uniquement"],
-    "answer": "B",
-    "explanation": "La neutralité du service public garantit que les agents traitent tous les usagers de façon égale sans discrimination.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Piège : un fonctionnaire peut-il militer pour un parti politique en CI ?",
     "options": ["A) Oui totalement sans restriction", "B) Non, un fonctionnaire doit se garder de tout engagement politique ostensible dans l'exercice de ses fonctions", "C) Oui, mais uniquement après les heures de service", "D) Non, aucun fonctionnaire ne peut voter"],
     "answer": "B",
     "explanation": "Le devoir de réserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l'exercice de ses fonctions.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que la notion d autorite de l'?tat ?",
-    "options": ["A) La capacite de l'?tat a emettre des billets de banque", "B) La capacite de l'?tat a imposer le respect de l ordre juridique et a faire executer ses decisions en recourant si necessaire a la contrainte", "C) La capacite de l'?tat a conclure des traites", "D) La capacite de l'?tat a lever des impots"],
-    "answer": "B",
-    "explanation": "L autorite de l'?tat est sa capacite a maintenir l ordre et a faire respecter la loi en utilisant si necessaire la force legitime.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -12915,20 +12726,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pi?ge : les actes du Pr?sident de la R?publique sont-ils soumis au contr?le du juge administratif ?",
-    "options": ["A) Oui pleinement", "B) Non les actes de gouvernement (li?s ? la politique) ?chappent au contr?le juridictionnel mais les actes r?glementaires peuvent ?tre contr?l?s", "C) Non aucun acte pr?sidentiel n'est contr?lable", "D) Oui mais uniquement par le Conseil constitutionnel"],
-    "answer": "B",
-    "explanation": "Les actes de gouvernement (ex. trait?s, relations diplomatiques) ?chappent au juge administratif. Seuls les actes r?glementaires peuvent ?tre attaqu?s.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le principe d egalite devant le service public ?",
-    "options": ["A) Tout le monde paye le meme prix", "B) Tous les usagers dans la meme situation doivent etre traites identiquement par le service public", "C) Tous les services publics sont gratuits", "D) Les fonctionnaires et les usagers ont les memes droits"],
-    "answer": "B",
-    "explanation": "L egalite devant le service public est une application du principe general d egalite : meme traitement pour les usagers dans des situations identiques.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Quelle est la difference entre une commune de plein exercice et une commune de moyen exercice en CI ?",
     "options": ["A) La taille de la population", "B) Le niveau d autonomie et de competences : une commune de plein exercice dispose d une autonomie plus grande", "C) La localisation geographique", "D) Le montant du budget"],
     "answer": "B",
@@ -12943,13 +12740,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que le principe de gratuité du service public ?",
-    "options": ["A) Tous les services publics sont gratuits", "B) Ce principe signifie que le financement du service public ne doit pas reposer uniquement sur les usagers : il peut être financé par les impôts", "C) Les usagers ne paient jamais pour les services publics", "D) Les fonctionnaires travaillent bénévolement"],
-    "answer": "B",
-    "explanation": "La gratuité du service public ne signifie pas absence de paiement, mais que le service est accessible sans que le prix soit un obstacle dirimant.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Quelle est la distinction entre le préfet et le gouverneur en CI ?",
     "options": ["A) Aucune différence", "B) En CI, depuis 2011, le gouverneur dirige le district autonome (Abidjan, Yamoussoukro) tandis que le préfet dirige le département", "C) Le gouverneur est un rôle historique supprimé", "D) Le gouverneur est élu ; le préfet est nommé"],
     "answer": "B",
@@ -12957,45 +12747,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que la délégation de signature ?",
-    "options": ["A) Un fonctionnaire signe à la place d'un autre sans habilitation", "B) Une autorité administrative autorise un de ses subordonnés à signer en son nom certains actes", "C) Le Président délègue ses pouvoirs au Premier ministre", "D) L'Assemblée nationale délègue ses pouvoirs au gouvernement"],
-    "answer": "B",
-    "explanation": "La délégation de signature permet à un chef de service d'autoriser son subordonné à signer certains actes en son nom. Le délégant reste responsable.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Piège : la délégation de pouvoirs est-elle différente de la délégation de signature ?",
-    "options": ["A) Non, ce sont des synonymes", "B) Oui : dans la délégation de pouvoirs le délégataire exerce le pouvoir en son nom propre et le délégant ne peut plus l'exercer ; dans la délégation de signature le délégant reste responsable", "C) Oui : la délégation de pouvoirs est illégale", "D) Non, elles ont les mêmes effets juridiques"],
-    "answer": "B",
-    "explanation": "Délégation de pouvoirs : transfert du pouvoir lui-même (le délégant ne peut plus exercer). Délégation de signature : seule la signature est transférée, le délégant reste responsable.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quelle est la différence entre la tutelle administrative et la hiérarchie administrative ?",
-    "options": ["A) Aucune différence", "B) La tutelle ne permet que des contrôles de légalité et d'opportunité définis par la loi ; la hiérarchie permet un pouvoir de commandement direct", "C) La hiérarchie s'exerce entre collectivités", "D) La tutelle est plus puissante que la hiérarchie"],
-    "answer": "B",
-    "explanation": "La hiérarchie = pouvoir de commandement direct. La tutelle = contrôle externe, encadré par la loi.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qu'est-ce que le principe de la légalité des délits et des peines ?",
-    "options": ["A) Les peines sont fixées par le juge librement", "B) Nul ne peut être puni pour un acte qui n'est pas prévu et puni par la loi au moment où il a été commis", "C) Les délits sont définis par le gouvernement", "D) La loi pénale s'applique rétroactivement"],
-    "answer": "B",
-    "explanation": "« Nullum crimen, nulla poena sine lege » : principe fondamental du droit pénal et constitutionnel.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Quel est le droit de pétition en Côte d'Ivoire ?",
     "options": ["A) Le droit de faire une requête à l'administration", "B) Le droit pour les citoyens d'adresser des demandes écrites aux autorités publiques", "C) Le droit de manifester", "D) Le droit de vote"],
     "answer": "B",
     "explanation": "Le droit de pétition permet aux citoyens d'adresser des demandes collectives ou individuelles aux pouvoirs publics.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Quelle est la différence entre le droit privé et le droit public ?",
-    "options": ["A) Aucune différence", "B) Le droit public régit les relations entre l'État et les particuliers ; le droit privé régit les relations entre particuliers", "C) Le droit privé est plus important", "D) Le droit public ne s'applique pas aux citoyens"],
-    "answer": "B",
-    "explanation": "Droit public = État / personnes publiques. Droit privé = relations entre personnes privées.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -13118,13 +12873,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qu'est-ce que l'égalité des citoyens devant les charges publiques ?",
-    "options": ["A) Tous les citoyens paient le même montant d'impôts", "B) Les charges publiques (impôts, obligations) doivent être réparties équitablement selon les capacités", "C) L'État ne peut pas imposer de charges aux citoyens", "D) Seuls les fonctionnaires contribuent aux charges publiques"],
-    "answer": "B",
-    "explanation": "Ce principe constitutionnel garantit une répartition équitable des charges fiscales et non-fiscales.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Quelle institution ivoirienne protège les droits des consommateurs ?",
     "options": ["A) Le CESEC", "B) La Direction de la Protection du Consommateur et de la Concurrence (DPCC)", "C) La Cour Suprême", "D) L'Assemblée nationale"],
     "answer": "B",
@@ -13188,13 +12936,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qui assure l'intérim en cas de vacance de la Présidence de la République selon la Constitution de 2016 modifiée en 2020 ?",
-    "options": ["A) Le Président de l'Assemblée Nationale", "B) Le Vice-Président de la République", "C) Le Premier Ministre", "D) Le Président du Sénat"],
-    "answer": "B",
-    "explanation": "Le Vice-Président de la République devient Président de plein droit en cas de vacance.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Combien de membres composent le Conseil Constitutionnel de la Côte d'Ivoire ?",
     "options": ["A) 7 membres", "B) 9 membres", "C) 11 membres", "D) 15 membres"],
     "answer": "A",
@@ -13223,38 +12964,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Pilier PND 2021-2025 modernisant l'Etat ?",
-    "options": ["A) Pilier 2", "B) Pilier 4", "C) Pilier 6", "D) Pilier 1"],
-    "answer": "C",
-    "explanation": "Pilier 6 : Gouvernance et modernisation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Mandat Médiateur de la République ?",
     "options": ["A) 4 ans renouv", "B) 5 ans non renouv", "C) 6 ans non renouv", "D) 6 ans renouv"],
     "answer": "C",
     "explanation": "6 ans non renouvelable.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Organe régulant marchés publics ?",
-    "options": ["A) ANRMP", "B) ARCOP", "C) Cour Comptes", "D) BNETD"],
-    "answer": "B",
-    "explanation": "ARCOP a remplacé l'ANRMP.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Successeur PR en cas de vacance ?",
-    "options": ["A) Pt AN", "B) Vice-Président", "C) Premier Ministre", "D) Pt Sénat"],
-    "answer": "B",
-    "explanation": "Le Vice-Président de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Nombre conseillers Conseil Constit (hors ex-PR) ?",
-    "options": ["A) 7", "B) 6", "C) 9", "D) 5"],
-    "answer": "B",
-    "explanation": "1 Président et 6 Conseillers.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -13272,80 +12985,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Qui peut dissoudre l'AN ?",
-    "options": ["A) Cons Constit", "B) Premier Ministre", "C) Président Rép", "D) Vice-Président"],
-    "answer": "C",
-    "explanation": "Le Président de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Juridiction non suprême depuis 2016 ?",
-    "options": ["A) Cour Cassation", "B) Conseil Etat", "C) Cour d'Appel", "D) Cour Comptes"],
-    "answer": "C",
-    "explanation": "La Cour d'Appel est du second degré.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Initiative des lois ?",
-    "options": ["A) PR et Députés", "B) PR, Députés et Sénateurs", "C) Gouv seul", "D) Parlement seul"],
-    "answer": "B",
-    "explanation": "Concurremment PR, Députés, Sénateurs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Age minimum présidentielle (révision) ?",
-    "options": ["A) 40 ans", "B) 35 ans", "C) 45 ans", "D) 30 ans"],
-    "answer": "B",
-    "explanation": "35 ans minimum.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Mandat Députés ?",
-    "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
-    "answer": "B",
-    "explanation": "5 ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Rôle de la HABG ?",
     "options": ["A) Elections", "B) Lutte corruption", "C) Médias", "D) Lois"],
     "answer": "B",
     "explanation": "Haute Autorité pour la Bonne Gouvernance (Anti-corruption).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Loi organique adoptée à :",
-    "options": ["A) Maj relative", "B) Maj absolue", "C) Maj 2/3", "D) Unanimité"],
-    "answer": "B",
-    "explanation": "Majorité absolue des membres de chaque chambre.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Acte signé par le PR ?",
-    "options": ["A) Arrêté", "B) Circulaire", "C) Décret Conseil Min", "D) Ordonnance locale"],
-    "answer": "C",
-    "explanation": "Décrets et ordonnances en Conseil des Ministres.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Naturalisation accordée par :",
-    "options": ["A) Juge", "B) Arrêté Min", "C) Décret PR", "D) Loi Parl"],
-    "answer": "C",
-    "explanation": "Décret présidentiel.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Prorogation état de siège > 15j ?",
-    "options": ["A) Cons Constit", "B) Parlement", "C) CSM", "D) Min Défense"],
-    "answer": "B",
-    "explanation": "Parlement l'autorise.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Régulateur com audiovisuelle ?",
-    "options": ["A) HACA", "B) ANP", "C) CNCA", "D) RTI"],
-    "answer": "A",
-    "explanation": "Haute Autorité de la Com Audiovisuelle.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -13370,69 +13013,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Impôt revenu foncier (IRF) ?",
-    "options": ["A) Terrains nus", "B) Loyers bâtis", "C) Achats", "D) Successions"],
-    "answer": "B",
-    "explanation": "Taxes sur revenus locatifs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Contrôle financier a posteriori ?",
-    "options": ["A) IGF", "B) Trésor", "C) Cour Comptes", "D) Cons Constit"],
-    "answer": "C",
-    "explanation": "La Cour des Comptes vérifie l'exécution budgétaire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Révocation requiert avis :",
-    "options": ["A) Conseil discipline", "B) Conseil Min", "C) Conseil Etat", "D) Min Tutelle"],
-    "answer": "A",
-    "explanation": "Le Conseil de discipline pour sanction du 2nd degré.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Saisine Cons Constit (par parlementaires) ?",
-    "options": ["A) Tout citoyen", "B) 1/10 membres", "C) Premier Min", "D) Bâtonnier"],
-    "answer": "B",
-    "explanation": "1/10 des députés ou sénateurs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Pouvoirs exceptionnels (Art 73) si :",
-    "options": ["A) Menace grave + Interruption instit", "B) Baisse PIB", "C) Grève", "D) Rejet budget"],
-    "answer": "A",
-    "explanation": "Conditions très strictes de menace sur l'Etat.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Révision constitutionnelle via Parlement ?",
-    "options": ["A) Refus total", "B) Vote Congrès 2/3", "C) Décret", "D) Cour Cassation"],
-    "answer": "B",
-    "explanation": "Adoptée par 2/3 du Congrès réuni.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Contreseing décrets PR ?",
-    "options": ["A) Aucun", "B) PM et Ministres", "C) Pt Sénat", "D) SGG"],
-    "answer": "B",
-    "explanation": "PM et ministres concernés (hors pouvoirs propres).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Chambre Rois/Chefs reconnue en :",
-    "options": ["A) 1960", "B) 2000", "C) 2016", "D) 2020"],
-    "answer": "C",
-    "explanation": "Constitution de la IIIe République (2016).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Citoyenneté active ?",
-    "options": ["A) Nationalité pure", "B) Respect lois", "C) Participation civique", "D) Impôts"],
-    "answer": "C",
-    "explanation": "Participation active aux affaires de la cité.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Droit du sol CI ?",
     "options": ["A) 5 ans", "B) 10 ans", "C) Non automatique", "D) 2 ans"],
     "answer": "C",
@@ -13447,27 +13027,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Egalité garantie par Article :",
-    "options": ["A) 1", "B) 4", "C) 10", "D) Préambule"],
-    "answer": "B",
-    "explanation": "Article 4 de la Constitution 2016.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "CDH a remplacé :",
-    "options": ["A) CNDHCI", "B) FIDH", "C) MIDH", "D) LIDHO"],
-    "answer": "A",
-    "explanation": "CNDH a remplacé la CNDHCI.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Défend l'Etat en justice ?",
-    "options": ["A) Procureur", "B) Agent Judiciaire Trésor", "C) Bâtonnier", "D) Avocat Gal"],
-    "answer": "B",
-    "explanation": "L'AJT.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Emblèmes République CI ?",
     "options": ["A) Drapeau Hymne Armoiries", "B) Devise Drapeau Hymne", "C) Drapeau Hymne Armoiries Devise", "D) PR Drapeau"],
     "answer": "C",
@@ -13475,80 +13034,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "Budget adopté par :",
-    "options": ["A) Loi habilitation", "B) Loi organique", "C) Loi finances", "D) Ordonnance"],
-    "answer": "C",
-    "explanation": "Loi de finances.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Inspecteur Etat dépend de :",
-    "options": ["A) PM", "B) PR", "C) Cour Comptes", "D) Min Eco"],
-    "answer": "B",
-    "explanation": "L'IGE est rattachée à la Présidence.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Désaccord AN / Sénat sur loi :",
-    "options": ["A) Abandon", "B) AN décide", "C) Sénat décide", "D) Com Mixte Paritaire"],
-    "answer": "D",
-    "explanation": "Le Gouv convoque la CMP.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "Le vote en CI est :",
     "options": ["A) Droit+Devoir", "B) Pénal", "C) Privilège", "D) Civil"],
     "answer": "A",
     "explanation": "Droit et devoir civique non pénalement sanctionné.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Condition formation partis ?",
-    "options": ["A) Respect Chef", "B) <10 ans", "C) Respect Rép/Souveraineté", "D) Sièges région"],
-    "answer": "C",
-    "explanation": "Respect des principes démocratiques et de la souveraineté.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Délibérations Conseil Ministres ?",
-    "options": ["A) Publiques", "B) Secrètes", "C) JO complet", "D) Direct TV"],
-    "answer": "B",
-    "explanation": "Le secret des délibérations est la règle.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Mariage relève du domaine de :",
-    "options": ["A) Loi ordinaire", "B) Constitution", "C) Décret", "D) Coutume"],
-    "answer": "A",
-    "explanation": "Etat des personnes = loi (Code civil).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Limite âge max PR (2020) ?",
-    "options": ["A) 75 ans", "B) 80 ans", "C) Aucune", "D) 70 ans"],
-    "answer": "C",
-    "explanation": "La limite de 75 ans a sauté en 2016.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Ordre national dirigé par :",
-    "options": ["A) Min Intérieur", "B) Grand Chancelier", "C) Pt Sénat", "D) Archevêque"],
-    "answer": "B",
-    "explanation": "Le Grand Chancelier de l'Ordre.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Mandat arrêt député (session) ?",
-    "options": ["A) Accord Pt AN", "B) Accord Bureau AN", "C) Plénière", "D) Aucun"],
-    "answer": "B",
-    "explanation": "Le Bureau de l'AN lève l'immunité/autorise l'arrestation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Création Conseil Entente ?",
-    "options": ["A) 1959", "B) 1960", "C) 1973", "D) 1975"],
-    "answer": "A",
-    "explanation": "Mai 1959.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -13612,13 +13101,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Est une simple association de droit privé", "B) Est une juridiction d'appel", "C) Est reconnue par la Constitution de 2016", "D) A été supprimée en 2020"],
     "answer": "C",
     "explanation": "La Constitution de 2016 consacre l'existence de la CNRCT en tant qu'institution de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "Qui assure l'intérim de la Présidence de la République en cas de vacance définitive (décès, démission) selon la Constitution ?",
-    "options": ["A) Le Président de l'Assemblée Nationale", "B) Le Vice-Président de la République", "C) Le Premier Ministre", "D) Le Président du Conseil Constitutionnel"],
-    "answer": "B",
-    "explanation": "En cas de vacance, le Vice-Président devient de plein droit Président de la République (art. 62 de la Constitution modifiée).",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -13706,13 +13188,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
-    "question": "En matière de révision de la Constitution, le projet est définitivement adopté :",
-    "options": ["A) Exclusivement par référendum", "B) Par référendum, ou par voie parlementaire si le PR décide de le soumettre au Congrès", "C) Par un décret du Conseil d'État", "D) Par le vote des conseils régionaux"],
-    "answer": "B",
-    "explanation": "Le projet de loi de révision constitutionnelle est soumis au référendum ou, sur décision du Président, au Parlement réuni en Congrès (majorité des 2/3).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
     "question": "La Haute Autorité pour la Bonne Gouvernance (HABG) a principalement pour rôle :",
     "options": ["A) La lutte contre la corruption et les infractions assimilées", "B) L'organisation des examens du baccalauréat", "C) La régulation des médias", "D) La nomination des ambassadeurs"],
     "answer": "A",
@@ -13731,13 +13206,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Les magistrats du Parquet", "B) Les magistrats du Siège", "C) Tous les magistrats (Siège et Parquet)", "D) Uniquement aux juges du Conseil Constitutionnel"],
     "answer": "B",
     "explanation": "Seuls les magistrats du Siège (les juges) bénéficient de l'inamovibilité pour garantir leur indépendance, contrairement au Parquet, soumis à la subordination hiérarchique.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
-  },
-  {
-    "question": "L'âge minimum pour être candidat à l'élection présidentielle sous la Constitution de 2016 est de :",
-    "options": ["A) 40 ans", "B) 35 ans", "C) 45 ans", "D) 50 ans"],
-    "answer": "B",
-    "explanation": "La Constitution de 2016 a abaissé l'âge minimum d'éligibilité à la Présidence de 40 à 35 ans et a supprimé le plafond d'âge.",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
@@ -13787,6 +13255,776 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Doit obligatoirement être contresignée par le Vice-Président.", "B) Est un pouvoir propre du Président, exercé sans contreseing.", "C) Nécessite l'approbation préalable de l'Assemblée Nationale.", "D) Est contresignée par le Président du Sénat."],
     "answer": "B",
     "explanation": "La nomination du Premier Ministre est l'un des pouvoirs propres du Chef de l'État (comme la dissolution de l'AN ou le recours au référendum), elle est dispensée du contreseing ministériel.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, selon la Constitution de 2016, quel est l'âge minimum requis pour être candidat à la présidence de la République ?",
+    "options": ["A) 35 ans", "B) 40 ans", "C) 45 ans", "D) 50 ans"],
+    "answer": "A",
+    "explanation": "L'article 55 de la Constitution de 2016 fixe l'âge minimum à 35 ans et a supprimé le plafond d'âge maximum (qui était de 75 ans).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le cadre de la Constitution de la IIIème République ivoirienne, comment est désigné le Vice-Président de la République depuis la révision de 2020 ?",
+    "options": ["A) Il est élu sur un ticket avec le Président lors du scrutin présidentiel", "B) Il est nommé par le Président de la République avec l'accord du Parlement", "C) Il est désigné par l'Assemblée nationale", "D) Il est nommé par le Conseil constitutionnel"],
+    "answer": "B",
+    "explanation": "Depuis la révision constitutionnelle de mars 2020, le Vice-Président est nommé par le Chef de l'État avec l'accord du Parlement réuni en Congrès.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est la durée du mandat d'un Conseiller constitutionnel en Côte d'Ivoire ?",
+    "options": ["A) 5 ans renouvelable", "B) 6 ans non renouvelable", "C) 7 ans non renouvelable", "D) 9 ans non renouvelable"],
+    "answer": "B",
+    "explanation": "Les membres du Conseil constitutionnel sont nommés pour un mandat de six ans non renouvelable, avec un renouvellement par moitié tous les trois ans.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, qui détient l'initiative de la révision de la Constitution ?",
+    "options": ["A) Uniquement le Président de la République", "B) Uniquement les députés de l'Assemblée nationale", "C) Le Président de la République et les membres du Parlement", "D) Le Conseil constitutionnel et le Sénat"],
+    "answer": "C",
+    "explanation": "L'initiative de la révision de la Constitution appartient concurremment au Président de la République et aux membres du Parlement.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En cas de vacance de la Présidence de la République par décès ou démission absolue, qui assure l'intérim selon la Constitution de 2016 (révisée en 2020) ?",
+    "options": ["A) Le Président de l'Assemblée nationale", "B) Le Président du Sénat", "C) Le Premier Ministre", "D) Le Vice-Président de la République"],
+    "answer": "D",
+    "explanation": "Le Vice-Président de la République supplée le Président de la République et devient le nouveau Président en cas de vacance du pouvoir.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est la durée du mandat des députés à l'Assemblée Nationale ivoirienne ?",
+    "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
+    "answer": "B",
+    "explanation": "Les députés sont élus au suffrage universel direct pour un mandat de cinq (5) ans.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Comment les membres du Sénat ivoirien sont-ils désignés ?",
+    "options": ["A) Ils sont tous élus au suffrage universel direct", "B) Ils sont tous nommés par le Président de la République", "C) Les deux tiers (2/3) sont élus au suffrage universel indirect et un tiers (1/3) est nommé par le Président", "D) La moitié est élue, l'autre moitié est nommée par les partis politiques"],
+    "answer": "C",
+    "explanation": "Le Sénat ivoirien est composé pour deux tiers d'élus (suffrage universel indirect) et pour un tiers de membres nommés par le Chef de l'État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Sous quelles conditions l'Assemblée Nationale peut-elle engager la responsabilité du gouvernement par une motion de censure en Côte d'Ivoire ?",
+    "options": ["A) Elle requiert la majorité absolue des membres de l'Assemblée", "B) Elle requiert la majorité des deux tiers (2/3) des membres de l'Assemblée", "C) Elle nécessite l'accord du Sénat", "D) Le gouvernement est irresponsable devant le Parlement"],
+    "answer": "A",
+    "explanation": "La motion de censure est adoptée à la majorité absolue des membres composant l'Assemblée nationale.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Lequel de ces actes est du ressort exclusif de l'Assemblée Nationale et non du Sénat en Côte d'Ivoire ?",
+    "options": ["A) Le vote des lois ordinaires", "B) L'adoption d'une motion de censure contre le Gouvernement", "C) La révision de la Constitution", "D) L'approbation des traités internationaux"],
+    "answer": "B",
+    "explanation": "Seule l'Assemblée nationale peut mettre en cause la responsabilité du Gouvernement par le vote d'une motion de censure.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, qui est le Chef du Gouvernement ?",
+    "options": ["A) Le Président de la République", "B) Le Vice-Président", "C) Le Premier Ministre", "D) Le Président de l'Assemblée Nationale"],
+    "answer": "C",
+    "explanation": "Le Premier Ministre est le Chef du Gouvernement. Il dirige et coordonne l'action gouvernementale.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle institution ivoirienne a pour mission principale la prévention et la lutte contre la corruption ?",
+    "options": ["A) La Cour des Comptes", "B) L'Inspection Générale de l'État (IGE)", "C) La Haute Autorité pour la Bonne Gouvernance (HABG)", "D) Le Médiateur de la République"],
+    "answer": "C",
+    "explanation": "La Haute Autorité pour la Bonne Gouvernance (HABG) est chargée de la prévention et de la lutte contre la corruption et les infractions assimilées.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel est le rôle principal du Médiateur de la République en Côte d'Ivoire ?",
+    "options": ["A) Arbitrer les conflits entre partis politiques", "B) Régler à l'amiable les différends entre les citoyens et l'Administration", "C) Négocier les traités internationaux", "D) Juger les fautes de gestion des agents publics"],
+    "answer": "B",
+    "explanation": "Le Médiateur de la République est une autorité indépendante chargée de résoudre à l'amiable les conflits opposant les citoyens aux administrations.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est l'institution chargée de la valorisation des us et coutumes et de la prévention pacifique des crises sociales ?",
+    "options": ["A) Le CESEC", "B) La Chambre Nationale des Rois et Chefs Traditionnels (CNRCT)", "C) Le Ministère de la Réconciliation", "D) La Commission Électorale Indépendante"],
+    "answer": "B",
+    "explanation": "La CNRCT est une institution de la République chargée d'impliquer les rois et chefs traditionnels dans la prévention et le règlement pacifique des conflits.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, quelle juridiction est la plus haute instance de l'ordre judiciaire ?",
+    "options": ["A) Le Conseil d'État", "B) Le Conseil Constitutionnel", "C) La Cour de Cassation", "D) La Cour des Comptes"],
+    "answer": "C",
+    "explanation": "La Cour de Cassation est la juridiction suprême de l'ordre judiciaire (matière pénale, civile, commerciale et sociale).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle institution juridictionnelle juge la légalité des actes administratifs et joue le rôle de juridiction suprême de l'ordre administratif en CI ?",
+    "options": ["A) La Cour Suprême", "B) Le Conseil d'État", "C) Le Tribunal des Conflits", "D) La Haute Cour de Justice"],
+    "answer": "B",
+    "explanation": "Le Conseil d'État est la juridiction suprême de l'ordre administratif depuis l'éclatement de l'ancienne Cour Suprême.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel est l'organe chargé d'organiser, superviser et contrôler les élections en Côte d'Ivoire ?",
+    "options": ["A) Le Ministère de l'Intérieur", "B) Le Conseil constitutionnel", "C) La Commission Électorale Indépendante (CEI)", "D) L'Observatoire des élections"],
+    "answer": "C",
+    "explanation": "La CEI est l'Autorité Administrative Indépendante chargée de toutes les opérations électorales en Côte d'Ivoire.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle institution contrôle les finances publiques, juge les comptes des comptables publics et assiste le Parlement dans le contrôle de l'action du gouvernement ?",
+    "options": ["A) La Direction Générale du Trésor", "B) La Cour des Comptes", "C) L'Inspection Générale des Finances", "D) Le Conseil Économique et Social"],
+    "answer": "B",
+    "explanation": "La Cour des Comptes est la juridiction financière suprême en Côte d'Ivoire, chargée de juger les comptes publics.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, en cas de conflit de compétence entre une juridiction de l'ordre administratif et une juridiction de l'ordre judiciaire, qui tranche ?",
+    "options": ["A) La Cour de Cassation", "B) Le Conseil d'État", "C) Le Tribunal des Conflits", "D) Le Conseil Constitutionnel"],
+    "answer": "C",
+    "explanation": "Le Tribunal des Conflits est l'organe chargé de régler les conflits de compétence entre les juridictions de l'ordre judiciaire et administratif.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui dirige la Grande Chancellerie de l'Ordre National en Côte d'Ivoire ?",
+    "options": ["A) Le Grand Chancelier", "B) Le Médiateur de la République", "C) Le Ministre d'État", "D) Le Président de l'Assemblée nationale"],
+    "answer": "A",
+    "explanation": "La Grande Chancellerie est dirigée par un Grand Chancelier, chargé de l'administration des ordres nationaux (Ordre national, Ordre du mérite).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est la durée du mandat des membres du Conseil Économique, Social, Environnemental et Culturel (CESEC) ?",
+    "options": ["A) 3 ans", "B) 4 ans", "C) 5 ans", "D) 7 ans"],
+    "answer": "C",
+    "explanation": "Les membres du CESEC (les conseillers économiques et sociaux) sont nommés pour un mandat de cinq ans.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans l'organisation territoriale de la Côte d'Ivoire, Abidjan et Yamoussoukro ont un statut particulier. De quoi s'agit-il ?",
+    "options": ["A) Des communes de plein exercice simples", "B) Des régions autonomes", "C) Des Districts Autonomes", "D) Des départements spéciaux"],
+    "answer": "C",
+    "explanation": "Abidjan et Yamoussoukro, et depuis 2021 d'autres entités, ont le statut de Districts Autonomes dirigés par des Ministres-Gouverneurs.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Combien de régions compte actuellement la Côte d'Ivoire ?",
+    "options": ["A) 19", "B) 31", "C) 33", "D) 14"],
+    "answer": "B",
+    "explanation": "La Côte d'Ivoire compte 31 régions, qui sont des collectivités territoriales décentralisées.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui est l'organe délibérant au niveau de la commune en Côte d'Ivoire ?",
+    "options": ["A) Le Maire", "B) La Municipalité", "C) Le Conseil Municipal", "D) Le Secrétaire Général de Mairie"],
+    "answer": "C",
+    "explanation": "Le Conseil Municipal est l'assemblée délibérante, élue au suffrage universel direct, qui gère les affaires de la commune.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, quelle autorité exerce la tutelle administrative sur les collectivités territoriales (communes, régions) ?",
+    "options": ["A) Le Président de la République", "B) Le Préfet et le Ministre chargé de l'Intérieur/Décentralisation", "C) Le Juge Administratif", "D) Le Trésorier Payeur"],
+    "answer": "B",
+    "explanation": "La tutelle est assurée au niveau local par le Préfet de département ou de région, sous l'autorité du Ministre chargé de la Décentralisation.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est la circonscription administrative de base de l'administration déconcentrée en Côte d'Ivoire ?",
+    "options": ["A) Le département", "B) La région", "C) La commune", "D) La sous-préfecture"],
+    "answer": "D",
+    "explanation": "La sous-préfecture, dirigée par un sous-préfet, est la plus petite unité de base de l'administration déconcentrée de l'État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui nomme le Préfet de département en Côte d'Ivoire ?",
+    "options": ["A) Le Ministre de l'Intérieur par arrêté", "B) Le Président de la République par décret en Conseil des Ministres", "C) Le Conseil Régional par élection", "D) Le Premier Ministre par décret simple"],
+    "answer": "B",
+    "explanation": "Le Préfet est un haut fonctionnaire du corps préfectoral, nommé par décret du Président de la République pris en Conseil des Ministres.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel fonds permet à l'État ivoirien d'accompagner financièrement les collectivités locales dans leurs investissements ?",
+    "options": ["A) Le Trésor Public", "B) Le Fonds National de Solidarité", "C) Le Fonds Prêt d'Honneur", "D) Les dotations (Fonctionnement et Équipement) gérées par la DGDDL"],
+    "answer": "D",
+    "explanation": "L'État alloue des dotations annuelles pour le fonctionnement et l'investissement des collectivités locales.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En CI, le Maire possède une double casquette. Laquelle ?",
+    "options": ["A) Agent de l'État et Agent de la région", "B) Agent de la commune et Agent de l'État", "C) Magistrat et Avocat", "D) Chef du conseil régional et Chef de la commune"],
+    "answer": "B",
+    "explanation": "Le maire est à la fois l'exécutif de la commune décentralisée (agent de la collectivité) et représentant de l'État (état civil, police).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel est le rôle du Ministre-Gouverneur dans un District Autonome ivoirien ?",
+    "options": ["A) Il est le maire de toutes les communes du district", "B) Il assure la supervision et la coordination des grands projets d'aménagement et de développement du district", "C) Il remplace les préfets de la région", "D) Il vote le budget des mairies"],
+    "answer": "B",
+    "explanation": "Le Ministre-Gouverneur est chargé du développement suprarégional, il coordonne les grands projets de l'État sans supprimer les maires et préfets.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le système de décentralisation ivoirien, la commune est-elle hiérarchiquement soumise à la région ?",
+    "options": ["A) Oui, la région peut annuler les décisions de la commune", "B) Oui, le budget communal est approuvé par la région", "C) Non, il n'y a pas de tutelle d'une collectivité territoriale sur une autre", "D) Non, la commune a autorité sur la région"],
+    "answer": "C",
+    "explanation": "Le principe de l'interdiction de tutelle entre collectivités prévaut. La commune et la région sont autonomes et égales juridiquement.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'attribution de la nationalité est fondée principalement sur :",
+    "options": ["A) Le droit du sol strict (jus soli)", "B) Le droit du sang (jus sanguinis)", "C) La naturalisation uniquement", "D) Le lieu de naissance des grands-parents"],
+    "answer": "B",
+    "explanation": "Le Code de la nationalité ivoirienne privilégie le droit du sang (être né de père ou de mère ivoirien).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel est le délai de résidence habituelle requis en Côte d'Ivoire pour qu'un étranger puisse demander la naturalisation ?",
+    "options": ["A) 2 ans", "B) 5 ans", "C) 10 ans", "D) 15 ans"],
+    "answer": "B",
+    "explanation": "La naturalisation peut être accordée à l'étranger qui justifie d'une résidence habituelle en Côte d'Ivoire pendant les 5 années précédant le dépôt de sa demande.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel organisme étatique est responsable de l'émission de la Carte Nationale d'Identité (CNI) biométrique en Côte d'Ivoire ?",
+    "options": ["A) L'Institut National de la Statistique (INS)", "B) L'Office National de l'État Civil et de l'Identification (ONECI)", "C) La Direction Générale de la Police Nationale", "D) L'Agence Nationale d'Identification"],
+    "answer": "B",
+    "explanation": "L'ONECI est l'établissement chargé de la politique nationale de l'état civil et de l'identification en CI.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, à quel âge est fixée la majorité civile pour un citoyen (droit commun) ?",
+    "options": ["A) 16 ans", "B) 18 ans", "C) 20 ans", "D) 21 ans"],
+    "answer": "D",
+    "explanation": "Piège fréquent : bien que le droit de vote s'acquière à 18 ans, la majorité civile (Code civil) pour contracter est fixée à 21 ans (sauf émancipation).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle condition un Ivoirien doit-il remplir pour pouvoir exercer son droit de vote ?",
+    "options": ["A) Avoir au moins 21 ans", "B) Payer des impôts", "C) Être inscrit sur la liste électorale et jouir de ses droits civils et politiques", "D) Être membre d'un parti politique"],
+    "answer": "C",
+    "explanation": "Pour voter, l'Ivoirien (dès 18 ans) doit impérativement être inscrit sur le fichier électoral et ne pas être déchu de ses droits.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Une femme étrangère épouse un Ivoirien. En vertu du code ivoirien, comment obtient-elle la nationalité ?",
+    "options": ["A) Immédiatement après le mariage civil", "B) Par déclaration faite au moment du mariage, avec effet à la date de célébration (sous réserve d'annulation de l'administration)", "C) Après 5 ans de mariage obligatoire", "D) Elle ne peut l'obtenir que par naturalisation"],
+    "answer": "B",
+    "explanation": "La nationalité par mariage s'acquiert par déclaration, mais le gouvernement peut s'y opposer dans un délai d'un an.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "L'Ivoirien d'origine peut-il être déchu de sa nationalité ivoirienne ?",
+    "options": ["A) Oui, en cas de trahison ou d'atteinte à la sûreté de l'État", "B) Oui, s'il acquiert une autre nationalité", "C) Non, la déchéance ne s'applique qu'aux personnes ayant acquis la nationalité", "D) Non, la nationalité est inaliénable pour tous"],
+    "answer": "C",
+    "explanation": "La déchéance de nationalité ne peut frapper qu'une personne ayant acquis la nationalité ivoirienne, jamais un Ivoirien d'origine.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Selon la Constitution ivoirienne, lequel de ces devoirs est imposé au citoyen ?",
+    "options": ["A) Le devoir de cotiser à un parti politique", "B) Le devoir de contribuer aux charges publiques (impôts)", "C) Le devoir de servir dans l'armée active", "D) Le devoir d'adhérer à un syndicat"],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 stipule que chaque citoyen doit s'acquitter de ses impôts pour contribuer aux charges de l'État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La double nationalité est-elle admise en Côte d'Ivoire ?",
+    "options": ["A) Non, elle est formellement interdite par la loi", "B) Oui, elle est tolérée de manière générale, bien que restreinte pour la plus haute fonction (Présidence)", "C) Oui, sans aucune restriction politique", "D) Uniquement pour les Ivoiriens de la diaspora"],
+    "answer": "B",
+    "explanation": "La double nationalité est admise pour les citoyens ordinaires, mais un candidat à la présidence ne doit s'être prévalu d'aucune autre nationalité.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est la valeur de la Carte Nationale d'Identité (CNI) ivoirienne dans l'espace CEDEAO ?",
+    "options": ["A) Elle ne permet pas de voyager", "B) Elle fait office de document de voyage valide pour franchir les frontières au sein de l'espace CEDEAO", "C) Elle est valable uniquement avec un visa", "D) Elle n'a de valeur qu'au sein de l'UEMOA"],
+    "answer": "B",
+    "explanation": "La CNI biométrique permet aux citoyens ivoiriens de voyager librement au sein de l'espace de la CEDEAO (libre circulation des personnes).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "A quelle date la Côte d'Ivoire a-t-elle proclamé son indépendance ?",
+    "options": ["A) 7 août 1958", "B) 7 août 1960", "C) 4 décembre 1958", "D) 7 octobre 1960"],
+    "answer": "B",
+    "explanation": "Félix Houphouët-Boigny a proclamé l'indépendance de la Côte d'Ivoire le 7 août 1960.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui fut le premier Président de la Première République de Côte d'Ivoire ?",
+    "options": ["A) Henri Konan Bédié", "B) Robert Guéï", "C) Félix Houphouët-Boigny", "D) Laurent Gbagbo"],
+    "answer": "C",
+    "explanation": "Félix Houphouët-Boigny a été le premier Président de la République, de 1960 jusqu'à son décès en 1993.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En quelle année Yamoussoukro a-t-elle été désignée comme capitale politique et administrative de la Côte d'Ivoire ?",
+    "options": ["A) 1960", "B) 1975", "C) 1983", "D) 1990"],
+    "answer": "C",
+    "explanation": "Par la loi du 21 mars 1983, la capitale politique et administrative a été transférée d'Abidjan à Yamoussoukro.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "À l'avènement du multipartisme en 1990, qui a été nommé au poste de Premier Ministre, fonction nouvellement rétablie ?",
+    "options": ["A) Seydou Diarra", "B) Alassane Ouattara", "C) Daniel Kablan Duncan", "D) Charles Konan Banny"],
+    "answer": "B",
+    "explanation": "Alassane Ouattara a été nommé Premier Ministre par Félix Houphouët-Boigny en 1990, lors de la légalisation du multipartisme.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Suite au décès de Félix Houphouët-Boigny en 1993, qui a assuré la succession constitutionnelle à la présidence selon l'article 11 de la Constitution d'alors ?",
+    "options": ["A) Le Premier Ministre", "B) Le Président du Conseil Économique et Social", "C) Le Président de l'Assemblée Nationale", "D) Le Président de la Cour Suprême"],
+    "answer": "C",
+    "explanation": "Henri Konan Bédié, alors Président de l'Assemblée Nationale, a achevé le mandat présidentiel en vertu de l'article 11 de la Constitution de 1960.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel événement a conduit à la fin de la Première République ivoirienne ?",
+    "options": ["A) La mort d'Houphouët-Boigny en 1993", "B) Le coup d'État militaire du 24 décembre 1999", "C) La rébellion de 2002", "D) Les élections de 2010"],
+    "answer": "B",
+    "explanation": "Le coup d'État de décembre 1999 mené par le général Robert Guéï a suspendu la constitution de 1960, mettant fin à la Première République.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En quelle année la Constitution instaurant la Deuxième République a-t-elle été adoptée par référendum ?",
+    "options": ["A) 1999", "B) 2000", "C) 2010", "D) 2016"],
+    "answer": "B",
+    "explanation": "La Constitution de la IIème République a été adoptée par le référendum de juillet 2000, sous la transition militaire.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Troisième République ivoirienne est officiellement née suite à l'adoption de la Constitution de :",
+    "options": ["A) Novembre 2010", "B) Octobre 2016", "C) Mars 2020", "D) Juillet 2000"],
+    "answer": "B",
+    "explanation": "La promulgation de la Constitution approuvée par référendum le 30 octobre 2016 marque le début de la IIIème République.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans l'histoire ivoirienne, qui a été le premier Président de l'Assemblée nationale après l'indépendance ?",
+    "options": ["A) Auguste Denise", "B) Philippe Grégoire Yacé", "C) Mamadou Koulibaly", "D) Henri Konan Bédié"],
+    "answer": "B",
+    "explanation": "Philippe Yacé a été le très influent Président de l'Assemblée Nationale ivoirienne de 1959 à 1980.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel accord, signé en janvier 2003 en France, a tenté de mettre fin à la crise politico-militaire ivoirienne en instaurant un gouvernement de réconciliation nationale ?",
+    "options": ["A) L'accord de Ouagadougou", "B) L'accord d'Accra", "C) L'accord de Linas-Marcoussis", "D) L'accord de Pretoria"],
+    "answer": "C",
+    "explanation": "L'accord de Linas-Marcoussis, signé en 2003, prévoyait le partage du pouvoir et d'importantes réformes institutionnelles.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel texte législatif fixe le Statut Général de la Fonction Publique en Côte d'Ivoire (dernière version majeure adoptée récemment) ?",
+    "options": ["A) La loi de 1960", "B) La loi de 1992 révisée par la loi de novembre 2023", "C) Le décret de 2015", "D) La Constitution de 2016"],
+    "answer": "B",
+    "explanation": "Le statut général de la fonction publique a été profondément révisé par la nouvelle loi n° 2023-892 du 23 novembre 2023.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans l'administration ivoirienne, en combien de grades ou catégories (catégories indiciaires) les fonctionnaires sont-ils classés ?",
+    "options": ["A) Trois (A, B, C)", "B) Quatre (A, B, C, D)", "C) Cinq (A, B, C, D, E)", "D) Deux (Cadres et Agents)"],
+    "answer": "B",
+    "explanation": "Les fonctionnaires sont hiérarchisés en quatre grandes catégories : A (cadres supérieurs), B (cadres moyens), C (agents de maîtrise) et D (agents d'exécution).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "À quelle autorité est directement rattachée l'Inspection Générale d'État (IGE) ivoirienne ?",
+    "options": ["A) Au Ministre de la Fonction Publique", "B) Au Premier Ministre", "C) À la Présidence de la République", "D) À la Cour des Comptes"],
+    "answer": "C",
+    "explanation": "L'IGE, organe de contrôle supérieur de l'administration ivoirienne, est directement rattachée à la Présidence de la République.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel outil informatique est utilisé en Côte d'Ivoire pour la gestion intégrée des personnels de l'État (civils) ?",
+    "options": ["A) SIGMAP", "B) SYDONIA", "C) SIGFAE", "D) Aster"],
+    "answer": "C",
+    "explanation": "Le SIGFAE (Système Intégré de Gestion des Fonctionnaires et Agents de l'État) permet le traitement administratif des ressources humaines.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Parmi les obligations du fonctionnaire ivoirien, que signifie le 'devoir de réserve' ?",
+    "options": ["A) Ne pas révéler de secrets professionnels", "B) S'abstenir d'exprimer publiquement des opinions personnelles, politiques ou religieuses de manière outrancière", "C) Interdiction absolue d'être syndiqué", "D) Rester au bureau au-delà des heures de travail"],
+    "answer": "B",
+    "explanation": "Le devoir de réserve impose au fonctionnaire de la mesure et de la retenue dans l'expression publique de ses opinions.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Lequel de ces actes constitue une sanction disciplinaire du 2ème degré dans la fonction publique ivoirienne ?",
+    "options": ["A) L'avertissement", "B) Le blâme", "C) La radiation du tableau d'avancement ou la révocation", "D) La mise à la retraite anticipée"],
+    "answer": "C",
+    "explanation": "Les sanctions de 2ème degré (conseil de discipline) incluent l'abaissement d'échelon, l'exclusion temporaire et la révocation.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le cadre de l'accès aux emplois publics en CI, quel principe fondamental régit les concours ?",
+    "options": ["A) Le parrainage", "B) Le principe d'égalité des citoyens", "C) Le cooptage par ancienneté", "D) Le système de quotas ethniques"],
+    "answer": "B",
+    "explanation": "La Constitution et le Statut général consacrent l'égal accès des citoyens aux emplois publics sur la base du mérite.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel ministère ivoirien supervise la Direction Générale du Budget et des Finances (DGBF) ?",
+    "options": ["A) Le Ministère de la Fonction Publique", "B) Le Ministère de l'Économie et des Finances et/ou du Budget", "C) Le Ministère de l'Intérieur", "D) La Primature"],
+    "answer": "B",
+    "explanation": "La DGBF, garante de la bonne exécution des lois de finances, est rattachée au Ministère chargé du Budget et des Finances.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qu'est-ce qu'un Établissement Public Administratif (EPA) en Côte d'Ivoire (ex: l'ENA) ?",
+    "options": ["A) Une société privée financée par l'État", "B) Un ministère délocalisé", "C) Une personne morale de droit public dotée de l'autonomie financière, gérant un service public administratif", "D) Une ONG reconnue d'utilité publique"],
+    "answer": "C",
+    "explanation": "L'EPA est démembrement de l'État doté de la personnalité morale et de l'autonomie financière pour accomplir une mission de service public.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans la fonction publique ivoirienne, l'âge de la retraite pour les fonctionnaires de grade A4 et A7 (cadres supérieurs) est fixé à :",
+    "options": ["A) 55 ans", "B) 60 ans", "C) 65 ans", "D) 70 ans"],
+    "answer": "C",
+    "explanation": "Selon les réformes récentes du statut, la limite d'âge pour les grades A4 à A7 (hors magistrats et enseignants du supérieur) est de 65 ans.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'instauration définitive et effective du multipartisme politique a eu lieu en quelle année ?",
+    "options": ["A) 1960", "B) 1980", "C) 1990", "D) 2000"],
+    "answer": "C",
+    "explanation": "Avril 1990 marque l'autorisation des partis politiques d'opposition, finissant l'ère du parti unique de facto sous le PDCI-RDA.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Selon la Constitution ivoirienne, sur quelle base la création d'un parti politique est-elle formellement proscrite ?",
+    "options": ["A) L'idéologie communiste", "B) Le libéralisme économique", "C) L'appartenance ethnique, religieuse, régionale ou raciale", "D) Le soutien exclusif aux jeunes"],
+    "answer": "C",
+    "explanation": "L'article 14 de la Constitution interdit les partis fondés sur des critères d'ethnie, de religion ou de région pour préserver l'unité nationale.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Que signifie le sigle RHDP, parti politique actuellement au pouvoir en Côte d'Ivoire ?",
+    "options": ["A) Rassemblement des Houphouëtistes pour la Démocratie et la Paix", "B) Réseau Historique Démocratique et Populaire", "C) Rassemblement Humaniste pour les Droits Politiques", "D) Regroupement pour l'Harmonie et le Développement Partagé"],
+    "answer": "A",
+    "explanation": "Le RHDP, fondé initialement comme coalition en 2005 puis transformé en parti unifié en 2018.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'opposition politique dispose d'un statut particulier garanti par la loi. Que prévoit notamment ce statut concernant le Chef de l'opposition ?",
+    "options": ["A) Il est membre de droit du gouvernement", "B) Il bénéficie d'avantages protocolaires et financiers", "C) Il a un droit de veto sur les lois", "D) Il est nommé par la Cour Suprême"],
+    "answer": "B",
+    "explanation": "La loi sur le statut de l'opposition accorde des droits, un statut protocolaire et des moyens au Chef de l'opposition.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel est le plus ancien parti politique de Côte d'Ivoire encore en activité ?",
+    "options": ["A) FPI", "B) PIT", "C) PDCI-RDA", "D) UDPCI"],
+    "answer": "C",
+    "explanation": "Le Parti Démocratique de Côte d'Ivoire (PDCI-RDA) a été fondé en 1946 par Félix Houphouët-Boigny.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Les partis politiques ivoiriens bénéficient-ils d'un financement public sur le budget de l'État ?",
+    "options": ["A) Non, c'est strictement interdit", "B) Oui, le financement public est accordé proportionnellement à la représentation électorale (députés, maires)", "C) Oui, chaque parti reconnu reçoit la même somme fixe annuelle", "D) Seulement pendant les campagnes présidentielles"],
+    "answer": "B",
+    "explanation": "La loi prévoit un financement public pour les partis, calculé au prorata des élus qu'ils obtiennent aux élections nationales et locales.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En droit ivoirien, quelle liberté garantit le droit pour les citoyens de se regrouper en ONG ou syndicats ?",
+    "options": ["A) La liberté d'association", "B) La liberté d'entreprendre", "C) La liberté d'aller et venir", "D) La liberté de la presse"],
+    "answer": "A",
+    "explanation": "La liberté d'association (régie par la loi de 1960 sur les associations) permet la création d'ONG et de partis.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est l'Autorité Administrative Indépendante chargée de réguler le secteur de l'audiovisuel et des médias en CI ?",
+    "options": ["A) L'ANP (Autorité Nationale de la Presse)", "B) La HACA (Haute Autorité de la Communication Audiovisuelle)", "C) L'ARTCI", "D) Le Conseil de l'Ordre des Journalistes"],
+    "answer": "B",
+    "explanation": "La HACA régule les radios, télévisions et l'espace de la communication audiovisuelle en Côte d'Ivoire.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, une manifestation pacifique sur la voie publique requiert généralement :",
+    "options": ["A) Une simple déclaration préalable aux autorités compétentes (Préfecture/Mairie)", "B) Une autorisation écrite du Chef de l'État", "C) L'absence totale d'encadrement", "D) L'accord du Procureur de la République"],
+    "answer": "A",
+    "explanation": "Le régime est celui de la déclaration préalable, bien que l'autorité administrative puisse l'interdire pour des motifs d'ordre public.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Front Populaire Ivoirien (FPI), parti majeur de gauche en CI, a été fondé historiquement par :",
+    "options": ["A) Laurent Gbagbo", "B) Francis Wodié", "C) Bernard Dadié", "D) Seydou Diarra"],
+    "answer": "A",
+    "explanation": "Laurent Gbagbo a fondé le FPI dans la clandestinité dans les années 1980 avant sa légalisation en 1990.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est la vision centrale du Plan National de Développement (PND) 2021-2025 de la Côte d'Ivoire ?",
+    "options": ["A) La Révolution Agricole", "B) Le concept de 'Côte d'Ivoire Solidaire'", "C) L'Émergence par le pétrole", "D) La Côte d'Ivoire numérique"],
+    "answer": "B",
+    "explanation": "Le PND 2021-2025 s'articule autour de la vision du Président de bâtir une 'Côte d'Ivoire solidaire'.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Combien de piliers structurent le PND 2021-2025 de la Côte d'Ivoire ?",
+    "options": ["A) 3 piliers", "B) 4 piliers", "C) 6 piliers", "D) 8 piliers"],
+    "answer": "C",
+    "explanation": "Le PND 2021-2025 repose sur 6 piliers majeurs pour accélérer la transformation économique et sociale.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "À combien s'élève environ l'enveloppe globale d'investissement prévue pour le PND 2021-2025 en CI ?",
+    "options": ["A) 15 000 milliards de FCFA", "B) 30 000 milliards de FCFA", "C) 59 000 milliards de FCFA", "D) 100 000 milliards de FCFA"],
+    "answer": "C",
+    "explanation": "L'enveloppe globale est d'environ 59 000 milliards de FCFA (59 012,6 milliards exactement).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le financement du PND 2021-2025, quelle est la proportion attendue du secteur privé ?",
+    "options": ["A) 25%", "B) 50%", "C) 74%", "D) 95%"],
+    "answer": "C",
+    "explanation": "Le secteur privé est le moteur principal et doit contribuer à hauteur d'environ 74% des investissements.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Lequel des éléments suivants est le Pilier 1 du PND 2021-2025 ?",
+    "options": ["A) L'accélération de la transformation structurelle de l'économie par l'industrialisation", "B) Le renforcement de la diplomatie", "C) La construction de stades de football", "D) La suppression de l'armée"],
+    "answer": "A",
+    "explanation": "La transformation structurelle par l'industrialisation (notamment agricole) est la base économique du PND.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel programme gouvernemental spécifique ivoirien est intégré au PND pour traiter l'insertion socio-professionnelle ?",
+    "options": ["A) Le Programme PJ-Gouv (Programme Jeunesse du Gouvernement)", "B) L'Opération coup de balai", "C) Le Plan Marshall", "D) Le fonds café-cacao"],
+    "answer": "A",
+    "explanation": "L'année 2023 ayant été décrétée 'année de la jeunesse', le PJ-Gouv (2023-2025) a été fortement soutenu par le PND.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le développement du capital humain (santé, éducation) dans le PND 2021-2025 correspond au Pilier numéro :",
+    "options": ["A) Pilier 1", "B) Pilier 2", "C) Pilier 5", "D) Pilier 6"],
+    "answer": "B",
+    "explanation": "Le Pilier 2 vise le développement du capital humain et la promotion de l'emploi.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "L'un des objectifs du PND 2021-2025 est la réduction de la pauvreté. À quel taux la CI ambitionnait-elle de réduire la pauvreté nationale d'ici 2025 ?",
+    "options": ["A) Autour de 10%", "B) Autour de 31%", "C) 0%", "D) 50%"],
+    "answer": "B",
+    "explanation": "Le PND vise à faire baisser le taux de pauvreté d'environ 39,4% (en 2020) à environ 31,3% en 2025.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Pilier 5 du PND 2021-2025 ivoirien s'attaque à quel enjeu global contemporain ?",
+    "options": ["A) L'exploration spatiale", "B) Le développement régional équilibré, la préservation de l'environnement et la lutte contre le changement climatique", "C) L'adoption d'une monnaie unique africaine", "D) Le désarmement nucléaire"],
+    "answer": "B",
+    "explanation": "L'environnement, le cadre de vie et la lutte contre le réchauffement climatique sont au cœur du Pilier 5.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel organe étatique assure le suivi et l'évaluation globale de la mise en œuvre du PND en Côte d'Ivoire ?",
+    "options": ["A) Le Ministère du Plan et du Développement", "B) La Cour Suprême", "C) La Commission Électorale", "D) Le Conseil des Droits de l'Homme"],
+    "answer": "A",
+    "explanation": "Le Ministère de l'Économie, du Plan et du Développement est le maître d'œuvre de la supervision du PND.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Depuis 2020, la Côte d'Ivoire a basculé dans un nouveau mode de gestion de ses finances publiques appelé :",
+    "options": ["A) Le Budget de Moyens", "B) Le Budget Programme", "C) Le Budget Zéro", "D) Le Budget Participatif"],
+    "answer": "B",
+    "explanation": "La CI a adopté le Budget-Programme, axé sur la performance, les résultats et des objectifs clairs, rompant avec le budget de moyens.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans les finances publiques ivoiriennes, que signifie le sigle TOFE ?",
+    "options": ["A) Taux Officiel de Financement de l'État", "B) Tableau des Opérations Financières de l'État", "C) Taxe Obligatoire sur les Fonds d'Emprunt", "D) Trésor et Opérations Fiscales de l'Économie"],
+    "answer": "B",
+    "explanation": "Le TOFE est le tableau statistique résumant les recettes, dépenses et le financement du déficit de l'État sur une période.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel principe budgétaire exige que toutes les recettes et toutes les dépenses de l'État figurent dans un seul document ?",
+    "options": ["A) Le principe de spécialité", "B) Le principe d'annualité", "C) Le principe d'unité", "D) Le principe d'équilibre"],
+    "answer": "C",
+    "explanation": "Le principe d'unité budgétaire veut que le budget de l'État soit retracé dans un document unique pour en assurer la clarté.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La DGI en Côte d'Ivoire est chargée du recouvrement de l'essentiel des ressources intérieures de l'État. Que signifie DGI ?",
+    "options": ["A) Direction Générale de l'Inspection", "B) Direction Générale des Impôts", "C) Direction de Gestion Immobilière", "D) Département Général des Investissements"],
+    "answer": "B",
+    "explanation": "La DGI (Direction Générale des Impôts) recouvre les impôts directs, indirects et taxes pour le compte du Trésor.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En CI, l'autorité chargée de vérifier la régularité des engagements de dépenses avant paiement (contrôle a priori) est :",
+    "options": ["A) Le Contrôleur Financier", "B) Le Magistrat de la Cour des Comptes", "C) Le Député", "D) Le Directeur des Impôts"],
+    "answer": "A",
+    "explanation": "Le Contrôle financier effectue un contrôle a priori sur l'engagement des dépenses publiques pour prévenir les dépassements.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui a le monopole du maniement des deniers publics en Côte d'Ivoire (encaissement et paiement) ?",
+    "options": ["A) Les ministres (Ordonnateurs)", "B) Les Comptables publics (Trésor public)", "C) Les Banques commerciales", "D) La BCEAO"],
+    "answer": "B",
+    "explanation": "Seuls les comptables publics (agents du Trésor) sont habilités à manipuler l'argent de l'État. Principe de séparation ordonnateur/comptable.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "À la fin de l'exercice budgétaire, quelle loi le gouvernement doit-il présenter au Parlement pour arrêter définitivement les comptes de l'année écoulée ?",
+    "options": ["A) La loi de finances rectificative", "B) La loi de règlement", "C) La loi organique", "D) La loi d'habilitation"],
+    "answer": "B",
+    "explanation": "La loi de règlement rend compte de l'exécution du budget et arrête les montants définitifs des recettes et des dépenses.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qu'est-ce que le SIGMAP en Côte d'Ivoire ?",
+    "options": ["A) Un syndicat de magistrats", "B) Le Système Intégré de Gestion des Marchés Publics", "C) La Société Ivoirienne de Gestion Maritime", "D) Un système d'imposition"],
+    "answer": "B",
+    "explanation": "SIGMAP est la plateforme dématérialisée qui gère les procédures de passation des marchés publics en CI.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est l'autorité de régulation indépendante qui veille à la transparence des commandes de l'État en CI ?",
+    "options": ["A) L'ANRMP (Autorité Nationale de Régulation des Marchés Publics)", "B) L'IGE", "C) L'ARTCI", "D) Le Conseil du Coton et de l'Anacarde"],
+    "answer": "A",
+    "explanation": "L'ANRMP a pour mission la régulation du système des marchés publics et délégations de service public.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Comment appelle-t-on la procédure par laquelle l'administration procède au recouvrement forcé d'une dette fiscale en CI ?",
+    "options": ["A) L'expropriation", "B) L'Avis à Tiers Détenteur (ATD) ou la contrainte", "C) La faillite", "D) Le redressement"],
+    "answer": "B",
+    "explanation": "L'Avis à Tiers Détenteur (ATD) est la procédure par laquelle les impôts saisissent des sommes dues chez un tiers (comme la banque du contribuable).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Où se trouve le siège de la Banque Africaine de Développement (BAD), institution majeure dont la CI est membre fondateur et pays hôte ?",
+    "options": ["A) Abidjan", "B) Dakar", "C) Tunis", "D) Nairobi"],
+    "answer": "A",
+    "explanation": "Le siège statutaire de la BAD se trouve à Abidjan. Elle y a été créée en 1964.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Côte d'Ivoire est membre de l'UEMOA. Où siège la Commission de l'UEMOA ?",
+    "options": ["A) Lomé", "B) Niamey", "C) Ouagadougou", "D) Cotonou"],
+    "answer": "C",
+    "explanation": "La Commission de l'Union Économique et Monétaire Ouest-Africaine (UEMOA) siège à Ouagadougou (Burkina Faso).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Lequel de ces traités juridiques, dont la CI est partie, vise l'harmonisation du droit des affaires en Afrique ?",
+    "options": ["A) OHADA", "B) CIMA", "C) OAPI", "D) CEDEAO"],
+    "answer": "A",
+    "explanation": "L'Organisation pour l'Harmonisation en Afrique du Droit des Affaires (OHADA) unifie le droit commercial et des sociétés de ses États membres.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La BCEAO (Banque Centrale des États de l'Afrique de l'Ouest), dont fait partie la CI, a son siège principal à :",
+    "options": ["A) Abidjan", "B) Dakar", "C) Bamako", "D) Lomé"],
+    "answer": "B",
+    "explanation": "Le siège de la BCEAO, l'institut d'émission du Franc CFA (XOF), est situé à Dakar au Sénégal.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La Côte d'Ivoire abrite le siège de l'Autorité du Bassin du Niger (ABN). Vrai ou Faux ?",
+    "options": ["A) Vrai, à Korhogo", "B) Faux, c'est à Niamey, la CI abrite d'autres institutions", "C) Vrai, à Abidjan", "D) Faux, la CI n'est membre d'aucun organisme de bassin"],
+    "answer": "B",
+    "explanation": "Le siège de l'ABN est à Niamey (Niger), dont la CI est membre.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quel est le nom du Parlement régional dont le siège est à Abuja et dans lequel siègent des députés ivoiriens ?",
+    "options": ["A) Le Parlement Panafricain", "B) Le Parlement de la CEDEAO", "C) L'Assemblée Législative de l'UEMOA", "D) Le Conseil de l'Entente"],
+    "answer": "B",
+    "explanation": "Le Parlement de la CEDEAO a son siège à Abuja (Nigeria) et compte des représentants des parlements nationaux, dont ceux de CI.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Conseil de l'Entente est la plus ancienne organisation sous-régionale ouest-africaine. En quelle année a-t-il été créé sous l'impulsion de Félix Houphouët-Boigny ?",
+    "options": ["A) 1959", "B) 1963", "C) 1975", "D) 1994"],
+    "answer": "A",
+    "explanation": "Le Conseil de l'Entente a été créé en mai 1959 par la CI, la Haute-Volta, le Niger et le Dahomey (le Togo a rejoint plus tard).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le cadre de l'Union Africaine, la CI a ratifié l'accord portant création d'une vaste zone de libre-échange continentale. Quel est son sigle ?",
+    "options": ["A) ZLECAf", "B) ZMAO", "C) AGOA", "D) NEPAD"],
+    "answer": "A",
+    "explanation": "La Zone de Libre-Échange Continentale Africaine (ZLECAf) est un projet phare de l'Agenda 2063 de l'UA.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "L'Organisation Africaine de la Propriété Intellectuelle (OAPI), à laquelle appartient la CI, a pour mission de :",
+    "options": ["A) Délivrer des visas africains", "B) Protéger les droits de propriété industrielle (brevets, marques) au niveau régional", "C) Juger les criminels internationaux", "D) Réguler les télécommunications"],
+    "answer": "B",
+    "explanation": "L'OAPI, basée à Yaoundé, centralise et uniformise la protection de la propriété intellectuelle pour ses États membres, dont la CI.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En cas de litige opposant l'État de Côte d'Ivoire à un citoyen pour violation des droits de l'homme, quelle Cour supranationale ouest-africaine peut être saisie directement ?",
+    "options": ["A) La Cour Internationale de Justice (La Haye)", "B) La Cour de Justice de l'UEMOA", "C) La Cour de Justice de la CEDEAO", "D) La CPI"],
+    "answer": "C",
+    "explanation": "La Cour de Justice de la CEDEAO (Abuja) a compétence pour connaître des cas de violation des droits de l'homme et les citoyens peuvent la saisir directement.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Parmi les conditions de fond de la révision constitutionnelle, la forme républicaine de l'État ivoirien peut-elle faire l'objet d'une révision ?",
+    "options": ["A) Oui, par référendum", "B) Non, elle ne peut faire l'objet d'aucune révision", "C) Oui, par le vote des 2/3 de l'Assemblée nationale", "D) Oui, avec l'accord de la Cour Suprême"],
+    "answer": "B",
+    "explanation": "L'article 178 de la Constitution de 2016 stipule que la forme républicaine de l'État et la laïcité ne peuvent faire l'objet de révision.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qu'est-ce que l'état de siège en Côte d'Ivoire ?",
+    "options": ["A) Une mesure de confinement total de la population", "B) Un régime d'exception transférant exceptionnellement des pouvoirs de police de l'autorité civile à l'autorité militaire", "C) La dissolution immédiate de l'Assemblée Nationale", "D) La fermeture des frontières maritimes uniquement"],
+    "answer": "B",
+    "explanation": "L'état de siège est décrété en Conseil des ministres en cas de péril imminent et transfère certaines compétences de police aux autorités militaires.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle autorité proroge l'état d'urgence au-delà de 15 jours en Côte d'Ivoire ?",
+    "options": ["A) Le Président de la République par décret", "B) Le Conseil Constitutionnel", "C) Le Parlement (Assemblée Nationale et Sénat)", "D) L'ONU"],
+    "answer": "C",
+    "explanation": "Le Président décrète l'état d'urgence pour 15 jours. Sa prorogation au-delà de ce délai nécessite l'autorisation du Parlement.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Qui a le pouvoir de nommer les Magistrats du Siège en Côte d'Ivoire ?",
+    "options": ["A) Le Ministre de la Justice", "B) Le Conseil Supérieur de la Magistrature", "C) Le Président de la République sur proposition du Conseil Supérieur de la Magistrature", "D) Le Président de l'Assemblée nationale"],
+    "answer": "C",
+    "explanation": "Le Président de la République nomme les magistrats du siège, mais il est tenu par les propositions du Conseil Supérieur de la Magistrature.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Le Conseil constitutionnel ivoirien peut-il s'autosaisir pour déclarer une loi inconstitutionnelle ?",
+    "options": ["A) Oui, à tout moment", "B) Non, il doit être obligatoirement saisi par certaines autorités compétentes (Président, Parlementaires, etc.) ou par exception", "C) Oui, s'il juge que la loi menace l'ordre public", "D) Oui, avec l'accord du ministre de la justice"],
+    "answer": "B",
+    "explanation": "Le Conseil constitutionnel ne s'autosaisit pas (sauf cas spécifiques liés aux élections présidentielles), il faut une saisine.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'Agence Nationale de Traitement (ANT) est impliquée dans :",
+    "options": ["A) L'épuration des eaux", "B) Le traitement des données d'état civil pour la CNI et la liste électorale", "C) Le traitement des maladies tropicales", "D) La gestion du cadastre"],
+    "answer": "B",
+    "explanation": "L'ANT intervient dans le traitement des données biométriques et d'identification des citoyens.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "La nationalité ivoirienne d'un enfant mineur abandonné trouvé sur le sol ivoirien de parents inconnus :",
+    "options": ["A) Il est Ivoirien de naissance", "B) Il est apatride jusqu'à ses 18 ans", "C) Il doit être naturalisé", "D) Il est déclaré citoyen de la CEDEAO sans nationalité"],
+    "answer": "A",
+    "explanation": "Le Code de la nationalité attribue la nationalité ivoirienne d'origine à l'enfant nouveau-né trouvé en Côte d'Ivoire de parents inconnus.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Quelle est l'institution chargée d'élaborer et de mettre en œuvre la politique du gouvernement en matière de gestion du personnel de l'État ?",
+    "options": ["A) La Présidence", "B) Le Ministère d'État, Ministère de la Fonction Publique et de la Modernisation de l'Administration", "C) L'Assemblée Nationale", "D) Le Secrétariat Général du Gouvernement"],
+    "answer": "B",
+    "explanation": "Le Ministère de la Fonction Publique est responsable de la GRH de l'État.",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "Dans le système éducatif de l'ENA de Côte d'Ivoire, combien de cycles de formation classique existe-t-il ?",
+    "options": ["A) Un seul", "B) Deux", "C) Trois (Moyen, Moyen-Supérieur, Supérieur)", "D) Quatre"],
+    "answer": "C",
+    "explanation": "L'ENA compte trois cycles : Cycle Moyen (Catégorie B), Cycle Moyen Supérieur (Catégorie A3) et Cycle Supérieur (Catégorie A4).",
+    "theme": "Culture Générale — Institutions et citoyenneté"
+  },
+  {
+    "question": "L'Union du Fleuve Mano, dont fait partie la Côte d'Ivoire, regroupe également quels autres pays ?",
+    "options": ["A) Liberia, Sierra Leone, Guinée", "B) Mali, Burkina Faso, Niger", "C) Ghana, Togo, Bénin", "D) Sénégal, Gambie, Guinée-Bissau"],
+    "answer": "A",
+    "explanation": "L'Union du Fleuve Mano est une organisation sous-régionale réunissant la Guinée, le Liberia, la Sierra Leone et la Côte d'Ivoire (qui a rejoint en 2008).",
     "theme": "Culture Générale — Institutions et citoyenneté"
   },
   {
