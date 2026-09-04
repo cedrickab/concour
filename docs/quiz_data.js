@@ -4,7686 +4,7686 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Permanent", "B) Éphémère", "C) Rapide", "D) Durable"],
     "answer": "B",
     "explanation": "« Fugace » signifie éphémère, qui dure peu de temps.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est l'antonyme de « prospère » ?",
     "options": ["A) Florissant", "B) Misérable", "C) Riche", "D) Opulent"],
     "answer": "B",
     "explanation": "« Misérable » est le contraire de « prospère » (qui réussit bien).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : « Il est arrivé …… faute ! »",
     "options": ["A) sans", "B) sang", "C) cent", "D) sens"],
     "answer": "A",
     "explanation": "« Sans » (sans faute) est la préposition correcte dans ce contexte.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « armistice » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "B",
     "explanation": "« Armistice » est un nom masculin : un armistice.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle expression est correcte ?",
     "options": ["A) Je vous saurai gré", "B) Je vous saurais gré", "C) Je vous serais gré"],
     "answer": "A",
     "explanation": "L'expression correcte est « Je vous saurai gré » (futur simple).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot n'appartient pas à la même famille ?",
     "options": ["A) Terroir", "B) Territoire", "C) Terreur", "D) Terrain"],
     "answer": "C",
     "explanation": "« Terreur » vient du latin « terror » tandis que les autres viennent de « terra » (terre).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Trouvez le mot mal orthographié :",
     "options": ["A) Aréopage", "B) Anathème", "C) Apotheose", "D) Acrobate"],
     "answer": "C",
     "explanation": "L'orthographe correcte est « apothéose » avec un accent aigu.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est l'antonyme de « prolixe » ?",
     "options": ["A) Concis", "B) Verbeux", "C) Bavard", "D) Éloquent"],
     "answer": "A",
     "explanation": "« Prolixe » signifie bavard, son antonyme est « concis » (bref).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel pluriel est correct ?",
     "options": ["A) des cache-nez", "B) des cache-nezs", "C) des caches-nez"],
     "answer": "A",
     "explanation": "Les noms composés avec « cache » restent invariables : des cache-nez.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase ne contient pas de pléonasme ?",
     "options": ["A) Monter en haut", "B) Prévoir à l'avance", "C) Répéter encore", "D) Examiner attentivement"],
     "answer": "D",
     "explanation": "« Examiner attentivement » n'est pas redondant, contrairement aux autres.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Trouvez l'orthographe correcte :",
     "options": ["A) Dilemme", "B) Dilème", "C) Dilemne", "D) Dilenne"],
     "answer": "A",
     "explanation": "Le mot s'écrit « dilemme » avec deux m.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel verbe se construit avec « de » ?",
     "options": ["A) Pallier", "B) Remédier", "C) Suppléer", "D) Obvier"],
     "answer": "B",
     "explanation": "On dit « remédier à » et non « remédier de ». « Pallier » se construit sans préposition.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la nature du mot « Épuisé » dans : « Épuisé, l'athlète abandonne » ?",
     "options": ["A) Adjectif qualificatif", "B) Participe passé épithète", "C) Participe passé en apposition"],
     "answer": "C",
     "explanation": "« Épuisé » est un participe passé mis en apposition (détaché par une virgule).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la définition de « l'emphase » ?",
     "options": ["A) Un style exagéré", "B) La discrétion", "C) La clarté", "D) La concision"],
     "answer": "A",
     "explanation": "L'emphase est un ton, un style emphatique, exagéré et pompeux.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne une personne qui mange de tout ?",
     "options": ["A) Herbivore", "B) Carnivore", "C) Omnivore", "D) Frugivore"],
     "answer": "C",
     "explanation": "« Omnivore » désigne un être qui se nourrit de tout (végétaux et animaux).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie le sigle « ONU » ?",
     "options": ["A) Organisation des Nations Unies", "B) Office des Nations Unies", "C) Ordre des Nations Unies", "D) Organe des Nations Unies"],
     "answer": "A",
     "explanation": "ONU signifie Organisation des Nations Unies.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'antonyme de « appareiller » ?",
     "options": ["A) Accoster", "B) Fusionner", "C) Apprêter", "D) Partir"],
     "answer": "A",
     "explanation": "« Appareiller » signifie partir (pour un navire), son antonyme est « accoster » (arriver).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Une personne « dégingandée » est une personne :",
     "options": ["A) Élégante", "B) Ayant une démarche disloquée", "C) Timide", "D) Intelligente"],
     "answer": "B",
     "explanation": "« Dégingandée » qualifie une personne ayant des mouvements maladroits et une démarche disloquée.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel dessert tire son nom d'une femme célèbre ?",
     "options": ["A) Tiramisu", "B) Pavlova", "C) Macaron", "D) Éclair"],
     "answer": "B",
     "explanation": "La Pavlova est nommée d'après la ballerine russe Anna Pavlova.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « haltère » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "B",
     "explanation": "« Haltère » est masculin : un haltère.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot n'appartient pas à la même famille que les autres ?",
     "options": ["A) Fable", "B) Fabuleux", "C) Affable", "D) Fabulation"],
     "answer": "C",
     "explanation": "« Affable » vient du latin « affabilis » (courtois), tandis que les autres viennent de « fabula » (récit).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle relation n'existe pas (nature-adjectif) ?",
     "options": ["A) Eau-aquatique", "B) Église-ecclésiastique", "C) Humilité-modestie"],
     "answer": "C",
     "explanation": "« Humilité » et « modestie » sont deux noms, pas une relation nature-adjectif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'antonyme du mot « truculent » ?",
     "options": ["A) Succulent", "B) Original", "C) Commun", "D) Savoureux"],
     "answer": "C",
     "explanation": "« Truculent » signifie haut en couleur, pittoresque ; son antonyme est « commun » (banal).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Trouvez l'intrus :",
     "options": ["A) Le Souverain Pontife", "B) Le Saint-Père", "C) La Bible", "D) Le Pape"],
     "answer": "C",
     "explanation": "Les trois autres désignent le Pape, la Bible est un livre sacré.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'antonyme du mot « pingre » ?",
     "options": ["A) Robuste", "B) Radin", "C) Généreux", "D) Avare"],
     "answer": "C",
     "explanation": "« Pingre » signifie avare, son antonyme est « généreux ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Dans quelle phrase n'y a-t-il pas de pléonasme ?",
     "options": ["A) Le jeune lavandier travaille dans la laverie", "B) Pour la police, c'est un petit détail", "C) Ils vont tous se rencontrer ensemble"],
     "answer": "B",
     "explanation": "Cette phrase n'a pas de redondance, contrairement aux autres.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel complément convient au verbe « luter » ?",
     "options": ["A) Une fissure", "B) Un vase", "C) Un trou", "D) Une fenêtre"],
     "answer": "B",
     "explanation": "« Luter » signifie boucher hermétiquement avec du lut (mastic). On lute un vase.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la définition de la « rhétorique » ?",
     "options": ["A) L'analyse de textes", "B) L'étude de la religion", "C) L'art du discours", "D) La grammaire"],
     "answer": "C",
     "explanation": "La rhétorique est l'art du discours et de l'éloquence.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne un amour excessif de soi-même ?",
     "options": ["A) Égoïsme", "B) Narcissisme", "C) Orgueil", "D) Vanité"],
     "answer": "B",
     "explanation": "Le narcissisme désigne un amour excessif de sa propre personne.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le féminin de « empereur » ?",
     "options": ["A) Empereure", "B) Impératrice", "C) Empératrice", "D) Emperesse"],
     "answer": "B",
     "explanation": "Le féminin d'empereur est impératrice.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « ubiquité » ?",
     "options": ["A) Rapidité", "B) Capacité d'être partout", "C) Solitude", "D) Clarté"],
     "answer": "B",
     "explanation": "L'ubiquité est la capacité d'être présent partout à la fois.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne la peur des espaces clos ?",
     "options": ["A) Agoraphobie", "B) Claustrophobie", "C) Acrophobie", "D) Hydrophobie"],
     "answer": "B",
     "explanation": "La claustrophobie est la peur des espaces fermés.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : « Il a fait cela de son propre …… »",
     "options": ["A) chef", "B) chèque", "C) chaire", "D) cher"],
     "answer": "A",
     "explanation": "L'expression est « de son propre chef » (de sa propre initiative).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne l'art de bien manger ?",
     "options": ["A) Gastrologie", "B) Gastronomie", "C) Gastrosophie", "D) Gastromancie"],
     "answer": "B",
     "explanation": "La gastronomie est l'art de bien manger et de bien cuisiner.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est l'origine du mot « bibliothèque » ?",
     "options": ["A) Latin", "B) Grec", "C) Arabe", "D) Sanskrit"],
     "answer": "B",
     "explanation": "« Bibliothèque » vient du grec « biblion » (livre) et « thêkê » (lieu de rangement).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel adjectif qualifie quelqu'un qui parle plusieurs langues ?",
     "options": ["A) Multilingue", "B) Polyglotte", "C) Bilingue", "D) Tous sont corrects"],
     "answer": "B",
     "explanation": "« Polyglotte » qualifie spécifiquement quelqu'un qui parle plusieurs langues.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie le sigle « HLM » ?",
     "options": ["A) Habitation de longueur moyenne", "B) Habitation à loyer modéré", "C) Habitation de location moderne", "D) Hôtel de luxe moderne"],
     "answer": "B",
     "explanation": "HLM signifie Habitation à Loyer Modéré.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « alvéole » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux sont acceptés"],
     "answer": "C",
     "explanation": "« Alvéole » est traditionnellement féminin mais le masculin est aussi admis par l'Académie française.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle figure de style consiste à dire le contraire de ce que l'on pense ?",
     "options": ["A) Litote", "B) Antiphrase", "C) Euphémisme", "D) Oxymore"],
     "answer": "B",
     "explanation": "L'antiphrase consiste à dire le contraire de ce que l'on veut faire comprendre, souvent avec ironie.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle figure de style associe deux termes contradictoires ?",
     "options": ["A) Métaphore", "B) Oxymore", "C) Antithèse", "D) Chiasme"],
     "answer": "B",
     "explanation": "L'oxymore unit deux termes de sens opposé. Ex : « un silence assourdissant ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment appelle-t-on un mot qui a une forme identique au masculin et au féminin ?",
     "options": ["A) Homonyme", "B) Épicène", "C) Polymorphe", "D) Androgyne"],
     "answer": "B",
     "explanation": "Un mot épicène a la même forme pour les deux genres. Ex : « un/une artiste ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'adjectif verbal du verbe « naviguer » ?",
     "options": ["A) Naviguant", "B) Navigant", "C) Naviguent"],
     "answer": "B",
     "explanation": "L'adjectif verbal est « navigant » (variable) ; le participe présent est « naviguant » (invariable).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est l'orthographe correcte ?",
     "options": ["A) Echappatoire", "B) Échapattoire", "C) Échappatoire", "D) Échapatoire"],
     "answer": "C",
     "explanation": "Le mot s'écrit « échappatoire » avec deux p.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mode utilise-t-on après la conjonction « Bien que » ?",
     "options": ["A) L'indicatif", "B) Le subjonctif", "C) Le conditionnel", "D) L'impératif"],
     "answer": "B",
     "explanation": "« Bien que » est toujours suivi du subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces phrases est correcte ?",
     "options": ["A) Après qu'il soit venu", "B) Après qu'il est venu", "C) Après qu'il ait venu"],
     "answer": "B",
     "explanation": "« Après que » est suivi de l'indicatif (contrairement à « avant que » qui prend le subjonctif).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment s'accorde l'adjectif de couleur « orange » ?",
     "options": ["A) Il s'accorde normalement", "B) Il reste invariable", "C) Il ne s'accorde qu'au pluriel"],
     "answer": "B",
     "explanation": "Les adjectifs de couleur issus de noms (orange, marron, crème…) sont invariables.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie le sigle « PIB » ?",
     "options": ["A) Produit Intérieur Budgétaire", "B) Produit Intérieur Brut", "C) Plan d'Investissement Bancaire", "D) Programme d'Intervention Budgétaire"],
     "answer": "B",
     "explanation": "PIB signifie Produit Intérieur Brut, indicateur de la richesse d'un pays.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la bonne orthographe ?",
     "options": ["A) Aceuillir", "B) Accueillir", "C) Acceuillir", "D) Accueuillir"],
     "answer": "B",
     "explanation": "Le mot s'écrit « accueillir » (c-c-u-e-i-l-l-i-r).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle figure de style consiste à remplacer un terme par une expression plus douce ?",
     "options": ["A) Hyperbole", "B) Litote", "C) Euphémisme", "D) Antiphrase"],
     "answer": "C",
     "explanation": "L'euphémisme adoucit une réalité. Ex : « il nous a quittés » pour « il est mort ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle figure de style consiste à désigner un tout par une de ses parties ?",
     "options": ["A) Métonymie", "B) Synecdoque", "C) Périphrase", "D) Allégorie"],
     "answer": "B",
     "explanation": "La synecdoque prend la partie pour le tout. Ex : « les voiles » pour désigner les bateaux.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la définition d'une « périphrase » ?",
     "options": ["A) Dire le contraire de ce qu'on pense", "B) Utiliser plusieurs mots pour un seul", "C) Exagérer volontairement", "D) Comparer deux éléments"],
     "answer": "B",
     "explanation": "La périphrase remplace un mot par une expression. Ex : « l'astre du jour » pour « le soleil ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « tentacule » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "B",
     "explanation": "« Tentacule » est masculin : un tentacule.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « obélisque » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "B",
     "explanation": "« Obélisque » est masculin : un obélisque.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie l'expression « faire long feu » ?",
     "options": ["A) Durer longtemps", "B) Échouer, ne pas aboutir", "C) Provoquer un grand incendie"],
     "answer": "B",
     "explanation": "« Faire long feu » signifie ne pas aboutir, échouer (et non durer longtemps).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne la peur du nombre 13 ?",
     "options": ["A) Arachnophobie", "B) Triskaïdékaphobie", "C) Nyctophobie", "D) Agoraphobie"],
     "answer": "B",
     "explanation": "La triskaïdékaphobie est la phobie du nombre 13.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment s'écrit 80 en lettres ?",
     "options": ["A) Quatre-vingt", "B) Quatre-vingts", "C) Quatres-vingts", "D) Quatres-vingt"],
     "answer": "B",
     "explanation": "On écrit « quatre-vingts » avec un s quand il n'est pas suivi d'un autre nombre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "« Il n'est pas mécontent » pour dire qu'il est ravi est une :",
     "options": ["A) Hyperbole", "B) Litote", "C) Antiphrase", "D) Métonymie"],
     "answer": "B",
     "explanation": "La litote dit moins pour suggérer plus (double négation atténuante).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "« La diplomatie est le bras armé de la politique » est une :",
     "options": ["A) Métaphore", "B) Comparaison", "C) Métonymie", "D) Synecdoque"],
     "answer": "A",
     "explanation": "C'est une métaphore car il y a identification directe sans mot de comparaison.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne l'étude des noms propres ?",
     "options": ["A) Onomastique", "B) Toponymie", "C) Lexicologie", "D) Philologie"],
     "answer": "A",
     "explanation": "L'onomastique est l'étude des noms propres (personnes et lieux).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le contraire de « véhément » ?",
     "options": ["A) Violent", "B) Calme", "C) Passionné", "D) Fougueux"],
     "answer": "B",
     "explanation": "« Véhément » signifie ardent, impétueux ; son contraire est « calme ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Conjuguez : « Il faut que je …… ce travail avant demain. »",
     "options": ["A) finis", "B) finisse", "C) finirai", "D) finirais"],
     "answer": "B",
     "explanation": "Après « il faut que », on utilise le subjonctif présent : « que je finisse ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « pétale » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "B",
     "explanation": "« Pétale » est masculin : un pétale.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « apostrophe » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "A",
     "explanation": "« Apostrophe » est féminin : une apostrophe.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie l'expression « avoir maille à partir » ?",
     "options": ["A) Avoir beaucoup d'argent", "B) Avoir un différend avec quelqu'un", "C) Devoir partager", "D) Être pressé"],
     "answer": "B",
     "explanation": "« Avoir maille à partir » signifie avoir un conflit, un désaccord avec quelqu'un.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne un discours prononcé en l'honneur d'un défunt ?",
     "options": ["A) Panégyrique", "B) Oraison funèbre", "C) Réquisitoire", "D) Plaidoyer"],
     "answer": "B",
     "explanation": "L'oraison funèbre est un discours d'hommage prononcé lors des funérailles.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie le sigle « BEPC » ?",
     "options": ["A) Brevet d'Études du Premier Cycle", "B) Bureau d'Études des Programmes Communs", "C) Bilan d'Évaluation Professionnelle Continu"],
     "answer": "A",
     "explanation": "BEPC signifie Brevet d'Études du Premier Cycle.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : « Ces fleurs, je les ai …… »",
     "options": ["A) cueilli", "B) cueillie", "C) cueillies", "D) cueillis"],
     "answer": "C",
     "explanation": "Le participe passé s'accorde avec le COD « les » (= fleurs, féminin pluriel) placé avant.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel verbe est correctement conjugué au passé simple ?",
     "options": ["A) Il prena", "B) Il prit", "C) Il prenna", "D) Il prendit"],
     "answer": "B",
     "explanation": "Le passé simple de « prendre » à la 3e personne est « il prit ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne la science du droit ?",
     "options": ["A) Jurisprudence", "B) Juridiction", "C) Droit", "D) Jurisconsulte"],
     "answer": "A",
     "explanation": "La jurisprudence est l'ensemble des décisions de justice et la science du droit.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « apocryphe » ?",
     "options": ["A) Authentique", "B) D'authenticité douteuse", "C) Ancien", "D) Sacré"],
     "answer": "B",
     "explanation": "Un texte apocryphe est un écrit dont l'authenticité est contestée.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « effluve » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "B",
     "explanation": "« Effluve » est masculin : un effluve.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « inique » ?",
     "options": ["A) Juste", "B) Injuste", "C) Unique", "D) Inutile"],
     "answer": "B",
     "explanation": "« Inique » signifie injuste, contraire à l'équité.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel proverbe signifie qu'il faut être discret sur ses projets ?",
     "options": ["A) Pierre qui roule n'amasse pas mousse", "B) Pour vivre heureux, vivons cachés", "C) Qui sème le vent récolte la tempête"],
     "answer": "B",
     "explanation": "« Pour vivre heureux, vivons cachés » signifie qu'il faut rester discret.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « obtempérer » ?",
     "options": ["A) Refuser", "B) Obéir", "C) Hésiter", "D) Demander"],
     "answer": "B",
     "explanation": "« Obtempérer » signifie obéir, se soumettre à un ordre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « encaustique » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
     "answer": "A",
     "explanation": "« Encaustique » est féminin : une encaustique.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « promulguer une loi » ?",
     "options": ["A) Proposer une loi", "B) Rendre une loi officielle et applicable", "C) Abroger une loi", "D) Modifier une loi"],
     "answer": "B",
     "explanation": "Promulguer une loi, c'est la rendre officiellement applicable par décret du président.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot désigne un gouvernement dirigé par un petit nombre de personnes ?",
     "options": ["A) Démocratie", "B) Oligarchie", "C) Monarchie", "D) Théocratie"],
     "answer": "B",
     "explanation": "L'oligarchie est un régime où le pouvoir est entre les mains d'un petit groupe.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens de « philantrope » ?",
     "options": ["A) Qui déteste l'humanité", "B) Qui aime l'humanité", "C) Qui collectionne les timbres", "D) Qui étudie les plantes"],
     "answer": "B",
     "explanation": "Un philanthrope (du grec philos = ami + anthropos = homme) aime l'humanité et agit pour son bien.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : « Quoiqu'il …… riche, il reste modeste. »",
     "options": ["A) est", "B) soit", "C) serait", "D) sera"],
     "answer": "B",
     "explanation": "« Quoique » (= bien que) est suivi du subjonctif : « quoiqu'il soit ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « abroger » ?",
     "options": ["A) Annuler une loi", "B) Publier une loi", "C) Modifier une loi", "D) Appliquer une loi"],
     "answer": "A",
     "explanation": "Abroger signifie supprimer, annuler une loi ou un décret.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le contraire de « pléthorique » ?",
     "options": ["A) Abondant", "B) Insuffisant", "C) Excessif", "D) Immense"],
     "answer": "B",
     "explanation": "« Pléthorique » signifie en excès, surabondant ; son contraire est « insuffisant ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « un arrêté » en droit administratif ?",
     "options": ["A) Une décision de justice", "B) Un acte administratif d'une autorité", "C) Un projet de loi", "D) Un discours officiel"],
     "answer": "B",
     "explanation": "Un arrêté est un acte administratif pris par un ministre, un préfet ou un maire.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la definition de la rhetorique ?",
     "options": ["A) L'etude d'une langue fondee sur l'analyse des textes", "B) L'etude de la religion", "C) L'art du discours et de l'eloquence", "D) La science des sons"],
     "answer": "C",
     "explanation": "La rhetorique est l'art du discours, de l'eloquence.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est mal orthographie ?",
     "options": ["A) echapattoire", "B) alveole", "C) anagramme", "D) peregrination"],
     "answer": "A",
     "explanation": "La bonne orthographe est ecchappatoire avec deux p.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la nature de Fatiguees dans : Fatiguees, les femmes se reposent ?",
     "options": ["A) Participe passe epithete", "B) Adjectif qualificatif epithete", "C) Participe passe mis en apposition", "D) Adjectif attribut"],
     "answer": "C",
     "explanation": "Fatiguees est un participe passe mis en apposition, detache par une virgule.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot n'appartient pas a la meme famille que les autres ?",
     "options": ["A) ingenieur", "B) geniteur", "C) genese", "D) generation"],
     "answer": "A",
     "explanation": "Ingenieur vient du latin ingenium, tandis que les autres viennent de gignere (engendrer).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Choisissez le complement correct pour le verbe Luter :",
     "options": ["A) une fissure", "B) un vase", "C) un trou", "D) une bouteille"],
     "answer": "B",
     "explanation": "Luter signifie fermer hermetiquement avec du lut. On lute un vase, un creuset.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel terme designe un nom identique pour les deux genres ?",
     "options": ["A) Invariable", "B) Epicene", "C) Commun", "D) Neutre"],
     "answer": "B",
     "explanation": "Un nom epicene a la meme forme au masculin et au feminin (ex : enfant, artiste).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment ecrit-on correctement 80 en lettres ?",
     "options": ["A) Quatre-vingt", "B) Quatre-vingts", "C) Quatre vingt", "D) Quatre-vingts-s"],
     "answer": "B",
     "explanation": "Quatre-vingts s'ecrit avec un s final quand il n'est pas suivi d'un autre nombre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase est correcte apres la conjonction bien que ?",
     "options": ["A) Bien qu'il a termine son travail.", "B) Bien qu'il ait termine son travail.", "C) Bien qu'il termina son travail.", "D) Bien qu'il terminera son travail."],
     "answer": "B",
     "explanation": "Bien que impose le subjonctif : bien qu'il ait termine.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase est correcte apres la conjonction apres que ?",
     "options": ["A) Apres qu'il soit venu", "B) Apres qu'il ait ete la", "C) Apres qu'il est venu", "D) Apres qu'il viendrait"],
     "answer": "C",
     "explanation": "Contrairement a avant que, apres que se construit avec l'indicatif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "L'expression Il n'est pas mecontent pour dire qu'il est ravi est une :",
     "options": ["A) Hyperbole", "B) Litote", "C) Metaphore", "D) Euphemisme"],
     "answer": "B",
     "explanation": "La litote dit moins pour exprimer davantage : il n'est pas mecontent = il est tres content.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "La diplomatie est le bras arme de la politique est une :",
     "options": ["A) Metaphore", "B) Comparaison", "C) Metonymie", "D) Synecdoque"],
     "answer": "A",
     "explanation": "C'est une metaphore : assimilation directe sans terme comparatif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment s'accorde l'adjectif de couleur dans elle a achete des jupes orange ?",
     "options": ["A) orange (invariable)", "B) oranges", "C) orangee", "D) orangees"],
     "answer": "A",
     "explanation": "Les adjectifs de couleur issus d'un nom (orange, marron, kaki) sont invariables.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Le mot navigant est l'adjectif verbal de naviguer. Il est :",
     "options": ["A) Variable", "B) Invariable", "C) Uniquement masculin", "D) Uniquement feminin"],
     "answer": "A",
     "explanation": "L'adjectif verbal navigant est variable : des personnels navigants.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est mal orthographié ?",
     "options": ["A) Chrysanthème", "B) Philantropie", "C) Rhythme", "D) Ephémère"],
     "answer": "B",
     "explanation": "Le mot correct est « philanthropie » avec un « h » après le « p ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le synonyme de « acrimonieux » ?",
     "options": ["A) Doux", "B) Acide", "C) Haineux", "D) Jovial"],
     "answer": "C",
     "explanation": "« Acrimonieux » signifie aigre, hargneux, plein d'animosité.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie le mot « adage » ?",
     "options": ["A) Un instrument de musique", "B) Un proverbe", "C) Un texte de loi", "D) Une formule mathématique"],
     "answer": "B",
     "explanation": "Un adage est un proverbe ou une maxime populaire transmettant une vérité pratique.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est l'antonyme de « loquace » ?",
     "options": ["A) Bavard", "B) Silencieux", "C) Éloquent", "D) Verbeux"],
     "answer": "B",
     "explanation": "« Loquace » signifie bavard ; son antonyme est « silencieux » ou « taciturne ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Dans quelle phrase le subjonctif est-il obligatoire ?",
     "options": ["A) Je pense qu'il viendra.", "B) Il faut qu'il vienne.", "C) Je sais qu'il est là.", "D) Je crois qu'il a raison."],
     "answer": "B",
     "explanation": "Après « il faut que », le subjonctif est obligatoire.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la forme correcte du conditionnel passé ?",
     "options": ["A) Il aurait mangé", "B) Il aura mangé", "C) Il avait mangé", "D) Il eut mangé"],
     "answer": "A",
     "explanation": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent + participe passé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Le mot « péremptoire » signifie :",
     "options": ["A) Hésitant", "B) Définitif et sans appel", "C) Bienveillant", "D) Ambigu"],
     "answer": "B",
     "explanation": "Un ton péremptoire est absolu, tranchant, qui n'admet pas de réplique.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel correct de « bal » ?",
     "options": ["A) bals", "B) baux", "C) bales", "D) bles"],
     "answer": "A",
     "explanation": "Le pluriel de « bal » est « bals » (exception aux mots en -al qui font -aux).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle figure de style consiste à atténuer une réalité pour en diminuer l'effet ?",
     "options": ["A) Hyperbole", "B) Euphémisme", "C) Métonymie", "D) Personnification"],
     "answer": "B",
     "explanation": "L'euphémisme adoucit une réalité dure (ex. : « il a disparu » pour « il est mort »).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la nature grammaticale de « vite » dans « il court vite » ?",
     "options": ["A) Adjectif", "B) Nom", "C) Adverbe", "D) Préposition"],
     "answer": "C",
     "explanation": "« Vite » est un adverbe qui modifie le verbe « court ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens du préfixe « bene- » ?",
     "options": ["A) Mauvais", "B) Deux", "C) Bien", "D) Avant"],
     "answer": "C",
     "explanation": "Le préfixe latin « bene- » signifie bien (bénéfice, bénévole).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la différence entre « davantage » et « d'avantage » ?",
     "options": ["A) Aucune différence", "B) Davantage = plus ; d'avantage = d'un avantage", "C) Davantage s'écrit sans accent", "D) D'avantage est toujours incorrect"],
     "answer": "B",
     "explanation": "« Davantage » = plus ; « d'avantage » = d'un avantage (bénéfice).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel verbe est défectif (n'existe qu'à certaines formes) ?",
     "options": ["A) Manger", "B) Partir", "C) Clore", "D) Faire"],
     "answer": "C",
     "explanation": "« Clore » est un verbe défectif : il manque de nombreuses formes conjuguées.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase utilise le passé simple correctement ?",
     "options": ["A) Il mangea une pomme.", "B) Il a mangea une pomme.", "C) Il mangeait une pomme.", "D) Il mangera une pomme."],
     "answer": "A",
     "explanation": "Le passé simple d'un verbe en -er se forme en ajoutant -a (3e personne singulier).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'homonyme de « cent » ?",
     "options": ["A) Saint", "B) Sont", "C) Sans", "D) Sang"],
     "answer": "D",
     "explanation": "« Cent », « sans », « sang », « s'en » et « sent » sont des homophones.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « à bon escient » ?",
     "options": ["A) Par hasard", "B) Avec mauvaise intention", "C) À propos et judicieusement", "D) Avec hésitation"],
     "answer": "C",
     "explanation": "Agir à bon escient, c'est agir de manière pertinente, avec une bonne connaissance de la situation.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le terme grammatical désignant « le » dans « le chien aboie » ?",
     "options": ["A) Adjectif démonstratif", "B) Pronom personnel", "C) Article défini", "D) Article indéfini"],
     "answer": "C",
     "explanation": "« Le » est un article défini qui détermine le nom « chien ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la forme correcte ?",
     "options": ["A) Quoiqu'il fasse beau.", "B) Quoique il fasse beau.", "C) Quoi qu'il fasse beau.", "D) Quoi que il fasse beau."],
     "answer": "A",
     "explanation": "Devant « il », « quoique » subit l'élision : « quoiqu'il ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Le mot « épistémologie » désigne :",
     "options": ["A) L'étude des épistaxis", "B) La théorie de la connaissance", "C) L'étude des épidémies", "D) La science des lettres"],
     "answer": "B",
     "explanation": "L'épistémologie est la branche philosophique qui étudie la nature et les limites de la connaissance.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Dans « cette robe est verte », le mot « verte » est :",
     "options": ["A) Un adjectif épithète", "B) Un adjectif attribut", "C) Un nom", "D) Un adverbe"],
     "answer": "B",
     "explanation": "« Verte » est attribut du sujet « robe » via le verbe d'état « est ».",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'antonyme de « turpitude » ?",
     "options": ["A) Probité", "B) Honte", "C) Bassesse", "D) Indignité"],
     "answer": "A",
     "explanation": "La turpitude désigne la bassesse morale ; son antonyme est la probité (honnêteté).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la règle d'accord du participe passé employé avec « avoir » ?",
     "options": ["A) Il s'accorde toujours avec le sujet", "B) Il s'accorde avec le COD placé avant", "C) Il reste invariable", "D) Il s'accorde avec le COI"],
     "answer": "B",
     "explanation": "Le participe passé avec « avoir » s'accorde avec le COD si celui-ci précède le verbe.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens de « hégémonie » ?",
     "options": ["A) Domination prépondérante", "B) Égalité des nations", "C) Faiblesse politique", "D) Alliance militaire"],
     "answer": "A",
     "explanation": "L'hégémonie désigne la domination, la suprématie d'un État ou groupe sur d'autres.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la figure de style dans « ses yeux sont deux étoiles » ?",
     "options": ["A) Comparaison", "B) Métaphore", "C) Allitération", "D) Antithèse"],
     "answer": "B",
     "explanation": "La métaphore exprime une ressemblance sans outil comparatif (sans « comme »).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le genre du mot « amalgame » ?",
     "options": ["A) Féminin", "B) Masculin", "C) Les deux selon le contexte", "D) Neutre"],
     "answer": "B",
     "explanation": "« Amalgame » est un nom masculin : un amalgame.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « circonstancié » ?",
     "options": ["A) Vague et imprécis", "B) Détaillé et accompagné de précisions", "C) Rapide et bref", "D) Oral et non écrit"],
     "answer": "B",
     "explanation": "Un rapport circonstancié contient tous les détails et précisions nécessaires.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est un paronyme de « éruption » ?",
     "options": ["A) Irruption", "B) Corruption", "C) Absorption", "D) Interruption"],
     "answer": "A",
     "explanation": "« Éruption » (volcanique) et « irruption » (entrée brusque) sont des paronymes souvent confondus.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la règle d'accord dans « les fenêtres que j'ai ouvertes » ?",
     "options": ["A) Pas d'accord car COD après le verbe", "B) Accord avec 'fenêtres' car COD placé avant", "C) Accord avec le sujet 'je'", "D) Pas d'accord avec 'avoir'"],
     "answer": "B",
     "explanation": "« Que » reprend « fenêtres » (COD) placé avant le verbe avoir → accord au féminin pluriel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens de l'expression « au pied levé » ?",
     "options": ["A) Avec beaucoup de préparation", "B) Sans préparation, immédiatement", "C) En marchant", "D) Avec prudence"],
     "answer": "B",
     "explanation": "Agir au pied levé, c'est agir sans préparation préalable, dans l'urgence.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces formes verbales est au plus-que-parfait ?",
     "options": ["A) Il avait mangé", "B) Il a mangé", "C) Il mangea", "D) Il mangerait"],
     "answer": "A",
     "explanation": "Le plus-que-parfait se forme avec l'imparfait de l'auxiliaire + participe passé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens du suffixe « -phile » ?",
     "options": ["A) Qui craint", "B) Qui aime", "C) Qui mange", "D) Qui gouverne"],
     "answer": "B",
     "explanation": "Le suffixe « -phile » signifie qui aime (bibliophile = qui aime les livres).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la phrase correcte ?",
     "options": ["A) Malgré que j'aie faim, je ne mange pas.", "B) Bien que j'aie faim, je ne mange pas.", "C) Malgré j'ai faim, je ne mange pas.", "D) Encore que j'ai faim, je ne mange pas."],
     "answer": "B",
     "explanation": "« Bien que » est correct et se construit avec le subjonctif. « Malgré que » est critiqué par les puristes.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le mot générique pour désigner les figures rhétoriques liées au son ?",
     "options": ["A) Tropes", "B) Figures sonores", "C) Métaplasmes", "D) Syntaxèmes"],
     "answer": "C",
     "explanation": "Les métaplasmes (allitération, assonance...) sont les figures qui jouent sur les sons.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que désigne le terme « polémique » dans son sens originel ?",
     "options": ["A) Une guerre verbale, un débat houleux", "B) Une démonstration mathématique", "C) Un traité diplomatique", "D) Une cérémonie officielle"],
     "answer": "A",
     "explanation": "Du grec « polemikos » (guerre), une polémique est un débat vif et souvent agressif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Dans quelle phrase le pronom « on » peut-il remplacer « nous » ?",
     "options": ["A) On a fini le travail (= nous avons fini).", "B) On a du pain (= il y a du pain).", "C) Que dit-on de lui ?", "D) On frappe à la porte."],
     "answer": "A",
     "explanation": "En français courant, « on » peut remplacer « nous » comme sujet de la phrase.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le mode verbal utilisé pour donner un ordre direct ?",
     "options": ["A) Indicatif", "B) Subjonctif", "C) Impératif", "D) Infinitif"],
     "answer": "C",
     "explanation": "L'impératif exprime un ordre, une demande ou un conseil direct.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens de « nonobstant » ?",
     "options": ["A) Cependant, malgré", "B) De plus, en outre", "C) Autrement dit", "D) C'est pourquoi"],
     "answer": "A",
     "explanation": "« Nonobstant » signifie malgré, en dépit de (terme juridique fréquent).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie « exergue » ?",
     "options": ["A) Un exercice d'écriture", "B) Une courte citation placée en tête d'un ouvrage", "C) Un résumé de texte", "D) Une annexe juridique"],
     "answer": "B",
     "explanation": "Mettre en exergue = mettre en évidence ; une citation en exergue introduit un texte.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la différence entre « apporter » et « amener » ?",
     "options": ["A) Aucune différence", "B) Apporter concerne les choses ; amener concerne les personnes ou animaux", "C) Amener s'utilise pour aller vers ; apporter pour venir vers", "D) Amener est plus formel"],
     "answer": "B",
     "explanation": "On apporte un objet, on amène une personne ou un animal.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens littéral de « laconique » ?",
     "options": ["A) Venant de Laconie (Sparte) : bref et concis", "B) Ennuyeux et long", "C) Émouvant", "D) Obscur et ambigu"],
     "answer": "A",
     "explanation": "Les Laconiens (Spartiates) étaient réputés pour leur discours bref ; laconique = bref et concis.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la fonction grammaticale de « demain » dans « il viendra demain » ?",
     "options": ["A) Sujet", "B) COD", "C) Complément circonstanciel de temps", "D) Attribut"],
     "answer": "C",
     "explanation": "« Demain » indique quand aura lieu l'action : c'est un CC de temps.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie le verbe « circonscrire » ?",
     "options": ["A) Développer, étendre", "B) Limiter, délimiter avec précision", "C) Critiquer sévèrement", "D) Résumer"],
     "answer": "B",
     "explanation": "Circonscrire un incendie = limiter sa propagation ; circonscrire un sujet = en définir les limites.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle figure de style consiste à répéter un mot ou groupe en début de plusieurs propositions ?",
     "options": ["A) Épiphore", "B) Anaphore", "C) Chiasme", "D) Syllepse"],
     "answer": "B",
     "explanation": "L'anaphore est la répétition d'un mot ou groupe en tête de propositions successives.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que désigne « l'ellipse » en stylistique ?",
     "options": ["A) Une figure géométrique", "B) Une omission volontaire d'éléments grammaticaux sans ambiguïté", "C) Une répétition de sons", "D) Une exagération"],
     "answer": "B",
     "explanation": "L'ellipse est l'omission d'un ou plusieurs mots logiquement attendus mais sous-entendus.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le sens du mot « acuité » ?",
     "options": ["A) Manque de clarté", "B) Finesse, précision d'un sens ou d'une faculté", "C) Lenteur de réaction", "D) Générosité"],
     "answer": "B",
     "explanation": "L'acuité visuelle, l'acuité intellectuelle désignent la finesse et la précision d'une faculté.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Dans « il se souvient de son enfance », le pronom « se » est :",
     "options": ["A) Pronom COD", "B) Pronom COI", "C) Pronom réfléchi sans fonction propre", "D) Pronom sujet"],
     "answer": "C",
     "explanation": "Dans les verbes essentiellement pronominaux, le « se » fait partie du verbe sans fonction propre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez la phrase correcte :",
     "options": ["A) Les pommes que j'ai acheté sont bonnes.", "B) Les pommes que j'ai achetées sont bonnes.", "C) Les pommes que j'ai achetés sont bonnes.", "D) Les pommes que j'ai acheter sont bonnes."],
     "answer": "B",
     "explanation": "Le participe passé conjugué avec avoir s'accorde avec le COD s'il est placé avant le verbe.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Quels que ___ vos problèmes, vous devez avancer.'",
     "options": ["A) soit", "B) sois", "C) soient", "D) soyent"],
     "answer": "C",
     "explanation": "'Soient' s'accorde avec le sujet 'vos problèmes'.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces phrases contient une faute ?",
     "options": ["A) Elle s'est lavé les mains.", "B) Elle s'est lavée.", "C) Ils se sont parlés.", "D) Elles se sont souri."],
     "answer": "C",
     "explanation": "'Parler' est transitif indirect (parler à). Il n'y a pas d'accord du participe passé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Je ne pense pas qu'il ___ venir demain.'",
     "options": ["A) peut", "B) puisse", "C) pourras", "D) pourra"],
     "answer": "B",
     "explanation": "La forme négative de 'penser que' entraîne généralement le subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel de 'un arc-en-ciel' ?",
     "options": ["A) des arcs-en-ciels", "B) des arc-en-ciel", "C) des arcs-en-ciel", "D) des arc-en-ciels"],
     "answer": "C",
     "explanation": "Seul le premier nom s'accorde, 'en ciel' est invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Elles se sont ___ compte de leur erreur.'",
     "options": ["A) rendu", "B) rendue", "C) rendus", "D) rendues"],
     "answer": "A",
     "explanation": "L'expression 'se rendre compte' est invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Parmi ces phrases, laquelle emploie correctement le verbe 'pallier' ?",
     "options": ["A) Il faut pallier à ce manque.", "B) Il faut pallier ce manque.", "C) Il faut y pallier à.", "D) Il faut pallier contre ce manque."],
     "answer": "B",
     "explanation": "'Pallier' est un verbe transitif direct, on pallie quelque chose, pas 'à' quelque chose.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Même s'il ___ raison, je ne l'écouterais pas.'",
     "options": ["A) a", "B) ait", "C) avait", "D) aurait"],
     "answer": "C",
     "explanation": "Après 'même si', on emploie l'indicatif. L'imparfait ('avait') s'accorde avec le conditionnel ('écouterais').",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la conjugaison correcte au passé simple (3e personne du singulier) du verbe 'coudre' ?",
     "options": ["A) il cousit", "B) il cousa", "C) il coudit", "D) il couda"],
     "answer": "A",
     "explanation": "Le verbe coudre fait 'il cousit' au passé simple.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Il faut que nous ___ prêts à 8h.'",
     "options": ["A) sommes", "B) soyons", "C) serions", "D) soions"],
     "answer": "B",
     "explanation": "'Il faut que' est suivi du subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez la faute d'accord :",
     "options": ["A) Des demi-heures", "B) Une heure et demi", "C) Une demi-heure", "D) Deux heures et demie"],
     "answer": "B",
     "explanation": "On écrit 'une heure et demie' (demie s'accorde en genre avec heure).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel de 'un laissez-passer' ?",
     "options": ["A) des laissez-passers", "B) des laissez-passer", "C) des laissés-passer", "D) des laisses-passers"],
     "answer": "B",
     "explanation": "'Laissez-passer' est invariable car composé d'un verbe à l'impératif et d'un infinitif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Je préfère qu'elle le ___ demain.'",
     "options": ["A) fait", "B) fera", "C) fasse", "D) fait"],
     "answer": "C",
     "explanation": "'Préférer que' appelle le subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces formes verbales est correcte ?",
     "options": ["A) Je résou", "B) Je résouds", "C) Je résous", "D) Je résout"],
     "answer": "C",
     "explanation": "Au présent de l'indicatif, le verbe résoudre fait 'je résous'.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Elle a l'air ___.'",
     "options": ["A) sérieux", "B) sérieuse", "C) sérieusement", "D) sérieuxement"],
     "answer": "B",
     "explanation": "Avec un sujet animé féminin, l'adjectif s'accorde avec le sujet (Elle a l'air sérieuse = elle semble sérieuse).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Il m'a dit qu'il ___ là demain.'",
     "options": ["A) sera", "B) serait", "C) est", "D) soit"],
     "answer": "B",
     "explanation": "Concordance des temps : verbe de la principale au passé (a dit), l'action future dans la subordonnée se met au conditionnel (futur dans le passé).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le participe présent du verbe 'savoir' ?",
     "options": ["A) savant", "B) sachant", "C) saveur", "D) savantement"],
     "answer": "B",
     "explanation": "Le participe présent de 'savoir' est 'sachant'.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Des personnes ___ intentionnées.'",
     "options": ["A) mal", "B) mals", "C) male", "D) males"],
     "answer": "A",
     "explanation": "L'adverbe 'mal' est invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : '___ intelligents qu'ils soient.'",
     "options": ["A) Tout", "B) Tous", "C) Toute", "D) Toutes"],
     "answer": "A",
     "explanation": "'Tout' devant un adjectif masculin pluriel commençant par une voyelle est adverbe et invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Les enfants se sont ___ lavés.'",
     "options": ["A) tout", "B) tous", "C) toute", "D) toutes"],
     "answer": "B",
     "explanation": "Ici 'tous' est un pronom mis en apposition ou adverbe d'accord, 'tous' prend un 's' car c'est le pronom (tous les enfants).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase est mal ponctuée ?",
     "options": ["A) Marie, viens ici !", "B) Je crois, qu'il va pleuvoir.", "C) Cependant, il reste silencieux.", "D) Il est fatigué, car il a beaucoup travaillé."],
     "answer": "B",
     "explanation": "On ne met pas de virgule entre le verbe et la complétive introduite par 'que'.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Conjugaison : 'Il ___ fallu que je m'en aille.'",
     "options": ["A) eu", "B) eut", "C) a eu", "D) eût"],
     "answer": "D",
     "explanation": "Subjonctif plus-que-parfait (souvent précédé du conditionnel ou imparfait, mais ici 'Il eût fallu' est le conditionnel passé 2e forme).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Elle s'est ___ coupée au doigt.'",
     "options": ["A) fait", "B) faite", "C) faites", "D) fais"],
     "answer": "A",
     "explanation": "Le participe passé 'fait' suivi d'un infinitif est toujours invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot est invariable ?",
     "options": ["A) Pourpre", "B) Rose", "C) Orange", "D) Mauve"],
     "answer": "C",
     "explanation": "Les adjectifs de couleur dérivés de noms (fruit, fleur) sont invariables, comme 'orange' et 'marron'.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'C'est l'un des meilleurs livres que j'___ lu.'",
     "options": ["A) ai", "B) aie", "C) ait", "D) a"],
     "answer": "B",
     "explanation": "Le superlatif ('le meilleur') entraîne souvent l'utilisation du subjonctif dans la subordonnée relative ('aie').",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Trouvez l'erreur dans cette phrase :",
     "options": ["A) Je vais au bureau.", "B) Je vais en vélo.", "C) Je vais à bicyclette.", "D) Je vais à cheval."],
     "answer": "B",
     "explanation": "La règle traditionnelle exige la préposition 'à' pour les moyens de transport que l'on enfourche ('à vélo', 'à moto'). 'En' est pour ceux dans lesquels on entre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Les jours se sont ___.'",
     "options": ["A) succédé", "B) succédés", "C) succédées", "D) succéder"],
     "answer": "A",
     "explanation": "Succéder est transitif indirect (succéder à). Le participe passé ne s'accorde pas.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Elle a chanté de ___ chansons.'",
     "options": ["A) belle", "B) belles", "C) beau", "D) beaux"],
     "answer": "B",
     "explanation": "'De' remplace 'des' devant un adjectif pluriel antéposé ('de belles chansons').",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez le mot correctement écrit :",
     "options": ["A) cauchemard", "B) cauchemar", "C) cauchemmard", "D) cochemar"],
     "answer": "B",
     "explanation": "'Cauchemar' ne prend pas de 'd' à la fin.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'C'est la ville ___ j'ai grandi.'",
     "options": ["A) qui", "B) que", "C) où", "D) dont"],
     "answer": "C",
     "explanation": "Le pronom relatif 'où' indique le lieu.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le participe passé de 'moudre' ?",
     "options": ["A) moudit", "B) moulé", "C) moulu", "D) moudé"],
     "answer": "C",
     "explanation": "Le verbe moudre fait 'moulu' au participe passé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Il faut s'attendre à ce qu'il ___ demain.'",
     "options": ["A) vient", "B) viendra", "C) vienne", "D) viendrait"],
     "answer": "C",
     "explanation": "'À ce que' est suivi du subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord : 'Elles se sont ___ des lettres.'",
     "options": ["A) envoyé", "B) envoyés", "C) envoyée", "D) envoyées"],
     "answer": "A",
     "explanation": "Elles ont envoyé quoi ? 'des lettres' (COD placé après le verbe). À qui ? 'se' (COI). Donc pas d'accord.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : '___ les efforts qu'il a fournis, il a échoué.'",
     "options": ["A) Malgré de", "B) En dépit", "C) Malgré", "D) Quoique"],
     "answer": "C",
     "explanation": "'Malgré' s'emploie sans préposition.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la bonne conjugaison du verbe 'bouillir' au présent ?",
     "options": ["A) je bouille", "B) je bous", "C) je bouillis", "D) je bouil"],
     "answer": "B",
     "explanation": "Au présent de l'indicatif : je bous, tu bous, il bout.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces phrases contient un pléonasme ?",
     "options": ["A) Il monte en haut.", "B) Il est parti loin.", "C) Il parle fort.", "D) Il marche vite."],
     "answer": "A",
     "explanation": "'Monter en haut' est un pléonasme, car monter implique déjà une élévation.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Je doute qu'il ___ la vérité.'",
     "options": ["A) sait", "B) saura", "C) sache", "D) savais"],
     "answer": "C",
     "explanation": "Le verbe douter demande le subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Il lui a donné les livres qu'il avait ___.'",
     "options": ["A) acheté", "B) achetés", "C) achetée", "D) achetées"],
     "answer": "B",
     "explanation": "Accord du participe avec 'qu'' (mis pour 'livres', masculin pluriel).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Ces femmes se sont ___ compte de la situation.'",
     "options": ["A) rendues", "B) rendu", "C) rendus", "D) rendue"],
     "answer": "B",
     "explanation": "L'expression 'se rendre compte' est toujours invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel de 'un chef-d'œuvre' ?",
     "options": ["A) des chefs-d'œuvre", "B) des chef-d'œuvres", "C) des chefs-d'œuvres", "D) des chef-d'œuvre"],
     "answer": "A",
     "explanation": "Seul 'chef' prend le pluriel, 'd'œuvre' étant un complément du nom.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Il faut qu'ils ___ leurs devoirs.'",
     "options": ["A) font", "B) feront", "C) fasse", "D) fassent"],
     "answer": "D",
     "explanation": "Subjonctif présent, 3e personne du pluriel du verbe faire.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Je ne crois pas qu'elle ___ venir.'",
     "options": ["A) puisse", "B) peut", "C) pourra", "D) pût"],
     "answer": "A",
     "explanation": "'Croire' à la forme négative est suivi du subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez le mot invariable :",
     "options": ["A) demi", "B) demi-heure", "C) debout", "D) grand-mère"],
     "answer": "C",
     "explanation": "L'adverbe 'debout' est invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord : 'Elles se sont ___ les mains.'",
     "options": ["A) lavé", "B) lavées", "C) lavés", "D) lavée"],
     "answer": "A",
     "explanation": "Le COD 'les mains' est placé après le verbe pronominal, donc pas d'accord.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Elles se sont ___ les mains.",
     "options": ["A) lavé", "B) lavés", "C) lavées", "D) lavée"],
     "answer": "A",
     "explanation": "COD (les mains) postposé, donc invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Les musiciens que j'ai ___ jouer.",
     "options": ["A) entendu", "B) entendus", "C) entendue", "D) entendues"],
     "answer": "B",
     "explanation": "Le COD fait l'action de jouer, accord.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Les chansons que j'ai ___ chanter.",
     "options": ["A) entendu", "B) entendus", "C) entendue", "D) entendues"],
     "answer": "A",
     "explanation": "Le COD subit l'action, invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Ils se sont ___.",
     "options": ["A) succédés", "B) succédé", "C) succédées", "D) succédée"],
     "answer": "B",
     "explanation": "Transitif indirect (succéder à), invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des robes ___.",
     "options": ["A) bleu clair", "B) bleues claires", "C) bleues clair", "D) bleu claires"],
     "answer": "A",
     "explanation": "Adjectifs de couleur composés invariables.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des chaussures ___.",
     "options": ["A) marrons", "B) marrons foncé", "C) marron", "D) marronnes"],
     "answer": "C",
     "explanation": "Nom employé comme adjectif, invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "___ que soient ses excuses.",
     "options": ["A) Quel", "B) Quelles", "C) Quelque", "D) Quelques"],
     "answer": "B",
     "explanation": "Quel que s'accorde avec le sujet postposé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des efforts, ___ intenses qu'ils soient.",
     "options": ["A) quelque", "B) quelques", "C) quel que", "D) quels que"],
     "answer": "A",
     "explanation": "Quelque adverbe devant adjectif = invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des ___.",
     "options": ["A) chou-fleur", "B) chous-fleurs", "C) choux-fleur", "D) choux-fleurs"],
     "answer": "D",
     "explanation": "Nom + Nom = pluriel pour les deux.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "___ ses remarques.",
     "options": ["A) Nonobstant", "B) Non obstant", "C) Non-obstant", "D) N'obstant"],
     "answer": "A",
     "explanation": "Préposition invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Les années se sont ___.",
     "options": ["A) écoulées", "B) écoulé", "C) écoulés", "D) écoulée"],
     "answer": "A",
     "explanation": "Verbe essentiellement pronominal, accord sujet.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Ils se sont ___ compte de l'erreur.",
     "options": ["A) rendus", "B) rendues", "C) rendu", "D) rendue"],
     "answer": "C",
     "explanation": "COD (compte) postposé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "La robe qu'elle s'est ___.",
     "options": ["A) acheté", "B) achetée", "C) achetés", "D) achetées"],
     "answer": "B",
     "explanation": "COD (que = la robe) antéposé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "La chaleur qu'il a ___.",
     "options": ["A) fait", "B) faite", "C) faits", "D) faites"],
     "answer": "A",
     "explanation": "Faire impersonnel toujours invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Les efforts qu'il a ___.",
     "options": ["A) fallu", "B) fallus", "C) fallue", "D) fallues"],
     "answer": "A",
     "explanation": "Falloir impersonnel invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Elles sont ___ surprises.",
     "options": ["A) tout", "B) toute", "C) toutes", "D) tous"],
     "answer": "C",
     "explanation": "Tout s'accorde devant adj féminin commençant par consonne.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Elle était ___ étonnée.",
     "options": ["A) tout", "B) toute", "C) toutes", "D) tous"],
     "answer": "A",
     "explanation": "Tout devant adj féminin commençant par voyelle = invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des enfants ___ à partir.",
     "options": ["A) près", "B) prêts", "C) prêt", "D) prêtent"],
     "answer": "B",
     "explanation": "Prêt à s'accorde avec le sujet.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il habite ___ de l'école.",
     "options": ["A) prêts", "B) près", "C) prêt", "D) prête"],
     "answer": "B",
     "explanation": "Près de = invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il a agi ___.",
     "options": ["A) sciemment", "B) siemment", "C) csiemment", "D) sciement"],
     "answer": "A",
     "explanation": "Dérivé de scient, deux m.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il l'a demandé ___.",
     "options": ["A) instamment", "B) instament", "C) instantamment", "D) instamant"],
     "answer": "A",
     "explanation": "Adverbe de instant (faux, de instamment) -amment.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il faut qu'il ___.",
     "options": ["A) conclu", "B) conclue", "C) conclus", "D) conclut"],
     "answer": "B",
     "explanation": "Subjonctif de conclure.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Bien qu'il ___ malade.",
     "options": ["A) est", "B) était", "C) soit", "D) fut"],
     "answer": "C",
     "explanation": "Bien que + subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Après qu'il ___ parti.",
     "options": ["A) soit", "B) est", "C) fût", "D) serait"],
     "answer": "B",
     "explanation": "Après que + indicatif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Le document ___ je parlais.",
     "options": ["A) que", "B) dont", "C) qui", "D) auquel"],
     "answer": "B",
     "explanation": "Parler de -> dont.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Le collègue ___ je me suis adressé.",
     "options": ["A) au quel", "B) à qui", "C) de qui", "D) dont"],
     "answer": "B",
     "explanation": "S'adresser à une personne -> à qui.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il a ___ faim.",
     "options": ["A) grand", "B) grande", "C) grands", "D) grandement"],
     "answer": "A",
     "explanation": "Expression figée, invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Une chaleur ___.",
     "options": ["A) fatigante", "B) fatiguante", "C) fatigantes", "D) fatiguantes"],
     "answer": "A",
     "explanation": "Adjectif verbal sans u.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des arguments ___.",
     "options": ["A) convainquants", "B) convaincants", "C) convainquant", "D) convaincant"],
     "answer": "B",
     "explanation": "Adjectif verbal avec c.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il s'est coupé les cheveux ___.",
     "options": ["A) court", "B) courts", "C) cour", "D) courre"],
     "answer": "A",
     "explanation": "Adverbe invariable dans cette locution.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "C'est la ___ fois.",
     "options": ["A) vingt-et-unième", "B) vingt et unième", "C) vingtième et un", "D) vingt-unième"],
     "answer": "A",
     "explanation": "Traits d'union pour numéraux composés.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Elles se sont ___ des fleurs.",
     "options": ["A) lancées", "B) lancés", "C) lancé", "D) lancée"],
     "answer": "C",
     "explanation": "COD (fleurs) postposé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Les pompiers, ___ preuve de courage.",
     "options": ["A) faisant", "B) faisants", "C) faisantes", "D) fait"],
     "answer": "A",
     "explanation": "Participe présent invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quoi que tu ___.",
     "options": ["A) fait", "B) fais", "C) fasse", "D) fasses"],
     "answer": "D",
     "explanation": "Quoi que + subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il l'a fait ___.",
     "options": ["A) exprès", "B) express", "C) expresse", "D) expressément"],
     "answer": "A",
     "explanation": "Adverbe invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Les documents ci-___.",
     "options": ["A) joint", "B) joints", "C) jointe", "D) jointes"],
     "answer": "B",
     "explanation": "Placé après le nom, s'accorde.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Ci-___, les documents.",
     "options": ["A) joint", "B) joints", "C) jointe", "D) jointes"],
     "answer": "A",
     "explanation": "En tête de phrase, invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "De ___ en mieux.",
     "options": ["A) mieu", "B) mieux", "C) meilleur", "D) meilleurs"],
     "answer": "B",
     "explanation": "Invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il a fui ___.",
     "options": ["A) nuitamment", "B) nuitement", "C) nuitament", "D) nuitemment"],
     "answer": "A",
     "explanation": "De nuit, 2 m.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des enfants ___-nés.",
     "options": ["A) nouveau", "B) nouveaux", "C) nouvelle", "D) nouvelles"],
     "answer": "B",
     "explanation": "Nouveau s'accorde avec nés.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Des fleurs ___-écloses.",
     "options": ["A) fraiches", "B) fraîche", "C) fraîches", "D) fraichement"],
     "answer": "C",
     "explanation": "Fraîches s'accorde en genre et nombre avec écloses.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "La femme que j'ai ___ chanter.",
     "options": ["A) entendu", "B) entendue", "C) entendus", "D) entendues"],
     "answer": "B",
     "explanation": "La femme fait l'action de chanter, s'accorde.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Ils ont acheté de ___ beaux fruits.",
     "options": ["A) très", "B) de", "C) de très", "D) bien"],
     "answer": "C",
     "explanation": "Des devient de devant un adjectif pluriel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "C'est l'une des filles qui ___ venues.",
     "options": ["A) est", "B) sont", "C) ont", "D) a"],
     "answer": "B",
     "explanation": "L'antécédent de qui est filles, donc pluriel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Il y a un grand nombre d'élèves qui ___.",
     "options": ["A) participe", "B) participent", "C) participés", "D) participé"],
     "answer": "B",
     "explanation": "L'accord se fait avec le complément du collectif (élèves).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Une foule de curieux ___.",
     "options": ["A) approchait", "B) approchaient", "C) Les deux", "D) Aucun"],
     "answer": "C",
     "explanation": "Accord possible avec le collectif ou le complément.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "La plupart ___ d'accord.",
     "options": ["A) est", "B) sont", "C) était", "D) sera"],
     "answer": "B",
     "explanation": "La plupart impose l'accord au pluriel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Choisissez la forme correcte :",
     "options": ["A) Ils se sont dit la vérité.", "B) Ils se sont dits la vérité.", "C) Ils se sont dite la vérité.", "D) Ils se sont dis la vérité."],
     "answer": "A",
     "explanation": "'Se' est COI (ils ont dit la vérité à eux-mêmes). 'la vérité', COD, est placé après, donc invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Trouvez la phrase correcte :",
     "options": ["A) Quoiqu'il soit riche, il est avare.", "B) Quoi qu'il soit riche, il est avare.", "C) Quoi qu'il est riche, il est avare.", "D) Quoiqu'il est riche, il est avare."],
     "answer": "A",
     "explanation": "'Quoique' en un seul mot signifie 'bien que' et appelle le subjonctif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces phrases contient une erreur d'accord ?",
     "options": ["A) Les lettres qu'ils se sont envoyées.", "B) Elles se sont rendu compte de leur erreur.", "C) Les années se sont succédées rapidement.", "D) Ils se sont plu immédiatement."],
     "answer": "C",
     "explanation": "Le verbe 'se succéder' n'a jamais de COD (succéder à), le participe passé est donc toujours invariable : se sont succédé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord des adjectifs de couleur. Lequel est correct ?",
     "options": ["A) Des robes bleues claires", "B) Des robes bleu clair", "C) Des robes bleues clair", "D) Des robes bleu claires"],
     "answer": "B",
     "explanation": "Les adjectifs de couleur composés sont invariables.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment écrit-on le nombre 300 en toutes lettres lorsqu'il n'est suivi d'aucun autre chiffre ?",
     "options": ["A) Trois cent", "B) Trois-cent", "C) Trois cents", "D) Trois-cents"],
     "answer": "C",
     "explanation": "Vingt et cent prennent la marque du pluriel quand ils sont multipliés par un nombre et qu'ils terminent l'adjectif numéral.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment écrit-on 80 en toutes lettres ?",
     "options": ["A) Quatre-vingt", "B) Quatre-vingts", "C) Quatre vingts", "D) Quatre vingt"],
     "answer": "B",
     "explanation": "'Vingts' prend un 's' car il est multiplié par quatre et n'est suivi d'aucun autre nombre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel du mot composé 'un compte-gouttes' ?",
     "options": ["A) Des comptes-gouttes", "B) Des compte-gouttes", "C) Des comptes-goutte", "D) Des compte-goutte"],
     "answer": "B",
     "explanation": "'compte' est un verbe (invariable), 'gouttes' prend le pluriel (qui est d'ailleurs déjà présent au singulier).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel de 'chef-d'œuvre' ?",
     "options": ["A) Chefs-d'œuvre", "B) Chefs-d'œuvres", "C) Chef-d'œuvres", "D) Chef-d'œuvre"],
     "answer": "A",
     "explanation": "Seul le premier nom prend la marque du pluriel dans un nom composé d'un nom et de son complément prépositionnel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez la phrase sans erreur :",
     "options": ["A) Elles se sont arrogées des droits.", "B) Elles se sont arrogé des droits.", "C) Elles se sont arrogé de droits.", "D) Elles se sont arrogées de droits."],
     "answer": "B",
     "explanation": "Le verbe s'arroger (arroger à soi). 'des droits' est COD placé après, donc invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces formes est correcte ?",
     "options": ["A) Des arc-en-ciels", "B) Des arcs-en-ciels", "C) Des arcs-en-ciel", "D) Des arc-en-ciel"],
     "answer": "B",
     "explanation": "Nom + préposition + nom : seul le premier nom varie. Les arcs qui sont dans le ciel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Choisissez la bonne graphie :",
     "options": ["A) Il faut qu'il résoud le problème.", "B) Il faut qu'il résolve le problème.", "C) Il faut qu'il résout le problème.", "D) Il faut qu'il résolusse le problème."],
     "answer": "B",
     "explanation": "Subjonctif présent du verbe résoudre.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le participe passé de 's'enfuir' à la 3ème personne du pluriel au féminin ?",
     "options": ["A) se sont enfuies", "B) se sont enfui", "C) se sont enfuit", "D) se sont enfuis"],
     "answer": "A",
     "explanation": "Verbe essentiellement pronominal, s'accorde avec le sujet.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Sélectionnez l'orthographe correcte pour 300 000 :",
     "options": ["A) Trois cents mille", "B) Trois-cents mille", "C) Trois cent mille", "D) Trois-cent mille"],
     "answer": "C",
     "explanation": "Cent est invariable s'il est suivi d'un autre nombre (ici, mille, qui est un adjectif numéral invariable).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'accord correct ?",
     "options": ["A) Les pommes que j'ai vu tomber.", "B) Les pommes que j'ai vues tomber.", "C) Les pommes que j'ai vue tomber.", "D) Les pommes que j'ai vus tomber."],
     "answer": "B",
     "explanation": "Le COD 'que' (mis pour pommes) précède, et les pommes font l'action de tomber (sujet de l'infinitif), l'accord se fait.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord avec laisser :",
     "options": ["A) Les arbres que j'ai laissé abattre.", "B) Les arbres que j'ai laissés abattre.", "C) Les arbres que j'ai laissées abattre.", "D) Les arbres que j'ai laissé abattus."],
     "answer": "A",
     "explanation": "Depuis la réforme de 1990, 'fait' et 'laissé' suivis d'un infinitif sont invariables.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces propositions est juste ?",
     "options": ["A) Ils se sont parler pendant des heures.", "B) Ils se sont parlés pendant des heures.", "C) Ils se sont parlé pendant des heures.", "D) Ils se sont parlées pendant des heures."],
     "answer": "C",
     "explanation": "Se parler à soi-même ou à l'un l'autre (COI). Donc invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Pluriel des mots composés : 'nouveau-né'.",
     "options": ["A) nouveaux-né", "B) nouveau-nés", "C) nouveaux-nés", "D) nouveau-nées"],
     "answer": "C",
     "explanation": "Les deux éléments (adjectif + participe passé/adjectif) s'accordent au pluriel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces orthographes est correcte concernant le verbe asseoir ?",
     "options": ["A) Je m'assoies", "B) Je m'assied", "C) Je m'assois", "D) Je m'assié"],
     "answer": "C",
     "explanation": "Les deux formes 'je m'assois' et 'je m'assieds' sont valables, mais 'je m'assied' sans 's' est fautif.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez l'erreur :",
     "options": ["A) Elle a l'air bête.", "B) Elle a l'air bêtes.", "C) Elle a l'air gentille.", "D) Ils ont l'air fatigués."],
     "answer": "B",
     "explanation": "L'adjectif s'accorde avec le sujet (Elle) ou avec 'air', mais ne prend pas de 's' si le sujet est singulier.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez la phrase : Il travaille d'arrache-...",
     "options": ["A) pieds", "B) pied", "C) pié", "D) piéd"],
     "answer": "A",
     "explanation": "La locution est 'd'arrache-pied' (invariable).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Trouvez la phrase correcte avec 'quelque' :",
     "options": ["A) Quelque soient vos raisons.", "B) Quelles que soient vos raisons.", "C) Quelques que soient vos raisons.", "D) Quels que soient vos raisons."],
     "answer": "B",
     "explanation": "'Quel que' s'écrit en deux mots devant le verbe être et s'accorde avec le sujet 'raisons' (féminin pluriel).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Orthographe des couleurs :",
     "options": ["A) Des yeux marrons", "B) Des yeux marron", "C) Des yeux marront", "D) Des yeux marrones"],
     "answer": "A",
     "explanation": "Marron vient d'un nom de fruit et est donc invariable en tant qu'adjectif de couleur.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord avec 'avoir' :",
     "options": ["A) La chanson que j'ai entendu chanter.", "B) La chanson que j'ai entendue chanter.", "C) La chanson que j'ai entendue chantée.", "D) La chanson que j'ai entendu chantée."],
     "answer": "A",
     "explanation": "Le sujet de l'infinitif n'est pas la chanson (la chanson ne chante pas), donc le participe 'entendu' reste invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Sélectionnez la phrase contenant une erreur :",
     "options": ["A) Même les plus forts tombent.", "B) Ils sont arrivés eux-même.", "C) Nous l'avons fait nous-mêmes.", "D) Mêmes ses amis l'ont abandonné."],
     "answer": "D",
     "explanation": "'Même' placé avant un nom/pronom et signifiant 'y compris' est un adverbe invariable. On écrit 'Même ses amis'.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord de 'tout' :",
     "options": ["A) Elle est tout étonnée.", "B) Elle est toute étonnée.", "C) Elle est toutes étonnée.", "D) Elle est touts étonnée."],
     "answer": "A",
     "explanation": "'Tout' adverbe ne s'accorde devant un adjectif féminin que si celui-ci commence par une consonne ou un h aspiré. 'étonnée' commence par une voyelle.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Cochez la bonne forme :",
     "options": ["A) Des fleurs fraîches écloses", "B) Des fleurs fraîchement écloses", "C) Des fleurs fraîches éclose", "D) Des fleurs fraîche écloses"],
     "answer": "A",
     "explanation": "'Frais' employé adverbialement s'accorde exceptionnellement avec l'adjectif qui suit.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase est correcte ?",
     "options": ["A) C'est nous qui avons décidé.", "B) C'est nous qui ont décidé.", "C) C'est nous qui a décidé.", "D) C'est nous qui avez décidé."],
     "answer": "A",
     "explanation": "Le verbe s'accorde avec l'antécédent du pronom relatif 'qui', soit 'nous' (1ère personne du pluriel).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel verbe est au conditionnel passé ?",
     "options": ["A) J'aurai fini", "B) J'avais fini", "C) J'aurais fini", "D) J'eus fini"],
     "answer": "C",
     "explanation": "Le conditionnel passé se forme avec l'auxiliaire au conditionnel présent (j'aurais) et le participe passé.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Accord des participes passés :",
     "options": ["A) Les efforts qu'il a fallus", "B) Les efforts qu'il a fallu", "C) Les efforts qu'ils a fallu", "D) Les efforts qu'il as fallu"],
     "answer": "A",
     "explanation": "Le participe passé des verbes impersonnels (il a fallu, il a plu) est toujours invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez l'orthographe correcte du pluriel :",
     "options": ["A) Des gratte-ciels", "B) Des grattes-ciels", "C) Des gratte-ciel", "D) Des grattes-ciel"],
     "answer": "A",
     "explanation": "'Gratte' (verbe invariable) + 'ciel' (invariable car il n'y a qu'un ciel qu'on gratte).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Lequel de ces mots est féminin ?",
     "options": ["A) un tentacule", "B) un tubercule", "C) une scolopendre", "D) un termite"],
     "answer": "C",
     "explanation": "Scolopendre est de genre féminin, contrairement aux autres qui sont souvent confondus.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel mot peut être masculin OU féminin (double genre) selon son sens ou nombre ?",
     "options": ["A) Orgue", "B) Termite", "C) Augure", "D) Aucun des trois"],
     "answer": "A",
     "explanation": "Orgue (comme amour et délice) est masculin au singulier et généralement féminin au pluriel (de belles orgues).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Complétez : 'Ces femmes se sont...'",
     "options": ["A) souri", "B) souris", "C) souries", "D) sourire"],
     "answer": "A",
     "explanation": "Se sourire à soi ou à un autre (COI), le participe passé reste invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase contient un verbe transitif direct ?",
     "options": ["A) Il parle à son frère.", "B) Elle mange une pomme.", "C) Nous allons à Paris.", "D) Ils obéissent aux règles."],
     "answer": "B",
     "explanation": "Manger quelque chose (ici une pomme, COD) -> verbe transitif direct.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Que signifie la locution 'a priori' ?",
     "options": ["A) Au premier abord, avant toute expérience.", "A posteriori, après réflexion.", "C) Une priorité absolue.", "D) Une excuse non fondée."],
     "answer": "A",
     "explanation": "'a priori' (du latin) signifie au premier abord, en se fondant sur des données antérieures à l'expérience.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Choisissez la proposition exacte :",
     "options": ["A) Il l'a convaincu.", "B) Il l'a convaincue.", "C) Il l'a convaincues.", "D) Cela dépend du contexte."],
     "answer": "D",
     "explanation": "Le participe s'accorde avec le pronom 'l'', il s'écrira 'convaincue' si 'l'' remplace une femme, et 'convaincu' si c'est un homme.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle est la bonne orthographe pour 92 ?",
     "options": ["A) Quatre-vingts-deux", "B) Quatre-vingt-deux", "C) Quatre-vingt deux", "D) Quatre-vingts deux"],
     "answer": "B",
     "explanation": "Le 's' de vingts tombe lorsqu'il est suivi d'un autre adjectif numéral (deux).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Parmi ces phrases, laquelle est correcte ?",
     "options": ["A) Les enfants dont je t'ai parlé sont ici.", "B) Les enfants dont je t'ai parlés sont ici.", "C) Les enfants dont je t'ai parlées sont ici.", "D) Les enfants que je t'ai parlé sont ici."],
     "answer": "A",
     "explanation": "Parler de quelqu'un (COI), donc pas d'accord. Le pronom relatif 'dont' remplace un COI.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Comment conjuguer au conditionnel présent (1ère pers. singulier) : 'courir' ?",
     "options": ["A) Je courrais", "B) Je courais", "C) Je courrai", "D) Je courai"],
     "answer": "A",
     "explanation": "Le conditionnel présent de courir prend deux 'r' : je courrais (radical du futur + terminaisons de l'imparfait).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Indiquez l'accord correct :",
     "options": ["A) Des fleurs rouge sang", "B) Des fleurs rouges sang", "C) Des fleurs rouge sangs", "D) Des fleurs rouges sangs"],
     "answer": "A",
     "explanation": "Les adjectifs de couleur composés (rouge sang) sont toujours invariables.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle phrase présente un pléonasme ?",
     "options": ["A) Monter en haut.", "B) Sortir dehors.", "C) Descendre en bas.", "D) Toutes les réponses."],
     "answer": "D",
     "explanation": "Monter implique d'aller en haut, sortir implique d'aller dehors, descendre d'aller en bas. Ce sont tous des pléonasmes.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Identifiez la proposition correcte pour le subjonctif imparfait :",
     "options": ["A) Que je fisse", "B) Que je fis", "C) Que je faisait", "D) Que je fasse"],
     "answer": "A",
     "explanation": "'Fisse' est la 1ère personne du singulier de l'imparfait du subjonctif du verbe faire.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est le pluriel de 'passe-partout' ?",
     "options": ["A) passe-partouts", "B) passes-partouts", "C) passe-partout", "D) passes-partout"],
     "answer": "A",
     "explanation": "Mot composé d'un verbe (passe) et d'un adverbe (partout). Le nom entier est donc invariable.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quelle locution est correcte pour dire 'à condition que' (avec subjonctif) ?",
     "options": ["A condition que tu viens.", "A condition que tu viennes.", "A condition que tu viendras.", "A condition que tu vienne."],
     "answer": "A",
     "explanation": "'A condition que' exige le subjonctif (tu viennes).",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Orthographe correcte du pluriel de 'coffre-fort' ?",
     "options": ["A) coffre-forts", "B) coffres-fort", "C) coffres-forts", "D) coffre-fort"],
     "answer": "C",
     "explanation": "Nom + adjectif : les deux s'accordent au pluriel.",
-    "theme": "Culture Générale — Langue française"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Laquelle de ces phrases contient une faute d'orthographe ?",
     "options": ["A) Ils se sont rendu compte de l'erreur.", "B) Elle s'est lavé les mains.", "C) Elles se sont permises de répondre.", "D) Ils se sont écrit des lettres."],
     "answer": "C",
     "explanation": "Permettre à soi (COI) de faire quelque chose. Le participe passé doit être invariable : se sont permis.",
-    "theme": "Culture Générale — Langue française"
-  },
-  {
-    "question": "Les mots « saut », « seau » et « sot » sont des :",
-    "options": ["A) Paronymes", "B) Homographes", "C) Homophones", "D) Antonymes"],
-    "answer": "C",
-    "explanation": "Ces mots se prononcent de la même façon mais s'écrivent différemment : ce sont des homophones.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La relation entre « rose » et « fleur » est une :",
-    "options": ["A) Synonymie", "B) Hyponymie", "C) Antonymie", "D) Méronymie"],
-    "answer": "B",
-    "explanation": "« Rose » est un hyponyme de « fleur » (terme plus général, l'hyperonyme).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot « Ressasser » est un exemple de :",
-    "options": ["A) Anagramme", "B) Palindrome", "C) Homonyme", "D) Paronyme"],
-    "answer": "B",
-    "explanation": "« Ressasser » se lit dans les deux sens, c'est un palindrome.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Les mots « éminent » et « imminent » sont des :",
-    "options": ["A) Synonymes", "B) Homographes", "C) Paronymes", "D) Antonymes"],
-    "answer": "C",
-    "explanation": "Ces mots se ressemblent fortement mais ont des sens différents : ce sont des paronymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans les expressions « avoir du cœur » et « le cœur bat », « cœur » illustre :",
-    "options": ["A) Homonymie", "B) Polysémie", "C) Méronymie", "D) Synonymie"],
-    "answer": "B",
-    "explanation": "Un même mot avec plusieurs sens liés illustre la polysémie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Marie » et « aimer » sont des :",
-    "options": ["A) Palindromes", "B) Homophones", "C) Anagrammes", "D) Synonymes"],
-    "answer": "C",
-    "explanation": "Les mêmes lettres réorganisées forment des anagrammes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Grand » et « petit » sont des :",
-    "options": ["A) Antonymes", "B) Homonymes", "C) Hyponymes", "D) Paronymes"],
-    "answer": "A",
-    "explanation": "Ces mots ont des sens opposés : ce sont des antonymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Touche » est le méronyme de « clavier ». La méronymie décrit :",
-    "options": ["A) Relation de sens proche", "B) Relation d'inclusion (partie/tout)", "C) Relation de ressemblance"],
-    "answer": "B",
-    "explanation": "La méronymie exprime une relation partie/tout.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Date » (jour) et « datte » (fruit) sont des :",
-    "options": ["A) Mots polysémiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
-    "answer": "B",
-    "explanation": "Ces mots se prononcent pareil mais n'ont aucun lien de sens : homonymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne des mots interchangeables avec un sens très proche ?",
-    "options": ["A) Antonymes", "B) Synonymes", "C) Paronymes", "D) Homonymes"],
-    "answer": "B",
-    "explanation": "Les synonymes ont un sens identique ou très proche.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'expression « J'ai mille choses à faire » est un :",
-    "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Métonymie"],
-    "answer": "C",
-    "explanation": "L'exagération volontaire est une hyperbole.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'hyperonyme de « voiture », « camion », « bus » ?",
-    "options": ["A) Véhicule", "B) Transport", "C) Route", "D) Moteur"],
-    "answer": "A",
-    "explanation": "« Véhicule » est le terme général qui englobe ces mots.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La répétition d'un mot en début de vers s'appelle :",
-    "options": ["A) Anaphore", "B) Allitération", "C) Assonance", "D) Métaphore"],
-    "answer": "A",
-    "explanation": "L'anaphore est la répétition d'un mot ou groupe de mots en début de phrase.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Les mots « poisson » et « poison » sont des :",
-    "options": ["A) Homographes", "B) Paronymes", "C) Homophones", "D) Synonymes"],
-    "answer": "B",
-    "explanation": "Ils se ressemblent beaucoup mais ont des sens différents : paronymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne les mots cohyponymes de « animal » ?",
-    "options": ["A) Arbre, plante", "B) Chat, chien, oiseau", "C) Maison, jardin", "D) Mammifère, reptile"],
-    "answer": "B",
-    "explanation": "Les cohyponymes sont des hyponymes d'un même hyperonyme (ici « animal »).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Les mots « ver », « verre » et « vert » sont des :",
-    "options": ["A) Paronymes", "B) Homographes", "C) Homophones", "D) Synonymes"],
-    "answer": "C",
-    "explanation": "Ces mots se prononcent identiquement mais s'écrivent différemment : homophones.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La relation entre « chien » et « animal » est une :",
-    "options": ["A) Synonymie", "B) Hyponymie", "C) Antonymie", "D) Homonymie"],
-    "answer": "B",
-    "explanation": "« Chien » est un hyponyme (terme spécifique) de « animal » (terme général).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot « Radar » est un exemple de :",
-    "options": ["A) Anagramme", "B) Palindrome", "C) Homonyme", "D) Paronyme"],
-    "answer": "B",
-    "explanation": "« Radar » se lit identiquement dans les deux sens : c'est un palindrome.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure de style est une courte phrase qui se termine par une pointe satirique ?",
-    "options": ["A) Métaphore", "B) Épigramme", "C) Hyperbole", "D) Allégorie"],
-    "answer": "B",
-    "explanation": "L'épigramme est une courte pièce satirique ou spirituelle.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Les mots « cession » et « session » sont des :",
-    "options": ["A) Synonymes", "B) Homographes", "C) Paronymes", "D) Homophones"],
-    "answer": "C",
-    "explanation": "Ces mots se ressemblent fortement mais ont des sens différents : paronymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « pied de la jambe » et « pied d'une montagne », « pied » illustre :",
-    "options": ["A) Homonymie", "B) Polysémie", "C) Méronymie", "D) Paronymie"],
-    "answer": "B",
-    "explanation": "Un même mot avec plusieurs sens liés par l'origine : polysémie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Imaginer » et « migraine » sont des :",
-    "options": ["A) Palindromes", "B) Homophones", "C) Anagrammes", "D) Paronymes"],
-    "answer": "C",
-    "explanation": "Les lettres des deux mots peuvent être réorganisées : anagrammes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « Sa bouche est une rose », quelle figure de style est utilisée ?",
-    "options": ["A) Comparaison", "B) Métaphore", "C) Métonymie", "D) Hyperbole"],
-    "answer": "B",
-    "explanation": "Une métaphore établit une comparaison implicite sans utiliser « comme ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Chaud » et « froid » sont des :",
-    "options": ["A) Antonymes", "B) Homonymes", "C) Hyponymes", "D) Synonymes"],
-    "answer": "A",
-    "explanation": "Ces mots ont des sens opposés : ce sont des antonymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Roue » est le méronyme de « voiture ». La méronymie décrit :",
-    "options": ["A) Relation de sens proche", "B) Relation d'inclusion (partie/tout)", "C) Relation de ressemblance"],
-    "answer": "B",
-    "explanation": "Un méronyme désigne une partie d'un tout (holonyme).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Avocat » (fruit) et « avocat » (profession) sont des :",
-    "options": ["A) Mots polysémiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
-    "answer": "B",
-    "explanation": "Ces mots n'ont aucun lien de sens malgré leur forme identique : homonymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne des mots au sens identique ou très proche ?",
-    "options": ["A) Antonymes", "B) Synonymes", "C) Paronymes", "D) Homophones"],
-    "answer": "B",
-    "explanation": "Les synonymes sont interchangeables dans un contexte donné.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'expression « Je meurs de faim » est un :",
-    "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Oxymore"],
-    "answer": "C",
-    "explanation": "L'hyperbole est une exagération volontaire pour renforcer l'expression.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'hyperonyme de « chaise », « fauteuil », « tabouret » ?",
-    "options": ["A) Meuble", "B) Bois", "C) Assise", "D) Salon"],
-    "answer": "A",
-    "explanation": "« Meuble » est le terme général qui englobe ces sièges.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Comment appelle-t-on la répétition d'un mot en début de phrase ?",
-    "options": ["A) Anaphore", "B) Allitération", "C) Assonance", "D) Épiphore"],
-    "answer": "A",
-    "explanation": "L'anaphore est la répétition d'un mot ou groupe en début de vers ou phrase.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Les mots « pêcheur » et « pécheur » sont des :",
-    "options": ["A) Homographes", "B) Homophones", "C) Synonymes", "D) Antonymes"],
-    "answer": "B",
-    "explanation": "Prononciation identique mais orthographe différente : homophones.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène décrit des mots très ressemblants mais de sens différents ?",
-    "options": ["A) Homonymie", "B) Synonymie", "C) Paronymie", "D) Polysémie"],
-    "answer": "C",
-    "explanation": "Les paronymes se ressemblent phonétiquement et graphiquement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Engage le jeu que je le gagne » est un :",
-    "options": ["A) Anagramme", "B) Palindrome", "C) Épigramme", "D) Calembour"],
-    "answer": "B",
-    "explanation": "Cette phrase se lit dans les deux sens : palindrome.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'hétéronymie concerne des mots de sens liés mais de radicaux différents ?",
-    "options": ["A) Vrai", "B) Faux", "C) Partiellement vrai"],
-    "answer": "A",
-    "explanation": "Ex : « oncle/tante », « cheval/jument » - sens liés, radicaux différents.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quels mots sont cohyponymes de « fleur » ?",
-    "options": ["A) Arbre, arbuste", "B) Rose, tulipe", "C) Bouquet, jardin", "D) Pétale, tige"],
-    "answer": "B",
-    "explanation": "Les cohyponymes partagent le même hyperonyme (ici « fleur »).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Conte », « comte » et « compte » sont des :",
-    "options": ["A) Paronymes", "B) Homophones", "C) Homographes", "D) Synonymes"],
-    "answer": "B",
-    "explanation": "Même prononciation, orthographes différentes : homophones.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « Il est mort de rire », quelle figure est utilisée ?",
-    "options": ["A) Hyperbole", "B) Litote", "C) Euphémisme", "D) Antiphrase"],
-    "answer": "A",
-    "explanation": "Exagération volontaire pour renforcer l'expression : hyperbole.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Oncle » et « tante » illustrent :",
-    "options": ["A) Synonymie", "B) Antonymie", "C) Hétéronymie", "D) Paronymie"],
-    "answer": "C",
-    "explanation": "Sens liés (famille) mais radicaux complètement différents : hétéronymie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'allitération est la répétition de :",
-    "options": ["A) Voyelles", "B) Consonnes", "C) Mots", "D) Syllabes"],
-    "answer": "B",
-    "explanation": "L'allitération répète des consonnes. L'assonance répète des voyelles.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Père » est l'holonyme de « main ». Vrai ou faux ?",
-    "options": ["A) Vrai", "B) Faux"],
-    "answer": "B",
-    "explanation": "Faux. « Corps » serait l'holonyme de « main » (tout dont fait partie la main).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Ce n'est pas mauvais » pour dire « c'est excellent » est une :",
-    "options": ["A) Hyperbole", "B) Litote", "C) Métaphore", "D) Métonymie"],
-    "answer": "B",
-    "explanation": "La litote dit moins pour suggérer plus.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Nager » et « narguer » sont des :",
-    "options": ["A) Synonymes", "B) Paronymes", "C) Homonymes", "D) Antonymes"],
-    "answer": "B",
-    "explanation": "Ressemblance phonétique et graphique forte : paronymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « Il pleut des cordes », quelle figure est utilisée ?",
-    "options": ["A) Métaphore", "B) Comparaison", "C) Hyperbole", "D) Personnification"],
-    "answer": "C",
-    "explanation": "Exagération pour décrire une pluie forte : hyperbole.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Tête » (partie du corps) et « tête » (chef) illustrent :",
-    "options": ["A) Homonymie", "B) Polysémie", "C) Paronymie", "D) Synonymie"],
-    "answer": "B",
-    "explanation": "Même mot, sens différents mais liés par l'origine : polysémie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'assonance est la répétition de :",
-    "options": ["A) Consonnes", "B) Voyelles", "C) Mots entiers", "D) Phrases"],
-    "answer": "B",
-    "explanation": "L'assonance est la répétition de voyelles. L'allitération répète des consonnes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Boire un verre » est un exemple de :",
-    "options": ["A) Métaphore", "B) Métonymie", "C) Synecdoque", "D) Litote"],
-    "answer": "B",
-    "explanation": "La métonymie remplace un mot par un autre lié logiquement. Ici le contenant (verre) pour le contenu (boisson).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne un mot créé récemment dans une langue ?",
-    "options": ["A) Archaïsme", "B) Néologisme", "C) Barbarisme", "D) Solécisme"],
-    "answer": "B",
-    "explanation": "Un néologisme est un mot nouveau ou récemment entré dans la langue.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne un mot tombé en désuétude, n'étant plus employé ?",
-    "options": ["A) Néologisme", "B) Archaïsme", "C) Barbarisme", "D) Pléonasme"],
-    "answer": "B",
-    "explanation": "Un archaïsme est un mot ou une expression ancienne qui n'est plus en usage courant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un barbarisme ?",
-    "options": ["A) Un mot étranger", "B) Une faute de vocabulaire (mot déformé)", "C) Un mot ancien", "D) Un mot technique"],
-    "answer": "B",
-    "explanation": "Un barbarisme est l'emploi d'un mot inexistant ou déformé. Ex : « aéropage » au lieu d'« aréopage ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un solécisme ?",
-    "options": ["A) Une faute d'orthographe", "B) Une faute de syntaxe", "C) Un mot inventé", "D) Un mot étranger"],
-    "answer": "B",
-    "explanation": "Un solécisme est une faute de grammaire/syntaxe. Ex : « c'est à moi que je parle » au lieu de « c'est à moi qu'on parle ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Le Roi Soleil » pour désigner Louis XIV est une :",
-    "options": ["A) Métaphore", "B) Périphrase", "C) Antonomase", "D) Comparaison"],
-    "answer": "C",
-    "explanation": "L'antonomase utilise un nom propre comme nom commun ou inversement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'épiphore est la répétition d'un mot ou groupe de mots :",
-    "options": ["A) En début de phrase", "B) En fin de phrase", "C) Au milieu de phrase", "D) Partout dans la phrase"],
-    "answer": "B",
-    "explanation": "L'épiphore est le contraire de l'anaphore : elle répète un élément en fin de vers ou de phrase.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Blanc bonnet et bonnet blanc » est un exemple de :",
-    "options": ["A) Chiasme", "B) Anaphore", "C) Palindrome", "D) Métonymie"],
-    "answer": "A",
-    "explanation": "Le chiasme est un croisement de termes selon le schéma AB-BA.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Courriel » est un néologisme français pour remplacer :",
-    "options": ["A) Internet", "B) E-mail", "C) SMS", "D) Chat"],
-    "answer": "B",
-    "explanation": "« Courriel » est le néologisme officiel pour remplacer l'anglicisme « e-mail ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La catachrèse est :",
-    "options": ["A) Une métaphore devenue si courante qu'on ne la remarque plus", "B) Un pléonasme", "C) Une exagération", "D) Une ironie"],
-    "answer": "A",
-    "explanation": "La catachrèse est une métaphore passée dans l'usage courant. Ex : « les pieds d'une table ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Cheval » et « équestre » illustrent :",
-    "options": ["A) Synonymie", "B) Un doublet étymologique", "C) Paronymie", "D) Homonymie"],
-    "answer": "B",
-    "explanation": "Le nom vient du latin populaire (caballus) et l'adjectif du latin savant (equester) : doublet étymologique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de « loquace » ?",
-    "options": ["A) Bavard", "B) Taciturne", "C) Verbeux", "D) Prolixe"],
-    "answer": "B",
-    "explanation": "« Loquace » signifie bavard ; « taciturne » signifie silencieux, peu enclin à parler.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène lexical lie « hôte » (celui qui reçoit) et « hôte » (celui qui est reçu) ?",
-    "options": ["A) Polysémie", "B) Homonymie", "C) Énantiosémie", "D) Paronymie"],
-    "answer": "C",
-    "explanation": "L'énantiosémie (ou auto-antonymie) désigne un mot qui a deux sens opposés.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Clair-obscur » est un exemple de :",
-    "options": ["A) Pléonasme", "B) Oxymore", "C) Antithèse", "D) Chiasme"],
-    "answer": "B",
-    "explanation": "L'oxymore associe deux termes contradictoires dans un même syntagme.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'une antithèse ?",
-    "options": ["A) Deux termes contradictoires accolés", "B) Opposition de deux idées dans une phrase", "C) Exagération volontaire", "D) Comparaison implicite"],
-    "answer": "B",
-    "explanation": "L'antithèse oppose deux idées dans une phrase ou un paragraphe, contrairement à l'oxymore qui accole les contraires.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel procédé consiste à atténuer une vérité désagréable ?",
-    "options": ["A) Hyperbole", "B) Litote", "C) Euphémisme", "D) Antiphrase"],
-    "answer": "C",
-    "explanation": "L'euphémisme adoucit une réalité brutale. Ex : « il s'est éteint » pour « il est mort ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Frère » et « sœur » illustrent :",
-    "options": ["A) Synonymie", "B) Antonymie", "C) Hétéronymie", "D) Paronymie"],
-    "answer": "C",
-    "explanation": "Sens liés (famille) mais radicaux totalement différents : c'est l'hétéronymie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot « chrysanthème » est :",
-    "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
-    "answer": "B",
-    "explanation": "« Chrysanthème » est masculin : un chrysanthème.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'une personnification ?",
-    "options": ["A) Comparer deux éléments", "B) Attribuer des traits humains à un objet ou animal", "C) Exagérer un propos", "D) Dire le contraire de ce qu'on pense"],
-    "answer": "B",
-    "explanation": "La personnification donne des caractéristiques humaines à ce qui n'est pas humain. Ex : « le vent hurle ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'une gradation ?",
-    "options": ["A) Répétition d'un mot", "B) Énumération de termes d'intensité croissante ou décroissante", "C) Opposition de deux idées", "D) Comparaison implicite"],
-    "answer": "B",
-    "explanation": "La gradation est une suite de mots d'intensité progressive. Ex : « je le vis, je rougis, je pâlis » (Racine).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « La fourmi travaille sans relâche », quelle figure est utilisée ?",
-    "options": ["A) Métaphore", "B) Personnification", "C) Comparaison", "D) Allégorie"],
-    "answer": "B",
-    "explanation": "Attribuer le travail (action humaine consciente) à un animal est une personnification.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Il prit son chapeau et la porte » est un exemple de :",
-    "options": ["A) Pléonasme", "B) Zeugme", "C) Chiasme", "D) Oxymore"],
-    "answer": "B",
-    "explanation": "Le zeugme associe sur le même verbe des compléments de nature très différente (sens concret et figuré).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un champ lexical ?",
-    "options": ["A) L'ensemble des sens d'un mot", "B) L'ensemble des mots liés à un même thème", "C) Les mots de même famille", "D) Les mots de même racine"],
-    "answer": "B",
-    "explanation": "Le champ lexical regroupe les mots se rapportant à un même thème. Ex : école → élève, cours, tableau.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un champ sémantique ?",
-    "options": ["A) Les mots d'un même thème", "B) L'ensemble des sens d'un seul mot", "C) Les mots de même sonorité", "D) Les synonymes d'un mot"],
-    "answer": "B",
-    "explanation": "Le champ sémantique est l'ensemble des significations d'un mot. Ex : « feuille » → papier, arbre, métal.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'une prosopopée ?",
-    "options": ["A) Faire parler un absent, un mort ou un objet", "B) Exagérer ses propos", "C) Répéter un mot pour insister", "D) Utiliser un mot pour un autre"],
-    "answer": "A",
-    "explanation": "La prosopopée fait parler un absent, un mort, un animal ou une abstraction.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Je suis venu, j'ai vu, j'ai vaincu » est un exemple de :",
-    "options": ["A) Gradation", "B) Anaphore", "C) Les deux à la fois", "D) Allitération"],
-    "answer": "C",
-    "explanation": "C'est à la fois une anaphore (répétition de « je ») et une gradation (intensité croissante).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'hyperonyme de « pomme », « banane », « mangue » ?",
-    "options": ["A) Aliment", "B) Fruit", "C) Arbre", "D) Récolte"],
-    "answer": "B",
-    "explanation": "« Fruit » est le terme général englobant pomme, banane et mangue.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Prêt » et « près » sont des :",
-    "options": ["A) Synonymes", "B) Homophones", "C) Paronymes", "D) Antonymes"],
-    "answer": "B",
-    "explanation": "Même prononciation mais sens et orthographe différents : homophones.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Éruption » et « irruption » sont des :",
-    "options": ["A) Synonymes", "B) Homophones", "C) Paronymes", "D) Antonymes"],
-    "answer": "C",
-    "explanation": "Formes proches mais sens différents : éruption (sortie violente) vs irruption (entrée brusque).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Page » (de livre) et « page » (jeune serviteur) sont des :",
-    "options": ["A) Mots polysémiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
-    "answer": "B",
-    "explanation": "Même forme mais origines et sens totalement différents : homonymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'une allégorie ?",
-    "options": ["A) Une comparaison abrégée", "B) Une métaphore filée représentant une idée abstraite", "C) Un pléonasme", "D) Une exagération"],
-    "answer": "B",
-    "explanation": "L'allégorie représente une idée abstraite par une image concrète prolongée. Ex : la Justice avec une balance.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Doigt » est le méronyme de :",
-    "options": ["A) Ongle", "B) Main", "C) Bras", "D) Pied"],
-    "answer": "B",
-    "explanation": "Le doigt est une partie de la main : « doigt » (méronyme) → « main » (holonyme).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'une prétérition ?",
-    "options": ["A) Parler d'une chose en disant qu'on n'en parlera pas", "B) Exagérer ses propos", "C) Dire le contraire", "D) Atténuer la réalité"],
-    "answer": "A",
-    "explanation": "La prétérition consiste à dire qu'on ne va pas parler de quelque chose tout en en parlant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Été » et « hiver » sont des :",
-    "options": ["A) Synonymes", "B) Antonymes", "C) Cohyponymes", "D) Homonymes"],
-    "answer": "C",
-    "explanation": "Ce sont des cohyponymes de l'hyperonyme « saison ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Kayak » est un exemple de :",
-    "options": ["A) Anagramme", "B) Palindrome", "C) Néologisme", "D) Emprunt"],
-    "answer": "B",
-    "explanation": "« Kayak » se lit dans les deux sens : c'est un palindrome.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « boire la tasse » (avaler de l'eau en nageant), quelle figure est utilisée ?",
-    "options": ["A) Métaphore", "B) Métonymie", "C) Catachrèse", "D) Litote"],
-    "answer": "C",
-    "explanation": "C'est une catachrèse : une métaphore figée dans l'usage courant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans la phrase Sa bouche est une rose, quelle figure de style est utilisee ?",
-    "options": ["A) Comparaison", "B) Metaphore", "C) Metonymie", "D) Synecdoque"],
-    "answer": "B",
-    "explanation": "C'est une metaphore : assimilation directe sans terme comparatif.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure de style se termine par une pointe satirique ?",
-    "options": ["A) Metaphore", "B) Epigramme", "C) Hyperbole", "D) Anaphore"],
-    "answer": "B",
-    "explanation": "L'epigramme est une courte composition poetique a caractere satirique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans pied de la jambe et pied d'une montagne, le mot pied illustre :",
-    "options": ["A) Homonymie", "B) Polysemie", "C) Meronymie", "D) Antonymie"],
-    "answer": "B",
-    "explanation": "C'est de la polysemie : meme mot, sens differents mais lies par l'origine.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'expression Je meurs de faim est :",
-    "options": ["A) Un euphemisme", "B) Une litote", "C) Une hyperbole", "D) Une metaphore"],
-    "answer": "C",
-    "explanation": "C'est une hyperbole : exageration deliberee pour produire un effet d'intensite.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Les mots imaginer et migraine sont des :",
-    "options": ["A) Palindromes", "B) Homophones", "C) Anagrammes", "D) Paronymes"],
-    "answer": "C",
-    "explanation": "On peut former migraine en reordonnant les lettres d'imaginer : ce sont des anagrammes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle paire illustre l'heteronymie ?",
-    "options": ["A) chaud / froid", "B) oncle / tante", "C) voiture / automobile", "D) fleur / rose"],
-    "answer": "B",
-    "explanation": "L'heteronymie concerne des mots a sens lies mais de radicaux differents : oncle/tante, cheval/jument.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la bonne definition de la meronymie ?",
-    "options": ["A) Relation de sens proche", "B) Relation partie/tout", "C) Relation de ressemblance formelle", "D) Relation d'opposition"],
-    "answer": "B",
-    "explanation": "La meronymie decrit la relation d'inclusion partie/tout : roue est le meronyme de voiture.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme designe les cohyponymes de animal ?",
-    "options": ["A) Plante, arbre", "B) Chien, chat", "C) Jambe, bras", "D) Table, chaise"],
-    "answer": "B",
-    "explanation": "Chien et chat partagent le meme hyperonyme animal : ce sont des cohyponymes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme designe la relation entre main et doigt d un point de vue meronymique ?",
-    "options": ["A) Doigt est l holonyme de main", "B) Main est l holonyme de doigt", "C) Main et doigt sont des cohyponymes", "D) Main est le meronyme de doigt"],
-    "answer": "B",
-    "explanation": "La main est le tout (holonyme) dont le doigt est une partie (meronyme).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Pi?ge : eminent et imminent sont-ils synonymes ?",
-    "options": ["A) Oui ils signifient remarquable", "B) Non : eminent=remarquable imminent=qui va arriver tres bientot", "C) Oui ils expriment l urgence", "D) Non : eminent=lieu imminent=personne"],
-    "answer": "B",
-    "explanation": "Pi?ge de paronymie : eminent = qui se distingue ; imminent = sur le point de se produire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phenomene illustre verre ver vers vert ?",
-    "options": ["A) Paronymie", "B) Synonymie", "C) Homophonie", "D) Polysemie"],
-    "answer": "C",
-    "explanation": "Meme prononciation orthographes differentes : homophones.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure remplace une expression brusque par une formulation douce ?",
-    "options": ["A) Litote", "B) Euphemisme", "C) Hyperbole", "D) Antiphrase"],
-    "answer": "B",
-    "explanation": "L euphemisme attenue la brutalite. Ex : il a quitte ce monde pour dire il est mort.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans la phrase Il ne travaille pas mal quelle figure est utilisee ?",
-    "options": ["A) Hyperbole", "B) Euphemisme", "C) Litote", "D) Metaphore"],
-    "answer": "C",
-    "explanation": "Litote : dire moins pour faire comprendre plus. Il ne travaille pas mal = il travaille bien.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme designe la relation rose fleur en semantique ?",
-    "options": ["A) Holonymie", "B) Hyponymie", "C) Synonymie", "D) Meronymie"],
-    "answer": "B",
-    "explanation": "Rose est un hyponyme de fleur : terme special inclus dans le terme general.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Conjecture et conjoncture sont-ils des paronymes ?",
-    "options": ["A) Non homonymes", "B) Oui : conjecture=supposition conjoncture=situation ?conomique", "C) Non antonymes", "D) Non synonymes"],
-    "answer": "B",
-    "explanation": "Conjecture/conjoncture : paronymes tres proches mais de sens tres differents.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la difference entre holonyme et hyperonyme ?",
-    "options": ["A) Ce sont des synonymes", "B) Holonyme=tout dont le meronyme est une partie ; hyperonyme=terme general dont depend un hyponyme", "C) Hyperonyme=partie holonyme=ensemble", "D) Ces termes n existent pas"],
-    "answer": "B",
-    "explanation": "Holonyme/meronyme = relation partie-tout. Hyperonyme/hyponyme = inclusion semantique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Polysemie et homonymie sont-elles la meme chose ?",
-    "options": ["A) Oui", "B) Non : polysemie=sens differents mais lies par etymologie ; homonymie=mots de formes identiques mais d origines differentes", "C) Oui dans les deux cas les sens sont totalement differents", "D) Non polysemie concerne verbes uniquement"],
-    "answer": "B",
-    "explanation": "Polysemie : tete corps/liste meme origine. Homonymie : avocat fruit/juriste origines distinctes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "avocat fruit et avocat juriste illustrent quel phenomene ?",
-    "options": ["A) Polysemie", "B) Homonymie car etymologies completement differentes", "C) Synonymie", "D) Paronymie"],
-    "answer": "B",
-    "explanation": "Avocat fruit vient du nahuatl ; avocat juriste du latin advocatus : homonymie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle relation sémantique lie « voiture » et « roue » ?",
-    "options": ["A) Synonymie", "B) Holonymie / méronymie", "C) Antonymie", "D) Hyperonymie"],
-    "answer": "B",
-    "explanation": "Voiture est l'holonyme (le tout) ; roue en est le méronyme (une partie).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure consiste à employer un mot concret pour désigner une réalité abstraite ?",
-    "options": ["A) Synecdoque", "B) Métonymie", "C) Catachrèse", "D) Allégorie"],
-    "answer": "D",
-    "explanation": "L'allégorie représente une idée abstraite par une image concrète et symbolique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène illustre « couler » (aller au fond) et « couler » (du robinet) ?",
-    "options": ["A) Homonymie", "B) Polysémie", "C) Paronymie", "D) Hétéronymie"],
-    "answer": "B",
-    "explanation": "Même mot, même origine étymologique, sens différents liés : polysémie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la différence entre « injure » et « injure » verbale ?",
-    "options": ["A) Ce sont des homonymes", "B) Ce sont des polysèmes (injustice / propos offensant)", "C) Ce sont des paronymes", "D) Ce sont des synonymes"],
-    "answer": "B",
-    "explanation": "« Injure » = polysémie : une injustice (sens juridique) ou une parole blessante (sens courant).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La phrase « Il fait un temps de chien » contient quelle figure ?",
-    "options": ["A) Comparaison", "B) Métaphore figée (locution)", "C) Allégorie", "D) Synecdoque"],
-    "answer": "B",
-    "explanation": "C'est une métaphore lexicalisée (figée dans la langue) : « temps de chien » = très mauvais temps.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne un mot crée par abrègement comme « ciné » pour « cinéma » ?",
-    "options": ["A) Acronyme", "B) Apocope", "C) Aphérèse", "D) Troncation"],
-    "answer": "D",
-    "explanation": "La troncation supprime une partie du mot. « Ciné » est une apocope (troncation finale).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle relation existe entre « rapide » et « lent » ?",
-    "options": ["A) Synonymie", "B) Antonymie graduable", "C) Méronymie", "D) Hyponymie"],
-    "answer": "B",
-    "explanation": "Rapide et lent sont des antonymes graduables : il existe des degrés entre les deux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot « bœuf » au sens de « grand effort musical collectif » illustre quel phénomène ?",
-    "options": ["A) Néologisme sémantique", "B) Métaphore lexicalisée", "C) Homonymie", "D) Paronymie"],
-    "answer": "A",
-    "explanation": "C'est un néologisme sémantique : un sens nouveau attribué à un mot existant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure attribue à un objet les caractéristiques d'un être humain ?",
-    "options": ["A) Allégorie", "B) Personnification", "C) Métonymie", "D) Antithèse"],
-    "answer": "B",
-    "explanation": "La personnification donne des traits humains à ce qui n'en a pas (ex. : « la mer rugit »).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne la relation entre « tibia » et « jambe » ?",
-    "options": ["A) Tibia est l'hyperonyme de jambe", "B) Tibia est le méronyme de jambe", "C) Tibia et jambe sont des cohyponymes", "D) Tibia est le synonyme de jambe"],
-    "answer": "B",
-    "explanation": "Le tibia est une partie (méronyme) de la jambe (holonyme).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que désigne le phénomène de « dénotation » ?",
-    "options": ["A) Le sens subjectif et émotionnel d'un mot", "B) Le sens objectif et littéral d'un mot", "C) Le sens figuré d'un mot", "D) L'ensemble des synonymes d'un mot"],
-    "answer": "B",
-    "explanation": "La dénotation est le sens premier, neutre et objectif d'un mot. La connotation est le sens subjectif.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "« Aimer » (affecter) et « aimer » (comme dans « j'aimerais ») illustrent quelle nuance ?",
-    "options": ["A) Homonymie", "B) Polysémie avec registres différents", "C) Synonymie contextuelle", "D) Antonymie graduelle"],
-    "answer": "B",
-    "explanation": "Le même verbe « aimer » couvre plusieurs sens selon le contexte : polysémie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure consiste à dire le contraire de ce qu'on pense avec une intention satirique ?",
-    "options": ["A) Litote", "B) Euphémisme", "C) Antiphrase (ironie)", "D) Prétérition"],
-    "answer": "C",
-    "explanation": "L'antiphrase est la figure de l'ironie : on dit le contraire pour se moquer.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot « clé » dans « argument clé » est employé comme :",
-    "options": ["A) Nom apposé", "B) Adjectif épithète par métaphore", "C) Adverbe", "D) Complément de nom"],
-    "answer": "B",
-    "explanation": "« Clé » est employé métaphoriquement comme un adjectif : l'argument essentiel.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle relation existe entre « voiture de sport » et « voiture » ?",
-    "options": ["A) Holonymie", "B) Hyponymie", "C) Méronymie", "D) Synonymie"],
-    "answer": "B",
-    "explanation": "« Voiture de sport » est un hyponyme de « voiture » : terme spécifique inclus dans le terme général.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme complémentaire (non graduable) de « vivant » ?",
-    "options": ["A) Faible", "B) Mort", "C) Silencieux", "D) Immobile"],
-    "answer": "B",
-    "explanation": "Vivant/mort est une antonymie complémentaire : pas de degré intermédiaire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « il avale les kilomètres », quelle figure est utilisée ?",
-    "options": ["A) Comparaison", "B) Métaphore", "C) Synecdoque", "D) Métonymie"],
-    "answer": "B",
-    "explanation": "C'est une métaphore : avaler des kilomètres = parcourir une grande distance facilement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène lexical explique que « souris » désigne à la fois un animal et un dispositif informatique ?",
-    "options": ["A) Homonymie", "B) Néologisme sémantique", "C) Métaphore lexicalisée", "D) Emprunt"],
-    "answer": "C",
-    "explanation": "Le dispositif informatique a été appelé « souris » par métaphore avec le rongeur (forme et câble = queue).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la particularité d'un mot épicène ?",
-    "options": ["A) Il est invariable", "B) Il désigne indifféremment les deux sexes", "C) Il n'a pas de pluriel", "D) Il est toujours masculin"],
-    "answer": "B",
-    "explanation": "Un mot épicène a la même forme au masculin et au féminin (ex. : enfant, élève, artiste).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'hypéronyme commun de « colère », « joie », « tristesse » ?",
-    "options": ["A) Sentiment", "B) Pensée", "C) Action", "D) Sensation"],
-    "answer": "A",
-    "explanation": "Colère, joie et tristesse sont des hyponymes de « sentiment ».",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « brûler les étapes », quelle figure de style est employée ?",
-    "options": ["A) Synecdoque", "B) Catachrèse", "C) Métaphore lexicalisée", "D) Métonymie"],
-    "answer": "C",
-    "explanation": "C'est une métaphore figée dans l'usage : aller trop vite, sauter des étapes.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène linguistique désigne l'apparition d'un nouveau mot dans la langue ?",
-    "options": ["A) Archaïsme", "B) Néologisme", "C) Pléonasme", "D) Barbarisme"],
-    "answer": "B",
-    "explanation": "Un néologisme est un mot nouveau ou un sens nouveau donné à un mot existant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La relation entre « oiseau » et « aigle » est une relation de :",
-    "options": ["A) Synonymie", "B) Méronymie", "C) Hyperonymie/hyponymie", "D) Antonymie"],
-    "answer": "C",
-    "explanation": "Oiseau est l'hyperonyme (terme général) ; aigle est l'hyponyme (terme spécifique).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « la salle applaudit », quelle figure de style voit-on ?",
-    "options": ["A) Métaphore", "B) Métonymie", "C) Synecdoque", "D) Antonomase"],
-    "answer": "B",
-    "explanation": "C'est une métonymie : la salle (le lieu) désigne les personnes qui s'y trouvent.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel outil stylistique consiste à utiliser le nom d'une personne célèbre pour désigner une catégorie ?",
-    "options": ["A) Métonymie", "B) Synecdoque", "C) Antonomase", "D) Allégorie"],
-    "answer": "C",
-    "explanation": "L'antonomase utilise un nom propre comme nom commun (ex. : un Harpagon = un avare).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le rapport sémantique entre « maison » et « toit » ?",
-    "options": ["A) Holonymie/méronymie", "B) Hyperonymie/hyponymie", "C) Synonymie", "D) Antonymie"],
-    "answer": "A",
-    "explanation": "Maison est l'holonyme (le tout) ; toit en est le méronyme (une partie).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure de style dit moins pour faire comprendre plus ?",
-    "options": ["A) Hyperbole", "B) Euphémisme", "C) Litote", "D) Amplification"],
-    "answer": "C",
-    "explanation": "La litote atténue volontairement pour que le lecteur comprenne le contraire (ex. : Ce n'est pas mal = c'est bien).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un archaïsme ?",
-    "options": ["A) Un mot étranger intégré dans la langue", "B) Un mot vieilli qui n'est plus en usage courant", "C) Un mot récemment créé", "D) Un mot au sens contraire de son sens original"],
-    "answer": "B",
-    "explanation": "Un archaïsme est un mot ou une forme démodée, sortie de l'usage courant (ex. : « icelui »).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle différence y a-t-il entre un synonyme total et un synonyme partiel ?",
-    "options": ["A) Aucune différence", "B) Synonyme total = mêmes sens dans tous les contextes ; synonyme partiel = interchangeable seulement dans certains contextes", "C) Un synonyme total est toujours de même registre", "D) Les synonymes totaux n'existent pas"],
-    "answer": "B",
-    "explanation": "Les synonymes totaux (parfaits) sont rares. La plupart des synonymes sont partiels.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « les murs ont des oreilles », quelle figure de style est utilisée ?",
-    "options": ["A) Métaphore", "B) Personnification", "C) Métonymie", "D) Hyperbole"],
-    "answer": "B",
-    "explanation": "On attribue aux murs un organe humain (oreilles) : personnification.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène explique que « souris » (animal) et « souris » (sourire, 3e pers.) soient distincts ?",
-    "options": ["A) Polysémie", "B) Homographie", "C) Synonymie", "D) Méronymie"],
-    "answer": "B",
-    "explanation": "Même graphie, prononciation identique, sens sans lien étymologique : homographie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel terme désigne la liste de termes généraux à spécifiques (animal → mammifère → chien → labrador) ?",
-    "options": ["A) Taxinomie", "B) Synonymie", "C) Champ lexical", "D) Isotopie"],
-    "answer": "A",
-    "explanation": "Une taxinomie est une classification hiérarchique des termes du général au spécifique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « il pleut des cordes », quelle figure est employée ?",
-    "options": ["A) Comparaison", "B) Métaphore", "C) Hyperbole métaphorique", "D) Personnification"],
-    "answer": "C",
-    "explanation": "C'est une métaphore hyperbole : il pleut très fort (les cordes exagèrent l'image).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle relation lie « mari » et « femme » sur le plan lexical ?",
-    "options": ["A) Hétéronymie", "B) Antonymie complémentaire", "C) Synonymie contextuelle", "D) Holonymie"],
-    "answer": "A",
-    "explanation": "Mari/femme sont hétéronymes : sens liés (couple) mais radicaux différents.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'effet stylistique recherché dans une accumulation ?",
-    "options": ["A) Simplifier", "B) Amplifier par une suite d'éléments de même nature", "C) Opposer deux idées", "D) Atténuer une réalité"],
-    "answer": "B",
-    "explanation": "L'accumulation (ou énumération) crée un effet d'intensité ou d'exhaustivité.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie l'expression « avoir le cafard » ?",
-    "options": ["A) Être joyeux", "B) Être mélancolique, déprimé", "C) Avoir peur des insectes", "D) Être bavard"],
-    "answer": "B",
-    "explanation": "« Avoir le cafard » est une métaphore figée signifiant être triste ou déprimé.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la caractéristique d'un oxymoron ?",
-    "options": ["A) Répétition d'un même son", "B) Association de deux termes contradictoires", "C) Énumération croissante", "D) Personnification d'un objet"],
-    "answer": "B",
-    "explanation": "L'oxymoron unit deux mots de sens opposés (ex. : « une obscure clarté »).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel phénomène désigne un mot dont le sens a évolué positivement (mélioratif) au fil du temps ?",
-    "options": ["A) Dépréciation", "B) Aménagement", "C) Amélioration sémantique", "D) Néologisme"],
-    "answer": "C",
-    "explanation": "Certains mots gagnent un sens plus positif avec le temps : c'est l'amélioration sémantique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce que l'isotopie dans un texte ?",
-    "options": ["A) Un ensemble de syllabes répétées", "B) La récurrence de traits sémantiques qui assurent la cohérence d'un texte", "C) L'utilisation de synonymes parfaits", "D) La répétition de la même figure de style"],
-    "answer": "B",
-    "explanation": "L'isotopie est la répétition de traits sémantiques identiques donnant sa cohérence thématique au texte.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans « le crayon d'un enfant », quel type de relation désigne « de » ?",
-    "options": ["A) Relation de possession", "B) Relation méronymique", "C) Relation hyperonymique", "D) Relation d'antonymie"],
-    "answer": "A",
-    "explanation": "Le génitif (de) indique ici une relation d'appartenance/possession.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel mot est à la fois son propre antonyme (autoantonyme) ?",
-    "options": ["A) Chaud", "B) Hôte", "C) Méchant", "D) Clair"],
-    "answer": "B",
-    "explanation": "« Hôte » peut désigner celui qui reçoit et celui qui est reçu : c'est un autoantonyme (ou contronyime).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure de style consiste à interrompre brusquement son discours ?",
-    "options": ["A) Ellipse", "B) Aposiopèse", "C) Prétérition", "D) Périphrase"],
-    "answer": "B",
-    "explanation": "L'aposiopèse est l'interruption brusque du discours, laissant la phrase en suspens.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel procédé désigne l'emprunt d'un mot étranger tel quel dans la langue française ?",
-    "options": ["A) Calque", "B) Néologisme", "C) Xénisme/emprunt direct", "D) Dérivation"],
-    "answer": "C",
-    "explanation": "L'emprunt direct intègre le mot étranger sans le traduire (ex. : weekend, marketing).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le contraire d'une hyperbole ?",
-    "options": ["A) Litote", "B) Métaphore", "C) Antithèse", "D) Anaphore"],
-    "answer": "A",
-    "explanation": "La litote dit moins que la réalité (antiphrase atténuée) ; l'hyperbole dit plus : elles sont en quelque sorte opposées.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de 'prolixe' ?",
-    "options": ["A) Concis", "B) Bavard", "C) Éloquent", "D) Silencieux"],
-    "answer": "B",
-    "explanation": "Quelqu'un de prolixe parle ou écrit beaucoup, de façon trop longue.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'altruiste' ?",
-    "options": ["A) Généreux", "B) Bienveillant", "C) Égoïste", "D) Héroïque"],
-    "answer": "C",
-    "explanation": "Altruiste signifie se consacrer aux autres, son opposé est égoïste.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Choisissez le paronyme correct : 'Il y a une bonne ___ économique en ce moment.'",
-    "options": ["A) conjecture", "B) conjoncture", "C) conjuration", "D) conjugaison"],
-    "answer": "B",
-    "explanation": "Une conjoncture est une situation qui résulte d'une rencontre de circonstances.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie le mot 'abstrus' ?",
-    "options": ["A) Difficile à comprendre", "B) Absurde", "C) Très évident", "D) Lourd"],
-    "answer": "A",
-    "explanation": "Abstrus se dit d'un concept ou d'un discours très obscur, difficile à comprendre.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : L'oiseau est à la plume ce que le mouton est à ___",
-    "options": ["A) L'herbe", "B) L'enclos", "C) La laine", "D) Le berger"],
-    "answer": "C",
-    "explanation": "La plume couvre l'oiseau comme la laine couvre le mouton.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel mot est un synonyme de 'versatile' en français ?",
-    "options": ["A) Polyvalent", "B) Changeant", "C) Talentueux", "D) Têtu"],
-    "answer": "B",
-    "explanation": "En français, 'versatile' signifie qui change souvent d'avis (faux ami avec l'anglais).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'éphémère' ?",
-    "options": ["A) Passager", "B) Transitoire", "C) Pérenne", "D) Mortel"],
-    "answer": "C",
-    "explanation": "Pérenne signifie qui dure très longtemps ou toujours, à l'opposé d'éphémère.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez avec le bon paronyme : 'Il a subi une ___ de son salaire.'",
-    "options": ["A) gradation", "B) dégradation", "C) rétrogradation", "D) amputation"],
-    "answer": "D",
-    "explanation": "On parle d'une amputation de salaire pour désigner une réduction importante. (Rétrogradation concerne le grade).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'pusillanime' ?",
-    "options": ["A) Courageux", "B) Qui manque d'audace, craintif", "C) Très fort", "D) Maladif"],
-    "answer": "B",
-    "explanation": "Un individu pusillanime est timoré, il fuit les responsabilités ou le danger.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : 'Livre' est à 'Bibliothèque' ce que 'Tableau' est à ___",
-    "options": ["A) Pinceau", "B) Artiste", "C) Pinacothèque", "D) Cadre"],
-    "answer": "C",
-    "explanation": "Une pinacothèque est un musée ou un lieu où l'on conserve des peintures.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Trouvez le synonyme de 'loquace' :",
-    "options": ["A) Silencieux", "B) Volubile", "C) Laconique", "D) Taciturne"],
-    "answer": "B",
-    "explanation": "Volubile et loquace qualifient une personne qui parle beaucoup.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'laconique' ?",
-    "options": ["A) Bref", "B) Concis", "C) Prolixe", "D) Sommaire"],
-    "answer": "C",
-    "explanation": "Laconique signifie s'exprimer en peu de mots. Prolixe est son contraire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Choisissez le bon paronyme : 'Le suspect est entré par ___.'",
-    "options": ["A) effraction", "B) infraction", "C) réfraction", "D) diffraction"],
-    "answer": "A",
-    "explanation": "Une effraction est le bris d'une clôture ou serrure pour s'introduire quelque part.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie l'expression 'avoir des accointances' ?",
-    "options": ["A) Avoir des dettes", "B) Avoir des relations familières avec quelqu'un", "C) Avoir de la chance", "D) Être fâché"],
-    "answer": "B",
-    "explanation": "Les accointances désignent des relations, souvent jugées péjorativement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : L'eau est à la soif ce que la nourriture est à ___",
-    "options": ["A) La digestion", "B) L'appétit", "C) La faim", "D) La gastronomie"],
-    "answer": "C",
-    "explanation": "L'eau apaise la soif comme la nourriture apaise la faim.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le sens du mot 'gargantuesque' ?",
-    "options": ["A) Minuscule", "B) Démesuré, énorme", "C) Très bruyant", "D) Silencieux"],
-    "answer": "B",
-    "explanation": "Tiré du personnage Gargantua, signifie gigantesque, souvent lié à l'appétit.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'endémique' ?",
-    "options": ["A) Pandémique", "B) Indigène", "C) Sporadique", "D) Permanent"],
-    "answer": "C",
-    "explanation": "Endémique désigne quelque chose de constant dans une région, tandis que sporadique signifie dispersé, irrégulier.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Paronymes : 'Il n'est pas permis d'___ les règles.'",
-    "options": ["A) éluder", "B) élucider", "C) luder", "D) illuminer"],
-    "answer": "A",
-    "explanation": "Éluder signifie éviter, contourner habilement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie le mot 'iconoclaste' ?",
-    "options": ["A) Qui détruit les images saintes, qui s'attaque aux croyances établies", "B) Qui adore les icônes", "C) Qui collectionne les images", "D) Qui peint des icônes"],
-    "answer": "A",
-    "explanation": "Un iconoclaste détruit les icônes ou rejette la tradition.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : Chirurgien est à bistouri ce que menuisier est à ___",
-    "options": ["A) Bois", "B) Forêt", "C) Rabot", "D) Meuble"],
-    "answer": "C",
-    "explanation": "Le rabot est l'outil du menuisier comme le bistouri est celui du chirurgien.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que veut dire 'ineffable' ?",
-    "options": ["A) Qu'on ne peut pas effacer", "B) Qu'on ne peut exprimer par des mots", "C) Qui est inutile", "D) Qui ne peut pas faillir"],
-    "answer": "B",
-    "explanation": "Ineffable décrit ce qui est si intense ou extraordinaire qu'on ne peut le décrire (du latin ineffabilis).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'opulent' :",
-    "options": ["A) Riche", "B) Luxueux", "C) Indigent", "D) Fastueux"],
-    "answer": "C",
-    "explanation": "Indigent qualifie une personne qui manque du nécessaire (pauvre), contrairement à opulent (très riche).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Choisissez le bon mot : 'Il a fait une ___ dans son discours pour parler d'autre chose.'",
-    "options": ["A) digression", "B) régression", "C) transgression", "D) agression"],
-    "answer": "A",
-    "explanation": "Une digression est un développement qui s'écarte du sujet principal.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'obséquieux' ?",
-    "options": ["A) Autoritaire", "B) Trop poli, hypocrite et flatteur", "C) Mortuaire", "D) Oublieux"],
-    "answer": "B",
-    "explanation": "Qui exagère les marques de politesse ou de respect, par servilité.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : L'apiculteur est aux abeilles ce que le colombophile est aux ___",
-    "options": ["A) Poissons", "B) Pigeons", "C) Moutons", "D) Chevaux"],
-    "answer": "B",
-    "explanation": "La colombophilie est l'élevage des pigeons voyageurs.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le sens de 'frivole' ?",
-    "options": ["A) Sérieux", "B) Léger, sans consistance, futile", "C) Ennuyeux", "D) Épais"],
-    "answer": "B",
-    "explanation": "Une chose ou une personne frivole manque de sérieux, s'attache à ce qui est futile.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'veule' ?",
-    "options": ["A) Faible", "B) Lâche", "C) Énergique", "D) Mou"],
-    "answer": "C",
-    "explanation": "Veule signifie qui n'a aucune énergie, aucune volonté. Son antonyme est énergique ou courageux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Choisissez le bon paronyme : 'Une explosion a eu lieu, c'est un véritable ___.'",
-    "options": ["A) cataclysme", "B) catéchisme", "C) catalytique", "D) cataplasme"],
-    "answer": "A",
-    "explanation": "Un cataclysme est un grand bouleversement destructeur.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : Pédiatre est à enfant ce que gériatre est à ___",
-    "options": ["A) Femme", "B) Vieillard", "C) Animal", "D) Homme"],
-    "answer": "B",
-    "explanation": "Le gériatre est le médecin spécialisé pour les personnes âgées.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie le mot 'acrimonie' ?",
-    "options": ["A) Joie", "B) Aigreur, mauvaise humeur", "C) Harmonie", "D) Intelligence"],
-    "answer": "B",
-    "explanation": "L'acrimonie est un trait de caractère d'une personne aigrie, amère.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'tacite' ?",
-    "options": ["A) Implicite", "B) Sous-entendu", "C) Explicite", "D) Caché"],
-    "answer": "C",
-    "explanation": "Tacite signifie non exprimé (implicite). Son contraire est explicite.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Paronymes : 'Il a reçu une belle ___ financière.'",
-    "options": ["A) allocation", "B) allocution", "C) allégation", "D) allitération"],
-    "answer": "A",
-    "explanation": "Une allocation est une aide financière, une allocution est un discours.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'véloce' ?",
-    "options": ["A) Lent", "B) Qui va à bicyclette", "C) Rapide, agile", "D) Lourd"],
-    "answer": "C",
-    "explanation": "Véloce est un adjectif signifiant rapide.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : Cécité est à la vue ce que surdité est à ___",
-    "options": ["A) L'odorat", "B) L'ouïe", "C) La parole", "D) Le toucher"],
-    "answer": "B",
-    "explanation": "La surdité est la perte de l'ouïe.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Synonyme de 'désuet' :",
-    "options": ["A) Moderne", "B) Obsolete, passé de mode", "C) Inutile", "D) Sale"],
-    "answer": "B",
-    "explanation": "Ce qui est désuet n'est plus en usage, obsolète.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'indulgent' :",
-    "options": ["A) Tolérant", "B) Sévère, intransigeant", "C) Clément", "D) Bon"],
-    "answer": "B",
-    "explanation": "L'indulgence est la disposition à excuser. Sévère ou intransigeant est le contraire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Paronyme : 'Il a commis une grave ___ de jugement.'",
-    "options": ["A) erreur", "B) errements", "C) éruption", "D) irruption"],
-    "answer": "A",
-    "explanation": "Une erreur de jugement. (Les autres mots ne conviennent pas au sens).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que veut dire 'dithyrambique' ?",
-    "options": ["A) Très critique, sévère", "B) Très élogieux, enthousiaste", "C) Dépressif", "D) Ennuyeux"],
-    "answer": "B",
-    "explanation": "Dithyrambique qualifie un éloge enthousiaste et exalté.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : L'architecte est au plan ce que le compositeur est à la ___",
-    "options": ["A) Musique", "B) Chanson", "C) Partition", "D) Note"],
-    "answer": "C",
-    "explanation": "L'architecte écrit son œuvre sur un plan, le compositeur sur une partition.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Synonyme de 'fallacieux' :",
-    "options": ["A) Trompeur, illusoire", "B) Authentique", "C) Faisable", "D) Aisé"],
-    "answer": "A",
-    "explanation": "Ce qui est fallacieux cherche à tromper ou induire en erreur.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'exacerbé' :",
-    "options": ["A) Atténué, apaisé", "B) Aggravé", "C) Exagéré", "D) Amplifié"],
-    "answer": "A",
-    "explanation": "Exacerber signifie rendre plus vif ou violent. Apaisé est son contraire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Paronymes : 'Il faut ___ les informations.'",
-    "options": ["A) corrompre", "B) corroborer", "C) collaborer", "D) colporter"],
-    "answer": "B",
-    "explanation": "Corroborer signifie appuyer, renforcer une idée ou une information.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'polymorphe' ?",
-    "options": ["A) Qui n'a pas de forme", "B) Qui peut prendre plusieurs formes", "C) Qui aime les formes", "D) Qui est très grand"],
-    "answer": "B",
-    "explanation": "Du grec 'poly' (plusieurs) et 'morphè' (forme).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : Le bois est au menuisier ce que l'argile est au ___",
-    "options": ["A) Potier", "B) Forgeron", "C) Verrier", "D) Peintre"],
-    "answer": "A",
-    "explanation": "Le potier modèle l'argile pour créer des objets.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Synonyme de 'flegmatique' :",
-    "options": ["A) Agité", "B) Colérique", "C) Calme, imperturbable", "D) Malade"],
-    "answer": "C",
-    "explanation": "Une personne flegmatique garde son sang-froid en toutes circonstances.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'sporadique' :",
-    "options": ["A) Irrégulier", "B) Continu, régulier", "C) Épisodique", "D) Rare"],
-    "answer": "B",
-    "explanation": "Sporadique veut dire qui apparaît de façon irrégulière.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Paronymes : 'Cet enfant est un véritable ___.'",
-    "options": ["A) prodige", "B) prodigue", "C) profil", "D) profit"],
-    "answer": "A",
-    "explanation": "Un prodige est une personne extraordinairement douée. Prodigue signifie dépensier.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'sycophante' ?",
-    "options": ["A) Un instrument de musique", "B) Un délateur, un dénonciateur", "C) Un type d'arbre", "D) Une maladie"],
-    "answer": "B",
-    "explanation": "Dans la Grèce antique, délateur professionnel, et par extension un espion ou dénonciateur méprisable.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Analogie : Pompier est à l'incendie ce que le policier est à la ___",
-    "options": ["A) Sirène", "B) Voiture", "C) Criminalité", "D) Caserne"],
-    "answer": "C",
-    "explanation": "Le pompier combat l'incendie, le policier combat la criminalité.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Abstrus' ?",
-    "options": ["A) Obscur", "B) Clair", "C) Lourd", "D) Triste"],
-    "answer": "A",
-    "explanation": "Difficile à comprendre.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'Prolixe' :",
-    "options": ["A) Bavard", "B) Concis", "C) Sombre", "D) Vaste"],
-    "answer": "B",
-    "explanation": "Bref dans ses discours.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Ciel est à Bleu ce que Sang est à :",
-    "options": ["A) Rouge", "B) Cœur", "C) Liquide", "D) Veine"],
-    "answer": "A",
-    "explanation": "Couleur caractéristique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Conjoncture' ?",
-    "options": ["A) Hypothèse", "B) Situation globale", "C) Maladie", "D) Articulation"],
-    "answer": "B",
-    "explanation": "La situation économique ou politique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Il a fait une ___.",
-    "options": ["A) conjecture", "B) conjoncture", "C) conjuration", "D) conjonctive"],
-    "answer": "A",
-    "explanation": "Une hypothèse.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Il a su ___ l'argent.",
-    "options": ["A) recouvrir", "B) recouvrer", "C) récupérer", "D) couvrir"],
-    "answer": "B",
-    "explanation": "Rentrer en possession (finances, santé).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Son arrivée est ___.",
-    "options": ["A) éminente", "B) imminente", "C) iminente", "D) émanente"],
-    "answer": "B",
-    "explanation": "Qui va se produire bientôt.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Un professeur ___.",
-    "options": ["A) imminent", "B) éminent", "C) aminent", "D) émanent"],
-    "answer": "B",
-    "explanation": "Remarquable, supérieur.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Pallier' ?",
-    "options": ["A) Résoudre", "B) Remédier provisoirement", "C) Remplacer", "D) Détruire"],
-    "answer": "B",
-    "explanation": "Remède temporaire (sans 'à').",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Phrase correcte :",
-    "options": ["A) Pallier au problème", "B) Pallier le problème", "C) Pallier du problème", "D) Pallier sur le problème"],
-    "answer": "B",
-    "explanation": "Verbe transitif direct.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Synonyme de 'Laconique' :",
-    "options": ["A) Bref", "B) Long", "C) Triste", "D) Joyeux"],
-    "answer": "A",
-    "explanation": "Exprimé en peu de mots.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que désigne 'Acception' ?",
-    "options": ["A) Consentement", "B) Sens d'un mot", "C) Refus", "D) Erreur"],
-    "answer": "B",
-    "explanation": "Le sens dans lequel un mot est employé.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot 'Acceptation' désigne :",
-    "options": ["A) Sens d'un mot", "B) Fait d'accepter", "C) Définition", "D) Pléonasme"],
-    "answer": "B",
-    "explanation": "L'action de consentir.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Un repas organisé à son ___.",
-    "options": ["A) attention", "B) intention", "C) inattention", "D) inttention"],
-    "answer": "B",
-    "explanation": "Pour lui faire honneur.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Une lettre à l'___ du chef.",
-    "options": ["A) intention", "B) attention", "C) inttention", "D) attension"],
-    "answer": "B",
-    "explanation": "Pour qu'il la lise.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Apanage' ?",
-    "options": ["A) Privilège", "B) Désavantage", "C) Nourriture", "D) Décoration"],
-    "answer": "A",
-    "explanation": "Un bien ou avantage exclusif.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'Gargantuesque' :",
-    "options": ["A) Frugal", "B) Homérique", "C) Énorme", "D) Dantesque"],
-    "answer": "A",
-    "explanation": "Repas simple et peu abondant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Synonyme de 'Pugnace' :",
-    "options": ["A) Pacifique", "B) Combatif", "C) Lâche", "D) Peureux"],
-    "answer": "B",
-    "explanation": "Qui aime le combat.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Un comportement 'Velléitaire' :",
-    "options": ["A) Déterminé", "B) Hésitant", "C) Fort", "D) Rapide"],
-    "answer": "B",
-    "explanation": "Qui n'a pas la volonté de passer à l'acte.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Inanition' ?",
-    "options": ["A) Absence de mouvement", "B) Manque de nourriture", "C) Folie", "D) Silence"],
-    "answer": "B",
-    "explanation": "Épuisement dû au manque de nourriture.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Figure: 'Une obscure clarté'",
-    "options": ["A) Oxymore", "B) Euphémisme", "C) Litote", "D) Pléonasme"],
-    "answer": "A",
-    "explanation": "Deux termes de sens contraire liés.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Figure: 'Il nous a quittés' (pour mort)",
-    "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Oxymore"],
-    "answer": "A",
-    "explanation": "Atténuation d'une réalité brutale.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Figure: 'Je ne te hais point'",
-    "options": ["A) Litote", "B) Euphémisme", "C) Allitération", "D) Comparaison"],
-    "answer": "A",
-    "explanation": "Dire moins pour suggérer plus.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un 'Acrostiche' ?",
-    "options": ["A) Poème où les initiales forment un mot", "B) Vers de 12 syllabes", "C) Répétition de son", "D) Roman court"],
-    "answer": "A",
-    "explanation": "Initiales des vers lues verticalement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Adjectif 'Obséquieux' :",
-    "options": ["A) Servile", "B) Funèbre", "C) Triste", "D) Rapide"],
-    "answer": "A",
-    "explanation": "Exagère la politesse par hypocrisie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Une 'Invective' :",
-    "options": ["A) Insulte", "B) Compliment", "C) Outil", "D) Solution"],
-    "answer": "A",
-    "explanation": "Discours violent et injurieux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Volubile' signifie :",
-    "options": ["A) Parle beaucoup", "B) Vole", "C) Rond", "D) Changeant"],
-    "answer": "A",
-    "explanation": "Parle avec abondance et rapidité.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Éphémère/Durable : Fictif/___",
-    "options": ["A) Réel", "B) Virtuel", "C) Imaginaire", "D) Faux"],
-    "answer": "A",
-    "explanation": "Relation d'antonymie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Fiduciaire' ?",
-    "options": ["A) Basé sur la confiance", "B) Légal", "C) Solide", "D) Faux"],
-    "answer": "A",
-    "explanation": "Du latin fiducia, relatif à la confiance (monnaie).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Adjectif 'Bucolique' :",
-    "options": ["A) Campagnard", "B) Marin", "C) Urbain", "D) Céleste"],
-    "answer": "A",
-    "explanation": "Relatif à la campagne, pastoral.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Propos 'Dithyrambique' :",
-    "options": ["A) Élogieux", "B) Critique", "C) Triste", "D) Court"],
-    "answer": "A",
-    "explanation": "Éloge très enthousiaste.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'Taciturne' :",
-    "options": ["A) Loquace", "B) Silencieux", "C) Muet", "D) Sombre"],
-    "answer": "A",
-    "explanation": "Taciturne = qui parle peu. Loquace = bavard.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Tomber en désuétude' :",
-    "options": ["A) N'être plus utilisé", "B) Se casser", "C) Être populaire", "D) Disparaître subitement"],
-    "answer": "A",
-    "explanation": "Ne plus être en usage.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Intrus parmi synonymes de 'Pusillanime' :",
-    "options": ["A) Hardi", "B) Timoré", "C) Couard", "D) Peureux"],
-    "answer": "A",
-    "explanation": "Hardi est l'antonyme (audacieux).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Idoine' ?",
-    "options": ["A) Approprié", "B) Stupide", "C) Ignorant", "D) Vaste"],
-    "answer": "A",
-    "explanation": "Qui convient parfaitement à la situation.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Antonyme de 'Altruiste' :",
-    "options": ["A) Égoïste", "B) Généreux", "C) Bon", "D) Saint"],
-    "answer": "A",
-    "explanation": "Contraire du dévouement à autrui.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Propos 'Acerbe' :",
-    "options": ["A) Blessant", "B) Doux", "C) Calme", "D) Court"],
-    "answer": "A",
-    "explanation": "Dur, piquant, acide.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Pécuniaire' est relatif à :",
-    "options": ["A) L'argent", "B) La loi", "C) La santé", "D) L'art"],
-    "answer": "A",
-    "explanation": "De la pecunia (monnaie).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Il ne faut pas ___ la faute à d'autres.",
-    "options": ["A) imputer", "B) amputer", "C) empoter", "D) impacter"],
-    "answer": "A",
-    "explanation": "Attribuer une faute.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Inhérent' :",
-    "options": ["A) Lié de façon intime", "B) Extérieur", "C) Passager", "D) Lointain"],
-    "answer": "A",
-    "explanation": "Uni de façon inséparable.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Subreptice' :",
-    "options": ["A) Furtif", "B) Légal", "C) Bruyant", "D) Long"],
-    "answer": "A",
-    "explanation": "Fait en cachette.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que désigne 'Apathie' ?",
-    "options": ["A) Indifférence/Manque d'énergie", "B) Empathie", "C) Haine", "D) Peur"],
-    "answer": "A",
-    "explanation": "Absence de volonté et d'émotion.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Une réponse 'Ambiguë' :",
-    "options": ["A) À double sens", "B) Claire", "C) Longue", "D) Courte"],
-    "answer": "A",
-    "explanation": "Peut s'interpréter de plusieurs façons.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Véloce' :",
-    "options": ["A) Rapide", "B) Lourd", "C) Méchant", "D) Fort"],
-    "answer": "A",
-    "explanation": "Agile, rapide.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qu'est-ce qu'un 'Pléonasme' ?",
-    "options": ["A) Répétition de mots de même sens", "B) Mots contraires", "C) Rime", "D) Contresens"],
-    "answer": "A",
-    "explanation": "Exemple: descendre en bas.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Un 'Syllogisme' :",
-    "options": ["A) Raisonnement en 3 temps", "B) Poème", "C) Insulte", "D) Figure d'opposition"],
-    "answer": "A",
-    "explanation": "Déduction logique (prémisses + conclusion).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "'Synergies' :",
-    "options": ["A) Actions coordonnées", "B) Conflits", "C) Divergences", "D) Échecs"],
-    "answer": "A",
-    "explanation": "Effet combiné supérieur aux effets isolés.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Ajourner' ?",
-    "options": ["A) Remettre à plus tard", "B) Annuler définitivement", "C) Accélérer", "D) Mettre au jour"],
-    "answer": "A",
-    "explanation": "Reporter à un autre jour.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de 'Déluré' ?",
-    "options": ["A) Dégourdi", "B) Timide", "C) Hésitant", "D) Naïf"],
-    "answer": "A",
-    "explanation": "Déluré signifie dégourdi.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de 'Arbitraire' ?",
-    "options": ["A) Juste", "B) Légal", "C) Discrétionnaire", "D) Logique"],
-    "answer": "C",
-    "explanation": "Arbitraire signifie discrétionnaire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Prolixe' ?",
-    "options": ["A) Bavard", "B) Laconique", "C) Éloquent", "D) Verbeux"],
-    "answer": "B",
-    "explanation": "Prolixe (bavard) a pour antonyme laconique (bref).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Coordination' ?",
-    "options": ["A) Entente", "B) Désorganisation", "C) Accord", "D) Harmonie"],
-    "answer": "B",
-    "explanation": "Désorganisation est l'antonyme de coordination.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Estimer' ?",
-    "options": ["A) Évaluer", "B) Déprécier", "C) Juger", "D) Calculer"],
-    "answer": "B",
-    "explanation": "L'antonyme d'estimer est déprécier.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de 'Austère' ?",
-    "options": ["A) Joyeux", "B) Luxueux", "C) Sévère", "D) Frivole"],
-    "answer": "C",
-    "explanation": "Austère est synonyme de sévère.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Parmi les propositions, quel est l'antonyme de 'Austère' ?",
-    "options": ["A) Sévère", "B) Luxueux", "C) Rigide", "D) Sobre"],
-    "answer": "B",
-    "explanation": "Luxueux ou Frivole sont des antonymes de austère.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de 'Magnanime' ?",
-    "options": ["A) Rancunier", "B) Égoïste", "C) Généreux", "D) Cruel"],
-    "answer": "C",
-    "explanation": "Magnanime signifie généreux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Magnanime' ?",
-    "options": ["A) Généreux", "B) Altruiste", "C) Rancunier", "D) Bienveillant"],
-    "answer": "C",
-    "explanation": "Rancunier est l'antonyme de magnanime.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie le mot 'Taciturne' ?",
-    "options": ["A) Bavard", "B) Bruyant", "C) Silencieux", "D) Expressif"],
-    "answer": "C",
-    "explanation": "Taciturne est synonyme de silencieux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Taciturne' ?",
-    "options": ["A) Silencieux", "B) Mutique", "C) Bavard", "D) Renfermé"],
-    "answer": "C",
-    "explanation": "L'antonyme de taciturne est bavard.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que veut dire 'Succinct' ?",
-    "options": ["A) Bref", "B) Détaillé", "C) Long", "D) Vaste"],
-    "answer": "A",
-    "explanation": "Succinct signifie bref.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Succinct' ?",
-    "options": ["A) Bref", "B) Court", "C) Concis", "D) Détaillé"],
-    "answer": "D",
-    "explanation": "Détaillé est l'antonyme de succinct.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de 'Péremptoire' ?",
-    "options": ["A) Hésitant", "B) Catégorique", "C) Douteux", "D) Souple"],
-    "answer": "B",
-    "explanation": "Péremptoire signifie catégorique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'Fallacieux' ?",
-    "options": ["A) Trompeur", "B) Illusoire", "C) Sincère", "D) Mensonger"],
-    "answer": "C",
-    "explanation": "Sincère est l'antonyme de fallacieux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Comment s'écrit correctement le mot signifiant un choc violent ?",
-    "options": ["A) Collusion", "B) Collision", "C) Colusion", "D) Colision"],
-    "answer": "B",
-    "explanation": "Une collision est un choc, à ne pas confondre avec collusion (entente secrète).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie le paronyme 'Collusion' ?",
-    "options": ["A) Choc", "B) Accident", "C) Entente secrète", "D) Dispute"],
-    "answer": "C",
-    "explanation": "Une collusion est une entente secrète.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la définition de 'Conjoncture' ?",
-    "options": ["A) Hypothèse", "B) Supposition", "C) Situation", "D) Conséquence"],
-    "answer": "C",
-    "explanation": "La conjoncture désigne une situation (ex: économique).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la définition de 'Conjecture' ?",
-    "options": ["A) Situation", "B) Hypothèse", "C) Fait avéré", "D) Preuve"],
-    "answer": "B",
-    "explanation": "Une conjecture est une hypothèse.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez : Des robes ___",
-    "options": ["A) bleues ciel", "B) bleues ciels", "C) bleu ciel", "D) bleu ciels"],
-    "answer": "C",
-    "explanation": "Les adjectifs de couleur composés sont invariables (bleu ciel).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez : Des vestes ___",
-    "options": ["A) rouge sang", "B) rouges sangs", "C) rouges sang", "D) rouge sangs"],
-    "answer": "A",
-    "explanation": "Invariable car adjectif de couleur composé.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Comment s'écrit le nombre 300 en lettres ?",
-    "options": ["A) Trois cent", "B) Trois cents", "C) Trois-cents", "D) Trois-cent"],
-    "answer": "B",
-    "explanation": "Cent prend un s s'il est multiplié et termine le nombre (trois cents).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Comment s'écrit 82 en lettres ?",
-    "options": ["A) Quatre-vingt-deux", "B) Quatre-vingts-deux", "C) Quatre-vingt deux", "D) Quatre vingts deux"],
-    "answer": "A",
-    "explanation": "Vingt ne prend pas de s car il ne termine pas le nombre (quatre-vingt-deux).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Comment s'écrit 300 000 en lettres ?",
-    "options": ["A) Trois cents milles", "B) Trois cents mille", "C) Trois cent mille", "D) Trois cent milles"],
-    "answer": "C",
-    "explanation": "Cent est multiplié mais suivi de mille, donc invariable (trois cent mille).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le pluriel de 'chou-fleur' ?",
-    "options": ["A) chou-fleur", "B) choux-fleur", "C) chou-fleurs", "D) choux-fleurs"],
-    "answer": "D",
-    "explanation": "Nom composé (nom+nom), les deux prennent la marque du pluriel.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le pluriel de 'arc-en-ciel' ?",
-    "options": ["A) arcs-en-ciel", "B) arc-en-ciels", "C) arcs-en-ciels", "D) arcs-en-cieux"],
-    "answer": "A",
-    "explanation": "Le premier mot (nom) prend la marque du pluriel, le second (complément) reste invariable.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le pluriel de 'timbre-poste' ?",
-    "options": ["A) timbre-postes", "B) timbres-postes", "C) timbres-poste", "D) timbre-poste"],
-    "answer": "C",
-    "explanation": "Pluriel : timbres-poste (des timbres pour la poste).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez : Les pommes qu'il a ___",
-    "options": ["A) mangé", "B) mangés", "C) mangées", "D) mangée"],
-    "answer": "C",
-    "explanation": "Le PP avec avoir s'accorde avec le COD placé avant (les pommes = féminin pluriel).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez : Elles se sont ___ les mains.",
-    "options": ["A) lavé", "B) lavés", "C) lavées", "D) lavée"],
-    "answer": "A",
-    "explanation": "Le COD (les mains) est placé après, le participe reste invariable.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez : Ils se sont ___ la vérité.",
-    "options": ["A) dit", "B) dits", "C) dite", "D) dites"],
-    "answer": "A",
-    "explanation": "Le pronom 'se' est COI (ils ont dit la vérité à qui ? à eux-mêmes), donc invariable.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure de style consiste à feindre de ne pas dire ce qu'on exprime néanmoins ?",
-    "options": ["A) Oxymore", "B) Prétérition", "C) Métaphore", "D) Hyperbole"],
-    "answer": "B",
-    "explanation": "C'est la prétérition.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'expression 'obscure clarté' est un exemple de :",
-    "options": ["A) Pléonasme", "B) Litote", "C) Oxymore", "D) Euphémisme"],
-    "answer": "C",
-    "explanation": "Un oxymore relie deux mots de sens opposés.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La phrase 'la nature est un temple' est un exemple de :",
-    "options": ["A) Comparaison", "B) Métaphore", "C) Allégorie", "D) Personnification"],
-    "answer": "B",
-    "explanation": "C'est une métaphore car c'est une comparaison sans outil de comparaison.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dire 'je meurs de soif' relève de quelle figure de style ?",
-    "options": ["A) Euphémisme", "B) Hyperbole", "C) Antithèse", "D) Chiasme"],
-    "answer": "B",
-    "explanation": "C'est une exagération, donc une hyperbole.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Comment appelle-t-on l'emploi d'un mot déformé (ex: rénumérations) ?",
-    "options": ["A) Solécisme", "B) Néologisme", "C) Barbarisme", "D) Archaïsme"],
-    "answer": "C",
-    "explanation": "C'est un barbarisme.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que désigne un 'janotisme' ou 'amphibologie' ?",
-    "options": ["A) Une faute d'accord", "B) Une construction de phrase ambiguë", "C) Un mot inventé", "D) Une figure d'atténuation"],
-    "answer": "B",
-    "explanation": "C'est une phrase ambiguë prête à double sens.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel mot parmi ces choix est un palindrome ?",
-    "options": ["A) Avion", "B) Ressasser", "C) Bateau", "D) Refaire"],
-    "answer": "B",
-    "explanation": "Ressasser peut se lire dans les deux sens, c'est un palindrome.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie la locution latine 'A priori' ?",
-    "options": ["A) Après l'expérience", "B) Avant l'expérience", "C) Par conséquent", "D) Sans preuve"],
-    "answer": "B",
-    "explanation": "A priori signifie 'avant l'expérience'.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'Casus belli' ?",
-    "options": ["A) Cas de paix", "B) Raison d'État", "C) Motif de guerre", "D) Alliance militaire"],
-    "answer": "C",
-    "explanation": "Casus belli est un motif de guerre.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie 'In vino veritas' ?",
-    "options": ["A) La vie est dans le vin", "B) Le vin rend fort", "C) Le vin est dangereux", "D) La vérité est dans le vin"],
-    "answer": "D",
-    "explanation": "Cela signifie que l'alcool délie les langues et révèle la vérité.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la traduction de 'Pacta sunt servanda' ?",
-    "options": ["A) Les pactes sont secrets", "B) Les contrats doivent être respectés", "C) Les alliances sont éphémères", "D) La paix est primordiale"],
-    "answer": "B",
-    "explanation": "Cette maxime juridique indique que les contrats lient les parties.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Lequel de ces mots possède un double genre ?",
-    "options": ["A) Augure", "B) Amour", "C) Termite", "D) Tubercule"],
-    "answer": "B",
-    "explanation": "Amour est de double genre (masculin au singulier, souvent féminin au pluriel dans la poésie).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le genre du mot 'scolopendre' ?",
-    "options": ["A) Masculin", "B) Féminin", "C) Neutre", "D) Double genre"],
-    "answer": "B",
-    "explanation": "Scolopendre est de genre féminin (une scolopendre).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qui a rédigé 'Le pauvre Christ de Bomba' ?",
-    "options": ["A) Mongo Beti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Bernard Dadié"],
-    "answer": "A",
-    "explanation": "Le pauvre Christ de Bomba est de Mongo Beti.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel auteur a écrit 'Une vie de boy' ?",
-    "options": ["A) Sembène Ousmane", "B) Seydou Badian", "C) Ferdinand Oyono", "D) Ahmadou Kourouma"],
-    "answer": "C",
-    "explanation": "L'auteur d'Une vie de boy est Ferdinand Oyono.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "De qui est l'ouvrage 'L'Enfant noir' ?",
-    "options": ["A) Camara Laye", "B) Mongo Beti", "C) Bernard Dadié", "D) Seydou Badian"],
-    "answer": "A",
-    "explanation": "C'est le chef-d'œuvre de Camara Laye.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est l'antonyme de 'austère' ?",
-    "options": ["A) Luxueux", "B) Sévère", "C) Péremptoire", "D) Déluré"],
-    "answer": "A",
-    "explanation": "Austère signifie dépourvu d'ornement, rigide. Son antonyme le plus commun dans ce contexte est luxueux ou fastueux.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans la phrase 'Cette obscure clarté qui tombe des étoiles' (Corneille), quelle est la figure de style ?",
-    "options": ["A) Oxymore", "B) Métaphore", "C) Antithèse", "D) Hyperbole"],
-    "answer": "A",
-    "explanation": "L'alliance de deux termes de sens opposés (obscure / clarté) dans un même syntagme est un oxymore.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie l'expression 'péremptoire' ?",
-    "options": ["A) Silencieux", "B) Catégorique", "C) Généreux", "D) Trompeur"],
-    "answer": "B",
-    "explanation": "Péremptoire : qui détruit d'avance toute objection, qui est catégorique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Trouvez le synonyme de 'fallacieux' :",
-    "options": ["A) Véridique", "B) Succinct", "C) Trompeur", "D) Taciturne"],
-    "answer": "C",
-    "explanation": "Fallacieux vient du latin 'fallax' (trompeur) ; un argument fallacieux cherche à tromper, à induire en erreur.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que dénonce la locution latine 'casus belli' ?",
-    "options": ["A) Un motif de guerre", "B) Un jugement final", "C) Une paix durable", "D) La vérité dans le vin"],
-    "answer": "A",
-    "explanation": "Casus belli se traduit par 'cas de guerre', l'acte de nature à déclencher un conflit.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie la locution 'pacta sunt servanda' ?",
-    "options": ["A) La chose est jugée.", "B) Les conventions doivent être respectées.", "C) La vérité est dans le vin.", "D) Avant toute expérience."],
-    "answer": "B",
-    "explanation": "C'est un principe fondamental du droit international : les pactes (traités) doivent être respectés.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Lequel de ces couples de mots correspond à des paronymes ?",
-    "options": ["A) Mer / Mère", "B) Collision / Collusion", "C) Grand / Petit", "D) Rapide / Véloce"],
-    "answer": "B",
-    "explanation": "Les paronymes sont des mots qui se ressemblent fortement par leur forme ou leur prononciation mais qui n'ont pas le même sens.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la figure de style dans : 'La nature est un temple où de vivants piliers...' ?",
-    "options": ["A) Métonymie", "B) Comparaison", "C) Métaphore", "D) Oxymore"],
-    "answer": "C",
-    "explanation": "L'assimilation directe de la nature à un temple sans outil de comparaison ('comme') est une métaphore.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez l'analogie. Chien est à aboyer ce que Cheval est à :",
-    "options": ["A) Hennir", "B) Bêler", "C) Mugir", "D) Rugir"],
-    "answer": "A",
-    "explanation": "Le cri du chien est l'aboiement, celui du cheval est le hennissement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "La confusion entre deux paronymes s'appelle :",
-    "options": ["A) Un barbarisme", "B) Une prétérition", "C) Une amphibologie", "D) Un solécisme"],
-    "answer": "A",
-    "explanation": "Le fait de forger un mot inexistant, de déformer un mot ou de confondre deux paronymes peut être qualifié de barbarisme lexical.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans l'expression 'Je ne vous dirai pas que son intelligence est remarquable', il y a :",
-    "options": ["A) Une litote", "B) Une prétérition", "C) Un euphémisme", "D) Une métaphore"],
-    "answer": "B",
-    "explanation": "La prétérition consiste à affirmer que l'on ne va pas dire quelque chose tout en le disant.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie l'adjectif 'taciturne' ?",
-    "options": ["A) Bruyant", "B) Silencieux", "C) Arrogant", "D) Frivole"],
-    "answer": "B",
-    "explanation": "Taciturne se dit d'une personne qui par nature parle peu, qui est silencieuse, souvent d'humeur sombre.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Différence de sens entre 'conjoncture' et 'conjecture' :",
-    "options": ["A) Situation économique / Hypothèse", "B) Hypothèse / Situation", "C) Affirmation / Négation", "D) Vrai / Faux"],
-    "answer": "A",
-    "explanation": "Conjoncture : situation, ensemble d'éléments (économiques, politiques). Conjecture : hypothèse, supposition.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle figure de style est présente dans 'Je meurs de soif' ?",
-    "options": ["A) La litote", "B) La prétérition", "C) L'hyperbole", "D) La métaphore"],
-    "answer": "C",
-    "explanation": "L'hyperbole est une figure d'exagération (on ne meurt pas réellement à l'instant même de soif).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie la locution 'in vino veritas' ?",
-    "options": ["A) Le vin est un poison.", "B) La vérité est dans le vin.", "C) Le vin de la victoire.", "D) Acheter du vin."],
-    "answer": "B",
-    "explanation": "Proverbe latin signifiant qu'une personne ivre a tendance à dire la vérité ou ce qu'elle pense réellement.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Si 'arbitraire' correspond à 'discrétionnaire', alors 'succinct' correspond à :",
-    "options": ["A) Détaillé", "B) Bref", "C) Allongé", "D) Verbeux"],
-    "answer": "B",
-    "explanation": "Succinct signifie qui est énoncé en peu de mots, bref, concis.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le janotisme ou l'amphibologie désigne :",
-    "options": ["A) Une construction syntaxique obscure à double sens.", "B) Un néologisme régional.", "C) Une figure d'exagération.", "D) Une faute d'orthographe."],
-    "answer": "A",
-    "explanation": "L'amphibologie est un double sens dû à la syntaxe ('J'ai vu un homme avec des jumelles').",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qui est l'auteur de 'Climbié' ?",
-    "options": ["A) Bernard Dadié", "B) Camara Laye", "C) Mongo Beti", "D) Seydou Badian"],
-    "answer": "A",
-    "explanation": "Climbié est un roman largement autobiographique de l'écrivain ivoirien Bernard Dadié, paru en 1956.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot 'Kayak' est un exemple de :",
-    "options": ["A) Métaphore", "B) Paronyme", "C) Palindrome", "D) Pléonasme"],
-    "answer": "C",
-    "explanation": "Comme 'radar', 'kayak' se lit de la même façon dans les deux sens.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que veut dire l'expression 'res judicata' ?",
-    "options": ["A) La chose publique", "B) L'autorité de la chose jugée", "C) L'affaire en cours", "D) Le droit de juger"],
-    "answer": "B",
-    "explanation": "Res judicata pro veritate habetur (la chose jugée est tenue pour vérité), ce qui signifie qu'un jugement définitif ne peut être remis en cause.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez l'analogie : Le pauvre Mongo Beti est l'auteur de 'Le Pauvre Christ de Bomba', Seydou Badian est l'auteur de :",
-    "options": ["A) Une vie de boy", "B) Sous l'orage", "C) Docker noir", "D) Climbié"],
-    "answer": "B",
-    "explanation": "Seydou Badian Kouyaté, écrivain et homme politique malien, est l'auteur de 'Sous l'orage'.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le synonyme de l'adjectif 'véloce' ?",
-    "options": ["A) Lent", "B) Rapide", "C) Agréable", "D) Cruel"],
-    "answer": "B",
-    "explanation": "Véloce (qui a de la vélocité) signifie rapide.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Dans 'Elle est belle à mourir', quelle figure de style utilise-t-on ?",
-    "options": ["A) La litote", "B) L'hyperbole", "C) La métaphore", "D) La métonymie"],
-    "answer": "B",
-    "explanation": "L'exagération 'à mourir' souligne l'intensité de la beauté, c'est une hyperbole.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Si 'discrétionnaire' = 'arbitraire', alors 'taciturne' =",
-    "options": ["A) Loquace", "B) Silencieux", "C) Affable", "D) Joyeux"],
-    "answer": "B",
-    "explanation": "Un synonyme direct.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot 'mémoire' (le document écrit) est de quel genre ?",
-    "options": ["A) Féminin", "B) Masculin", "C) Neutre", "D) Variable"],
-    "answer": "B",
-    "explanation": "Un mémoire (document, écrit académique) est masculin. La mémoire (la faculté) est féminine.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que qualifie-t-on d' 'éphémère' ?",
-    "options": ["A) Ce qui dure toujours", "B) Ce qui ne dure qu'un jour", "C) Ce qui est transparent", "D) Ce qui est lumineux"],
-    "answer": "B",
-    "explanation": "Éphémère (du grec ephemeros, d'un jour) qualifie ce qui a une durée très courte.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que veut dire le mot 'allégorie' ?",
-    "options": ["A) Une fausse vérité", "B) La représentation d'une idée abstraite sous une forme concrète", "C) Une exagération manifeste", "D) L'omission d'une conjonction"],
-    "answer": "B",
-    "explanation": "Comme la faucheuse pour la mort, ou la balance pour la justice.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel paronyme faut-il utiliser dans : 'Il a fait une ... pour expliquer la crise' ?",
-    "options": ["A) conjoncture", "B) conjecture", "C) collision", "D) collusion"],
-    "answer": "B",
-    "explanation": "Conjecture = hypothèse, explication non vérifiée.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel auteur africain a écrit 'Les Soleils des indépendances' ?",
-    "options": ["A) Léopold Sédar Senghor", "B) Ahmadou Kourouma", "C) Wole Soyinka", "D) Tchicaya U Tam'si"],
-    "answer": "B",
-    "explanation": "Kourouma est l'auteur des Soleils des indépendances.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le mot 'voile' a un double genre. Quel est son sens au masculin ?",
-    "options": ["A) Pièce de tissu pour faire avancer un bateau", "B) Pièce de tissu destinée à cacher, à recouvrir", "C) Le sport nautique", "D) Le dôme du palais"],
-    "answer": "B",
-    "explanation": "Un voile (pour cacher le visage ou mariée). La voile (bateau).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que signifie l'adjectif 'dithyrambique' ?",
-    "options": ["A) Très critique", "B) Élogieux, enthousiaste à l'excès", "C) Silencieux", "D) Avare"],
-    "answer": "B",
-    "explanation": "Faire des éloges emphatiques.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Complétez la locution latine : 'Errare humanum est, perseverare ...'",
-    "options": ["A) divinum", "B) diabolicum", "C) veritas", "D) absurdum"],
-    "answer": "B",
-    "explanation": "L'erreur est humaine, s'entêter [dans son erreur] est diabolique.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Le néologisme consiste à :",
-    "options": ["A) Emprunter un mot à une autre langue", "B) Créer un nouveau mot ou donner un sens nouveau à un mot existant", "C) Répéter un mot en fin de phrase", "D) Inverser l'ordre des mots"],
-    "answer": "B",
-    "explanation": "Néologisme : mot nouveau.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Si 'prolixe' = 'bavard', 'laconique' =",
-    "options": ["A) Triste", "B) Concis, bref", "C) Volubile", "D) Bavard"],
-    "answer": "B",
-    "explanation": "Laconique : qui s'exprime en peu de mots.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'expression 'c'est mon talon d'Achille' est :",
-    "options": ["A) Une périphrase", "B) Une métaphore lexicalisée (ou allusion mythologique)", "C) Un pléonasme", "D) Un palindrome"],
-    "answer": "B",
-    "explanation": "Désigne le point faible de quelqu'un.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Que désigne le terme 'synecdoque' ?",
-    "options": ["A) Prendre le tout pour la partie ou la partie pour le tout", "B) Exagérer une vérité", "C) Remplacer un mot par un autre de même sonorité", "D) Parler de soi à la troisième personne"],
-    "answer": "A",
-    "explanation": "C'est un type particulier de métonymie.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Parmi ces auteurs, lequel n'est pas ivoirien ?",
-    "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Ferdinand Oyono", "D) Isaie Biton Koulibaly"],
-    "answer": "C",
-    "explanation": "Ferdinand Oyono est d'origine camerounaise.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel mot n'a pas le double genre ?",
-    "options": ["A) Manche", "B) Mémoire", "C) Livre", "D) Tentacule"],
-    "answer": "D",
-    "explanation": "Tentacule est exclusivement masculin.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Un discours 'ampoulé' est un discours :",
-    "options": ["A) Très clair et concis", "B) Éclairant et instructif", "C) Prétentieux, chargé, emphatique", "D) Dénué de sens"],
-    "answer": "C",
-    "explanation": "Style emphatique, boursouflé.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "L'antonyme de 'altruiste' est :",
-    "options": ["A) Généreux", "B) Égoïste", "C) Taciturne", "D) Habile"],
-    "answer": "B",
-    "explanation": "L'altruisme est le dévouement aux autres, l'égoïsme est le contraire.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel est le sens figuré de 'jeter l'éponge' ?",
-    "options": ["A) Nettoyer", "B) Se fâcher", "C) Abandonner", "D) Vaincre"],
-    "answer": "C",
-    "explanation": "Issu de la boxe, jeter l'éponge signifie abandonner le combat.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quelle est la capitale du Togo ?",
-    "options": ["A) Porto-Novo", "B) Lomé", "C) Cotonou", "D) Ouagadougou"],
-    "answer": "B",
-    "explanation": "Lomé est la capitale du Togo.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Burkina Faso ?",
-    "options": ["A) Bamako", "B) Niamey", "C) Ouagadougou", "D) Dakar"],
-    "answer": "C",
-    "explanation": "Ouagadougou est la capitale du Burkina Faso.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quelle partie du corps se trouve le fémur ?",
-    "options": ["A) Le bras", "B) La jambe", "C) Le dos", "D) Le pied"],
-    "answer": "B",
-    "explanation": "Le fémur est l'os de la cuisse, dans la jambe.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Si je suis le gendre de Paul, qui est Paul pour moi ?",
-    "options": ["A) Mon père", "B) Mon frère", "C) Mon beau-père", "D) Mon oncle"],
-    "answer": "C",
-    "explanation": "Le gendre est le mari de la fille, donc Paul est mon beau-père.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Sur quoi portent principalement les recherches de Louis Pasteur ?",
-    "options": ["A) L'électricité", "B) Les microbes et vaccins", "C) La mécanique", "D) L'astronomie"],
-    "answer": "B",
-    "explanation": "Louis Pasteur est célèbre pour ses travaux sur les microbes et la vaccination.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel océan navigue-t-on au large de Tokyo ?",
-    "options": ["A) Océan Atlantique", "B) Océan Pacifique", "C) Océan Indien", "D) Océan Arctique"],
-    "answer": "B",
-    "explanation": "Tokyo se situe sur la côte de l'océan Pacifique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus petit pays du monde ?",
-    "options": ["A) Monaco", "B) Le Vatican", "C) Saint-Marin", "D) Le Liechtenstein"],
-    "answer": "B",
-    "explanation": "Le Vatican est le plus petit pays du monde avec 0,44 km².",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a pour monnaie le Cedi ?",
-    "options": ["A) Le Ghana", "B) Le Nigeria", "C) Le Sénégal", "D) Le Togo"],
-    "answer": "A",
-    "explanation": "Le Cedi est la monnaie du Ghana.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quelle région Abengourou est-il le chef-lieu ?",
-    "options": ["A) Le Moronou", "B) L'Indénié-Djuablin", "C) Le N'Zi", "D) Le Bounkani"],
-    "answer": "B",
-    "explanation": "Abengourou est le chef-lieu de la région de l'Indénié-Djuablin.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quel pays Nairobi est-il la capitale ?",
-    "options": ["A) Tanzanie", "B) Kenya", "C) Ouganda", "D) Rwanda"],
-    "answer": "B",
-    "explanation": "Nairobi est la capitale du Kenya.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Laquelle de ces inventions est la plus récente ?",
-    "options": ["A) Le téléphone", "B) L'ampoule électrique", "C) Internet", "D) La radio"],
-    "answer": "C",
-    "explanation": "Internet a été développé dans les années 1960-1990, bien après les autres.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui est l'auteur de l'œuvre « Le Petit Prince » ?",
     "options": ["A) Victor Hugo", "B) Antoine de Saint-Exupéry", "C) Albert Camus", "D) Jules Verne"],
     "answer": "B",
     "explanation": "Antoine de Saint-Exupéry a écrit « Le Petit Prince » en 1943.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri du corbeau ?",
-    "options": ["A) Croasse", "B) Coasse", "C) Siffle", "D) Piaule"],
-    "answer": "A",
-    "explanation": "Le corbeau croasse.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment écrit-on 200 en lettres ?",
-    "options": ["A) Deux-cent", "B) Deux-cents", "C) Deux cent", "D) Deux cents"],
-    "answer": "D",
-    "explanation": "« Deux cents » s'écrit avec « cents » au pluriel car suivi de rien.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel mode suit la conjonction « Avant que » ?",
-    "options": ["A) L'indicatif", "B) Le subjonctif", "C) Le conditionnel", "D) L'impératif"],
-    "answer": "B",
-    "explanation": "« Avant que » est toujours suivi du subjonctif.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Cameroun ?",
-    "options": ["A) Douala", "B) Yaoundé", "C) Libreville", "D) Bangui"],
-    "answer": "B",
-    "explanation": "Yaoundé est la capitale politique du Cameroun.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la République démocratique du Congo ?",
-    "options": ["A) Brazzaville", "B) Kinshasa", "C) Lubumbashi", "D) Goma"],
-    "answer": "B",
-    "explanation": "Kinshasa est la capitale de la RDC.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Gabon ?",
-    "options": ["A) Libreville", "B) Port-Gentil", "C) Franceville", "D) Oyem"],
-    "answer": "A",
-    "explanation": "Libreville est la capitale du Gabon.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Tchad ?",
-    "options": ["A) Abéché", "B) Moundou", "C) N'Djamena", "D) Sarh"],
-    "answer": "C",
-    "explanation": "N'Djamena est la capitale du Tchad.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Ghana ?",
-    "options": ["A) Kumasi", "B) Tamale", "C) Accra", "D) Tema"],
-    "answer": "C",
-    "explanation": "Accra est la capitale du Ghana.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Bénin ?",
-    "options": ["A) Cotonou", "B) Porto-Novo", "C) Parakou", "D) Abomey"],
-    "answer": "B",
-    "explanation": "Porto-Novo est la capitale administrative du Bénin, bien que Cotonou soit la capitale économique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Niger ?",
-    "options": ["A) Niamey", "B) Zinder", "C) Maradi", "D) Agadez"],
-    "answer": "A",
-    "explanation": "Niamey est la capitale du Niger.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Sénégal ?",
-    "options": ["A) Saint-Louis", "B) Thiès", "C) Dakar", "D) Ziguinchor"],
-    "answer": "C",
-    "explanation": "Dakar est la capitale du Sénégal.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Mali ?",
-    "options": ["A) Bamako", "B) Tombouctou", "C) Sikasso", "D) Kayes"],
-    "answer": "A",
-    "explanation": "Bamako est la capitale du Mali.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus long fleuve d'Afrique ?",
-    "options": ["A) Congo", "B) Niger", "C) Nil", "D) Zambèze"],
-    "answer": "C",
-    "explanation": "Le Nil est le plus long fleuve d'Afrique (6 650 km).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus haut sommet d'Afrique ?",
-    "options": ["A) Mont Kenya", "B) Kilimandjaro", "C) Mont Stanley", "D) Ras Dashan"],
-    "answer": "B",
-    "explanation": "Le Kilimandjaro en Tanzanie culmine à 5 895 m.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de pays partagent le bassin du fleuve Niger ?",
-    "options": ["A) 5", "B) 7", "C) 10", "D) 12"],
-    "answer": "C",
-    "explanation": "Le fleuve Niger traverse ou borde 10 pays africains.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel désert est le plus grand du monde ?",
-    "options": ["A) Sahara", "B) Gobi", "C) Antarctique", "D) Kalahari"],
-    "answer": "C",
-    "explanation": "L'Antarctique est techniquement le plus grand désert (désert froid).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus grand désert chaud du monde ?",
-    "options": ["A) Kalahari", "B) Sahara", "C) Gobi", "D) Arabie"],
-    "answer": "B",
-    "explanation": "Le Sahara est le plus grand désert chaud avec environ 9 millions de km².",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment appelle-t-on le gendre pour les parents de l'épouse ?",
-    "options": ["A) Beau-fils", "B) Beau-frère", "C) Neveu", "D) Cousin"],
-    "answer": "A",
-    "explanation": "Le gendre est le beau-fils pour les parents de l'épouse.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment appelle-t-on la belle-fille pour les parents du mari ?",
-    "options": ["A) Nièce", "B) Bru", "C) Belle-sœur", "D) Cousine"],
-    "answer": "B",
-    "explanation": "La bru est l'épouse du fils (belle-fille).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom scientifique de la rotule ?",
-    "options": ["A) Tibia", "B) Fémur", "C) Patella", "D) Humérus"],
-    "answer": "C",
-    "explanation": "La rotule est appelée 'patella' en nomenclature anatomique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom scientifique du péroné ?",
-    "options": ["A) Fibula", "B) Tibia", "C) Fémur", "D) Malléole"],
-    "answer": "A",
-    "explanation": "Le péroné est appelé 'fibula' en nomenclature anatomique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est l'os le plus long du corps humain ?",
-    "options": ["A) Humérus", "B) Tibia", "C) Fémur", "D) Radius"],
-    "answer": "C",
-    "explanation": "Le fémur (os de la cuisse) est l'os le plus long.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien d'os compte le squelette humain adulte ?",
-    "options": ["A) 186", "B) 206", "C) 226", "D) 246"],
-    "answer": "B",
-    "explanation": "Le squelette adulte compte 206 os.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a découvert la loi de la gravitation universelle ?",
-    "options": ["A) Galilée", "B) Newton", "C) Einstein", "D) Kepler"],
-    "answer": "B",
-    "explanation": "Isaac Newton a formulé la loi de la gravitation en 1687.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a découvert les rayons X ?",
-    "options": ["A) Marie Curie", "B) Wilhelm Röntgen", "C) Henri Becquerel", "D) Pierre Curie"],
-    "answer": "B",
-    "explanation": "Wilhelm Röntgen a découvert les rayons X en 1895.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a découvert la radioactivité ?",
-    "options": ["A) Marie Curie", "B) Pierre Curie", "C) Henri Becquerel", "D) Ernest Rutherford"],
-    "answer": "C",
-    "explanation": "Henri Becquerel a découvert la radioactivité en 1896.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a développé la théorie de la relativité ?",
-    "options": ["A) Newton", "B) Bohr", "C) Einstein", "D) Planck"],
-    "answer": "C",
-    "explanation": "Albert Einstein a publié la relativité restreinte en 1905 et générale en 1915.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel scientifique a créé le premier vaccin contre la rage ?",
-    "options": ["A) Edward Jenner", "B) Louis Pasteur", "C) Robert Koch", "D) Jonas Salk"],
-    "answer": "B",
-    "explanation": "Louis Pasteur a développé le vaccin contre la rage en 1885.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a inventé la première vaccination contre la variole ?",
-    "options": ["A) Louis Pasteur", "B) Edward Jenner", "C) Robert Koch", "D) Alexander Fleming"],
-    "answer": "B",
-    "explanation": "Edward Jenner a développé le vaccin contre la variole en 1796.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri du lion ?",
-    "options": ["A) Rugit", "B) Brame", "C) Hurle", "D) Gronde"],
-    "answer": "A",
-    "explanation": "Le lion rugit.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri de l'âne ?",
-    "options": ["A) Hennit", "B) Brait", "C) Mugit", "D) Bêle"],
-    "answer": "B",
-    "explanation": "L'âne brait.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri du cerf ?",
-    "options": ["A) Brame", "B) Rugit", "C) Hurle", "D) Aboie"],
-    "answer": "A",
-    "explanation": "Le cerf brame.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri de la grenouille ?",
-    "options": ["A) Croasse", "B) Coasse", "C) Siffle", "D) Piaule"],
-    "answer": "B",
-    "explanation": "La grenouille coasse.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-    "options": ["A) 1987", "B) 1989", "C) 1991", "D) 1993"],
-    "answer": "B",
-    "explanation": "Le mur de Berlin est tombé le 9 novembre 1989.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a eu lieu la Révolution française ?",
-    "options": ["A) 1789", "B) 1799", "C) 1804", "D) 1815"],
-    "answer": "A",
-    "explanation": "La Révolution française a commencé en 1789.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui était le premier président des États-Unis ?",
-    "options": ["A) Thomas Jefferson", "B) John Adams", "C) George Washington", "D) Benjamin Franklin"],
-    "answer": "C",
-    "explanation": "George Washington a été le premier président (1789-1797).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
-    "options": ["A) 1482", "B) 1492", "C) 1502", "D) 1512"],
-    "answer": "B",
-    "explanation": "Christophe Colomb a découvert l'Amérique en 1492.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de l'Australie ?",
-    "options": ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Brisbane"],
-    "answer": "C",
-    "explanation": "Canberra est la capitale de l'Australie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Canada ?",
-    "options": ["A) Toronto", "B) Montréal", "C) Vancouver", "D) Ottawa"],
-    "answer": "D",
-    "explanation": "Ottawa est la capitale du Canada.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Brésil ?",
-    "options": ["A) Rio de Janeiro", "B) São Paulo", "C) Brasília", "D) Salvador"],
-    "answer": "C",
-    "explanation": "Brasília est la capitale du Brésil depuis 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la devise de l'Union européenne ?",
-    "options": ["A) Dollar", "B) Livre", "C) Euro", "D) Franc"],
-    "answer": "C",
-    "explanation": "L'euro est la monnaie officielle de l'Union européenne.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la devise du Royaume-Uni ?",
-    "options": ["A) Euro", "B) Livre sterling", "C) Dollar", "D) Couronne"],
-    "answer": "B",
-    "explanation": "La livre sterling (GBP) est la devise du Royaume-Uni.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la planète la plus proche du Soleil ?",
-    "options": ["A) Vénus", "B) Mars", "C) Mercure", "D) Terre"],
-    "answer": "C",
-    "explanation": "Mercure est la planète la plus proche du Soleil.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de continents existe-t-il ?",
-    "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
-    "answer": "C",
-    "explanation": "Il y a 7 continents : Afrique, Amérique du Nord, Amérique du Sud, Antarctique, Asie, Europe, Océanie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a remporté la première Coupe du monde de football ?",
-    "options": ["A) Brésil", "B) Argentine", "C) Uruguay", "D) Italie"],
-    "answer": "C",
-    "explanation": "L'Uruguay a remporté la première Coupe du monde en 1930.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a peint la Joconde ?",
-    "options": ["A) Michel-Ange", "B) Léonard de Vinci", "C) Raphaël", "D) Donatello"],
-    "answer": "B",
-    "explanation": "Léonard de Vinci a peint la Joconde vers 1503-1506.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel pays se trouve la tour Eiffel ?",
-    "options": ["A) Italie", "B) Espagne", "C) France", "D) Belgique"],
-    "answer": "C",
-    "explanation": "La tour Eiffel se trouve à Paris, en France.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le symbole chimique de l'or ?",
-    "options": ["A) Or", "B) Au", "C) Ag", "D) Go"],
-    "answer": "B",
-    "explanation": "Le symbole de l'or est Au (du latin 'aurum').",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le symbole chimique de l'argent ?",
-    "options": ["A) Ar", "B) Ag", "C) Si", "D) Al"],
-    "answer": "B",
-    "explanation": "Le symbole de l'argent est Ag (du latin 'argentum').",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien y a-t-il de secondes dans une heure ?",
-    "options": ["A) 3 000", "B) 3 600", "C) 6 000", "D) 7 200"],
-    "answer": "B",
-    "explanation": "1 heure = 60 minutes × 60 secondes = 3 600 secondes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de l'Éthiopie ?",
-    "options": ["A) Nairobi", "B) Khartoum", "C) Addis-Abeba", "D) Kampala"],
-    "answer": "C",
-    "explanation": "Addis-Abeba est la capitale de l'Éthiopie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel océan borde l'ouest de l'Afrique ?",
-    "options": ["A) Océan Indien", "B) Océan Atlantique", "C) Océan Pacifique", "D) Océan Arctique"],
-    "answer": "B",
-    "explanation": "L'océan Atlantique borde la côte ouest de l'Afrique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de planètes compte le système solaire ?",
-    "options": ["A) 7", "B) 8", "C) 9", "D) 10"],
-    "answer": "B",
-    "explanation": "Le système solaire compte 8 planètes depuis le déclassement de Pluton en 2006.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays est surnommé le 'pays du Soleil Levant' ?",
-    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
-    "answer": "C",
-    "explanation": "Le Japon est traditionnellement appelé le 'pays du Soleil Levant'.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la langue officielle du Brésil ?",
-    "options": ["A) Espagnol", "B) Portugais", "C) Français", "D) Anglais"],
-    "answer": "B",
-    "explanation": "Le portugais est la langue officielle du Brésil.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le chef-lieu du District des Lacs en Côte d'Ivoire ?",
-    "options": ["A) Yamoussoukro", "B) Dimbokro", "C) Bouaflé", "D) Toumodi"],
-    "answer": "B",
-    "explanation": "Dimbokro est le chef-lieu du District des Lacs.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quelle région Bouna est-il le chef-lieu ?",
-    "options": ["A) Le Zanzan", "B) Le Bounkani", "C) Le Gontougo", "D) Le Tchologo"],
-    "answer": "B",
-    "explanation": "Bouna est le chef-lieu de la région du Bounkani.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quel pays Lilongwe est-il la capitale ?",
-    "options": ["A) Zambie", "B) Zimbabwe", "C) Malawi", "D) Mozambique"],
-    "answer": "C",
-    "explanation": "Lilongwe est la capitale du Malawi.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel nom d'oiseau utilise-t-on pour désigner un auteur de lettres anonymes ?",
-    "options": ["A) Un aigle", "B) Un vautour", "C) Un corbeau", "D) Un faucon"],
-    "answer": "C",
-    "explanation": "On appelle « corbeau » la personne qui envoie des lettres anonymes malveillantes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle traversée Louis Blériot a-t-il réussie en avion le 25 juillet 1909 ?",
-    "options": ["A) L'Atlantique", "B) La Méditerranée", "C) La Manche", "D) Le Pacifique"],
-    "answer": "C",
-    "explanation": "Louis Blériot a été le premier à traverser la Manche en avion.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de la maladie qui entraîne un battement trop rapide du cœur ?",
-    "options": ["A) Tachycardie", "B) Bradycardie", "C) Arythmie", "D) Angine"],
-    "answer": "A",
-    "explanation": "La tachycardie est l'accélération anormale du rythme cardiaque.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui est l'auteur de l'œuvre « Le Malade imaginaire » ?",
     "options": ["A) Molière", "B) Racine", "C) Corneille", "D) Voltaire"],
     "answer": "A",
     "explanation": "Molière (Jean-Baptiste Poquelin) a écrit « Le Malade imaginaire » en 1673.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quelle ville siège l'Organisation des pays exportateurs de pétrole (OPEP) ?",
-    "options": ["A) Genève", "B) New York", "C) Vienne", "D) Riyad"],
-    "answer": "C",
-    "explanation": "L'OPEP a son siège à Vienne, en Autriche.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Lequel de ces personnages n'est PAS issu du roman « Les Misérables » ?",
     "options": ["A) Fleur de lys", "B) Jean Valjean", "C) Cosette", "D) Gavroche"],
     "answer": "A",
     "explanation": "Fleur de lys est un personnage de « Notre-Dame de Paris », pas des « Misérables ».",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année la Côte d'Ivoire a-t-elle accédé à l'indépendance ?",
-    "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1963"],
-    "answer": "B",
-    "explanation": "La Côte d'Ivoire a proclamé son indépendance le 7 août 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le premier président de la Côte d'Ivoire ?",
-    "options": ["A) Henri Konan Bédié", "B) Laurent Gbagbo", "C) Félix Houphouët-Boigny", "D) Robert Guéï"],
-    "answer": "C",
-    "explanation": "Félix Houphouët-Boigny est le père fondateur et premier président (1960-1993).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale administrative de la Côte d'Ivoire ?",
-    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) San-Pédro"],
-    "answer": "C",
-    "explanation": "Yamoussoukro est la capitale politique et administrative depuis 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « L'enfant noir » ?",
     "options": ["A) Léopold Sédar Senghor", "B) Camara Laye", "C) Ahmadou Kourouma", "D) Mongo Béti"],
     "answer": "B",
     "explanation": "Camara Laye, écrivain guinéen, a écrit « L'enfant noir » en 1953.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « Les Soleils des Indépendances » ?",
     "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Félix Tchicaya", "D) Birago Diop"],
     "answer": "B",
     "explanation": "Ahmadou Kourouma, écrivain ivoirien, a publié ce roman en 1968.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel poète et homme politique sénégalais a cofondé le mouvement de la Négritude ?",
-    "options": ["A) Aimé Césaire", "B) Léopold Sédar Senghor", "C) Léon-Gontran Damas", "D) Les trois ensemble"],
-    "answer": "D",
-    "explanation": "La Négritude a été fondée par Senghor, Césaire et Damas dans les années 1930.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays africain est le plus grand producteur mondial de cacao ?",
-    "options": ["A) Ghana", "B) Nigeria", "C) Côte d'Ivoire", "D) Cameroun"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a pour monnaie le Naira ?",
-    "options": ["A) Ghana", "B) Nigeria", "C) Liberia", "D) Sierra Leone"],
-    "answer": "B",
-    "explanation": "Le Naira est la monnaie officielle du Nigeria.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a pour monnaie le Rand ?",
-    "options": ["A) Kenya", "B) Éthiopie", "C) Afrique du Sud", "D) Tanzanie"],
-    "answer": "C",
-    "explanation": "Le Rand est la monnaie de l'Afrique du Sud.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Rwanda ?",
-    "options": ["A) Bujumbura", "B) Kigali", "C) Kampala", "D) Gitega"],
-    "answer": "B",
-    "explanation": "Kigali est la capitale du Rwanda.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Guinée-Bissau ?",
-    "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Banjul"],
-    "answer": "B",
-    "explanation": "Bissau est la capitale de la Guinée-Bissau.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Gambie ?",
-    "options": ["A) Banjul", "B) Dakar", "C) Freetown", "D) Bissau"],
-    "answer": "A",
-    "explanation": "Banjul est la capitale de la Gambie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Liberia ?",
-    "options": ["A) Freetown", "B) Accra", "C) Monrovia", "D) Abidjan"],
-    "answer": "C",
-    "explanation": "Monrovia est la capitale du Liberia.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Sierra Leone ?",
-    "options": ["A) Monrovia", "B) Freetown", "C) Conakry", "D) Banjul"],
-    "answer": "B",
-    "explanation": "Freetown est la capitale de la Sierra Leone.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la République Centrafricaine ?",
-    "options": ["A) Bangui", "B) Yaoundé", "C) Libreville", "D) Malabo"],
-    "answer": "A",
-    "explanation": "Bangui est la capitale de la République Centrafricaine.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel lac est le plus grand d'Afrique ?",
-    "options": ["A) Lac Tanganyika", "B) Lac Tchad", "C) Lac Victoria", "D) Lac Malawi"],
-    "answer": "C",
-    "explanation": "Le lac Victoria est le plus grand lac d'Afrique (environ 68 000 km²).",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « Les Fleurs du Mal » ?",
     "options": ["A) Arthur Rimbaud", "B) Charles Baudelaire", "C) Paul Verlaine", "D) Stéphane Mallarmé"],
     "answer": "B",
     "explanation": "Charles Baudelaire a publié « Les Fleurs du Mal » en 1857.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « Candide » ?",
     "options": ["A) Montesquieu", "B) Rousseau", "C) Voltaire", "D) Diderot"],
     "answer": "C",
     "explanation": "Voltaire a écrit « Candide ou l'Optimisme » en 1759.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel fleuve est le plus long d'Europe ?",
-    "options": ["A) Danube", "B) Rhin", "C) Volga", "D) Loire"],
-    "answer": "C",
-    "explanation": "La Volga est le plus long fleuve d'Europe (environ 3 530 km).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année le Sénégal a-t-il accédé à l'indépendance ?",
-    "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1963"],
-    "answer": "B",
-    "explanation": "Le Sénégal a proclamé son indépendance le 4 avril 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la principale base de lancement d'engins spatiaux aux États-Unis ?",
-    "options": ["A) Houston", "B) Cap Canaveral", "C) Los Angeles", "D) Washington"],
-    "answer": "B",
-    "explanation": "Cap Canaveral (Kennedy Space Center) est la principale base spatiale américaine.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Depuis 2020, quel territoire pourrait devenir le 51ème État des États-Unis ?",
-    "options": ["A) Porto Rico", "B) Guam", "C) Washington D.C.", "D) Samoa américaines"],
-    "answer": "A",
-    "explanation": "Porto Rico a voté en 2020 en faveur de son intégration comme 51ème État.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de districts administratifs compte la Côte d'Ivoire ?",
-    "options": ["A) 10", "B) 12", "C) 14", "D) 31"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le symbole chimique du fer ?",
-    "options": ["A) Fr", "B) Fe", "C) Fa", "D) Fi"],
-    "answer": "B",
-    "explanation": "Le symbole du fer est Fe (du latin 'ferrum').",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri de l'éléphant ?",
-    "options": ["A) Barrit", "B) Rugit", "C) Mugit", "D) Brame"],
-    "answer": "A",
-    "explanation": "L'éléphant barrit.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le cri du cheval ?",
-    "options": ["A) Brait", "B) Mugit", "C) Hennit", "D) Bêle"],
-    "answer": "C",
-    "explanation": "Le cheval hennit.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus grand fleuve de Côte d'Ivoire ?",
-    "options": ["A) Le Sassandra", "B) Le Bandama", "C) Le Comoé", "D) Le Cavally"],
-    "answer": "B",
-    "explanation": "Le Bandama est le plus grand fleuve de Côte d'Ivoire (environ 1 050 km).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
-    "options": ["A) Le gouvernement", "B) Le Sénat seul", "C) L'Assemblée nationale et le Sénat", "D) La Cour suprême"],
-    "answer": "C",
-    "explanation": "Le Parlement ivoirien est bicaméral : Assemblée nationale et Sénat.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la religion la plus pratiquée dans le monde ?",
-    "options": ["A) L'islam", "B) Le christianisme", "C) L'hindouisme", "D) Le bouddhisme"],
-    "answer": "B",
-    "explanation": "Le christianisme est la religion la plus pratiquée avec environ 2,4 milliards de fidèles.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays africain a accueilli la CAN 2023 ?",
-    "options": ["A) Cameroun", "B) Côte d'Ivoire", "C) Sénégal", "D) Nigeria"],
-    "answer": "B",
-    "explanation": "La Côte d'Ivoire a accueilli la CAN 2023 (jouée en janvier-février 2024).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a remporté la CAN 2023 ?",
-    "options": ["A) Le Nigeria", "B) Le Sénégal", "C) La Côte d'Ivoire", "D) La RDC"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire a remporté la CAN 2023 en battant le Nigeria en finale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le symbole chimique du cuivre ?",
-    "options": ["A) Cr", "B) Cu", "C) Co", "D) Ci"],
-    "answer": "B",
-    "explanation": "Le symbole du cuivre est Cu (du latin 'cuprum').",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel organe du corps humain produit l'insuline ?",
-    "options": ["A) Le foie", "B) Le rein", "C) Le pancréas", "D) La rate"],
-    "answer": "C",
-    "explanation": "Le pancréas produit l'insuline qui régule le taux de glucose dans le sang.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus grand pays d'Afrique en superficie ?",
-    "options": ["A) RDC", "B) Soudan", "C) Algérie", "D) Libye"],
-    "answer": "C",
-    "explanation": "L'Algérie est le plus grand pays d'Afrique avec environ 2,38 millions de km².",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « Une vie de boy » ?",
     "options": ["A) Mongo Béti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Cheikh Hamidou Kane"],
     "answer": "B",
     "explanation": "Ferdinand Oyono, écrivain camerounais, a publié « Une vie de boy » en 1956.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « L'aventure ambiguë » ?",
     "options": ["A) Birago Diop", "B) Cheikh Hamidou Kane", "C) Ousmane Sembène", "D) Léopold Sédar Senghor"],
     "answer": "B",
     "explanation": "Cheikh Hamidou Kane, écrivain sénégalais, a publié ce roman en 1961.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Guinée équatoriale ?",
-    "options": ["A) Bata", "B) Malabo", "C) Libreville", "D) Douala"],
-    "answer": "B",
-    "explanation": "Malabo est la capitale de la Guinée équatoriale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Soudan ?",
-    "options": ["A) Khartoum", "B) Djouba", "C) Le Caire", "D) Asmara"],
-    "answer": "A",
-    "explanation": "Khartoum est la capitale du Soudan.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Soudan du Sud ?",
-    "options": ["A) Khartoum", "B) Djouba", "C) Kampala", "D) Nairobi"],
-    "answer": "B",
-    "explanation": "Djouba (Juba) est la capitale du Soudan du Sud.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a pour monnaie le Yen ?",
-    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
-    "answer": "C",
-    "explanation": "Le Yen est la monnaie du Japon.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus petit continent ?",
-    "options": ["A) Antarctique", "B) Europe", "C) Océanie", "D) Amérique du Sud"],
-    "answer": "C",
-    "explanation": "L'Océanie est le plus petit continent.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien d'arrondissements compte la ville d'Abidjan ?",
-    "options": ["A) 10", "B) 13", "C) 15", "D) 20"],
-    "answer": "A",
-    "explanation": "La ville d'Abidjan compte 10 communes (arrondissements).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le sigle de la monnaie utilisée en Côte d'Ivoire ?",
-    "options": ["A) CDF", "B) XOF", "C) EUR", "D) GHS"],
-    "answer": "B",
-    "explanation": "XOF est le code ISO du franc CFA de l'Afrique de l'Ouest (BCEAO).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel savant grec est considéré comme le père de la médecine ?",
-    "options": ["A) Aristote", "B) Hippocrate", "C) Galien", "D) Archimède"],
-    "answer": "B",
-    "explanation": "Hippocrate (460-370 av. J.-C.) est considéré comme le père de la médecine.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays africain n'a jamais été colonisé ?",
-    "options": ["A) Ghana", "B) Liberia", "C) Éthiopie", "D) Liberia et Éthiopie"],
-    "answer": "D",
-    "explanation": "L'Éthiopie et le Liberia sont les deux seuls pays africains n'ayant jamais été colonisés.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a découvert la pénicilline ?",
-    "options": ["A) Louis Pasteur", "B) Alexander Fleming", "C) Robert Koch", "D) Jonas Salk"],
-    "answer": "B",
-    "explanation": "Alexander Fleming a découvert la pénicilline (antibiotique) en 1928.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le fleuve le plus long du monde ?",
-    "options": ["A) Amazone", "B) Nil", "C) Mississippi", "D) Yangzi Jiang"],
-    "answer": "B",
-    "explanation": "Le Nil est le fleuve le plus long du monde avec environ 6 650 km.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année les attentats du 11 septembre ont-ils eu lieu ?",
-    "options": ["A) 2000", "B) 2001", "C) 2002", "D) 2003"],
-    "answer": "B",
-    "explanation": "Les attentats du World Trade Center ont eu lieu le 11 septembre 2001.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel philosophe grec est l'auteur de « La République » ?",
-    "options": ["A) Aristote", "B) Socrate", "C) Platon", "D) Épicure"],
-    "answer": "C",
-    "explanation": "Platon a écrit « La République » où il développe sa vision de la cité idéale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de Madagascar ?",
-    "options": ["A) Moroni", "B) Antananarivo", "C) Maputo", "D) Victoria"],
-    "answer": "B",
-    "explanation": "Antananarivo est la capitale de Madagascar.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel organe du corps humain filtre le sang ?",
-    "options": ["A) Le cœur", "B) Le foie", "C) Le rein", "D) Le poumon"],
-    "answer": "C",
-    "explanation": "Les reins filtrent le sang pour éliminer les déchets sous forme d'urine.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quelle articulation du corps se situe la rotule ?",
-    "options": ["A) La hanche", "B) L'epaule", "C) Le genou", "D) Le coude"],
-    "answer": "C",
-    "explanation": "La rotule est l'os qui protege l'articulation du genou.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Si je suis la bru de Michelle, qui est Michelle pour moi ?",
-    "options": ["A) Ma soeur", "B) Ma tante", "C) Ma belle-mere", "D) Ma belle-soeur"],
-    "answer": "C",
-    "explanation": "La bru est l'epouse du fils : Michelle est donc la belle-mere.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel nom d'oiseau designe un auteur de lettres anonymes ?",
-    "options": ["A) Aigle", "B) Perroquet", "C) Corbeau", "D) Hibou"],
-    "answer": "C",
-    "explanation": "Un corbeau est familierement une personne qui envoie des lettres anonymes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Maroc ?",
-    "options": ["A) Casablanca", "B) Marrakech", "C) Fes", "D) Rabat"],
-    "answer": "D",
-    "explanation": "Rabat est la capitale officielle du Maroc.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la C?te d'Ivoire ?",
-    "options": ["A) Abidjan", "B) Yamoussoukro", "C) Bouake", "D) San-Pedro"],
-    "answer": "B",
-    "explanation": "Yamoussoukro est la capitale politique de la C?te d'Ivoire depuis 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus grand pays du monde ?",
-    "options": ["A) La Russie", "B) Le Canada", "C) Les ?tats-Unis", "D) La Chine"],
-    "answer": "A",
-    "explanation": "La Russie est le plus grand pays du monde avec environ 17,1 millions de km2.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a pour monnaie le Shekel ?",
-    "options": ["A) Israel", "B) Jordanie", "C) Liban", "D) Syrie"],
-    "answer": "A",
-    "explanation": "Le nouveau Shekel est la monnaie officielle d'Israel.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle traversee Louis Bleriot a-t-il reussie en avion le 25 juillet 1909 ?",
-    "options": ["A) La Mediterranee", "B) La Manche", "C) Le Rhin", "D) Le detroit de Gibraltar"],
-    "answer": "B",
-    "explanation": "Louis Bleriot a traverse la Manche en avion pour la premiere fois le 25 juillet 1909.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de la maladie qui entraine un battement trop rapide du coeur ?",
-    "options": ["A) Tachycardie", "B) Bradycardie", "C) Arythmie", "D) Angine"],
-    "answer": "A",
-    "explanation": "La tachycardie est une frequence cardiaque anormalement elevee (plus de 100 battements par minute).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quelle ville siege l'OPEP ?",
-    "options": ["A) Ryad", "B) Dubai", "C) Vienne", "D) Geneve"],
-    "answer": "C",
-    "explanation": "Le siege de l'OPEP est a Vienne, en Autriche, depuis 1965.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui est l'auteur de Le malade imaginaire ?",
     "options": ["A) Moliere", "B) Racine", "C) Corneille", "D) La Fontaine"],
     "answer": "A",
     "explanation": "Le malade imaginaire est une comedie-ballet de Moliere (1673).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quelle region Bouna est-il le chef-lieu ?",
-    "options": ["A) Le Poro", "B) Le Bounkani", "C) Le Hambol", "D) Le Moronou"],
-    "answer": "B",
-    "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la C?te d'Ivoire.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de l'Egypte ?",
-    "options": ["A) Alexandrie", "B) Louxor", "C) Le Caire", "D) Assouan"],
-    "answer": "C",
-    "explanation": "Le Caire est la capitale de l'Egypte et la ville la plus peuplee d'Afrique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Sur quoi reposent principalement les travaux de Pierre et Marie Curie ?",
-    "options": ["A) La physique quantique", "B) La theorie de la relativite", "C) La radioactivite", "D) L'electromagnetisme"],
-    "answer": "C",
-    "explanation": "Pierre et Marie Curie ont consacre leurs recherches a la radioactivite.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel océan navigue-t-on au large de New York ?",
-    "options": ["A) Océan Indien", "B) Océan Atlantique", "C) Océan Pacifique", "D) Océan Arctique"],
-    "answer": "B",
-    "explanation": "New York est située sur la côte est des États-Unis, au bord de l'Océan Atlantique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de l'Afrique du Sud ?",
-    "options": ["A) Johannesburg", "B) Le Cap", "C) Pretoria", "D) Durban"],
-    "answer": "C",
-    "explanation": "Pretoria est la capitale administrative (exécutive) de l'Afrique du Sud.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus haut sommet du monde ?",
-    "options": ["A) K2", "B) Kilimandjaro", "C) Everest", "D) Mont Blanc"],
-    "answer": "C",
-    "explanation": "L'Everest (8 849 m) est le plus haut sommet du monde, situé dans l'Himalaya.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Kenya ?",
-    "options": ["A) Mombasa", "B) Nairobi", "C) Kampala", "D) Dar es-Salaam"],
-    "answer": "B",
-    "explanation": "Nairobi est la capitale du Kenya.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Nigeria ?",
-    "options": ["A) Lagos", "B) Ibadan", "C) Abuja", "D) Kano"],
-    "answer": "C",
-    "explanation": "Abuja est la capitale politique du Nigeria depuis 1991 (remplaçant Lagos).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus long fleuve d'Afrique subsaharienne ?",
-    "options": ["A) Le Congo", "B) Le Niger", "C) Le Zambèze", "D) Le Sénégal"],
-    "answer": "B",
-    "explanation": "Le Niger est le plus long fleuve d'Afrique subsaharienne (4 200 km).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année la Côte d'Ivoire a-t-elle été admise à l'ONU ?",
-    "options": ["A) 1960", "B) 1961", "C) 1963", "D) 1965"],
-    "answer": "A",
-    "explanation": "La Côte d'Ivoire a été admise à l'ONU le 20 septembre 1960, l'année de son indépendance.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays possède la plus grande forêt tropicale du monde ?",
-    "options": ["A) La RDC", "B) L'Indonésie", "C) Le Brésil", "D) La Colombie"],
-    "answer": "C",
-    "explanation": "Le Brésil possède la plus grande forêt tropicale du monde : l'Amazonie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle montagne est la plus haute d'Afrique ?",
-    "options": ["A) Mont Kenya", "B) Kilimandjaro", "C) Ras Dashen", "D) Mont Cameroun"],
-    "answer": "B",
-    "explanation": "Le Kilimandjaro (5 895 m), en Tanzanie, est le point culminant d'Afrique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays d'Afrique de l'Ouest est le plus peuplé ?",
-    "options": ["A) Ghana", "B) Sénégal", "C) Nigeria", "D) Côte d'Ivoire"],
-    "answer": "C",
-    "explanation": "Le Nigeria est le pays le plus peuplé d'Afrique et d'Afrique de l'Ouest (environ 220 millions d'hab.).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Sur quel continent se trouve le Sahara ?",
-    "options": ["A) Asie", "B) Amérique du Sud", "C) Afrique", "D) Australie"],
-    "answer": "C",
-    "explanation": "Le Sahara, plus grand désert chaud du monde, se trouve en Afrique du Nord.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la monnaie officielle du Ghana ?",
-    "options": ["A) Franc CFA", "B) Cedi", "C) Naira", "D) Dalasi"],
-    "answer": "B",
-    "explanation": "La monnaie du Ghana est le Cedi (GHS).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays d'Afrique partage ses frontières avec la Côte d'Ivoire au nord ?",
-    "options": ["A) Le Ghana", "B) La Guinée", "C) Le Burkina Faso", "D) Le Mali"],
-    "answer": "C",
-    "explanation": "Le Burkina Faso est au nord de la Côte d'Ivoire. Le Mali est aussi voisin au nord-ouest.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Guinée ?",
-    "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Monrovia"],
-    "answer": "A",
-    "explanation": "Conakry est la capitale de la République de Guinée.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel prix a reçu Nelson Mandela en 1993 ?",
     "options": ["A) Prix Nobel de la Paix", "B) Prix Nobel de Littérature", "C) Prix Nobel d'Économie", "D) Prix Pulitzer"],
     "answer": "A",
     "explanation": "Nelson Mandela a reçu le Prix Nobel de la Paix en 1993, partagé avec F. W. de Klerk.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la principale source d'énergie de la Côte d'Ivoire ?",
-    "options": ["A) L'énergie nucléaire", "B) Le pétrole", "C) L'hydroélectricité et le gaz", "D) Le charbon"],
-    "answer": "C",
-    "explanation": "La CI tire l'essentiel de son énergie de l'hydroélectricité (Taabo, Kossou) et du gaz naturel.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a inventé le téléphone ?",
-    "options": ["A) Thomas Edison", "B) Alexander Graham Bell", "C) Nikola Tesla", "D) James Watt"],
-    "answer": "B",
-    "explanation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone (1876).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de la lagune sur laquelle se trouve Abidjan ?",
-    "options": ["A) Lagune Ébrié", "B) Lagune de Grand-Lahou", "C) Lagune Ouladine", "D) Lagune de Fresco"],
-    "answer": "A",
-    "explanation": "Abidjan est construite autour de la lagune Ébrié.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel philosophe a énoncé « Je pense donc je suis » ?",
-    "options": ["A) Kant", "B) Descartes", "C) Locke", "D) Hegel"],
-    "answer": "B",
-    "explanation": "René Descartes a formulé « Cogito ergo sum » (Je pense donc je suis) dans ses Méditations.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus grand océan du monde ?",
-    "options": ["A) Atlantique", "B) Indien", "C) Arctique", "D) Pacifique"],
-    "answer": "D",
-    "explanation": "L'océan Pacifique est le plus grand et le plus profond des océans.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a eu lieu la Conférence de Berlin qui a partagé l'Afrique ?",
-    "options": ["A) 1878", "B) 1884-1885", "C) 1900", "D) 1910"],
-    "answer": "B",
-    "explanation": "La Conférence de Berlin (1884-1885) a organisé le partage colonial de l'Afrique entre puissances européennes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus grand désert froid du monde ?",
-    "options": ["A) Sahara", "B) Gobi", "C) Antarctique", "D) Atacama"],
-    "answer": "C",
-    "explanation": "L'Antarctique est le plus grand désert (froid) du monde avec 14,2 millions de km².",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays d'Afrique possède la plus grande économie ?",
-    "options": ["A) Afrique du Sud", "B) Égypte", "C) Nigeria", "D) Kenya"],
-    "answer": "C",
-    "explanation": "Le Nigeria est la première économie africaine en termes de PIB nominal.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom du port autonome d'Abidjan ?",
-    "options": ["A) Port de San Pedro", "B) Port Bouët", "C) Port Autonome d'Abidjan (PAA)", "D) Port de Vridi"],
-    "answer": "C",
-    "explanation": "Le Port Autonome d'Abidjan (PAA) est le premier port d'Afrique de l'Ouest.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est l'arbre emblématique des savanes africaines ?",
-    "options": ["A) Baobab", "B) Iroko", "C) Palmier", "D) Acacia"],
-    "answer": "A",
-    "explanation": "Le baobab est l'arbre emblématique des savanes et régions semi-arides d'Afrique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où se situe la basilique Notre-Dame de la Paix de Yamoussoukro ?",
-    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) Daloa"],
-    "answer": "C",
-    "explanation": "La basilique Notre-Dame de la Paix, la plus grande basilique au monde, est à Yamoussoukro.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom du premier chef de gouvernement ivoirien (Premier ministre) après 1990 ?",
-    "options": ["A) Alassane Ouattara", "B) Laurent Gbagbo", "C) Henri Konan Bédié", "D) Daniel Kablan Duncan"],
-    "answer": "A",
-    "explanation": "Alassane Ouattara a été le premier Premier ministre de Côte d'Ivoire (1990-1993) sous Houphouët-Boigny.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année la Côte d'Ivoire a-t-elle accueilli le Sommet Afrique-France ?",
-    "options": ["A) 1999", "B) 2014", "C) 2021", "D) 1982"],
-    "answer": "B",
-    "explanation": "Le sommet Afrique-France s'est tenu à Paris en 2014. Abidjan a accueilli ce sommet en 2008.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le principal produit agricole d'exportation de la Côte d'Ivoire ?",
-    "options": ["A) Café", "B) Coton", "C) Cacao", "D) Anacarde"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao (environ 40% de la production mondiale).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle rivière délimite en partie la frontière entre la Côte d'Ivoire et le Ghana ?",
-    "options": ["A) Le Sassandra", "B) Le Bandama", "C) La Bia/Comoé", "D) Le Cavally"],
-    "answer": "C",
-    "explanation": "Le fleuve Comoé/Bia forme en partie la frontière entre la Côte d'Ivoire et le Ghana.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est l'animal emblème de la Côte d'Ivoire ?",
-    "options": ["A) Le lion", "B) L'éléphant", "C) Le guépard", "D) La panthère"],
-    "answer": "B",
-    "explanation": "L'éléphant est l'animal emblème de la Côte d'Ivoire, d'où le nom « Les Éléphants » pour l'équipe nationale de football.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel scientifique a établi la théorie de la relativité générale ?",
-    "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Niels Bohr", "D) Max Planck"],
-    "answer": "B",
-    "explanation": "Albert Einstein a publié la théorie de la relativité générale en 1915.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est l'hymne national de la Côte d'Ivoire ?",
-    "options": ["A) Abidjanaise", "B) L'Abidjanaise", "C) Côte d'Ivoire", "D) La terre de l'espérance"],
-    "answer": "B",
-    "explanation": "L'hymne national de la Côte d'Ivoire est « L'Abidjanaise ».",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a eu lieu la découverte de l'Amérique par Christophe Colomb ?",
-    "options": ["A) 1492", "B) 1498", "C) 1504", "D) 1488"],
-    "answer": "A",
-    "explanation": "Christophe Colomb a atteint les Bahamas le 12 octobre 1492.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de la communauté villageoise traditionnelle en Côte d'Ivoire ?",
-    "options": ["A) Le kpando", "B) Le village", "C) La chefferie", "D) Le dozo"],
-    "answer": "C",
-    "explanation": "La chefferie traditionnelle est l'unité de base de l'organisation sociale en Côte d'Ivoire.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la surface totale de la Côte d'Ivoire ?",
-    "options": ["A) 222 000 km²", "B) 322 463 km²", "C) 150 000 km²", "D) 410 000 km²"],
-    "answer": "B",
-    "explanation": "La Côte d'Ivoire couvre environ 322 463 km².",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom du Président du Liberia qui a reçu le Prix Nobel de la Paix en 2011 ?",
-    "options": ["A) Charles Taylor", "B) Ellen Johnson Sirleaf", "C) George Weah", "D) Samuel Doe"],
-    "answer": "B",
-    "explanation": "Ellen Johnson Sirleaf, première femme présidente africaine, a reçu le Prix Nobel de la Paix en 2011.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel pays se trouve le mont Olympe, montagne sacrée des dieux grecs ?",
-    "options": ["A) Turquie", "B) Albanie", "C) Grèce", "D) Macédoine du Nord"],
-    "answer": "C",
-    "explanation": "Le mont Olympe (2917 m), le plus haut sommet de Grèce, était la demeure des dieux dans la mythologie grecque.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de l'aéroport international de la ville d'Abidjan ?",
-    "options": ["A) Aéroport de Port-Bouët", "B) Aéroport Félix Houphouët-Boigny", "C) Aéroport d'Abidjan-Plateau", "D) Aéroport de Cocody"],
-    "answer": "B",
-    "explanation": "L'aéroport international d'Abidjan porte le nom de Félix Houphouët-Boigny.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la superficie totale de la Côte d'Ivoire ?",
-    "options": ["A) 322 462 km²", "B) 322 463 km²", "C) 324 462 km²", "D) 324 463 km²"],
-    "answer": "B",
-    "explanation": "La superficie de la Côte d'Ivoire est exactement de 322 463 km².",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui fut le premier explorateur français à signer des traités avec les chefs côtiers en Côte d'Ivoire en 1843 ?",
-    "options": ["A) Louis-Gustave Binger", "B) Marcel Treich-Laplène", "C) Arthur Verdier", "D) Louis-Édouard Bouët-Willaumez"],
-    "answer": "D",
-    "explanation": "L'Amiral Bouët-Willaumez a signé les premiers traités de protectorat sur la côte en 1843.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année la Côte d'Ivoire est-elle devenue une colonie française autonome ?",
-    "options": ["A) 1889", "B) 1893", "C) 1904", "D) 1946"],
-    "answer": "B",
-    "explanation": "La Côte d'Ivoire est érigée en colonie française le 10 mars 1893 avec Binger comme premier gouverneur.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le point culminant de la Côte d'Ivoire ?",
-    "options": ["A) Mont Tonkoui", "B) Mont Nimba", "C) Mont Momi", "D) Mont Zo"],
-    "answer": "B",
-    "explanation": "Le Mont Nimba, situé à la frontière avec la Guinée, est le point culminant à 1752 m.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lequel de ces fleuves ivoiriens est le plus long ?",
-    "options": ["A) Le Cavally", "B) Le Sassandra", "C) Le Bandama", "D) La Comoé"],
-    "answer": "C",
-    "explanation": "Le Bandama, coulant entièrement sur le territoire ivoirien, est considéré comme le plus long fleuve du pays (environ 1050 km).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle ville est reconnue comme la capitale économique de la Côte d'Ivoire ?",
-    "options": ["A) Yamoussoukro", "B) Bouaké", "C) San-Pédro", "D) Abidjan"],
-    "answer": "D",
-    "explanation": "Abidjan est la capitale économique, bien que Yamoussoukro soit la capitale politique depuis 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a composé l'Abidjanaise, l'hymne national de la Côte d'Ivoire ?",
-    "options": ["A) Pierre-Michel Pango", "B) Mathieu Ekra", "C) Joachim Bony", "D) L'Abbé Pierre-Michel Pango et le révérend père Michel Coty"],
-    "answer": "D",
-    "explanation": "L'hymne a été composé par l'Abbé Pierre-Michel Pango (musique) et l'Abbé Michel Coty, avec des paroles co-écrites par Mathieu Ekra, Joachim Bony.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la devise de la Côte d'Ivoire ?",
-    "options": ["A) Union, Discipline, Travail", "B) Fraternité, Travail, Progrès", "C) Paix, Travail, Patrie", "D) Union, Travail, Justice"],
-    "answer": "A",
-    "explanation": "La devise officielle de la République de Côte d'Ivoire est 'Union, Discipline, Travail'.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année Félix Houphouët-Boigny est-il décédé ?",
-    "options": ["A) 1990", "B) 1993", "C) 1995", "D) 1999"],
-    "answer": "B",
-    "explanation": "Félix Houphouët-Boigny, le premier président de la Côte d'Ivoire, est décédé le 7 décembre 1993.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel traité de 1919 a redéfini les frontières de la Côte d'Ivoire en créant la Haute-Volta ?",
-    "options": ["A) Décret du 1er mars 1919", "B) Traité de Versailles", "C) Accords de Brazzaville", "D) Conférence de Berlin"],
-    "answer": "A",
-    "explanation": "Le décret de 1919 a séparé des territoires de la Côte d'Ivoire et du Haut-Sénégal-Niger pour créer la colonie de la Haute-Volta.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel sommet ivoirien culmine à 1752 m ?",
-    "options": ["A) Mont Tonkoui", "B) Mont Nimba", "C) Mont Momi", "D) Mont Zo"],
-    "answer": "B",
-    "explanation": "Le Mont Nimba est le point culminant du pays.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel fleuve naît exclusivement en CI ?",
-    "options": ["A) Cavally", "B) Bandama", "C) Comoé", "D) Sassandra"],
-    "answer": "B",
-    "explanation": "Le Bandama prend sa source au nord de la CI.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Yamoussoukro est devenue capitale en :",
-    "options": ["A) 1983", "B) 1990", "C) 1978", "D) 1980"],
-    "answer": "A",
-    "explanation": "Loi du 21 mars 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Plus grande forêt d'Abidjan ?",
-    "options": ["A) Banco", "B) Azagny", "C) Taï", "D) Sangoué"],
-    "answer": "A",
-    "explanation": "Parc National du Banco.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Groupe ethnique Gour inclut :",
-    "options": ["A) Baoulé", "B) Sénoufo", "C) Dan", "D) Bété"],
-    "answer": "B",
-    "explanation": "Les Sénoufo font partie du groupe Gour.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Ville non chef-lieu de district autonome ?",
-    "options": ["A) San Pédro", "B) Korhogo", "C) Man", "D) Bouaflé"],
-    "answer": "D",
-    "explanation": "Bouaflé est chef-lieu de région (Marahoué) mais pas de district autonome.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Explorateur ayant signé traités en 1887 ?",
-    "options": ["A) Binger", "B) Verdier", "C) Treich-Laplène", "D) Caillié"],
-    "answer": "C",
-    "explanation": "Marcel Treich-Laplène.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Inauguration canal de Vridi ?",
-    "options": ["A) 1950", "B) 1960", "C) 1934", "D) 1948"],
-    "answer": "A",
-    "explanation": "Ouvert en 1950.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Premier PM en 1990 ?",
-    "options": ["A) Bédié", "B) Ouattara", "C) Duncan", "D) Diarra"],
-    "answer": "B",
-    "explanation": "Alassane Ouattara fut nommé PM en 1990.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Objectif majeur PND 2021-2025 ?",
-    "options": ["A) Écologie", "B) Transformation par industrialisation", "C) Autosuffisance", "D) Dette 0"],
-    "answer": "B",
-    "explanation": "Transformation structurelle par l'industrialisation.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Gisement gazier majeur 2021 ?",
-    "options": ["A) Baleine", "B) Espoir", "C) Baobab", "D) Bélier"],
-    "answer": "A",
-    "explanation": "Gisement Baleine.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Successeur de Binger (1896) ?",
-    "options": ["A) Clozel", "B) Mouttet", "C) Roberdeau", "D) Angoulvant"],
-    "answer": "B",
-    "explanation": "Eugène Mouttet.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Réserve de faune d'Abokouamékro dans quelle région ?",
-    "options": ["A) Bélier", "B) Gbêkê", "C) Agnéby", "D) Iffou"],
-    "answer": "A",
-    "explanation": "Région du Bélier, près de Yamoussoukro.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Part de la CI en prod mondiale de cajou (2023) ?",
-    "options": ["A) 15%", "B) 25%", "C) 40%", "D) 60%"],
-    "answer": "C",
-    "explanation": "Environ 40%, 1er producteur mondial.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Fondateur royaume Sanwi ?",
-    "options": ["A) Amon N'Douffou Ier", "B) Aka Essoh", "C) Mian Amou", "D) Amalaman Anoh"],
-    "answer": "D",
-    "explanation": "Amalaman Anoh (XVIIIe).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Ethnie du groupe Krou ?",
-    "options": ["A) Abouré", "B) Dida", "C) Gouro", "D) Lobi"],
-    "answer": "B",
-    "explanation": "Les Dida.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Miracle ivoirien ?",
-    "options": ["A) 1950-1960", "B) 1960-1980", "C) 1980-1990", "D) 1990-2000"],
-    "answer": "B",
-    "explanation": "Période de forte croissance 1960-1980.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Barrage inauguré en 2017 ?",
-    "options": ["A) Kossou", "B) Soubré", "C) Taabo", "D) Buyo"],
-    "answer": "B",
-    "explanation": "Barrage de Soubré.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Origine du nom 'Côte d'Ivoire' ?",
-    "options": ["A) Mammouths", "B) Commerce ivoire", "C) Binger", "D) Tribu Ivori"],
-    "answer": "B",
-    "explanation": "Nommé par les marins pour le commerce de l'ivoire.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Colonie rattachée à la CI en 1932 ?",
-    "options": ["A) Soudan", "B) Haute-Volta", "C) Guinée", "D) Dahomey"],
-    "answer": "B",
-    "explanation": "Haute-Volta (jusqu'en 1947).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Nombre de parcs nationaux en CI ?",
-    "options": ["A) 5", "B) 8", "C) 12", "D) 15"],
-    "answer": "B",
-    "explanation": "8 Parcs Nationaux.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "San Pédro 1er port mondial pour :",
-    "options": ["A) Café", "B) Cacao", "C) Bois", "D) Hévéa"],
-    "answer": "B",
-    "explanation": "Exportation de fèves de cacao.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Ville ivoirienne UNESCO (2012) ?",
-    "options": ["A) Abidjan", "B) Yamoussoukro", "C) Grand-Bassam", "D) Kong"],
-    "answer": "C",
-    "explanation": "Ville historique de Grand-Bassam.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Fondateur royaume de Bouna ?",
-    "options": ["A) Bounkani", "B) Samory", "C) Tutu", "D) Pokou"],
-    "answer": "A",
-    "explanation": "Roi Bounkani.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Création du PDCI ?",
-    "options": ["A) 1944", "B) 1946", "C) 1958", "D) 1960"],
-    "answer": "B",
-    "explanation": "9 avril 1946.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Loi Houphouët (abolition travail forcé) ?",
-    "options": ["A) 1944", "B) 1946", "C) 1950", "D) 1956"],
-    "answer": "B",
-    "explanation": "11 avril 1946.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Consécration Basilique ND de la Paix ?",
-    "options": ["A) 1989", "B) 1990", "C) 1992", "D) 1994"],
-    "answer": "B",
-    "explanation": "Septembre 1990 par Jean-Paul II.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Plus long fleuve s'écoulant entièrement en CI ?",
-    "options": ["A) Bandama", "B) Comoé", "C) Sassandra", "D) Cavally"],
-    "answer": "A",
-    "explanation": "Le Bandama (1050 km).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Part investissements privé dans PND 2021-2025 ?",
-    "options": ["A) 50%", "B) 60%", "C) 74%", "D) 85%"],
-    "answer": "C",
-    "explanation": "74% du financement attendu.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Altitude Mont Tonkoui ?",
-    "options": ["A) 1073 m", "B) 1189 m", "C) 1223 m", "D) 1752 m"],
-    "answer": "B",
-    "explanation": "Environ 1189 m.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Jour de l'indépendance CI ?",
-    "options": ["A) 7 Août", "B) 4 Décembre", "C) 15 Août", "D) 1er Juillet"],
-    "answer": "A",
-    "explanation": "7 août 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Premier chef du Conseil de gouvernement (1958) ?",
-    "options": ["A) Denise", "B) Houphouët", "C) Mockey", "D) Coulibaly"],
-    "answer": "A",
-    "explanation": "Auguste Denise.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Fête du nouvel an Nzima ?",
-    "options": ["A) Dipri", "B) Abissa", "C) Popo", "D) Goly"],
-    "answer": "B",
-    "explanation": "Fête de l'Abissa.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Prix Ahmadou Kourouma 2021 ?",
-    "options": ["A) Tadjo", "B) Gauz", "C) Abouet", "D) Diallo"],
-    "answer": "B",
-    "explanation": "Armand Gauz.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Accord de paix 2007 ?",
-    "options": ["A) Marcoussis", "B) Pretoria", "C) Ouagadougou", "D) Accra"],
-    "answer": "C",
-    "explanation": "Accord de Ouagadougou.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Promulgation Constitution 3e République ?",
-    "options": ["A) 8 Nov 2016", "B) 30 Oct 2016", "C) 1 Aou 2000", "D) 15 Mai 2020"],
-    "answer": "A",
-    "explanation": "8 novembre 2016.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Plus grand lac artificiel de CI ?",
-    "options": ["A) Kossou", "B) Soubré", "C) Buyo", "D) Taabo"],
-    "answer": "A",
-    "explanation": "Lac de Kossou.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Signification BNETD ?",
-    "options": ["A) Bureau National d'Études Techniques et de Développement", "B) Bureau National de l'Économie...", "C) Base Nationale...", "D) Bureau National d'Équipement..."],
-    "answer": "A",
-    "explanation": "Bureau National d'Études Techniques et de Développement.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Mont Nimba classé UNESCO en :",
-    "options": ["A) 1981", "B) 1990", "C) 2001", "D) 1974"],
-    "answer": "A",
-    "explanation": "Inscrit en 1981/1982.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Stade finale CAN 2023 ?",
-    "options": ["A) 2021", "B) 2023", "C) 2019", "D) 2025"],
-    "answer": "B",
-    "explanation": "La question était sur l'année de la CAN (2023).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Gouverneur 'pacification' (1908-1916) ?",
-    "options": ["A) Angoulvant", "B) Binger", "C) Ponty", "D) Eboué"],
-    "answer": "A",
-    "explanation": "Gabriel Angoulvant.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Hymne de la CI ?",
-    "options": ["A) L'Abidjanaise", "B) La Concorde", "C) Le Ditanyè", "D) La Renaissance"],
-    "answer": "A",
-    "explanation": "L'Abidjanaise.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Chef-lieu du Gôh ?",
-    "options": ["A) Daloa", "B) Gagnoa", "C) Soubré", "D) Issia"],
-    "answer": "B",
-    "explanation": "Gagnoa.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Mosquées inscrites à l'UNESCO (2021) ?",
-    "options": ["A) Kong", "B) Style soudanais du nord", "C) Samatiguila", "D) Mankono"],
-    "answer": "B",
-    "explanation": "Ensemble de 8 mosquées de style soudanais.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Communes du Grand Abidjan ?",
-    "options": ["A) 10", "B) 13", "C) 14", "D) 15"],
-    "answer": "B",
-    "explanation": "13 entités communales (10 urbaines + 3 sous-préfectures).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Création de la RTI ?",
-    "options": ["A) 1960", "B) 1963", "C) 1970", "D) 1973"],
-    "answer": "B",
-    "explanation": "1963.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Zone forestière actuelle CI estimée à :",
-    "options": ["A) <3M ha", "B) 8M ha", "C) 12M ha", "D) 16M ha"],
-    "answer": "A",
-    "explanation": "Moins de 3 millions d'hectares.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Port historiquement bois ?",
-    "options": ["A) Abidjan", "B) San Pédro", "C) Sassandra", "D) Tabou"],
-    "answer": "B",
-    "explanation": "San Pédro a été créé pour le bois.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Ethnie Lobi connue pour :",
-    "options": ["A) Zaouli", "B) Soukalas", "C) Poids à or", "D) Kita"],
-    "answer": "B",
-    "explanation": "Habitats fortifiés en banco appelés soukalas.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Monnaie précoloniale Akan ?",
-    "options": ["A) Cauri", "B) Manille", "C) Sel", "D) Poudre d'or"],
-    "answer": "D",
-    "explanation": "La poudre d'or et les poids à peser.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lequel de ces pays est actuellement dirigé par une femme ?",
-    "options": ["A) Libéria", "B) Sierra Léone", "C) Tanzanie", "D) Éthiopie"],
-    "answer": "C",
-    "explanation": "La Tanzanie est dirigée par Samia Suluhu Hassan.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle école Aristote a-t-il créée ?",
-    "options": ["A) Le Jardin des Plantes", "B) L'Académie", "C) Le Lycée", "D) L’Université d’Athènes"],
-    "answer": "C",
-    "explanation": "Aristote a fondé le Lycée à Athènes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui fut le premier Directeur Général de l'ENA-CI ?",
-    "options": ["A) Laurent Dona Fologo", "B) Ropion Robert", "C) Zadi Zaourou", "D) Alassane Ouattara"],
-    "answer": "B",
-    "explanation": "Ropion Robert a été le premier DG de l'ENA.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel acte a permis l’indépendance du Soudan du Sud en 2011 ?",
-    "options": ["A) L’Accord de paix global", "B) Les Accords de Naivasha", "C) Les Accords de Khartoum", "D) Le Référendum d’autodétermination"],
-    "answer": "D",
-    "explanation": "C'est le référendum d'autodétermination de 2011 qui a conduit à l'indépendance.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Un savoir ésotérique est un savoir :",
-    "options": ["A) Populaire et accessible", "B) Réservé à un cercle initié", "C) Pratique", "D) Public"],
-    "answer": "B",
-    "explanation": "L'ésotérisme désigne un enseignement réservé à des initiés.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Tanzanie ?",
-    "options": ["A) Freetown", "B) Banjul", "C) Bissau", "D) Dodoma"],
-    "answer": "D",
-    "explanation": "Dodoma est la capitale politique de la Tanzanie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Les députés ivoiriens sont :",
-    "options": ["A) Nommés", "B) Élus", "C) Élus pour certains, nommés pour d’autres", "D) Nommés par le président"],
-    "answer": "B",
-    "explanation": "Les députés de l'Assemblée nationale sont élus au suffrage universel direct.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lequel de ces personnalités n’a jamais été président de l’Assemblée Nationale ?",
-    "options": ["A) Henri Konan Bédié", "B) Mamadou Koulibaly", "C) Soro Guillaume", "D) Kandia Camara"],
-    "answer": "D",
-    "explanation": "Kandia Camara a été présidente du Sénat, mais pas de l'Assemblée nationale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En CI, le président de la République est membre du gouvernement.",
-    "options": ["A) Vrai", "B) Faux"],
-    "answer": "B",
-    "explanation": "Le Président de la République n'est pas formellement membre du gouvernement, bien qu'il le préside.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "L’Assemblée Nationale ivoirienne comprend désormais des sénateurs :",
-    "options": ["A) Vrai", "B) Faux"],
-    "answer": "B",
-    "explanation": "L'Assemblée Nationale et le Sénat sont deux chambres distinctes du Parlement.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année le Printemps arabe a-t-il débuté ?",
-    "options": ["A) 2008", "B) 2012", "C) 2010", "D) 2005"],
-    "answer": "C",
-    "explanation": "Le Printemps arabe a commencé fin 2010 en Tunisie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année le FEMUA a-t-il débuté ?",
-    "options": ["A) 2006", "B) 2008", "C) 2009", "D) 2010"],
-    "answer": "B",
-    "explanation": "Le FEMUA a été lancé en 2008.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l’actuel Directeur Général de la Fonction Publique ivoirienne ?",
-    "options": ["A) Aka Kacou", "B) Yéo Nahoua", "C) Kouakou Edouard", "D) SORO Gninagafol"],
-    "answer": "D",
-    "explanation": "Soro Gninagafol a été nommé DG de la Fonction Publique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année Yamoussoukro devint-elle la capitale politique ivoirienne ?",
-    "options": ["A) 1980", "B) 1983", "C) 1990", "D) 1995"],
-    "answer": "B",
-    "explanation": "Le transfert de la capitale à Yamoussoukro a été décidé en 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l'actuel Premier ministre du Canada ?",
-    "options": ["A) Justin Trudeau", "B) Chrystia Freeland", "C) Jagmeet Singh", "D) Mark Carney"],
-    "answer": "A",
-    "explanation": "Justin Trudeau est le Premier ministre du Canada.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le rang de la Côte d’Ivoire dans le classement mondial des producteurs de café ?",
-    "options": ["A) 3e", "B) 5e", "C) 14e", "D) 15e"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire se situe autour du 14e rang mondial.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle science étudie les insectes ?",
-    "options": ["A) Ornithologie", "B) Mycologie", "C) Entomologie", "D) Arachnologie"],
-    "answer": "C",
-    "explanation": "L'entomologie est la science qui étudie les insectes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle femme a été la première à arbitrer un match de football professionnel ?",
-    "options": ["A) Wendie Renard", "B) Stéphanie Frappart", "C) Bibiana Steinhaus", "D) Salima Mukansanga"],
-    "answer": "C",
-    "explanation": "Bibiana Steinhaus a été la première femme à arbitrer un match masculin de haut niveau.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année les accords de Bretton Woods ont-ils été signés ?",
-    "options": ["A) 1940", "B) 1944", "C) 1945", "D) 1939"],
-    "answer": "B",
-    "explanation": "Les accords de Bretton Woods ont été signés en 1944.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l'actuel président du Conseil constitutionnel ivoirien ?",
-    "options": ["A) Mamadou Koné", "B) Chantal Nanaba Camara", "C) Francis Wodié", "D) Tia Koné"],
-    "answer": "B",
-    "explanation": "Chantal Nanaba Camara a été nommée présidente du Conseil constitutionnel.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel peintre espagnol est connu pour avoir cofondé le cubisme ?",
-    "options": ["A) Salvador Dalí", "B) Pablo Picasso", "C) Juan Gris"],
-    "answer": "B",
-    "explanation": "Pablo Picasso est l'un des fondateurs du cubisme.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été couronné empereur français le 2 décembre 1804 ?",
-    "options": ["A) Napoléon Bonaparte", "B) Charlemagne", "C) Louis XIV"],
-    "answer": "A",
-    "explanation": "Napoléon Bonaparte a été sacré empereur en 1804.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de la science qui étudie les fossiles ?",
-    "options": ["A) Paléontologie", "B) Botanique", "C) Archéologie"],
-    "answer": "A",
-    "explanation": "La paléontologie est l'étude des fossiles.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l’actuel Secrétaire Général de l’ENA ?",
-    "options": ["A) Narcisse Sepy Yessoh", "B) Koné Aline", "C) François Kouma"],
-    "answer": "A",
-    "explanation": "Narcisse Sepy Yessoh est le SG actuel de l'ENA.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de pattes possède une araignée ?",
-    "options": ["A) 6", "B) 8", "C) 12"],
-    "answer": "B",
-    "explanation": "Les araignées sont des arachnides et possèdent 8 pattes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel gaz représente environ 78 % de l’atmosphère terrestre ?",
-    "options": ["A) L’oxygène", "B) Le carbone", "C) Le diazote", "D) L'argon"],
-    "answer": "C",
-    "explanation": "Le diazote constitue 78% de l'atmosphère.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le Pakistan a pour capitale :",
-    "options": ["A) Kuala Lumpur", "B) Bangkok", "C) Islamabad", "D) Kaboul"],
-    "answer": "C",
-    "explanation": "Islamabad est la capitale du Pakistan.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel éminent diplomate et Ministre des Affaires Etrangères de Cote d’Ivoire a tiré sa révérence le 8 avril 2025 ?",
-    "options": ["A) Essy Amara", "B) Charles Koffi Diby", "C) Siméon Aké"],
-    "answer": "A",
-    "explanation": "Essy Amara est un diplomate ivoirien.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle maison a pour emblème un loup dans la série Game of Thrones ?",
-    "options": ["A) La maison Stark", "B) La maison Baratheon", "C) La maison Lannister"],
-    "answer": "A",
-    "explanation": "L'emblème de la Maison Stark est un loup-garou.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit « Les bouts de bois de Dieu » ?",
     "options": ["A) Aimé Césaire", "B) Sembene Ousmane", "C) Soro Guéfala"],
     "answer": "B",
     "explanation": "Ousmane Sembène a écrit Les Bouts de bois de Dieu.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle planète est surnommée « l’étoile du berger » ?",
-    "options": ["A) Mars", "B) Terre", "C) Vénus"],
-    "answer": "C",
-    "explanation": "Vénus est souvent appelée l'étoile du berger.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel personnage mythologique a été condamné à pousser éternellement un rocher en haut d’une montagne ?",
-    "options": ["A) Sisyphe", "B) Prométhée", "C) Tantale"],
-    "answer": "A",
-    "explanation": "C'est le mythe de Sisyphe.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel traité a mis fin à la première guerre mondiale en 1919 ?",
-    "options": ["A) Le traité de Versailles", "B) Les accords d’Evian", "C) Le traité de Rome"],
-    "answer": "A",
-    "explanation": "Le Traité de Versailles a mis fin à la Première Guerre mondiale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui était le président américain pendant la seconde guerre mondiale ?",
-    "options": ["A) Richard Nixon", "B) Delano Roosevelt", "C) John Kennedy"],
-    "answer": "B",
-    "explanation": "Franklin Delano Roosevelt était président pendant la majeure partie de la guerre.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le plus médaillé aux Jeux Olympiques ?",
-    "options": ["A) Usain Bolt", "B) Michael Phelps", "C) Larissa Latynina", "D) Mark Spitz"],
-    "answer": "B",
-    "explanation": "Michael Phelps détient le record du nombre de médailles olympiques.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel stade a accueilli la confrontation entre la Cote d’Ivoire et le Sénégal lors des huitièmes de finale de la 34e édition de la CAN ?",
-    "options": ["A) Le Stade Laurent Pokou", "B) Le Stade de la paix", "C) Le Stade Charles Konan Banny"],
-    "answer": "C",
-    "explanation": "Le match a eu lieu au stade Charles Konan Banny de Yamoussoukro.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien d’Océans il y a-t-il ?",
-    "options": ["A) 4", "B) 5", "C) 6"],
-    "answer": "B",
-    "explanation": "Il y a 5 océans : Atlantique, Pacifique, Indien, Arctique, Antarctique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom à l’état civil de l’artiste zouglou Pat Sacko ?",
-    "options": ["A) Hughes-Patrick Ossohou", "B) Blaise-Patrick Daté", "C) Patrick Yao"],
-    "answer": "A",
-    "explanation": "Son nom à l'état civil est Ossohou Patrick.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le chef-lieu de la région de l’Agnéby -Tiassa ?",
-    "options": ["A) Dabou", "B) Adzopé", "C) Agboville"],
-    "answer": "C",
-    "explanation": "Agboville est le chef-lieu de l'Agnéby-Tiassa.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle mer sépare l’Europe de l’Afrique ?",
-    "options": ["A) Mer Rouge", "B) Mer Noire", "C) Mer Méditerranée"],
-    "answer": "C",
-    "explanation": "La mer Méditerranée sépare l'Europe de l'Afrique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le seul continent à ne pas avoir de pays ?",
-    "options": ["A) Océanie", "B) Arctique", "C) Antarctique"],
-    "answer": "C",
-    "explanation": "L'Antarctique ne compte aucun pays.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la Turquie ?",
-    "options": ["A) Istanbul", "B) Ankara", "C) Izmir", "D) Antalya"],
-    "answer": "B",
-    "explanation": "Ankara est la capitale de la Turquie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "A quelles dates se sont déroulées la 3e édition des Journées Portes Ouvertes de l’ENA ?",
-    "options": ["A) Du 25 au 26 février 2025", "B) Du 13 au 15 février 2025", "C) Du 23 au 24 février 2025"],
-    "answer": "B",
-    "explanation": "C'est généralement autour de ces dates.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la nouvelle dénomination de l’ENA France ?",
-    "options": ["A) INSP", "B) ENAMF", "C) APF", "D) ENA-Paris"],
-    "answer": "A",
-    "explanation": "L'École nationale d'administration a été remplacée par l'Institut national du service public (INSP).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a eu lieu la prise de la Bastille ?",
-    "options": ["A) 1789", "B) 1791", "C) 1793"],
-    "answer": "A",
-    "explanation": "La prise de la Bastille a eu lieu en 1789.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de langues officielles compte l’Union Européenne ?",
-    "options": ["A) 20", "B) 24", "C) 3"],
-    "answer": "B",
-    "explanation": "L'UE compte 24 langues officielles.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le pourcentage de suffrages obtenu par Brice Clotaire Oligui N’Guema selon les résultats provisoires de l'élection présidentielle d'avril 2025 au Gabon ?",
-    "options": ["A) 87,50 %", "B) 90,35 %", "C) 94,85 %", "D) 98,85 %"],
-    "answer": "B",
-    "explanation": "Selon les résultats provisoires annoncés le 13 avril 2025 par le ministère de l'Intérieur, Brice Clotaire Oligui N'Guema a obtenu 90,35 % des voix (proclamation définitive le 25 avril 2025 à 94,85 % par la Cour constitutionnelle).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l’actuel secrétaire général de la francophonie ?",
-    "options": ["A) Louise Mushikiwabo", "B) Michael Jean", "C) Abdou Diouf"],
-    "answer": "A",
-    "explanation": "Louise Mushikiwabo est l'actuelle Secrétaire générale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où a eu lieu la COP 29 ?",
-    "options": ["A) Bakou", "B) Paris", "C) Belém"],
-    "answer": "A",
-    "explanation": "La COP 29 a eu lieu à Bakou, en Azerbaïdjan.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Sous quel thème est placé le FEMUA 18 ?",
-    "options": ["A) La santé mentale", "B) Intelligence artificielle : menace ou opportunité pour l'Afrique ?", "C) Civisme et sécurité Routière"],
-    "answer": "B",
-    "explanation": "L'IA est le thème du FEMUA 18.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année furent signés les accords de Maastricht ?",
-    "options": ["A) 1962", "B) 1981", "C) 1992"],
-    "answer": "C",
-    "explanation": "Le traité de Maastricht a été signé en 1992.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la monnaie utilisée en Russie ?",
-    "options": ["A) l’euro", "B) le rouble", "C) l’hryvnia"],
-    "answer": "B",
-    "explanation": "Le rouble est la monnaie russe.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "A combien est estimée la population ivoirienne à l’issu du dernier recensement général de la population et de l’habitat ?",
-    "options": ["A) 29 389 150 hbts", "B) 32 167 255 hbts", "C) autre"],
-    "answer": "A",
-    "explanation": "La population est estimée à environ 29,4 millions d'habitants.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment appelle-t-on les habitants de Gaza ?",
-    "options": ["A) Les Gazaouis", "B) Les Gazavites", "C) Les Gazawites"],
-    "answer": "A",
-    "explanation": "Les habitants de Gaza sont les Gazaouis.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En mathématiques, quelle est la valeur arrondie de pi ?",
-    "options": ["A) 3,14028", "B) 3,14159", "C) 3,14217"],
-    "answer": "B",
-    "explanation": "La valeur de Pi commence par 3,14159.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la langue principale parlée en Iran ?",
-    "options": ["A) Persan", "B) Kurde", "C) Iranien"],
-    "answer": "A",
-    "explanation": "Le persan est la langue officielle de l'Iran.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le seul pays au monde à posséder une capitale qui commence par la lettre Z ?",
-    "options": ["A) Suisse", "B) Croatie", "C) Ouganda"],
-    "answer": "B",
-    "explanation": "Zagreb est la capitale de la Croatie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel verbe est utilisé pour désigner le cri des dauphins ?",
-    "options": ["A) Gazouiller", "B) Glapir", "C) Siffler"],
-    "answer": "C",
-    "explanation": "Les dauphins sifflent.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le coréalisateur du film Marabout chéri au côté de Luis Marquès ?",
-    "options": ["A) Cheick Yvhane", "B) Michel Bohiri", "C) Kadhy Touré"],
-    "answer": "C",
-    "explanation": "Kadhy Touré est co-réalisatrice de Marabout Chéri.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "“Je punirai les serviteurs, les fils et leurs pères” est une :",
-    "options": ["A) Méthaphore", "B) Allégorie", "C) Gradation"],
-    "answer": "C",
-    "explanation": "Il s'agit d'une gradation.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui détient le record du monde du 100 m masculin ?",
-    "options": ["A) Usain Bolt", "B) Noah Lyles", "C) Justin Gatlin", "D) Asafa Powell"],
-    "answer": "A",
-    "explanation": "Usain Bolt détient le record du monde du 100 m.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est considéré comme le meilleur joueur de basketball de tous les temps ?",
-    "options": ["A) Lebron James", "B) Michael Jordan", "C) Kobe Bryant"],
-    "answer": "B",
-    "explanation": "Michael Jordan est généralement considéré comme le meilleur joueur de basketball.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été le premier pays à remporter la coupe du monde de football ?",
-    "options": ["A) Urugay", "B) Grande Bretagne", "C) Italie"],
-    "answer": "A",
-    "explanation": "L'Uruguay a remporté la première Coupe du monde en 1930.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a remporté le ballon d’or France football en 2022 ?",
-    "options": ["A) Lionnel Messi", "B) Karim Benzema", "C) Luka Modric"],
-    "answer": "B",
-    "explanation": "Karim Benzema a remporté le Ballon d'or 2022.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel boxeur nommé « the greatest » est considéré comme l’un des plus grands boxeurs de tous les temps ?",
-    "options": ["A) Floyd Mayweather Jr", "B) Mike Tyson", "C) Mohamed Ali"],
-    "answer": "C",
-    "explanation": "Mohamed Ali était surnommé The Greatest.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le joueur de tennis espagnol qui est considéré comme l’un des meilleurs joueurs sur terre battue de tous les temps ?",
-    "options": ["A) Rafael Nadal", "B) Carlos Alcaraz", "C) Manuel Alonzo"],
-    "answer": "A",
-    "explanation": "Rafael Nadal est le roi de la terre battue.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le joueur de golf américain qui est considéré comme l’un des plus grands golfeurs de tous les temps ?",
-    "options": ["A) Jack Nicklaus", "B) Tiger Woods", "C) Arnold Palmer"],
-    "answer": "B",
-    "explanation": "Tiger Woods est l'un des plus grands golfeurs.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le premier joueur ivoirien à avoir marqué en finale d’une CAN ?",
-    "options": ["A) Laurent Pokou", "B) Didier Drogba", "C) Franck Kessié"],
-    "answer": "A",
-    "explanation": "Laurent Pokou.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de buts ont été marqués à la Coupe d’Afrique des Nations 2023 organisé en Côte d’ivoire ?",
-    "options": ["A) 109 buts", "B) 119 buts", "C) 135 buts"],
-    "answer": "B",
-    "explanation": "119 buts ont été marqués lors de la CAN 2023.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le meilleur buteur de l’histoire de la CAN ?",
-    "options": ["A) Didier Drogba", "B) Roger Mila", "C) Samuel Eto’o"],
-    "answer": "C",
-    "explanation": "Samuel Eto'o est le meilleur buteur de l'histoire de la CAN avec 18 buts.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lors du tour de France, qui est récompensé d’un maillot blanc à pois rouges ?",
-    "options": ["A) Le meilleur grimpeur", "B) Le meilleur coureur", "C) Le meilleur cycliste"],
-    "answer": "A",
-    "explanation": "Le maillot à pois récompense le meilleur grimpeur.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où se dérouleront les prochains jeux olympiques ?",
-    "options": ["A) Paris", "B) Mexico", "C) Los Angeles"],
-    "answer": "C",
-    "explanation": "Les prochains Jeux Olympiques d'été après 2024 auront lieu à Los Angeles en 2028.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Depuis quelle année le badminton est devenu une discipline olympique ?",
-    "options": ["A) 1992", "B) 2010", "C) 2023"],
-    "answer": "A",
-    "explanation": "Le badminton est sport olympique depuis 1992.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Les IXème jeux de la francophonie se sont déroulés du ……. Au ……….. 2023 à Kinshasa :",
-    "options": ["A) Du 28 juillet au 6 aout", "B) Du 28 février au 7 mars 2023", "C) Du 28 juin au 6 juillet"],
-    "answer": "A",
-    "explanation": "Les Jeux de la Francophonie 2023 se sont tenus fin juillet - début août.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment appelle-t-on le tournoi de tennis joué à Paris ?",
-    "options": ["A) Roland-Garros", "B) Wimbledon", "C) Us Open"],
-    "answer": "A",
-    "explanation": "Le tournoi de Paris est Roland-Garros.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a remporté le ballon d’or africain quatre fois consécutives ?",
-    "options": ["A) Georges Weah", "B) Yaya Touré", "C) Samuel Eto’o"],
-    "answer": "B",
-    "explanation": "Yaya Touré a gagné le Ballon d'Or africain quatre fois de suite (2011-2014).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été le meilleur buteur de la coupe du monde 2014 ?",
-    "options": ["A) James Rodriguez", "B) Thomas Muller", "C) Lionnel Messi"],
-    "answer": "A",
-    "explanation": "James Rodriguez a été le meilleur buteur (6 buts).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le dernier vainqueur français de Roland Garros ?",
-    "options": ["A) Tsonga", "B) Monfils", "C) Noah"],
-    "answer": "C",
-    "explanation": "Yannick Noah en 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel pays est né le judo ?",
-    "options": ["A) Chine", "B) Japon", "C) Vietnam", "D) Corée du Sud"],
-    "answer": "B",
-    "explanation": "Le judo a été créé au Japon par Jigoro Kano.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a remporté la Coupe du Monde FIFA 2022 ?",
-    "options": ["A) France", "B) Brésil", "C) Argentine", "D) Allemagne"],
-    "answer": "C",
-    "explanation": "L'Argentine a remporté la Coupe du Monde 2022.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle ville a accueilli les Jeux Olympiques d’été 2024 ?",
-    "options": ["A) Tokyo", "B) Paris", "C) Los Angelès", "D) Londres"],
-    "answer": "B",
-    "explanation": "Paris a accueilli les JO en 2024.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
-    "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-    "answer": "B",
-    "explanation": "Il y a 5 joueurs par équipe sur le terrain.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel sport évolue Novak Djokovic ?",
-    "options": ["A) Golf", "B) Tennis", "C) Handball", "D) Boxe"],
-    "answer": "B",
-    "explanation": "Djokovic est un joueur de tennis.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays domine historiquement les Jeux Olympiques d’hiver ?",
-    "options": ["A) Norvège", "B) Canada", "C) Russie", "D) USA"],
-    "answer": "A",
-    "explanation": "La Norvège est le pays le plus titré aux JO d'hiver.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a remporté le Ballon d’Or 2020 ?",
-    "options": ["A) Erling Halland", "B) Lionnel Messi", "C) Cristiano R", "D) Modric"],
-    "answer": "B",
-    "explanation": "Le Ballon d'Or 2020 n'a pas été attribué. Il s'agit peut-être d'une erreur dans les options. En l'absence de meilleur choix, on retient Messi.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de sets gagnants faut-il pour remporter un match masculin en Grand Chelem ?",
-    "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
-    "answer": "B",
-    "explanation": "Il faut 3 sets gagnants pour remporter un match masculin en Grand Chelem.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel sport utilise les termes “birdie” et “eagle” ?",
-    "options": ["A) Tennis", "B) Golf", "C) Badminton", "D) Baseball"],
-    "answer": "B",
-    "explanation": "Ce sont des termes de golf.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle nation a remporté la CAN 2023 (jouée en 2024) ?",
-    "options": ["A) Sénégal", "B) Maroc", "C) Côte d’Ivoire", "D) Nigéria"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire a remporté la CAN 2023.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de kilomètres mesure un marathon ?",
-    "options": ["A) 40", "B) 41", "C) 41, 195", "D) 43 km"],
-    "answer": "C",
-    "explanation": "Un marathon mesure 42,195 km, l'option C (bien que 41,195 y soit écrite) est l'option la plus proche visée ou une coquille du document original.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel sport retrouve-t-on la NBA ?",
-    "options": ["A) Hockey", "B) Baseball", "C) Football", "D) Basketball"],
-    "answer": "D",
-    "explanation": "La NBA est la ligue américaine de basketball.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel joueur est associé au club d’Al Nassr depuis 2023 ?",
-    "options": ["A) Neymar", "B) Benzema", "C) Cristiano R", "D) Messi"],
-    "answer": "C",
-    "explanation": "Cristiano Ronaldo joue pour Al Nassr.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a organisé la Coupe du Monde 2022 ?",
-    "options": ["A) Qatar", "B) Russie", "C) France", "D) Mexique"],
-    "answer": "A",
-    "explanation": "Le Qatar a organisé la Coupe du monde 2022.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans le sport du rugby (à XV), combien de points rapporte un essai marqué (avant transformation) ?",
-    "options": ["A) 3 points", "B) 5 points", "C) 7 points", "D) 2 points"],
-    "answer": "B",
-    "explanation": "Un essai au rugby vaut 5 points (la transformation rapporte 2 points supplémentaires, une pénalité ou un drop vaut 3 points).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel club est le plus titré en Ligue des Champions CAF ?",
-    "options": ["A) Al ahly sc", "B) TP Mazembe", "C) Zamalek", "D) Pyramids fc"],
-    "answer": "A",
-    "explanation": "Al Ahly SC est le club le plus titré.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel sport évolue Francis Ngannou ?",
-    "options": ["A) Boxe MMA", "B) Football", "C) Athlétisme", "D) Lutte"],
-    "answer": "A",
-    "explanation": "Francis Ngannou évolue en MMA et Boxe.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la nature du pouvoir exécutif ivoirien ?",
-    "options": ["A) Monocéphale", "B) Bicéphale", "C) Tricéphale"],
-    "answer": "B",
-    "explanation": "Le pouvoir exécutif ivoirien est bicéphale (Président et Premier Ministre).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le Vice-président de la République de Côte d’Ivoire ?",
-    "options": ["A) Tiemoko Meyliet Koné", "B) Yua Koffi", "C) Beugré Mambé"],
-    "answer": "A",
-    "explanation": "Tiémoko Meyliet Koné est le Vice-président.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le médiateur de la République est nommé pour ?",
-    "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans"],
-    "answer": "C",
-    "explanation": "Le Médiateur de la République est nommé pour un mandat de 6 ans non renouvelable.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l’actuel médiateur de la République de Côte d’Ivoire ?",
-    "options": ["A) Adama Toungara", "B) Eugène Aka Aouelé", "C) Gaoussou Touré"],
-    "answer": "A",
-    "explanation": "Adama Toungara est le Médiateur de la République.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a été nommé le Haut représentant du Président de la république ?",
-    "options": ["A) 2024", "B) 2023", "C) 2022"],
-    "answer": "B",
-    "explanation": "Le Haut représentant a été nommé en 2023.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le parlement ivoirien est ?",
-    "options": ["A) Monocamérale", "B) Bicamérale", "C) aucune réponse n’est correcte"],
-    "answer": "B",
-    "explanation": "Le parlement ivoirien est bicaméral (Assemblée nationale et Sénat).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été le premier président du Sénat ivoirien ?",
-    "options": ["A) Kandia Camara", "B) Jeannot Ahoussou Kouadio", "C) Dagri Diabaté"],
-    "answer": "B",
-    "explanation": "Jeannot Ahoussou-Kouadio fut le premier président du Sénat.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment s’appelle l’actuel président du Conseil Constitutionnel ivoirien ?",
-    "options": ["A) Chantal Naneba Camara", "B) Chantal Nanaba Camara", "C) Chantal Massereba Camara"],
-    "answer": "B",
-    "explanation": "Chantal Nanaba Camara est la présidente du Conseil constitutionnel.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le président du Conseil Régional est élu pour ?",
-    "options": ["A) 6 ans", "B) 5 ans", "C) 4 ans"],
-    "answer": "B",
-    "explanation": "Il est élu pour 5 ans.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le ministre de la fonction publique et de la modernisation de l’administration ?",
-    "options": ["A) Mathieu Ekra", "B) Ally Coulibaly", "C) Anne Ouloto"],
-    "answer": "C",
-    "explanation": "Anne Ouloto est la ministre de la fonction publique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "L’ordre juridictionnel ivoirien est ?",
-    "options": ["A) Moniste", "B) Dualiste", "C) Atypique"],
-    "answer": "B",
-    "explanation": "L'ordre est dualiste, avec un ordre judiciaire et un ordre administratif.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le président du Conseil d’Etat ivoirien ?",
-    "options": ["A) Patrice Yao Kouakou", "B) Yua Koffi", "C) Lamine Ouattara"],
-    "answer": "A",
-    "explanation": "Patrice Yao Kouakou préside le Conseil d'Etat.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le président de la Cour de Cassation ivoirienne ?",
-    "options": ["A) Yua Koffi", "B) Patrice Yao Kouakou", "C) Théophile Ahoua N’dol"],
-    "answer": "A",
-    "explanation": "Yua Koffi préside la Cour de Cassation.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le président de la Haute Autorité à la Bonne gouvernance ?",
-    "options": ["A) Mamadou Sangafowa", "B) Epiphane Zoro BI", "C) Patrick Achi"],
-    "answer": "B",
-    "explanation": "Epiphane Zoro BI Ballo est le président de la HABG.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le général Apalo Touré est issu de ?",
-    "options": ["A) La Police", "B) L’armée de l’air", "C) La Gendarmerie"],
-    "answer": "C",
-    "explanation": "Alexandre Apalo Touré est Commandant Supérieur de la Gendarmerie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la dénomination exacte du Ministère de l’éducation ?",
-    "options": ["A) Ministère d’Etat, Ministère de l’Education Nationale et de l’Alphabétisation", "B) Ministère de l’Education Nationale, de l’Alphabétisation et de l’Enseignement technique", "C) Ministère de l’Education Nationale et de l’Enseignement Supérieur"],
-    "answer": "A",
-    "explanation": "C'est le Ministère de l'Éducation Nationale et de l'Alphabétisation.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Kanvaly Diomandé est le président de laquelle de ces institutions ?",
-    "options": ["A) Commission Electorale Indépendante", "B) Cour des Comptes", "C) Grande Chancellerie de l’ordre national"],
-    "answer": "B",
-    "explanation": "Kanvaly Diomandé est président de la Cour des Comptes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est le président de la Chambre des Rois et chefs traditionnels de Cote d’ivoire ?",
-    "options": ["A) Sa majesté Nanan Desire Amon-Tanoe", "B) Sa majesté Nanan Desire Amoi-Tano", "C) Sa majesté Nanan Desire Amani-Tanoe"],
-    "answer": "A",
-    "explanation": "Nanan Amon Tanoé Désiré préside la Chambre.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Parmi ces personnalités, laquelle n’a jamais été président de l’Assemblée Nationale en CI ?",
-    "options": ["A) Mamadou Koulibaly", "B) Soro Guillaume", "C) Coulibaly Kuibiert"],
-    "answer": "C",
-    "explanation": "Coulibaly Kuibiert est président de la CEI, non de l'Assemblée Nationale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de femmes ministres compte l’actuel gouvernement ivoirien ?",
-    "options": ["A) 7", "B) 8", "C) 10"],
-    "answer": "A",
-    "explanation": "Le gouvernement compte plusieurs femmes ministres (autour de 6-7).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la plus haute juridiction de l’ordre judiciaire ?",
-    "options": ["A) Cour d’appel", "B) TPI", "C) Cour suprême", "D) Conseil d’État"],
-    "answer": "C",
-    "explanation": "La Cour de Cassation (anciennement chambre judiciaire de la Cour Suprême).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle juridiction est compétente en matière administrative ?",
-    "options": ["A) Cour de cassation", "B) Conseil d’État", "C) Tribunal pénal"],
-    "answer": "B",
-    "explanation": "Le Conseil d'État est la plus haute juridiction en matière administrative.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle juridiction juge les crimes les plus graves ?",
-    "options": ["A) Tribunal correctionnel", "B) Cour d’assises", "C) Tribunal administratif"],
-    "answer": "B",
-    "explanation": "La Cour d'assises juge les crimes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Les collectivités territoriales comprennent :",
-    "options": ["A) États fédérés", "B) Régions, districts, communes", "C) Régions, départements, villages"],
-    "answer": "B",
-    "explanation": "En Côte d'Ivoire, ce sont principalement les communes, régions et districts autonomes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l’actuel Ministre de l’urbanisme, du logement et du cadre de vie ?",
-    "options": ["A) Bruno N. Koné", "B) Moussa Sanogo", "C) Mariatou Koné"],
-    "answer": "A",
-    "explanation": "Bruno Nabagné Koné occupe ce poste.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été le premier Directeur Général de l'ENA-CI ?",
-    "options": ["A) Félix Houphouët-Boigny", "B) Robert Ropion", "C) Alassane Ouattara", "D) Jeannot Ahoussou Kouadio"],
-    "answer": "B",
-    "explanation": "Robert Ropion fut le premier DG de l'ENA-CI.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Depuis quelle année Yamoussoukro est-elle la capitale politique de la Côte d'Ivoire ?",
-    "options": ["A) 1960", "B) 1983", "C) 1990", "D) 1993"],
-    "answer": "B",
-    "explanation": "Yamoussoukro est la capitale politique depuis 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quelles chambres est composé le parlement bicaméral ivoirien ?",
-    "options": ["A) Assemblée Nationale et Conseil Constitutionnel", "B) Sénat et Conseil Économique et Social", "C) Assemblée Nationale et Sénat", "D) Chambre des Députés et Sénat"],
-    "answer": "C",
-    "explanation": "Le parlement est composé de l'Assemblée Nationale et du Sénat.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui occupe le poste de Vice-Président de la République de Côte d'Ivoire selon les notes ?",
-    "options": ["A) Daniel Kablan Duncan", "B) Tiemoko Meyliet Koné", "C) Patrick Achi", "D) Robert Beugré Mambé"],
-    "answer": "B",
-    "explanation": "Le VP actuel de la République est Tiemoko Meyliet Koné.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la juridiction administrative suprême en Côte d'Ivoire ?",
-    "options": ["A) La Cour Suprême", "B) La Cour de Cassation", "C) Le Conseil d'État", "D) Le Conseil Constitutionnel"],
-    "answer": "C",
-    "explanation": "Le Conseil d'État est la juridiction administrative suprême.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle juridiction judiciaire est considérée comme suprême ?",
-    "options": ["A) Le Conseil d'État", "B) La Cour d'Appel", "C) La Cour d'assises", "D) La Cour de Cassation"],
-    "answer": "D",
-    "explanation": "La Cour de Cassation est la juridiction judiciaire suprême.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment qualifie-t-on l'ordre juridictionnel ivoirien ?",
-    "options": ["A) Moniste", "B) Unifié", "C) Dualiste", "D) Mixte"],
-    "answer": "C",
-    "explanation": "L'ordre juridictionnel ivoirien est dualiste.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui préside le Conseil Constitutionnel ivoirien ?",
-    "options": ["A) Mamadou Koné", "B) Chantal Nanaba Camara", "C) Tiemoko Meyliet Koné", "D) René Degni-Ségui"],
-    "answer": "B",
-    "explanation": "Chantal Nanaba Camara est présidente du Conseil Constitutionnel.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Par quelle cour sont jugés les crimes graves ?",
-    "options": ["A) Le Tribunal de Première Instance", "B) La Cour de Cassation", "C) La Cour d'assises", "D) Le Conseil d'État"],
-    "answer": "C",
-    "explanation": "Les crimes graves sont jugés par la Cour d'assises.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année eut lieu la prise de la Bastille ?",
-    "options": ["A) 1789", "B) 1792", "C) 1804", "D) 1799"],
-    "answer": "A",
-    "explanation": "La prise de la Bastille date de 1789.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "À quelle date Napoléon a-t-il été couronné ?",
-    "options": ["A) 14 juillet 1789", "B) 2 décembre 1804", "C) 18 juin 1815", "D) 2 décembre 1851"],
-    "answer": "B",
-    "explanation": "Napoléon a été couronné le 2 décembre 1804.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quand le Traité de Versailles a-t-il été signé ?",
-    "options": ["A) 1914", "B) 1918", "C) 1919", "D) 1945"],
-    "answer": "C",
-    "explanation": "Le Traité de Versailles date de 1919.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année le Soudan du Sud a-t-il obtenu son indépendance ?",
-    "options": ["A) 2010", "B) 2011", "C) 2012", "D) 2013"],
-    "answer": "B",
-    "explanation": "Le Soudan du Sud est devenu indépendant en 2011 suite à un référendum.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle ville organise les Jeux Olympiques en 2024 ?",
-    "options": ["A) Londres", "B) Los Angeles", "C) Paris", "D) Tokyo"],
-    "answer": "C",
-    "explanation": "Les JO de 2024 se déroulent à Paris.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale du Pakistan ?",
-    "options": ["A) Karachi", "B) Lahore", "C) Islamabad", "D) Kaboul"],
-    "answer": "C",
-    "explanation": "La capitale du Pakistan est Islamabad.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la monnaie de la Russie ?",
-    "options": ["A) Le rouble", "B) L'euro", "C) Le dinar", "D) Le peso"],
-    "answer": "A",
-    "explanation": "La monnaie de la Russie est le rouble.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l'actuelle Secrétaire Générale de la Francophonie ?",
-    "options": ["A) Michaëlle Jean", "B) Louise Mushikiwabo", "C) Aminata Touré", "D) Nkosazana Dlamini-Zuma"],
-    "answer": "B",
-    "explanation": "Louise Mushikiwabo est la SG de la Francophonie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où s'est déroulée la CAN 2023 ?",
-    "options": ["A) Cameroun", "B) Sénégal", "C) Côte d'Ivoire", "D) Maroc"],
-    "answer": "C",
-    "explanation": "La CAN 2023 a été organisée en Côte d'Ivoire.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle célèbre école a été créée par Aristote ?",
-    "options": ["A) L'Académie", "B) Le Lycée", "C) La Sorbonne", "D) Le Portique"],
-    "answer": "B",
-    "explanation": "Aristote a créé Le Lycée.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Que l'entomologie étudie-t-elle ?",
-    "options": ["A) Les mots", "B) Les champignons", "C) Les insectes", "D) Les fossiles"],
-    "answer": "C",
-    "explanation": "L'entomologie est l'étude des insectes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle science a pour objet l'étude des fossiles ?",
-    "options": ["A) La paléontologie", "B) L'archéologie", "C) L'entomologie", "D) La géologie"],
-    "answer": "A",
-    "explanation": "La paléontologie étudie les fossiles.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la proportion approximative de diazote dans l'atmosphère ?",
-    "options": ["A) 21%", "B) 50%", "C) 78%", "D) 90%"],
-    "answer": "C",
-    "explanation": "Le diazote compose environ 78% de l'atmosphère.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
-    "options": ["A) L'impressionnisme", "B) Le surréalisme", "C) Le cubisme", "D) Le fauvisme"],
-    "answer": "C",
-    "explanation": "Pablo Picasso est le cofondateur du cubisme.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui est l'auteur de l'œuvre 'Les bouts de bois de Dieu' ?",
     "options": ["A) Ahmadou Kourouma", "B) Léopold Sédar Senghor", "C) Sembène Ousmane", "D) Camara Laye"],
     "answer": "C",
     "explanation": "Sembène Ousmane a écrit 'Les bouts de bois de Dieu'.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans la mythologie grecque, qui a été condamné à pousser éternellement un rocher ?",
-    "options": ["A) Atlas", "B) Prométhée", "C) Sisyphe", "D) Tantale"],
-    "answer": "C",
-    "explanation": "C'est Sisyphe qui fut condamné à pousser un rocher.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est la première femme à avoir arbitré un match de football professionnel masculin ?",
-    "options": ["A) Bibiana Steinhaus", "B) Stéphanie Frappart", "C) Salima Mukansanga", "D) Yoshimi Yamashita"],
-    "answer": "B",
-    "explanation": "Stéphanie Frappart est la première femme à arbitrer du foot pro masculin.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel athlète détient le record du 100m masculin ?",
-    "options": ["A) Tyson Gay", "B) Yohan Blake", "C) Asafa Powell", "D) Usain Bolt"],
-    "answer": "D",
-    "explanation": "Usain Bolt détient le record du 100m masculin.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la distance exacte du marathon ?",
-    "options": ["A) 41,195 km", "B) 42,195 km", "C) 42,000 km", "D) 43,195 km"],
-    "answer": "B",
-    "explanation": "La distance officielle d'un marathon est de 42,195 km.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Que récompense le maillot blanc à pois rouges sur le Tour de France ?",
-    "options": ["A) Le meilleur jeune", "B) Le meilleur sprinteur", "C) Le meilleur grimpeur", "D) Le vainqueur du classement général"],
-    "answer": "C",
-    "explanation": "Il récompense le meilleur grimpeur.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a été le premier champion du monde de football ?",
-    "options": ["A) L'Italie", "B) Le Brésil", "C) L'Argentine", "D) L'Uruguay"],
-    "answer": "D",
-    "explanation": "L'Uruguay a remporté la première coupe du monde.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a remporté la Coupe du Monde de football 2022 au Qatar ?",
-    "options": ["A) La France", "B) L'Argentine", "C) Le Brésil", "D) L'Espagne"],
-    "answer": "B",
-    "explanation": "L'Argentine a gagné la Coupe du Monde 2022.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quel pays est originaire le judo ?",
-    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
-    "answer": "C",
-    "explanation": "Le judo est d'origine japonaise.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Sur quelle surface se joue le tournoi de Roland-Garros ?",
-    "options": ["A) Gazon", "B) Dur", "C) Terre battue", "D) Moquette"],
-    "answer": "C",
-    "explanation": "Roland-Garros se joue sur terre battue à Paris.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de joueurs par équipe y a-t-il sur un terrain de basketball ?",
-    "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
-    "answer": "B",
-    "explanation": "Le basketball se joue à 5 joueurs par équipe.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel sportif est le plus médaillé de l'histoire des Jeux Olympiques ?",
-    "options": ["A) Usain Bolt", "B) Carl Lewis", "C) Michael Phelps", "D) Mark Spitz"],
-    "answer": "C",
-    "explanation": "Michael Phelps est le sportif le plus médaillé aux JO.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale politique de la CI ?",
-    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) Korhogo"],
-    "answer": "C",
-    "explanation": "Yamoussoukro est la capitale politique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où s'est tenu le référendum d'indépendance de 2011 ?",
-    "options": ["A) Erythrée", "B) Timor oriental", "C) Soudan du Sud", "D) Kosovo"],
-    "answer": "C",
-    "explanation": "Indépendance du Soudan du Sud en 2011 par référendum.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le mouvement 'Printemps arabe' a commencé en...",
-    "options": ["A) 2008", "B) 2010", "C) 2011", "D) 2012"],
-    "answer": "B",
-    "explanation": "Débuté en 2010.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel évènement sportif majeur se tiendra à Paris en 2024 ?",
-    "options": ["A) La Coupe du monde de Rugby", "B) Les Jeux Olympiques", "C) L'Euro de football", "D) Le championnat du monde d'athlétisme"],
-    "answer": "B",
-    "explanation": "Paris accueille les JO 2024.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été le premier Directeur Général de l'ENA de Côte d'Ivoire ?",
-    "options": ["A) Félix Houphouët-Boigny", "B) Robert Ropion", "C) Charles Konan Banny", "D) Alassane Ouattara"],
-    "answer": "B",
-    "explanation": "Robert Ropion a été le premier DG de l'École Nationale d'Administration de Côte d'Ivoire à sa création en 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année Yamoussoukro est-elle devenue la capitale politique de la Côte d'Ivoire ?",
-    "options": ["A) 1960", "B) 1983", "C) 1990", "D) 1993"],
-    "answer": "B",
-    "explanation": "Le transfert de la capitale politique et administrative à Yamoussoukro a été acté par la loi de mars 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l'actuel Vice-Président de la République de Côte d'Ivoire (en 2026/2027) ?",
-    "options": ["A) Daniel Kablan Duncan", "B) Amadou Gon Coulibaly", "C) Tiemoko Meyliet Koné", "D) Patrick Achi"],
-    "answer": "C",
-    "explanation": "Tiemoko Meyliet Koné, ancien gouverneur de la BCEAO, occupe ce poste depuis avril 2022.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Laquelle de ces institutions est à la tête de l'ordre juridictionnel administratif en Côte d'Ivoire, instaurant ainsi le dualisme juridictionnel ?",
-    "options": ["A) La Cour de Cassation", "B) Le Conseil Constitutionnel", "C) Le Conseil d'État", "D) La Cour des Comptes"],
-    "answer": "C",
-    "explanation": "La réforme constitutionnelle a éclaté l'ancienne Cour Suprême. Le Conseil d'État gère le volet administratif, la Cour de Cassation le judiciaire.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été nommée Présidente du Conseil Constitutionnel de Côte d'Ivoire en 2023 ?",
-    "options": ["A) Henriette Diabaté", "B) Kandia Camara", "C) Chantal Nanaba Camara", "D) Simone Gbagbo"],
-    "answer": "C",
-    "explanation": "Chantal Nanaba Camara est la première femme à présider cette haute institution, nommée par Alassane Ouattara en 2023.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pays a remporté la Coupe d'Afrique des Nations (CAN) 2023 organisée en début 2024 ?",
-    "options": ["A) Nigeria", "B) Sénégal", "C) Côte d'Ivoire", "D) Maroc"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire (le pays hôte) a remporté la compétition en battant le Nigeria 2-1 en finale.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lequel de ces joueurs ivoiriens a marqué l'un des buts lors de la finale de la CAN 2023 contre le Nigeria ?",
-    "options": ["A) Didier Drogba", "B) Sébastien Haller", "C) Yaya Touré", "D) Wilfried Zaha"],
-    "answer": "B",
-    "explanation": "Sébastien Haller a marqué le but décisif de la victoire (2-1) en finale, après l'égalisation de Franck Kessié.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle ville a accueilli les Jeux Olympiques d'été en 2024 ?",
-    "options": ["A) Los Angeles", "B) Londres", "C) Paris", "D) Tokyo"],
-    "answer": "C",
-    "explanation": "Les JO de 2024 se sont déroulés à Paris, en France.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le judo est un art martial originaire de quel pays ?",
-    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
-    "answer": "C",
-    "explanation": "Créé par Jigoro Kano en 1882 au Japon.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le tournoi de tennis de Roland-Garros se joue sur quelle surface ?",
-    "options": ["A) Gazon", "B) Terre battue", "C) Dur", "D) Moquette"],
-    "answer": "B",
-    "explanation": "Roland-Garros est le tournoi du Grand Chelem disputé sur terre battue à Paris.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "À quelle date Napoléon Bonaparte a-t-il été couronné Empereur des Français ?",
-    "options": ["A) 14 juillet 1789", "B) 2 décembre 1804", "C) 18 juin 1815", "D) 9 novembre 1799"],
-    "answer": "B",
-    "explanation": "Le sacre a eu lieu le 2 décembre 1804 à Notre-Dame de Paris.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année se sont tenus les accords de Bretton Woods instituant le FMI et la Banque Mondiale ?",
-    "options": ["A) 1919", "B) 1944", "C) 1945", "D) 1957"],
-    "answer": "B",
-    "explanation": "La conférence de Bretton Woods s'est tenue en juillet 1944 aux États-Unis.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la distance exacte du marathon en athlétisme ?",
-    "options": ["A) 40,000 km", "B) 42,195 km", "C) 45,000 km", "D) 50,000 km"],
-    "answer": "B",
-    "explanation": "Distance fixée définitivement depuis les JO de Londres en 1908.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
-    "options": ["A) Le dioxygène", "B) Le dioxyde de carbone", "C) Le diazote", "D) L'argon"],
-    "answer": "C",
-    "explanation": "Le diazote compose environ 78% de l'air que nous respirons.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel philosophe grec a fondé l'école appelée 'Le Lycée' ?",
-    "options": ["A) Socrate", "B) Platon", "C) Aristote", "D) Épicure"],
-    "answer": "C",
-    "explanation": "Platon a fondé l'Académie, Aristote a fondé le Lycée (école péripatéticienne).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quel courant artistique Pablo Picasso est-il l'un des fondateurs ?",
-    "options": ["A) L'impressionnisme", "B) Le surréalisme", "C) Le cubisme", "D) Le fauvisme"],
-    "answer": "C",
-    "explanation": "Avec Georges Braque, Picasso a été le pionnier du cubisme au début du XXe siècle (ex: Les Demoiselles d'Avignon).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans la mythologie grecque, qui fut condamné à pousser éternellement un lourd rocher au sommet d'une montagne ?",
-    "options": ["A) Prométhée", "B) Atlas", "C) Sisyphe", "D) Hercule"],
-    "answer": "C",
-    "explanation": "Le châtiment de Sisyphe symbolise le travail absurde et sans fin.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale de la région de l'Agnéby-Tiassa en Côte d'Ivoire ?",
-    "options": ["A) Divo", "B) Agboville", "C) Adzopé", "D) Sikensi"],
-    "answer": "B",
-    "explanation": "La région de l'Agnéby-Tiassa (sud de la CI) a pour chef-lieu la ville d'Agboville.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le Parlement de la 3ème République ivoirienne est bicaméral. Il comprend l'Assemblée nationale et...",
-    "options": ["A) Le Conseil Économique et Social", "B) Le Sénat", "C) Le Conseil Constitutionnel", "D) La Cour Suprême"],
-    "answer": "B",
-    "explanation": "La Constitution de 2016 a instauré un Sénat, rendant le parlement bicaméral.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a été le premier Président du Sénat de Côte d'Ivoire ?",
-    "options": ["A) Amadou Soumahoro", "B) Adama Bictogo", "C) Jeannot Ahoussou Kouadio", "D) Charles Koffi Diby"],
-    "answer": "C",
-    "explanation": "Jeannot Ahoussou Kouadio a été élu premier président du Sénat ivoirien en 2018.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "L'élection présidentielle d'octobre 2025 en Côte d'Ivoire a été remportée, selon la CEI, par :",
-    "options": ["A) Tidjane Thiam", "B) Jean-Louis Billon", "C) Alassane Ouattara", "D) Simone Gbagbo"],
-    "answer": "C",
-    "explanation": "Le président sortant, Alassane Ouattara (RHDP), a été réélu pour un quatrième mandat dès le premier tour avec environ 89,7% des suffrages.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En 2025, trois pays ouest-africains ont officialisé leur retrait de la CEDEAO pour former la Confédération des États du Sahel (AES). Lesquels ?",
-    "options": ["A) Mali, Sénégal, Guinée", "B) Mali, Burkina Faso, Niger", "C) Burkina Faso, Togo, Bénin", "D) Niger, Tchad, Mauritanie"],
-    "answer": "B",
-    "explanation": "Le Mali, le Burkina Faso et le Niger ont quitté la CEDEAO en janvier 2025 et institutionnalisé l'AES.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a remporté le Prix Nobel de Littérature en 2024 ?",
     "options": ["A) Annie Ernaux", "B) Jon Fosse", "C) Han Kang", "D) Haruki Murakami"],
     "answer": "C",
     "explanation": "L'autrice sud-coréenne Han Kang a remporté le prix Nobel de littérature en 2024.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien d'États membres compte la CEDEAO depuis le retrait définitif des pays de l'AES en 2025 ?",
-    "options": ["A) 15", "B) 12", "C) 10", "D) 14"],
-    "answer": "B",
-    "explanation": "Avec le retrait du Mali, du Burkina Faso et du Niger, la CEDEAO est passée de 15 à 12 membres actifs.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lors des JO de Paris 2024, quel sportif détient encore historiquement le record absolu du nombre de médailles olympiques toutes éditions confondues ?",
-    "options": ["A) Usain Bolt", "B) Michael Phelps", "C) Carl Lewis", "D) Léon Marchand"],
-    "answer": "B",
-    "explanation": "Le nageur américain Michael Phelps détient le record absolu avec 28 médailles, dont 23 en or.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Laquelle de ces institutions n'appartient pas au pouvoir judiciaire en Côte d'Ivoire ?",
-    "options": ["A) La Cour de Cassation", "B) La Haute Cour de Justice", "C) La Cour des Comptes", "D) Le Conseil des Ministres"],
-    "answer": "D",
-    "explanation": "Le Conseil des ministres est l'organe du pouvoir exécutif. La Cour des Comptes appartient à l'ordre juridictionnel financier.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "L'athlète jamaïcain Usain Bolt est célèbre pour son record du monde sur 100m. Quel est son temps record ?",
-    "options": ["A) 9,69 s", "B) 9,72 s", "C) 9,58 s", "D) 9,52 s"],
-    "answer": "C",
-    "explanation": "Il a établi le record de 9,58 s lors des championnats du monde d'athlétisme à Berlin en 2009.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où se situe le siège de l'Union Économique et Monétaire Ouest-Africaine (UEMOA) ?",
-    "options": ["A) Dakar", "B) Abidjan", "C) Lomé", "D) Ouagadougou"],
-    "answer": "D",
-    "explanation": "Le siège de la Commission de l'UEMOA est à Ouagadougou (Burkina Faso).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Où se trouve le siège de la BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) ?",
-    "options": ["A) Abidjan", "B) Dakar", "C) Lomé", "D) Niamey"],
-    "answer": "B",
-    "explanation": "Le siège de la BCEAO est situé à Dakar au Sénégal (bien que son gouverneur actuel, Jean-Claude Kassi Brou, soit de nationalité ivoirienne).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lors de la CAN 2023, quelle équipe la Côte d'Ivoire a-t-elle éliminée en demi-finale ?",
-    "options": ["A) Sénégal", "B) Mali", "C) RD Congo", "D) Guinée équatoriale"],
-    "answer": "C",
-    "explanation": "La Côte d'Ivoire a battu la RD Congo 1-0 en demi-finale, grâce à un but de Sébastien Haller.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En Côte d'Ivoire, l'Autorité Nationale de la Presse (ANP) remplace :",
-    "options": ["A) Le CNP", "B) La HACA", "C) Le CICG", "D) Le Conseil d'État"],
-    "answer": "A",
-    "explanation": "L'ANP (Autorité Nationale de la Presse) a remplacé le Conseil National de la Presse (CNP) comme organe de régulation de la presse écrite.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Le 7 août 1960 marque pour la Côte d'Ivoire :",
-    "options": ["A) La proclamation de la République", "B) L'indépendance", "C) L'adoption de l'hymne national", "D) Le transfert de la capitale"],
-    "answer": "B",
-    "explanation": "C'est la date officielle de l'accession de la Côte d'Ivoire à l'indépendance.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nom de l'hymne national de la Côte d'Ivoire ?",
-    "options": ["A) La Concorde", "B) L'Abidjanaise", "C) Le Ditanyè", "D) La Dessalinienne"],
-    "answer": "B",
-    "explanation": "L'Abidjanaise a été adoptée comme hymne national en 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Laquelle de ces villes n'est pas un chef-lieu de district autonome en Côte d'Ivoire ?",
-    "options": ["A) Abidjan", "B) Yamoussoukro", "C) San-Pédro", "D) Bocanda"],
-    "answer": "D",
-    "explanation": "Bocanda est un département situé dans la région du N'Zi, ce n'est pas un chef-lieu de district autonome (comme Abidjan, Yamoussoukro, etc.).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En août 2026, l'Alliance des États du Sahel (AES) a officiellement installé son Parlement confédéral dans quelle ville ?",
-    "options": ["A) Bamako", "B) Ouagadougou", "C) Niamey", "D) Agadez"],
-    "answer": "C",
-    "explanation": "Le parlement confédéral de l'AES (45 députés) a été installé à Niamey au Niger fin août 2026.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En histoire, quel traité a mis fin à la Première Guerre mondiale en 1919 ?",
-    "options": ["A) Le Traité de Vienne", "B) Le Traité de Versailles", "C) Le Traité de Rome", "D) Le Traité de Tordesillas"],
-    "answer": "B",
-    "explanation": "Signé le 28 juin 1919 dans la galerie des Glaces du château de Versailles.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a succédé à Henri Konan Bédié à la tête du PDCI-RDA après son décès ?",
-    "options": ["A) Maurice Kakou Guikahué", "B) Tidjane Thiam", "C) Jean-Louis Billon", "D) Thierry Tanoh"],
-    "answer": "B",
-    "explanation": "Tidjane Thiam a été élu président du PDCI-RDA en décembre 2023.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel était le taux de participation officiel selon la CEI lors de l'élection présidentielle ivoirienne d'octobre 2025 ?",
-    "options": ["A) Environ 35%", "B) Environ 50%", "C) Environ 75%", "D) Environ 90%"],
-    "answer": "B",
-    "explanation": "La CEI a enregistré un taux de participation d'environ 50,10 % lors de ce scrutin.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans le cadre de l'exécution du PND (Plan National de Développement), quelle est la période couverte par le dernier plan en cours avant 2026 ?",
-    "options": ["A) 2012-2015", "B) 2016-2020", "C) 2021-2025", "D) 2025-2030"],
-    "answer": "C",
-    "explanation": "Le gouvernement ivoirien a exécuté le PND sur la période 2021-2025 visant la transformation structurelle de l'économie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Lors de la phase de groupes de la CAN 2023, la Côte d'Ivoire a subi une lourde défaite (0-4) face à quelle équipe ?",
-    "options": ["A) Le Nigeria", "B) La Guinée-Bissau", "C) La Guinée équatoriale", "D) Le Sénégal"],
-    "answer": "C",
-    "explanation": "Le 'Nzalang Nacional' de la Guinée équatoriale a battu les Éléphants 4 à 0 lors de leur 3e match de poule.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel fleuve ivoirien donne son nom à une région dont le chef-lieu est Sassandra ?",
-    "options": ["A) Le Bandama", "B) Le Cavally", "C) Le Sassandra", "D) La Comoé"],
-    "answer": "C",
-    "explanation": "Le fleuve Sassandra traverse l'ouest du pays et se jette dans le golfe de Guinée au niveau de la ville de Sassandra (région du Gbôklè).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la devise de la République de Côte d'Ivoire ?",
-    "options": ["A) Union - Travail - Justice", "B) Union - Discipline - Travail", "C) Paix - Travail - Patrie", "D) Fraternité - Travail - Progrès"],
-    "answer": "B",
-    "explanation": "C'est la devise officielle figurant sur les armoiries de la CI.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "La Basilique Notre-Dame de la Paix, l'édifice religieux chrétien le plus grand du monde, se trouve à :",
-    "options": ["A) Abidjan", "B) Rome", "C) Yamoussoukro", "D) Korhogo"],
-    "answer": "C",
-    "explanation": "Construite sous la présidence de Félix Houphouët-Boigny, elle a été consacrée en 1990 par le Pape Jean-Paul II.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel sport évolue l'athlète ivoirienne Marie-Josée Ta Lou-Smith ?",
-    "options": ["A) Saut en longueur", "B) Taekwondo", "C) Sprint (Athlétisme)", "D) Natation"],
-    "answer": "C",
-    "explanation": "Elle est une sprinteuse spécialiste des 100m et 200m.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui fut le fondateur du célèbre empire de Kong au nord de la Côte d'Ivoire au XVIIIe siècle ?",
-    "options": ["A) Samory Touré", "B) Sékou Ouattara", "C) Osei Tutu", "D) Abla Pokou"],
-    "answer": "B",
-    "explanation": "Sékou Ouattara a fondé l'Empire de Kong vers 1710.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "L'organisation sous-régionale CEDEAO a pour siège principal :",
-    "options": ["A) Abidjan", "B) Dakar", "C) Abuja", "D) Accra"],
-    "answer": "C",
-    "explanation": "Le siège de la Commission de la CEDEAO se trouve à Abuja, la capitale du Nigeria.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans le contexte de la crise du Sahel, l'opération militaire française qui a pris fin en 2022 s'appelait :",
-    "options": ["A) Serval", "B) Sangaris", "C) Barkhane", "D) Takuba"],
-    "answer": "C",
-    "explanation": "Lancée en 2014 pour succéder à Serval, Barkhane s'est achevée officiellement en novembre 2022 suite aux retraits successifs du Mali puis du Burkina.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est l'année de l'indépendance de la Côte d'Ivoire ?",
-    "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1964"],
-    "answer": "B",
-    "explanation": "La Côte d'Ivoire a obtenu son indépendance le 7 août 1960.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui fut le premier président de la Côte d'Ivoire ?",
-    "options": ["A) Henri Konan Bédié", "B) Laurent Gbagbo", "C) Félix Houphouët-Boigny", "D) Alassane Ouattara"],
-    "answer": "C",
-    "explanation": "Félix Houphouët-Boigny fut le premier président du pays.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale politique de la Côte d'Ivoire ?",
-    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) San-Pédro"],
-    "answer": "C",
-    "explanation": "Yamoussoukro est la capitale politique de la CI depuis 1983.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quelle ville ivoirienne se trouve la basilique Notre-Dame de la Paix ?",
-    "options": ["A) Abidjan", "B) Yamoussoukro", "C) Korhogo", "D) Man"],
-    "answer": "B",
-    "explanation": "La basilique est située à Yamoussoukro.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment s'appelle l'hymne national ivoirien ?",
-    "options": ["A) L'Abidjanaise", "B) La Concorde", "C) Le Ditanyè", "D) L'Ivoirienne"],
-    "answer": "A",
-    "explanation": "L'hymne national est L'Abidjanaise.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel fleuve ivoirien donne son nom à un grand barrage hydroélectrique ?",
-    "options": ["A) Sassandra", "B) Bandama", "C) Comoé", "D) Cavally"],
-    "answer": "B",
-    "explanation": "Le barrage de Kossou est sur le fleuve Bandama.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui est l'auteur du roman 'Les Soleils des indépendances' ?",
     "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Camara Laye", "D) Léopold Sédar Senghor"],
     "answer": "B",
     "explanation": "Ahmadou Kourouma a écrit ce célèbre roman.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la principale culture d'exportation de la Côte d'Ivoire ?",
-    "options": ["A) Café", "B) Coton", "C) Cacao", "D) Anacarde"],
-    "answer": "C",
-    "explanation": "La CI est le premier producteur mondial de cacao.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de districts autonomes compte la Côte d'Ivoire ?",
-    "options": ["A) 2", "B) 12", "C) 14", "D) 31"],
-    "answer": "C",
-    "explanation": "La CI compte 14 districts dont 2 autonomes (Abidjan et Yamoussoukro).",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel parc national ivoirien est célèbre pour ses chimpanzés et sa forêt primaire ?",
-    "options": ["A) Parc national de Taï", "B) Parc national du Banco", "C) Parc national de la Comoé", "D) Réserve d'Abokouamékro"],
-    "answer": "A",
-    "explanation": "Le parc de Taï est classé au patrimoine mondial de l'UNESCO.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "De quelle région Daloa est-il le chef-lieu ?",
-    "options": ["A) Haut-Sassandra", "B) Marahoué", "C) Gôh", "D) Tonkpi"],
-    "answer": "A",
-    "explanation": "Daloa est la capitale du Haut-Sassandra.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En quelle année a eu lieu le coup d'État de Robert Guéï ?",
-    "options": ["A) 1993", "B) 1999", "C) 2002", "D) 2010"],
-    "answer": "B",
-    "explanation": "Le coup d'État a eu lieu le 24 décembre 1999.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le sommet le plus élevé de Côte d'Ivoire ?",
-    "options": ["A) Mont Tonkoui", "B) Mont Nimba", "C) Mont Momi", "D) Mont Zo"],
-    "answer": "B",
-    "explanation": "Le Mont Nimba (1752m) est le point culminant.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quel district se trouve la ville de Korhogo ?",
-    "options": ["A) District des Savanes", "B) District du Denguélé", "C) District du Woroba", "D) District de la Vallée du Bandama"],
-    "answer": "A",
-    "explanation": "Korhogo est le chef-lieu du district des Savanes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel peuple célèbre la fête de l'Abissa ?",
-    "options": ["A) Baoulé", "B) Bété", "C) Nzima", "D) Sénoufo"],
-    "answer": "C",
-    "explanation": "Les Nzima (Grand-Bassam) célèbrent l'Abissa.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l'actuel Premier ministre de Côte d'Ivoire (2024) ?",
-    "options": ["A) Patrick Achi", "B) Robert Beugré Mambé", "C) Amadou Gon Coulibaly", "D) Hamed Bakayoko"],
-    "answer": "B",
-    "explanation": "Robert Beugré Mambé a été nommé en 2023.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle ville ivoirienne est surnommée 'La perle des lagunes' ?",
-    "options": ["A) San-Pédro", "B) Grand-Bassam", "C) Abidjan", "D) Jacqueville"],
-    "answer": "C",
-    "explanation": "Abidjan est surnommée la perle des lagunes.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel instrument traditionnel est typique de la musique balafon ?",
-    "options": ["A) Kora", "B) Balafon", "C) Tam-tam", "D) Djembe"],
-    "answer": "B",
-    "explanation": "Le balafon est un xylophone traditionnel d'Afrique de l'Ouest.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Laquelle de ces villes fut la première capitale de la Côte d'Ivoire coloniale ?",
-    "options": ["A) Bingerville", "B) Grand-Bassam", "C) Abidjan", "D) Yamoussoukro"],
-    "answer": "B",
-    "explanation": "Grand-Bassam fut la première capitale de 1893 à 1896.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle ethnie appartient au groupe Akan ?",
-    "options": ["A) Les Dan", "B) Les Baoulé", "C) Les Sénoufo", "D) Les Malinké"],
-    "answer": "B",
-    "explanation": "Les Baoulé font partie du groupe Akan.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel animal est l'emblème national de la Côte d'Ivoire ?",
-    "options": ["A) L'aigle", "B) Le lion", "C) L'éléphant", "D) La panthère"],
-    "answer": "C",
-    "explanation": "L'éléphant est l'animal symbole du pays.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel port ivoirien est le premier port exportateur mondial de cacao ?",
-    "options": ["A) Port d'Abidjan", "B) Port de San-Pédro", "C) Port de Sassandra", "D) Port de Tabou"],
-    "answer": "B",
-    "explanation": "San-Pédro est le premier port exportateur de cacao au monde.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a composé la musique de l'Abidjanaise ?",
-    "options": ["A) Mathieu Ekra", "B) Pierre-Michel Pango", "C) Joachim Bony", "D) Bernard Dadié"],
-    "answer": "B",
-    "explanation": "L'Abbé Pierre-Michel Pango a composé la musique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel pont emblématique relie le Plateau à Treichville à Abidjan ?",
-    "options": ["A) Pont Houphouët-Boigny", "B) Pont De Gaulle", "C) Pont HKB", "D) Pont Alassane Ouattara"],
-    "answer": "A",
-    "explanation": "Le pont Félix Houphouët-Boigny fut le premier pont construit.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En Côte d'Ivoire, quelle institution juge les contentieux électoraux des élections locales ?",
-    "options": ["A) La Cour de Cassation", "B) Le Conseil Constitutionnel", "C) Le Conseil d'État", "D) La Commission Électorale Indépendante"],
-    "answer": "C",
-    "explanation": "Le Conseil d'État juge les contentieux des élections locales.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le plus long fleuve s'écoulant entièrement sur le territoire ivoirien ?",
-    "options": ["A) Le Cavally", "B) La Comoé", "C) Le Bandama", "D) Le Sassandra"],
-    "answer": "C",
-    "explanation": "Le Bandama (1050 km) coule uniquement en CI.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle danse traditionnelle est inscrite au patrimoine culturel immatériel de l'UNESCO ?",
-    "options": ["A) Le Gbofe", "B) Le Zaouli", "C) Le Tématé", "D) Le Boloye"],
-    "answer": "B",
-    "explanation": "Le Zaouli des communautés Gouro est inscrit à l'UNESCO.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Dans quelle région se trouve la ville de Man ?",
-    "options": ["A) Tonkpi", "B) Guémon", "C) Cavally", "D) Bafing"],
-    "answer": "A",
-    "explanation": "Man est le chef-lieu de la région du Tonkpi.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle célèbre figure féminine a conduit les Baoulé en Côte d'Ivoire ?",
-    "options": ["A) Anne Zingha", "B) Abla Pokou", "C) Yennenga", "D) Ndaté Yalla"],
-    "answer": "B",
-    "explanation": "La reine Abla Pokou a mené l'exode des Baoulé depuis le Ghana.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel traité de 1893 a officialisé la colonie de Côte d'Ivoire ?",
-    "options": ["A) Traité de Berlin", "B) Décret de 1893", "C) Traité de Versailles", "D) Accords de Grand-Bassam"],
-    "answer": "B",
-    "explanation": "Le décret du 10 mars 1893 institue la colonie.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est l'organisation sous-régionale dont le siège est à Abuja ?",
-    "options": ["A) UEMOA", "B) CEDEAO", "C) CEMAC", "D) Union Africaine"],
-    "answer": "B",
-    "explanation": "La CEDEAO a son siège au Nigeria, à Abuja.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui est l'actuelle directrice générale de l'OMC (Organisation mondiale du commerce) ?",
-    "options": ["A) Ngozi Okonjo-Iweala", "B) Christine Lagarde", "C) Kristalina Georgieva", "D) Amina J. Mohammed"],
-    "answer": "A",
-    "explanation": "La Nigériane Ngozi Okonjo-Iweala dirige l'OMC.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est le nombre de membres actuels du Conseil de Sécurité de l'ONU ?",
-    "options": ["A) 10", "B) 15", "C) 20", "D) 25"],
-    "answer": "B",
-    "explanation": "Il y a 5 membres permanents et 10 non permanents.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle est la capitale économique du Bénin ?",
-    "options": ["A) Porto-Novo", "B) Cotonou", "C) Parakou", "D) Ouidah"],
-    "answer": "B",
-    "explanation": "Cotonou est la capitale économique, Porto-Novo la politique.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui fut le premier secrétaire général africain de l'ONU ?",
-    "options": ["A) Kofi Annan", "B) Boutros Boutros-Ghali", "C) Ban Ki-moon", "D) U Thant"],
-    "answer": "B",
-    "explanation": "L'Égyptien Boutros Boutros-Ghali fut le premier Africain SG de l'ONU.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "En mathématiques, comment appelle-t-on un polygone à 8 côtés ?",
-    "options": ["A) Hexagone", "B) Heptagone", "C) Octogone", "D) Décagone"],
-    "answer": "C",
-    "explanation": "Un octogone a 8 côtés.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quelle planète est surnommée la planète rouge ?",
-    "options": ["A) Vénus", "B) Jupiter", "C) Mars", "D) Saturne"],
-    "answer": "C",
-    "explanation": "Mars est surnommée la planète rouge.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit le célèbre roman 'L'Étranger' ?",
     "options": ["A) Jean-Paul Sartre", "B) Albert Camus", "C) Marcel Proust", "D) Victor Hugo"],
     "answer": "B",
     "explanation": "Albert Camus a publié L'Étranger en 1942.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Quel est l'océan le plus profond du monde ?",
-    "options": ["A) Atlantique", "B) Indien", "C) Arctique", "D) Pacifique"],
-    "answer": "D",
-    "explanation": "L'océan Pacifique contient la fosse des Mariannes, le point le plus profond.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Combien de jours compte une année bissextile ?",
-    "options": ["A) 364", "B) 365", "C) 366", "D) 367"],
-    "answer": "C",
-    "explanation": "Une année bissextile compte 366 jours.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Comment Brice Clotaire Oligui N'Guema est-il d'abord arrivé au pouvoir au Gabon avant l'élection présidentielle de 2025 ?",
-    "options": ["A) Par élection en 2020", "B) Suite au coup d'État militaire du 30 août 2023", "C) Par succession constitutionnelle", "D) Sur décision de l'Union Africaine"],
-    "answer": "B",
-    "explanation": "Le général Oligui N'Guema a pris le pouvoir le 30 août 2023 à la tête du CTRI suite à un coup d'État renversant Ali Bongo, avant la transition et l'élection d'avril 2025.",
-    "theme": "Culture Générale — Géographie et connaissances"
-  },
-  {
-    "question": "Qui a remporté le Ballon d'Or 2023 ?",
-    "options": ["A) Erling Haaland", "B) Lionel Messi", "C) Kylian Mbappé", "D) Karim Benzema"],
-    "answer": "B",
-    "explanation": "Lionel Messi a remporté son 8e Ballon d'Or en 2023, l'édition 2020 ayant été annulée.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
     "options": ["A) Ahmadou Kourouma", "B) Camara Laye", "C) Sembène Ousmane", "D) Cheikh Hamidou Kane"],
     "answer": "B",
     "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Qui a écrit 'Le Docker noir' ?",
     "options": ["A) Sembène Ousmane", "B) Bernard Dadié", "C) Mongo Beti", "D) Ahmadou Kourouma"],
     "answer": "A",
     "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
     "options": ["A) Camara Laye", "B) Ferdinand Oyono", "C) Sembène Ousmane", "D) Seydou Badian"],
     "answer": "B",
     "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
     "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Mongo Beti", "D) Ferdinand Oyono"],
     "answer": "B",
     "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
   },
   {
     "question": "Quel est l'auteur de l'œuvre 'Climbié' ?",
     "options": ["A) Seydou Badian", "B) Sembène Ousmane", "C) Bernard Dadié", "D) Mongo Beti"],
     "answer": "C",
     "explanation": "Climbié a été écrit par Bernard Dadié.",
-    "theme": "Culture Générale — Géographie et connaissances"
+    "theme": "Langue française & Littérature"
+  },
+  {
+    "question": "Les mots « saut », « seau » et « sot » sont des :",
+    "options": ["A) Paronymes", "B) Homographes", "C) Homophones", "D) Antonymes"],
+    "answer": "C",
+    "explanation": "Ces mots se prononcent de la même façon mais s'écrivent différemment : ce sont des homophones.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La relation entre « rose » et « fleur » est une :",
+    "options": ["A) Synonymie", "B) Hyponymie", "C) Antonymie", "D) Méronymie"],
+    "answer": "B",
+    "explanation": "« Rose » est un hyponyme de « fleur » (terme plus général, l'hyperonyme).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot « Ressasser » est un exemple de :",
+    "options": ["A) Anagramme", "B) Palindrome", "C) Homonyme", "D) Paronyme"],
+    "answer": "B",
+    "explanation": "« Ressasser » se lit dans les deux sens, c'est un palindrome.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Les mots « éminent » et « imminent » sont des :",
+    "options": ["A) Synonymes", "B) Homographes", "C) Paronymes", "D) Antonymes"],
+    "answer": "C",
+    "explanation": "Ces mots se ressemblent fortement mais ont des sens différents : ce sont des paronymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans les expressions « avoir du cœur » et « le cœur bat », « cœur » illustre :",
+    "options": ["A) Homonymie", "B) Polysémie", "C) Méronymie", "D) Synonymie"],
+    "answer": "B",
+    "explanation": "Un même mot avec plusieurs sens liés illustre la polysémie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Marie » et « aimer » sont des :",
+    "options": ["A) Palindromes", "B) Homophones", "C) Anagrammes", "D) Synonymes"],
+    "answer": "C",
+    "explanation": "Les mêmes lettres réorganisées forment des anagrammes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Grand » et « petit » sont des :",
+    "options": ["A) Antonymes", "B) Homonymes", "C) Hyponymes", "D) Paronymes"],
+    "answer": "A",
+    "explanation": "Ces mots ont des sens opposés : ce sont des antonymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Touche » est le méronyme de « clavier ». La méronymie décrit :",
+    "options": ["A) Relation de sens proche", "B) Relation d'inclusion (partie/tout)", "C) Relation de ressemblance"],
+    "answer": "B",
+    "explanation": "La méronymie exprime une relation partie/tout.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Date » (jour) et « datte » (fruit) sont des :",
+    "options": ["A) Mots polysémiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
+    "answer": "B",
+    "explanation": "Ces mots se prononcent pareil mais n'ont aucun lien de sens : homonymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne des mots interchangeables avec un sens très proche ?",
+    "options": ["A) Antonymes", "B) Synonymes", "C) Paronymes", "D) Homonymes"],
+    "answer": "B",
+    "explanation": "Les synonymes ont un sens identique ou très proche.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'expression « J'ai mille choses à faire » est un :",
+    "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Métonymie"],
+    "answer": "C",
+    "explanation": "L'exagération volontaire est une hyperbole.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'hyperonyme de « voiture », « camion », « bus » ?",
+    "options": ["A) Véhicule", "B) Transport", "C) Route", "D) Moteur"],
+    "answer": "A",
+    "explanation": "« Véhicule » est le terme général qui englobe ces mots.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La répétition d'un mot en début de vers s'appelle :",
+    "options": ["A) Anaphore", "B) Allitération", "C) Assonance", "D) Métaphore"],
+    "answer": "A",
+    "explanation": "L'anaphore est la répétition d'un mot ou groupe de mots en début de phrase.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Les mots « poisson » et « poison » sont des :",
+    "options": ["A) Homographes", "B) Paronymes", "C) Homophones", "D) Synonymes"],
+    "answer": "B",
+    "explanation": "Ils se ressemblent beaucoup mais ont des sens différents : paronymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne les mots cohyponymes de « animal » ?",
+    "options": ["A) Arbre, plante", "B) Chat, chien, oiseau", "C) Maison, jardin", "D) Mammifère, reptile"],
+    "answer": "B",
+    "explanation": "Les cohyponymes sont des hyponymes d'un même hyperonyme (ici « animal »).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Les mots « ver », « verre » et « vert » sont des :",
+    "options": ["A) Paronymes", "B) Homographes", "C) Homophones", "D) Synonymes"],
+    "answer": "C",
+    "explanation": "Ces mots se prononcent identiquement mais s'écrivent différemment : homophones.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La relation entre « chien » et « animal » est une :",
+    "options": ["A) Synonymie", "B) Hyponymie", "C) Antonymie", "D) Homonymie"],
+    "answer": "B",
+    "explanation": "« Chien » est un hyponyme (terme spécifique) de « animal » (terme général).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot « Radar » est un exemple de :",
+    "options": ["A) Anagramme", "B) Palindrome", "C) Homonyme", "D) Paronyme"],
+    "answer": "B",
+    "explanation": "« Radar » se lit identiquement dans les deux sens : c'est un palindrome.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style est une courte phrase qui se termine par une pointe satirique ?",
+    "options": ["A) Métaphore", "B) Épigramme", "C) Hyperbole", "D) Allégorie"],
+    "answer": "B",
+    "explanation": "L'épigramme est une courte pièce satirique ou spirituelle.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Les mots « cession » et « session » sont des :",
+    "options": ["A) Synonymes", "B) Homographes", "C) Paronymes", "D) Homophones"],
+    "answer": "C",
+    "explanation": "Ces mots se ressemblent fortement mais ont des sens différents : paronymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « pied de la jambe » et « pied d'une montagne », « pied » illustre :",
+    "options": ["A) Homonymie", "B) Polysémie", "C) Méronymie", "D) Paronymie"],
+    "answer": "B",
+    "explanation": "Un même mot avec plusieurs sens liés par l'origine : polysémie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Imaginer » et « migraine » sont des :",
+    "options": ["A) Palindromes", "B) Homophones", "C) Anagrammes", "D) Paronymes"],
+    "answer": "C",
+    "explanation": "Les lettres des deux mots peuvent être réorganisées : anagrammes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « Sa bouche est une rose », quelle figure de style est utilisée ?",
+    "options": ["A) Comparaison", "B) Métaphore", "C) Métonymie", "D) Hyperbole"],
+    "answer": "B",
+    "explanation": "Une métaphore établit une comparaison implicite sans utiliser « comme ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Chaud » et « froid » sont des :",
+    "options": ["A) Antonymes", "B) Homonymes", "C) Hyponymes", "D) Synonymes"],
+    "answer": "A",
+    "explanation": "Ces mots ont des sens opposés : ce sont des antonymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Roue » est le méronyme de « voiture ». La méronymie décrit :",
+    "options": ["A) Relation de sens proche", "B) Relation d'inclusion (partie/tout)", "C) Relation de ressemblance"],
+    "answer": "B",
+    "explanation": "Un méronyme désigne une partie d'un tout (holonyme).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Avocat » (fruit) et « avocat » (profession) sont des :",
+    "options": ["A) Mots polysémiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
+    "answer": "B",
+    "explanation": "Ces mots n'ont aucun lien de sens malgré leur forme identique : homonymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne des mots au sens identique ou très proche ?",
+    "options": ["A) Antonymes", "B) Synonymes", "C) Paronymes", "D) Homophones"],
+    "answer": "B",
+    "explanation": "Les synonymes sont interchangeables dans un contexte donné.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'expression « Je meurs de faim » est un :",
+    "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Oxymore"],
+    "answer": "C",
+    "explanation": "L'hyperbole est une exagération volontaire pour renforcer l'expression.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'hyperonyme de « chaise », « fauteuil », « tabouret » ?",
+    "options": ["A) Meuble", "B) Bois", "C) Assise", "D) Salon"],
+    "answer": "A",
+    "explanation": "« Meuble » est le terme général qui englobe ces sièges.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Comment appelle-t-on la répétition d'un mot en début de phrase ?",
+    "options": ["A) Anaphore", "B) Allitération", "C) Assonance", "D) Épiphore"],
+    "answer": "A",
+    "explanation": "L'anaphore est la répétition d'un mot ou groupe en début de vers ou phrase.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Les mots « pêcheur » et « pécheur » sont des :",
+    "options": ["A) Homographes", "B) Homophones", "C) Synonymes", "D) Antonymes"],
+    "answer": "B",
+    "explanation": "Prononciation identique mais orthographe différente : homophones.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène décrit des mots très ressemblants mais de sens différents ?",
+    "options": ["A) Homonymie", "B) Synonymie", "C) Paronymie", "D) Polysémie"],
+    "answer": "C",
+    "explanation": "Les paronymes se ressemblent phonétiquement et graphiquement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Engage le jeu que je le gagne » est un :",
+    "options": ["A) Anagramme", "B) Palindrome", "C) Épigramme", "D) Calembour"],
+    "answer": "B",
+    "explanation": "Cette phrase se lit dans les deux sens : palindrome.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'hétéronymie concerne des mots de sens liés mais de radicaux différents ?",
+    "options": ["A) Vrai", "B) Faux", "C) Partiellement vrai"],
+    "answer": "A",
+    "explanation": "Ex : « oncle/tante », « cheval/jument » - sens liés, radicaux différents.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quels mots sont cohyponymes de « fleur » ?",
+    "options": ["A) Arbre, arbuste", "B) Rose, tulipe", "C) Bouquet, jardin", "D) Pétale, tige"],
+    "answer": "B",
+    "explanation": "Les cohyponymes partagent le même hyperonyme (ici « fleur »).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Conte », « comte » et « compte » sont des :",
+    "options": ["A) Paronymes", "B) Homophones", "C) Homographes", "D) Synonymes"],
+    "answer": "B",
+    "explanation": "Même prononciation, orthographes différentes : homophones.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « Il est mort de rire », quelle figure est utilisée ?",
+    "options": ["A) Hyperbole", "B) Litote", "C) Euphémisme", "D) Antiphrase"],
+    "answer": "A",
+    "explanation": "Exagération volontaire pour renforcer l'expression : hyperbole.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Oncle » et « tante » illustrent :",
+    "options": ["A) Synonymie", "B) Antonymie", "C) Hétéronymie", "D) Paronymie"],
+    "answer": "C",
+    "explanation": "Sens liés (famille) mais radicaux complètement différents : hétéronymie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'allitération est la répétition de :",
+    "options": ["A) Voyelles", "B) Consonnes", "C) Mots", "D) Syllabes"],
+    "answer": "B",
+    "explanation": "L'allitération répète des consonnes. L'assonance répète des voyelles.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Père » est l'holonyme de « main ». Vrai ou faux ?",
+    "options": ["A) Vrai", "B) Faux"],
+    "answer": "B",
+    "explanation": "Faux. « Corps » serait l'holonyme de « main » (tout dont fait partie la main).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Ce n'est pas mauvais » pour dire « c'est excellent » est une :",
+    "options": ["A) Hyperbole", "B) Litote", "C) Métaphore", "D) Métonymie"],
+    "answer": "B",
+    "explanation": "La litote dit moins pour suggérer plus.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Nager » et « narguer » sont des :",
+    "options": ["A) Synonymes", "B) Paronymes", "C) Homonymes", "D) Antonymes"],
+    "answer": "B",
+    "explanation": "Ressemblance phonétique et graphique forte : paronymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « Il pleut des cordes », quelle figure est utilisée ?",
+    "options": ["A) Métaphore", "B) Comparaison", "C) Hyperbole", "D) Personnification"],
+    "answer": "C",
+    "explanation": "Exagération pour décrire une pluie forte : hyperbole.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Tête » (partie du corps) et « tête » (chef) illustrent :",
+    "options": ["A) Homonymie", "B) Polysémie", "C) Paronymie", "D) Synonymie"],
+    "answer": "B",
+    "explanation": "Même mot, sens différents mais liés par l'origine : polysémie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'assonance est la répétition de :",
+    "options": ["A) Consonnes", "B) Voyelles", "C) Mots entiers", "D) Phrases"],
+    "answer": "B",
+    "explanation": "L'assonance est la répétition de voyelles. L'allitération répète des consonnes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Boire un verre » est un exemple de :",
+    "options": ["A) Métaphore", "B) Métonymie", "C) Synecdoque", "D) Litote"],
+    "answer": "B",
+    "explanation": "La métonymie remplace un mot par un autre lié logiquement. Ici le contenant (verre) pour le contenu (boisson).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne un mot créé récemment dans une langue ?",
+    "options": ["A) Archaïsme", "B) Néologisme", "C) Barbarisme", "D) Solécisme"],
+    "answer": "B",
+    "explanation": "Un néologisme est un mot nouveau ou récemment entré dans la langue.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne un mot tombé en désuétude, n'étant plus employé ?",
+    "options": ["A) Néologisme", "B) Archaïsme", "C) Barbarisme", "D) Pléonasme"],
+    "answer": "B",
+    "explanation": "Un archaïsme est un mot ou une expression ancienne qui n'est plus en usage courant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un barbarisme ?",
+    "options": ["A) Un mot étranger", "B) Une faute de vocabulaire (mot déformé)", "C) Un mot ancien", "D) Un mot technique"],
+    "answer": "B",
+    "explanation": "Un barbarisme est l'emploi d'un mot inexistant ou déformé. Ex : « aéropage » au lieu d'« aréopage ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un solécisme ?",
+    "options": ["A) Une faute d'orthographe", "B) Une faute de syntaxe", "C) Un mot inventé", "D) Un mot étranger"],
+    "answer": "B",
+    "explanation": "Un solécisme est une faute de grammaire/syntaxe. Ex : « c'est à moi que je parle » au lieu de « c'est à moi qu'on parle ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Le Roi Soleil » pour désigner Louis XIV est une :",
+    "options": ["A) Métaphore", "B) Périphrase", "C) Antonomase", "D) Comparaison"],
+    "answer": "C",
+    "explanation": "L'antonomase utilise un nom propre comme nom commun ou inversement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'épiphore est la répétition d'un mot ou groupe de mots :",
+    "options": ["A) En début de phrase", "B) En fin de phrase", "C) Au milieu de phrase", "D) Partout dans la phrase"],
+    "answer": "B",
+    "explanation": "L'épiphore est le contraire de l'anaphore : elle répète un élément en fin de vers ou de phrase.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Blanc bonnet et bonnet blanc » est un exemple de :",
+    "options": ["A) Chiasme", "B) Anaphore", "C) Palindrome", "D) Métonymie"],
+    "answer": "A",
+    "explanation": "Le chiasme est un croisement de termes selon le schéma AB-BA.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Courriel » est un néologisme français pour remplacer :",
+    "options": ["A) Internet", "B) E-mail", "C) SMS", "D) Chat"],
+    "answer": "B",
+    "explanation": "« Courriel » est le néologisme officiel pour remplacer l'anglicisme « e-mail ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La catachrèse est :",
+    "options": ["A) Une métaphore devenue si courante qu'on ne la remarque plus", "B) Un pléonasme", "C) Une exagération", "D) Une ironie"],
+    "answer": "A",
+    "explanation": "La catachrèse est une métaphore passée dans l'usage courant. Ex : « les pieds d'une table ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Cheval » et « équestre » illustrent :",
+    "options": ["A) Synonymie", "B) Un doublet étymologique", "C) Paronymie", "D) Homonymie"],
+    "answer": "B",
+    "explanation": "Le nom vient du latin populaire (caballus) et l'adjectif du latin savant (equester) : doublet étymologique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de « loquace » ?",
+    "options": ["A) Bavard", "B) Taciturne", "C) Verbeux", "D) Prolixe"],
+    "answer": "B",
+    "explanation": "« Loquace » signifie bavard ; « taciturne » signifie silencieux, peu enclin à parler.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène lexical lie « hôte » (celui qui reçoit) et « hôte » (celui qui est reçu) ?",
+    "options": ["A) Polysémie", "B) Homonymie", "C) Énantiosémie", "D) Paronymie"],
+    "answer": "C",
+    "explanation": "L'énantiosémie (ou auto-antonymie) désigne un mot qui a deux sens opposés.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Clair-obscur » est un exemple de :",
+    "options": ["A) Pléonasme", "B) Oxymore", "C) Antithèse", "D) Chiasme"],
+    "answer": "B",
+    "explanation": "L'oxymore associe deux termes contradictoires dans un même syntagme.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'une antithèse ?",
+    "options": ["A) Deux termes contradictoires accolés", "B) Opposition de deux idées dans une phrase", "C) Exagération volontaire", "D) Comparaison implicite"],
+    "answer": "B",
+    "explanation": "L'antithèse oppose deux idées dans une phrase ou un paragraphe, contrairement à l'oxymore qui accole les contraires.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel procédé consiste à atténuer une vérité désagréable ?",
+    "options": ["A) Hyperbole", "B) Litote", "C) Euphémisme", "D) Antiphrase"],
+    "answer": "C",
+    "explanation": "L'euphémisme adoucit une réalité brutale. Ex : « il s'est éteint » pour « il est mort ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Frère » et « sœur » illustrent :",
+    "options": ["A) Synonymie", "B) Antonymie", "C) Hétéronymie", "D) Paronymie"],
+    "answer": "C",
+    "explanation": "Sens liés (famille) mais radicaux totalement différents : c'est l'hétéronymie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot « chrysanthème » est :",
+    "options": ["A) Féminin", "B) Masculin", "C) Les deux"],
+    "answer": "B",
+    "explanation": "« Chrysanthème » est masculin : un chrysanthème.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'une personnification ?",
+    "options": ["A) Comparer deux éléments", "B) Attribuer des traits humains à un objet ou animal", "C) Exagérer un propos", "D) Dire le contraire de ce qu'on pense"],
+    "answer": "B",
+    "explanation": "La personnification donne des caractéristiques humaines à ce qui n'est pas humain. Ex : « le vent hurle ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'une gradation ?",
+    "options": ["A) Répétition d'un mot", "B) Énumération de termes d'intensité croissante ou décroissante", "C) Opposition de deux idées", "D) Comparaison implicite"],
+    "answer": "B",
+    "explanation": "La gradation est une suite de mots d'intensité progressive. Ex : « je le vis, je rougis, je pâlis » (Racine).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « La fourmi travaille sans relâche », quelle figure est utilisée ?",
+    "options": ["A) Métaphore", "B) Personnification", "C) Comparaison", "D) Allégorie"],
+    "answer": "B",
+    "explanation": "Attribuer le travail (action humaine consciente) à un animal est une personnification.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Il prit son chapeau et la porte » est un exemple de :",
+    "options": ["A) Pléonasme", "B) Zeugme", "C) Chiasme", "D) Oxymore"],
+    "answer": "B",
+    "explanation": "Le zeugme associe sur le même verbe des compléments de nature très différente (sens concret et figuré).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un champ lexical ?",
+    "options": ["A) L'ensemble des sens d'un mot", "B) L'ensemble des mots liés à un même thème", "C) Les mots de même famille", "D) Les mots de même racine"],
+    "answer": "B",
+    "explanation": "Le champ lexical regroupe les mots se rapportant à un même thème. Ex : école → élève, cours, tableau.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un champ sémantique ?",
+    "options": ["A) Les mots d'un même thème", "B) L'ensemble des sens d'un seul mot", "C) Les mots de même sonorité", "D) Les synonymes d'un mot"],
+    "answer": "B",
+    "explanation": "Le champ sémantique est l'ensemble des significations d'un mot. Ex : « feuille » → papier, arbre, métal.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'une prosopopée ?",
+    "options": ["A) Faire parler un absent, un mort ou un objet", "B) Exagérer ses propos", "C) Répéter un mot pour insister", "D) Utiliser un mot pour un autre"],
+    "answer": "A",
+    "explanation": "La prosopopée fait parler un absent, un mort, un animal ou une abstraction.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Je suis venu, j'ai vu, j'ai vaincu » est un exemple de :",
+    "options": ["A) Gradation", "B) Anaphore", "C) Les deux à la fois", "D) Allitération"],
+    "answer": "C",
+    "explanation": "C'est à la fois une anaphore (répétition de « je ») et une gradation (intensité croissante).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'hyperonyme de « pomme », « banane », « mangue » ?",
+    "options": ["A) Aliment", "B) Fruit", "C) Arbre", "D) Récolte"],
+    "answer": "B",
+    "explanation": "« Fruit » est le terme général englobant pomme, banane et mangue.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Prêt » et « près » sont des :",
+    "options": ["A) Synonymes", "B) Homophones", "C) Paronymes", "D) Antonymes"],
+    "answer": "B",
+    "explanation": "Même prononciation mais sens et orthographe différents : homophones.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Éruption » et « irruption » sont des :",
+    "options": ["A) Synonymes", "B) Homophones", "C) Paronymes", "D) Antonymes"],
+    "answer": "C",
+    "explanation": "Formes proches mais sens différents : éruption (sortie violente) vs irruption (entrée brusque).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Page » (de livre) et « page » (jeune serviteur) sont des :",
+    "options": ["A) Mots polysémiques", "B) Homonymes", "C) Paronymes", "D) Synonymes"],
+    "answer": "B",
+    "explanation": "Même forme mais origines et sens totalement différents : homonymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'une allégorie ?",
+    "options": ["A) Une comparaison abrégée", "B) Une métaphore filée représentant une idée abstraite", "C) Un pléonasme", "D) Une exagération"],
+    "answer": "B",
+    "explanation": "L'allégorie représente une idée abstraite par une image concrète prolongée. Ex : la Justice avec une balance.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Doigt » est le méronyme de :",
+    "options": ["A) Ongle", "B) Main", "C) Bras", "D) Pied"],
+    "answer": "B",
+    "explanation": "Le doigt est une partie de la main : « doigt » (méronyme) → « main » (holonyme).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'une prétérition ?",
+    "options": ["A) Parler d'une chose en disant qu'on n'en parlera pas", "B) Exagérer ses propos", "C) Dire le contraire", "D) Atténuer la réalité"],
+    "answer": "A",
+    "explanation": "La prétérition consiste à dire qu'on ne va pas parler de quelque chose tout en en parlant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Été » et « hiver » sont des :",
+    "options": ["A) Synonymes", "B) Antonymes", "C) Cohyponymes", "D) Homonymes"],
+    "answer": "C",
+    "explanation": "Ce sont des cohyponymes de l'hyperonyme « saison ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Kayak » est un exemple de :",
+    "options": ["A) Anagramme", "B) Palindrome", "C) Néologisme", "D) Emprunt"],
+    "answer": "B",
+    "explanation": "« Kayak » se lit dans les deux sens : c'est un palindrome.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « boire la tasse » (avaler de l'eau en nageant), quelle figure est utilisée ?",
+    "options": ["A) Métaphore", "B) Métonymie", "C) Catachrèse", "D) Litote"],
+    "answer": "C",
+    "explanation": "C'est une catachrèse : une métaphore figée dans l'usage courant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans la phrase Sa bouche est une rose, quelle figure de style est utilisee ?",
+    "options": ["A) Comparaison", "B) Metaphore", "C) Metonymie", "D) Synecdoque"],
+    "answer": "B",
+    "explanation": "C'est une metaphore : assimilation directe sans terme comparatif.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style se termine par une pointe satirique ?",
+    "options": ["A) Metaphore", "B) Epigramme", "C) Hyperbole", "D) Anaphore"],
+    "answer": "B",
+    "explanation": "L'epigramme est une courte composition poetique a caractere satirique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans pied de la jambe et pied d'une montagne, le mot pied illustre :",
+    "options": ["A) Homonymie", "B) Polysemie", "C) Meronymie", "D) Antonymie"],
+    "answer": "B",
+    "explanation": "C'est de la polysemie : meme mot, sens differents mais lies par l'origine.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'expression Je meurs de faim est :",
+    "options": ["A) Un euphemisme", "B) Une litote", "C) Une hyperbole", "D) Une metaphore"],
+    "answer": "C",
+    "explanation": "C'est une hyperbole : exageration deliberee pour produire un effet d'intensite.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Les mots imaginer et migraine sont des :",
+    "options": ["A) Palindromes", "B) Homophones", "C) Anagrammes", "D) Paronymes"],
+    "answer": "C",
+    "explanation": "On peut former migraine en reordonnant les lettres d'imaginer : ce sont des anagrammes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle paire illustre l'heteronymie ?",
+    "options": ["A) chaud / froid", "B) oncle / tante", "C) voiture / automobile", "D) fleur / rose"],
+    "answer": "B",
+    "explanation": "L'heteronymie concerne des mots a sens lies mais de radicaux differents : oncle/tante, cheval/jument.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la bonne definition de la meronymie ?",
+    "options": ["A) Relation de sens proche", "B) Relation partie/tout", "C) Relation de ressemblance formelle", "D) Relation d'opposition"],
+    "answer": "B",
+    "explanation": "La meronymie decrit la relation d'inclusion partie/tout : roue est le meronyme de voiture.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme designe les cohyponymes de animal ?",
+    "options": ["A) Plante, arbre", "B) Chien, chat", "C) Jambe, bras", "D) Table, chaise"],
+    "answer": "B",
+    "explanation": "Chien et chat partagent le meme hyperonyme animal : ce sont des cohyponymes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme designe la relation entre main et doigt d un point de vue meronymique ?",
+    "options": ["A) Doigt est l holonyme de main", "B) Main est l holonyme de doigt", "C) Main et doigt sont des cohyponymes", "D) Main est le meronyme de doigt"],
+    "answer": "B",
+    "explanation": "La main est le tout (holonyme) dont le doigt est une partie (meronyme).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Pi?ge : eminent et imminent sont-ils synonymes ?",
+    "options": ["A) Oui ils signifient remarquable", "B) Non : eminent=remarquable imminent=qui va arriver tres bientot", "C) Oui ils expriment l urgence", "D) Non : eminent=lieu imminent=personne"],
+    "answer": "B",
+    "explanation": "Pi?ge de paronymie : eminent = qui se distingue ; imminent = sur le point de se produire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phenomene illustre verre ver vers vert ?",
+    "options": ["A) Paronymie", "B) Synonymie", "C) Homophonie", "D) Polysemie"],
+    "answer": "C",
+    "explanation": "Meme prononciation orthographes differentes : homophones.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure remplace une expression brusque par une formulation douce ?",
+    "options": ["A) Litote", "B) Euphemisme", "C) Hyperbole", "D) Antiphrase"],
+    "answer": "B",
+    "explanation": "L euphemisme attenue la brutalite. Ex : il a quitte ce monde pour dire il est mort.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans la phrase Il ne travaille pas mal quelle figure est utilisee ?",
+    "options": ["A) Hyperbole", "B) Euphemisme", "C) Litote", "D) Metaphore"],
+    "answer": "C",
+    "explanation": "Litote : dire moins pour faire comprendre plus. Il ne travaille pas mal = il travaille bien.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme designe la relation rose fleur en semantique ?",
+    "options": ["A) Holonymie", "B) Hyponymie", "C) Synonymie", "D) Meronymie"],
+    "answer": "B",
+    "explanation": "Rose est un hyponyme de fleur : terme special inclus dans le terme general.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Conjecture et conjoncture sont-ils des paronymes ?",
+    "options": ["A) Non homonymes", "B) Oui : conjecture=supposition conjoncture=situation ?conomique", "C) Non antonymes", "D) Non synonymes"],
+    "answer": "B",
+    "explanation": "Conjecture/conjoncture : paronymes tres proches mais de sens tres differents.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la difference entre holonyme et hyperonyme ?",
+    "options": ["A) Ce sont des synonymes", "B) Holonyme=tout dont le meronyme est une partie ; hyperonyme=terme general dont depend un hyponyme", "C) Hyperonyme=partie holonyme=ensemble", "D) Ces termes n existent pas"],
+    "answer": "B",
+    "explanation": "Holonyme/meronyme = relation partie-tout. Hyperonyme/hyponyme = inclusion semantique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Polysemie et homonymie sont-elles la meme chose ?",
+    "options": ["A) Oui", "B) Non : polysemie=sens differents mais lies par etymologie ; homonymie=mots de formes identiques mais d origines differentes", "C) Oui dans les deux cas les sens sont totalement differents", "D) Non polysemie concerne verbes uniquement"],
+    "answer": "B",
+    "explanation": "Polysemie : tete corps/liste meme origine. Homonymie : avocat fruit/juriste origines distinctes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "avocat fruit et avocat juriste illustrent quel phenomene ?",
+    "options": ["A) Polysemie", "B) Homonymie car etymologies completement differentes", "C) Synonymie", "D) Paronymie"],
+    "answer": "B",
+    "explanation": "Avocat fruit vient du nahuatl ; avocat juriste du latin advocatus : homonymie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle relation sémantique lie « voiture » et « roue » ?",
+    "options": ["A) Synonymie", "B) Holonymie / méronymie", "C) Antonymie", "D) Hyperonymie"],
+    "answer": "B",
+    "explanation": "Voiture est l'holonyme (le tout) ; roue en est le méronyme (une partie).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure consiste à employer un mot concret pour désigner une réalité abstraite ?",
+    "options": ["A) Synecdoque", "B) Métonymie", "C) Catachrèse", "D) Allégorie"],
+    "answer": "D",
+    "explanation": "L'allégorie représente une idée abstraite par une image concrète et symbolique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène illustre « couler » (aller au fond) et « couler » (du robinet) ?",
+    "options": ["A) Homonymie", "B) Polysémie", "C) Paronymie", "D) Hétéronymie"],
+    "answer": "B",
+    "explanation": "Même mot, même origine étymologique, sens différents liés : polysémie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la différence entre « injure » et « injure » verbale ?",
+    "options": ["A) Ce sont des homonymes", "B) Ce sont des polysèmes (injustice / propos offensant)", "C) Ce sont des paronymes", "D) Ce sont des synonymes"],
+    "answer": "B",
+    "explanation": "« Injure » = polysémie : une injustice (sens juridique) ou une parole blessante (sens courant).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La phrase « Il fait un temps de chien » contient quelle figure ?",
+    "options": ["A) Comparaison", "B) Métaphore figée (locution)", "C) Allégorie", "D) Synecdoque"],
+    "answer": "B",
+    "explanation": "C'est une métaphore lexicalisée (figée dans la langue) : « temps de chien » = très mauvais temps.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne un mot crée par abrègement comme « ciné » pour « cinéma » ?",
+    "options": ["A) Acronyme", "B) Apocope", "C) Aphérèse", "D) Troncation"],
+    "answer": "D",
+    "explanation": "La troncation supprime une partie du mot. « Ciné » est une apocope (troncation finale).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle relation existe entre « rapide » et « lent » ?",
+    "options": ["A) Synonymie", "B) Antonymie graduable", "C) Méronymie", "D) Hyponymie"],
+    "answer": "B",
+    "explanation": "Rapide et lent sont des antonymes graduables : il existe des degrés entre les deux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot « bœuf » au sens de « grand effort musical collectif » illustre quel phénomène ?",
+    "options": ["A) Néologisme sémantique", "B) Métaphore lexicalisée", "C) Homonymie", "D) Paronymie"],
+    "answer": "A",
+    "explanation": "C'est un néologisme sémantique : un sens nouveau attribué à un mot existant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure attribue à un objet les caractéristiques d'un être humain ?",
+    "options": ["A) Allégorie", "B) Personnification", "C) Métonymie", "D) Antithèse"],
+    "answer": "B",
+    "explanation": "La personnification donne des traits humains à ce qui n'en a pas (ex. : « la mer rugit »).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne la relation entre « tibia » et « jambe » ?",
+    "options": ["A) Tibia est l'hyperonyme de jambe", "B) Tibia est le méronyme de jambe", "C) Tibia et jambe sont des cohyponymes", "D) Tibia est le synonyme de jambe"],
+    "answer": "B",
+    "explanation": "Le tibia est une partie (méronyme) de la jambe (holonyme).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que désigne le phénomène de « dénotation » ?",
+    "options": ["A) Le sens subjectif et émotionnel d'un mot", "B) Le sens objectif et littéral d'un mot", "C) Le sens figuré d'un mot", "D) L'ensemble des synonymes d'un mot"],
+    "answer": "B",
+    "explanation": "La dénotation est le sens premier, neutre et objectif d'un mot. La connotation est le sens subjectif.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "« Aimer » (affecter) et « aimer » (comme dans « j'aimerais ») illustrent quelle nuance ?",
+    "options": ["A) Homonymie", "B) Polysémie avec registres différents", "C) Synonymie contextuelle", "D) Antonymie graduelle"],
+    "answer": "B",
+    "explanation": "Le même verbe « aimer » couvre plusieurs sens selon le contexte : polysémie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure consiste à dire le contraire de ce qu'on pense avec une intention satirique ?",
+    "options": ["A) Litote", "B) Euphémisme", "C) Antiphrase (ironie)", "D) Prétérition"],
+    "answer": "C",
+    "explanation": "L'antiphrase est la figure de l'ironie : on dit le contraire pour se moquer.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot « clé » dans « argument clé » est employé comme :",
+    "options": ["A) Nom apposé", "B) Adjectif épithète par métaphore", "C) Adverbe", "D) Complément de nom"],
+    "answer": "B",
+    "explanation": "« Clé » est employé métaphoriquement comme un adjectif : l'argument essentiel.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle relation existe entre « voiture de sport » et « voiture » ?",
+    "options": ["A) Holonymie", "B) Hyponymie", "C) Méronymie", "D) Synonymie"],
+    "answer": "B",
+    "explanation": "« Voiture de sport » est un hyponyme de « voiture » : terme spécifique inclus dans le terme général.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme complémentaire (non graduable) de « vivant » ?",
+    "options": ["A) Faible", "B) Mort", "C) Silencieux", "D) Immobile"],
+    "answer": "B",
+    "explanation": "Vivant/mort est une antonymie complémentaire : pas de degré intermédiaire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « il avale les kilomètres », quelle figure est utilisée ?",
+    "options": ["A) Comparaison", "B) Métaphore", "C) Synecdoque", "D) Métonymie"],
+    "answer": "B",
+    "explanation": "C'est une métaphore : avaler des kilomètres = parcourir une grande distance facilement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène lexical explique que « souris » désigne à la fois un animal et un dispositif informatique ?",
+    "options": ["A) Homonymie", "B) Néologisme sémantique", "C) Métaphore lexicalisée", "D) Emprunt"],
+    "answer": "C",
+    "explanation": "Le dispositif informatique a été appelé « souris » par métaphore avec le rongeur (forme et câble = queue).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la particularité d'un mot épicène ?",
+    "options": ["A) Il est invariable", "B) Il désigne indifféremment les deux sexes", "C) Il n'a pas de pluriel", "D) Il est toujours masculin"],
+    "answer": "B",
+    "explanation": "Un mot épicène a la même forme au masculin et au féminin (ex. : enfant, élève, artiste).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'hypéronyme commun de « colère », « joie », « tristesse » ?",
+    "options": ["A) Sentiment", "B) Pensée", "C) Action", "D) Sensation"],
+    "answer": "A",
+    "explanation": "Colère, joie et tristesse sont des hyponymes de « sentiment ».",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « brûler les étapes », quelle figure de style est employée ?",
+    "options": ["A) Synecdoque", "B) Catachrèse", "C) Métaphore lexicalisée", "D) Métonymie"],
+    "answer": "C",
+    "explanation": "C'est une métaphore figée dans l'usage : aller trop vite, sauter des étapes.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène linguistique désigne l'apparition d'un nouveau mot dans la langue ?",
+    "options": ["A) Archaïsme", "B) Néologisme", "C) Pléonasme", "D) Barbarisme"],
+    "answer": "B",
+    "explanation": "Un néologisme est un mot nouveau ou un sens nouveau donné à un mot existant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La relation entre « oiseau » et « aigle » est une relation de :",
+    "options": ["A) Synonymie", "B) Méronymie", "C) Hyperonymie/hyponymie", "D) Antonymie"],
+    "answer": "C",
+    "explanation": "Oiseau est l'hyperonyme (terme général) ; aigle est l'hyponyme (terme spécifique).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « la salle applaudit », quelle figure de style voit-on ?",
+    "options": ["A) Métaphore", "B) Métonymie", "C) Synecdoque", "D) Antonomase"],
+    "answer": "B",
+    "explanation": "C'est une métonymie : la salle (le lieu) désigne les personnes qui s'y trouvent.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel outil stylistique consiste à utiliser le nom d'une personne célèbre pour désigner une catégorie ?",
+    "options": ["A) Métonymie", "B) Synecdoque", "C) Antonomase", "D) Allégorie"],
+    "answer": "C",
+    "explanation": "L'antonomase utilise un nom propre comme nom commun (ex. : un Harpagon = un avare).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le rapport sémantique entre « maison » et « toit » ?",
+    "options": ["A) Holonymie/méronymie", "B) Hyperonymie/hyponymie", "C) Synonymie", "D) Antonymie"],
+    "answer": "A",
+    "explanation": "Maison est l'holonyme (le tout) ; toit en est le méronyme (une partie).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style dit moins pour faire comprendre plus ?",
+    "options": ["A) Hyperbole", "B) Euphémisme", "C) Litote", "D) Amplification"],
+    "answer": "C",
+    "explanation": "La litote atténue volontairement pour que le lecteur comprenne le contraire (ex. : Ce n'est pas mal = c'est bien).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un archaïsme ?",
+    "options": ["A) Un mot étranger intégré dans la langue", "B) Un mot vieilli qui n'est plus en usage courant", "C) Un mot récemment créé", "D) Un mot au sens contraire de son sens original"],
+    "answer": "B",
+    "explanation": "Un archaïsme est un mot ou une forme démodée, sortie de l'usage courant (ex. : « icelui »).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle différence y a-t-il entre un synonyme total et un synonyme partiel ?",
+    "options": ["A) Aucune différence", "B) Synonyme total = mêmes sens dans tous les contextes ; synonyme partiel = interchangeable seulement dans certains contextes", "C) Un synonyme total est toujours de même registre", "D) Les synonymes totaux n'existent pas"],
+    "answer": "B",
+    "explanation": "Les synonymes totaux (parfaits) sont rares. La plupart des synonymes sont partiels.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « les murs ont des oreilles », quelle figure de style est utilisée ?",
+    "options": ["A) Métaphore", "B) Personnification", "C) Métonymie", "D) Hyperbole"],
+    "answer": "B",
+    "explanation": "On attribue aux murs un organe humain (oreilles) : personnification.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène explique que « souris » (animal) et « souris » (sourire, 3e pers.) soient distincts ?",
+    "options": ["A) Polysémie", "B) Homographie", "C) Synonymie", "D) Méronymie"],
+    "answer": "B",
+    "explanation": "Même graphie, prononciation identique, sens sans lien étymologique : homographie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel terme désigne la liste de termes généraux à spécifiques (animal → mammifère → chien → labrador) ?",
+    "options": ["A) Taxinomie", "B) Synonymie", "C) Champ lexical", "D) Isotopie"],
+    "answer": "A",
+    "explanation": "Une taxinomie est une classification hiérarchique des termes du général au spécifique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « il pleut des cordes », quelle figure est employée ?",
+    "options": ["A) Comparaison", "B) Métaphore", "C) Hyperbole métaphorique", "D) Personnification"],
+    "answer": "C",
+    "explanation": "C'est une métaphore hyperbole : il pleut très fort (les cordes exagèrent l'image).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle relation lie « mari » et « femme » sur le plan lexical ?",
+    "options": ["A) Hétéronymie", "B) Antonymie complémentaire", "C) Synonymie contextuelle", "D) Holonymie"],
+    "answer": "A",
+    "explanation": "Mari/femme sont hétéronymes : sens liés (couple) mais radicaux différents.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'effet stylistique recherché dans une accumulation ?",
+    "options": ["A) Simplifier", "B) Amplifier par une suite d'éléments de même nature", "C) Opposer deux idées", "D) Atténuer une réalité"],
+    "answer": "B",
+    "explanation": "L'accumulation (ou énumération) crée un effet d'intensité ou d'exhaustivité.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'expression « avoir le cafard » ?",
+    "options": ["A) Être joyeux", "B) Être mélancolique, déprimé", "C) Avoir peur des insectes", "D) Être bavard"],
+    "answer": "B",
+    "explanation": "« Avoir le cafard » est une métaphore figée signifiant être triste ou déprimé.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la caractéristique d'un oxymoron ?",
+    "options": ["A) Répétition d'un même son", "B) Association de deux termes contradictoires", "C) Énumération croissante", "D) Personnification d'un objet"],
+    "answer": "B",
+    "explanation": "L'oxymoron unit deux mots de sens opposés (ex. : « une obscure clarté »).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel phénomène désigne un mot dont le sens a évolué positivement (mélioratif) au fil du temps ?",
+    "options": ["A) Dépréciation", "B) Aménagement", "C) Amélioration sémantique", "D) Néologisme"],
+    "answer": "C",
+    "explanation": "Certains mots gagnent un sens plus positif avec le temps : c'est l'amélioration sémantique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce que l'isotopie dans un texte ?",
+    "options": ["A) Un ensemble de syllabes répétées", "B) La récurrence de traits sémantiques qui assurent la cohérence d'un texte", "C) L'utilisation de synonymes parfaits", "D) La répétition de la même figure de style"],
+    "answer": "B",
+    "explanation": "L'isotopie est la répétition de traits sémantiques identiques donnant sa cohérence thématique au texte.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans « le crayon d'un enfant », quel type de relation désigne « de » ?",
+    "options": ["A) Relation de possession", "B) Relation méronymique", "C) Relation hyperonymique", "D) Relation d'antonymie"],
+    "answer": "A",
+    "explanation": "Le génitif (de) indique ici une relation d'appartenance/possession.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel mot est à la fois son propre antonyme (autoantonyme) ?",
+    "options": ["A) Chaud", "B) Hôte", "C) Méchant", "D) Clair"],
+    "answer": "B",
+    "explanation": "« Hôte » peut désigner celui qui reçoit et celui qui est reçu : c'est un autoantonyme (ou contronyime).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style consiste à interrompre brusquement son discours ?",
+    "options": ["A) Ellipse", "B) Aposiopèse", "C) Prétérition", "D) Périphrase"],
+    "answer": "B",
+    "explanation": "L'aposiopèse est l'interruption brusque du discours, laissant la phrase en suspens.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel procédé désigne l'emprunt d'un mot étranger tel quel dans la langue française ?",
+    "options": ["A) Calque", "B) Néologisme", "C) Xénisme/emprunt direct", "D) Dérivation"],
+    "answer": "C",
+    "explanation": "L'emprunt direct intègre le mot étranger sans le traduire (ex. : weekend, marketing).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le contraire d'une hyperbole ?",
+    "options": ["A) Litote", "B) Métaphore", "C) Antithèse", "D) Anaphore"],
+    "answer": "A",
+    "explanation": "La litote dit moins que la réalité (antiphrase atténuée) ; l'hyperbole dit plus : elles sont en quelque sorte opposées.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de 'prolixe' ?",
+    "options": ["A) Concis", "B) Bavard", "C) Éloquent", "D) Silencieux"],
+    "answer": "B",
+    "explanation": "Quelqu'un de prolixe parle ou écrit beaucoup, de façon trop longue.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'altruiste' ?",
+    "options": ["A) Généreux", "B) Bienveillant", "C) Égoïste", "D) Héroïque"],
+    "answer": "C",
+    "explanation": "Altruiste signifie se consacrer aux autres, son opposé est égoïste.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Choisissez le paronyme correct : 'Il y a une bonne ___ économique en ce moment.'",
+    "options": ["A) conjecture", "B) conjoncture", "C) conjuration", "D) conjugaison"],
+    "answer": "B",
+    "explanation": "Une conjoncture est une situation qui résulte d'une rencontre de circonstances.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie le mot 'abstrus' ?",
+    "options": ["A) Difficile à comprendre", "B) Absurde", "C) Très évident", "D) Lourd"],
+    "answer": "A",
+    "explanation": "Abstrus se dit d'un concept ou d'un discours très obscur, difficile à comprendre.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : L'oiseau est à la plume ce que le mouton est à ___",
+    "options": ["A) L'herbe", "B) L'enclos", "C) La laine", "D) Le berger"],
+    "answer": "C",
+    "explanation": "La plume couvre l'oiseau comme la laine couvre le mouton.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel mot est un synonyme de 'versatile' en français ?",
+    "options": ["A) Polyvalent", "B) Changeant", "C) Talentueux", "D) Têtu"],
+    "answer": "B",
+    "explanation": "En français, 'versatile' signifie qui change souvent d'avis (faux ami avec l'anglais).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'éphémère' ?",
+    "options": ["A) Passager", "B) Transitoire", "C) Pérenne", "D) Mortel"],
+    "answer": "C",
+    "explanation": "Pérenne signifie qui dure très longtemps ou toujours, à l'opposé d'éphémère.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez avec le bon paronyme : 'Il a subi une ___ de son salaire.'",
+    "options": ["A) gradation", "B) dégradation", "C) rétrogradation", "D) amputation"],
+    "answer": "D",
+    "explanation": "On parle d'une amputation de salaire pour désigner une réduction importante. (Rétrogradation concerne le grade).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'pusillanime' ?",
+    "options": ["A) Courageux", "B) Qui manque d'audace, craintif", "C) Très fort", "D) Maladif"],
+    "answer": "B",
+    "explanation": "Un individu pusillanime est timoré, il fuit les responsabilités ou le danger.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : 'Livre' est à 'Bibliothèque' ce que 'Tableau' est à ___",
+    "options": ["A) Pinceau", "B) Artiste", "C) Pinacothèque", "D) Cadre"],
+    "answer": "C",
+    "explanation": "Une pinacothèque est un musée ou un lieu où l'on conserve des peintures.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Trouvez le synonyme de 'loquace' :",
+    "options": ["A) Silencieux", "B) Volubile", "C) Laconique", "D) Taciturne"],
+    "answer": "B",
+    "explanation": "Volubile et loquace qualifient une personne qui parle beaucoup.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'laconique' ?",
+    "options": ["A) Bref", "B) Concis", "C) Prolixe", "D) Sommaire"],
+    "answer": "C",
+    "explanation": "Laconique signifie s'exprimer en peu de mots. Prolixe est son contraire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Choisissez le bon paronyme : 'Le suspect est entré par ___.'",
+    "options": ["A) effraction", "B) infraction", "C) réfraction", "D) diffraction"],
+    "answer": "A",
+    "explanation": "Une effraction est le bris d'une clôture ou serrure pour s'introduire quelque part.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'expression 'avoir des accointances' ?",
+    "options": ["A) Avoir des dettes", "B) Avoir des relations familières avec quelqu'un", "C) Avoir de la chance", "D) Être fâché"],
+    "answer": "B",
+    "explanation": "Les accointances désignent des relations, souvent jugées péjorativement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : L'eau est à la soif ce que la nourriture est à ___",
+    "options": ["A) La digestion", "B) L'appétit", "C) La faim", "D) La gastronomie"],
+    "answer": "C",
+    "explanation": "L'eau apaise la soif comme la nourriture apaise la faim.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le sens du mot 'gargantuesque' ?",
+    "options": ["A) Minuscule", "B) Démesuré, énorme", "C) Très bruyant", "D) Silencieux"],
+    "answer": "B",
+    "explanation": "Tiré du personnage Gargantua, signifie gigantesque, souvent lié à l'appétit.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'endémique' ?",
+    "options": ["A) Pandémique", "B) Indigène", "C) Sporadique", "D) Permanent"],
+    "answer": "C",
+    "explanation": "Endémique désigne quelque chose de constant dans une région, tandis que sporadique signifie dispersé, irrégulier.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Paronymes : 'Il n'est pas permis d'___ les règles.'",
+    "options": ["A) éluder", "B) élucider", "C) luder", "D) illuminer"],
+    "answer": "A",
+    "explanation": "Éluder signifie éviter, contourner habilement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie le mot 'iconoclaste' ?",
+    "options": ["A) Qui détruit les images saintes, qui s'attaque aux croyances établies", "B) Qui adore les icônes", "C) Qui collectionne les images", "D) Qui peint des icônes"],
+    "answer": "A",
+    "explanation": "Un iconoclaste détruit les icônes ou rejette la tradition.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : Chirurgien est à bistouri ce que menuisier est à ___",
+    "options": ["A) Bois", "B) Forêt", "C) Rabot", "D) Meuble"],
+    "answer": "C",
+    "explanation": "Le rabot est l'outil du menuisier comme le bistouri est celui du chirurgien.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire 'ineffable' ?",
+    "options": ["A) Qu'on ne peut pas effacer", "B) Qu'on ne peut exprimer par des mots", "C) Qui est inutile", "D) Qui ne peut pas faillir"],
+    "answer": "B",
+    "explanation": "Ineffable décrit ce qui est si intense ou extraordinaire qu'on ne peut le décrire (du latin ineffabilis).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'opulent' :",
+    "options": ["A) Riche", "B) Luxueux", "C) Indigent", "D) Fastueux"],
+    "answer": "C",
+    "explanation": "Indigent qualifie une personne qui manque du nécessaire (pauvre), contrairement à opulent (très riche).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Choisissez le bon mot : 'Il a fait une ___ dans son discours pour parler d'autre chose.'",
+    "options": ["A) digression", "B) régression", "C) transgression", "D) agression"],
+    "answer": "A",
+    "explanation": "Une digression est un développement qui s'écarte du sujet principal.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'obséquieux' ?",
+    "options": ["A) Autoritaire", "B) Trop poli, hypocrite et flatteur", "C) Mortuaire", "D) Oublieux"],
+    "answer": "B",
+    "explanation": "Qui exagère les marques de politesse ou de respect, par servilité.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : L'apiculteur est aux abeilles ce que le colombophile est aux ___",
+    "options": ["A) Poissons", "B) Pigeons", "C) Moutons", "D) Chevaux"],
+    "answer": "B",
+    "explanation": "La colombophilie est l'élevage des pigeons voyageurs.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le sens de 'frivole' ?",
+    "options": ["A) Sérieux", "B) Léger, sans consistance, futile", "C) Ennuyeux", "D) Épais"],
+    "answer": "B",
+    "explanation": "Une chose ou une personne frivole manque de sérieux, s'attache à ce qui est futile.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'veule' ?",
+    "options": ["A) Faible", "B) Lâche", "C) Énergique", "D) Mou"],
+    "answer": "C",
+    "explanation": "Veule signifie qui n'a aucune énergie, aucune volonté. Son antonyme est énergique ou courageux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Choisissez le bon paronyme : 'Une explosion a eu lieu, c'est un véritable ___.'",
+    "options": ["A) cataclysme", "B) catéchisme", "C) catalytique", "D) cataplasme"],
+    "answer": "A",
+    "explanation": "Un cataclysme est un grand bouleversement destructeur.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : Pédiatre est à enfant ce que gériatre est à ___",
+    "options": ["A) Femme", "B) Vieillard", "C) Animal", "D) Homme"],
+    "answer": "B",
+    "explanation": "Le gériatre est le médecin spécialisé pour les personnes âgées.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie le mot 'acrimonie' ?",
+    "options": ["A) Joie", "B) Aigreur, mauvaise humeur", "C) Harmonie", "D) Intelligence"],
+    "answer": "B",
+    "explanation": "L'acrimonie est un trait de caractère d'une personne aigrie, amère.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'tacite' ?",
+    "options": ["A) Implicite", "B) Sous-entendu", "C) Explicite", "D) Caché"],
+    "answer": "C",
+    "explanation": "Tacite signifie non exprimé (implicite). Son contraire est explicite.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Paronymes : 'Il a reçu une belle ___ financière.'",
+    "options": ["A) allocation", "B) allocution", "C) allégation", "D) allitération"],
+    "answer": "A",
+    "explanation": "Une allocation est une aide financière, une allocution est un discours.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'véloce' ?",
+    "options": ["A) Lent", "B) Qui va à bicyclette", "C) Rapide, agile", "D) Lourd"],
+    "answer": "C",
+    "explanation": "Véloce est un adjectif signifiant rapide.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : Cécité est à la vue ce que surdité est à ___",
+    "options": ["A) L'odorat", "B) L'ouïe", "C) La parole", "D) Le toucher"],
+    "answer": "B",
+    "explanation": "La surdité est la perte de l'ouïe.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Synonyme de 'désuet' :",
+    "options": ["A) Moderne", "B) Obsolete, passé de mode", "C) Inutile", "D) Sale"],
+    "answer": "B",
+    "explanation": "Ce qui est désuet n'est plus en usage, obsolète.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'indulgent' :",
+    "options": ["A) Tolérant", "B) Sévère, intransigeant", "C) Clément", "D) Bon"],
+    "answer": "B",
+    "explanation": "L'indulgence est la disposition à excuser. Sévère ou intransigeant est le contraire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Paronyme : 'Il a commis une grave ___ de jugement.'",
+    "options": ["A) erreur", "B) errements", "C) éruption", "D) irruption"],
+    "answer": "A",
+    "explanation": "Une erreur de jugement. (Les autres mots ne conviennent pas au sens).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire 'dithyrambique' ?",
+    "options": ["A) Très critique, sévère", "B) Très élogieux, enthousiaste", "C) Dépressif", "D) Ennuyeux"],
+    "answer": "B",
+    "explanation": "Dithyrambique qualifie un éloge enthousiaste et exalté.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : L'architecte est au plan ce que le compositeur est à la ___",
+    "options": ["A) Musique", "B) Chanson", "C) Partition", "D) Note"],
+    "answer": "C",
+    "explanation": "L'architecte écrit son œuvre sur un plan, le compositeur sur une partition.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Synonyme de 'fallacieux' :",
+    "options": ["A) Trompeur, illusoire", "B) Authentique", "C) Faisable", "D) Aisé"],
+    "answer": "A",
+    "explanation": "Ce qui est fallacieux cherche à tromper ou induire en erreur.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'exacerbé' :",
+    "options": ["A) Atténué, apaisé", "B) Aggravé", "C) Exagéré", "D) Amplifié"],
+    "answer": "A",
+    "explanation": "Exacerber signifie rendre plus vif ou violent. Apaisé est son contraire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Paronymes : 'Il faut ___ les informations.'",
+    "options": ["A) corrompre", "B) corroborer", "C) collaborer", "D) colporter"],
+    "answer": "B",
+    "explanation": "Corroborer signifie appuyer, renforcer une idée ou une information.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'polymorphe' ?",
+    "options": ["A) Qui n'a pas de forme", "B) Qui peut prendre plusieurs formes", "C) Qui aime les formes", "D) Qui est très grand"],
+    "answer": "B",
+    "explanation": "Du grec 'poly' (plusieurs) et 'morphè' (forme).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : Le bois est au menuisier ce que l'argile est au ___",
+    "options": ["A) Potier", "B) Forgeron", "C) Verrier", "D) Peintre"],
+    "answer": "A",
+    "explanation": "Le potier modèle l'argile pour créer des objets.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Synonyme de 'flegmatique' :",
+    "options": ["A) Agité", "B) Colérique", "C) Calme, imperturbable", "D) Malade"],
+    "answer": "C",
+    "explanation": "Une personne flegmatique garde son sang-froid en toutes circonstances.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'sporadique' :",
+    "options": ["A) Irrégulier", "B) Continu, régulier", "C) Épisodique", "D) Rare"],
+    "answer": "B",
+    "explanation": "Sporadique veut dire qui apparaît de façon irrégulière.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Paronymes : 'Cet enfant est un véritable ___.'",
+    "options": ["A) prodige", "B) prodigue", "C) profil", "D) profit"],
+    "answer": "A",
+    "explanation": "Un prodige est une personne extraordinairement douée. Prodigue signifie dépensier.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'sycophante' ?",
+    "options": ["A) Un instrument de musique", "B) Un délateur, un dénonciateur", "C) Un type d'arbre", "D) Une maladie"],
+    "answer": "B",
+    "explanation": "Dans la Grèce antique, délateur professionnel, et par extension un espion ou dénonciateur méprisable.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Analogie : Pompier est à l'incendie ce que le policier est à la ___",
+    "options": ["A) Sirène", "B) Voiture", "C) Criminalité", "D) Caserne"],
+    "answer": "C",
+    "explanation": "Le pompier combat l'incendie, le policier combat la criminalité.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Abstrus' ?",
+    "options": ["A) Obscur", "B) Clair", "C) Lourd", "D) Triste"],
+    "answer": "A",
+    "explanation": "Difficile à comprendre.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'Prolixe' :",
+    "options": ["A) Bavard", "B) Concis", "C) Sombre", "D) Vaste"],
+    "answer": "B",
+    "explanation": "Bref dans ses discours.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Ciel est à Bleu ce que Sang est à :",
+    "options": ["A) Rouge", "B) Cœur", "C) Liquide", "D) Veine"],
+    "answer": "A",
+    "explanation": "Couleur caractéristique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Conjoncture' ?",
+    "options": ["A) Hypothèse", "B) Situation globale", "C) Maladie", "D) Articulation"],
+    "answer": "B",
+    "explanation": "La situation économique ou politique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Il a fait une ___.",
+    "options": ["A) conjecture", "B) conjoncture", "C) conjuration", "D) conjonctive"],
+    "answer": "A",
+    "explanation": "Une hypothèse.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Il a su ___ l'argent.",
+    "options": ["A) recouvrir", "B) recouvrer", "C) récupérer", "D) couvrir"],
+    "answer": "B",
+    "explanation": "Rentrer en possession (finances, santé).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Son arrivée est ___.",
+    "options": ["A) éminente", "B) imminente", "C) iminente", "D) émanente"],
+    "answer": "B",
+    "explanation": "Qui va se produire bientôt.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Un professeur ___.",
+    "options": ["A) imminent", "B) éminent", "C) aminent", "D) émanent"],
+    "answer": "B",
+    "explanation": "Remarquable, supérieur.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Pallier' ?",
+    "options": ["A) Résoudre", "B) Remédier provisoirement", "C) Remplacer", "D) Détruire"],
+    "answer": "B",
+    "explanation": "Remède temporaire (sans 'à').",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Phrase correcte :",
+    "options": ["A) Pallier au problème", "B) Pallier le problème", "C) Pallier du problème", "D) Pallier sur le problème"],
+    "answer": "B",
+    "explanation": "Verbe transitif direct.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Synonyme de 'Laconique' :",
+    "options": ["A) Bref", "B) Long", "C) Triste", "D) Joyeux"],
+    "answer": "A",
+    "explanation": "Exprimé en peu de mots.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que désigne 'Acception' ?",
+    "options": ["A) Consentement", "B) Sens d'un mot", "C) Refus", "D) Erreur"],
+    "answer": "B",
+    "explanation": "Le sens dans lequel un mot est employé.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'Acceptation' désigne :",
+    "options": ["A) Sens d'un mot", "B) Fait d'accepter", "C) Définition", "D) Pléonasme"],
+    "answer": "B",
+    "explanation": "L'action de consentir.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Un repas organisé à son ___.",
+    "options": ["A) attention", "B) intention", "C) inattention", "D) inttention"],
+    "answer": "B",
+    "explanation": "Pour lui faire honneur.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Une lettre à l'___ du chef.",
+    "options": ["A) intention", "B) attention", "C) inttention", "D) attension"],
+    "answer": "B",
+    "explanation": "Pour qu'il la lise.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Apanage' ?",
+    "options": ["A) Privilège", "B) Désavantage", "C) Nourriture", "D) Décoration"],
+    "answer": "A",
+    "explanation": "Un bien ou avantage exclusif.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'Gargantuesque' :",
+    "options": ["A) Frugal", "B) Homérique", "C) Énorme", "D) Dantesque"],
+    "answer": "A",
+    "explanation": "Repas simple et peu abondant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Synonyme de 'Pugnace' :",
+    "options": ["A) Pacifique", "B) Combatif", "C) Lâche", "D) Peureux"],
+    "answer": "B",
+    "explanation": "Qui aime le combat.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Un comportement 'Velléitaire' :",
+    "options": ["A) Déterminé", "B) Hésitant", "C) Fort", "D) Rapide"],
+    "answer": "B",
+    "explanation": "Qui n'a pas la volonté de passer à l'acte.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Inanition' ?",
+    "options": ["A) Absence de mouvement", "B) Manque de nourriture", "C) Folie", "D) Silence"],
+    "answer": "B",
+    "explanation": "Épuisement dû au manque de nourriture.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Figure: 'Une obscure clarté'",
+    "options": ["A) Oxymore", "B) Euphémisme", "C) Litote", "D) Pléonasme"],
+    "answer": "A",
+    "explanation": "Deux termes de sens contraire liés.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Figure: 'Il nous a quittés' (pour mort)",
+    "options": ["A) Euphémisme", "B) Litote", "C) Hyperbole", "D) Oxymore"],
+    "answer": "A",
+    "explanation": "Atténuation d'une réalité brutale.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Figure: 'Je ne te hais point'",
+    "options": ["A) Litote", "B) Euphémisme", "C) Allitération", "D) Comparaison"],
+    "answer": "A",
+    "explanation": "Dire moins pour suggérer plus.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un 'Acrostiche' ?",
+    "options": ["A) Poème où les initiales forment un mot", "B) Vers de 12 syllabes", "C) Répétition de son", "D) Roman court"],
+    "answer": "A",
+    "explanation": "Initiales des vers lues verticalement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Adjectif 'Obséquieux' :",
+    "options": ["A) Servile", "B) Funèbre", "C) Triste", "D) Rapide"],
+    "answer": "A",
+    "explanation": "Exagère la politesse par hypocrisie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Une 'Invective' :",
+    "options": ["A) Insulte", "B) Compliment", "C) Outil", "D) Solution"],
+    "answer": "A",
+    "explanation": "Discours violent et injurieux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Volubile' signifie :",
+    "options": ["A) Parle beaucoup", "B) Vole", "C) Rond", "D) Changeant"],
+    "answer": "A",
+    "explanation": "Parle avec abondance et rapidité.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Éphémère/Durable : Fictif/___",
+    "options": ["A) Réel", "B) Virtuel", "C) Imaginaire", "D) Faux"],
+    "answer": "A",
+    "explanation": "Relation d'antonymie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Fiduciaire' ?",
+    "options": ["A) Basé sur la confiance", "B) Légal", "C) Solide", "D) Faux"],
+    "answer": "A",
+    "explanation": "Du latin fiducia, relatif à la confiance (monnaie).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Adjectif 'Bucolique' :",
+    "options": ["A) Campagnard", "B) Marin", "C) Urbain", "D) Céleste"],
+    "answer": "A",
+    "explanation": "Relatif à la campagne, pastoral.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Propos 'Dithyrambique' :",
+    "options": ["A) Élogieux", "B) Critique", "C) Triste", "D) Court"],
+    "answer": "A",
+    "explanation": "Éloge très enthousiaste.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'Taciturne' :",
+    "options": ["A) Loquace", "B) Silencieux", "C) Muet", "D) Sombre"],
+    "answer": "A",
+    "explanation": "Taciturne = qui parle peu. Loquace = bavard.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Tomber en désuétude' :",
+    "options": ["A) N'être plus utilisé", "B) Se casser", "C) Être populaire", "D) Disparaître subitement"],
+    "answer": "A",
+    "explanation": "Ne plus être en usage.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Intrus parmi synonymes de 'Pusillanime' :",
+    "options": ["A) Hardi", "B) Timoré", "C) Couard", "D) Peureux"],
+    "answer": "A",
+    "explanation": "Hardi est l'antonyme (audacieux).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Idoine' ?",
+    "options": ["A) Approprié", "B) Stupide", "C) Ignorant", "D) Vaste"],
+    "answer": "A",
+    "explanation": "Qui convient parfaitement à la situation.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Antonyme de 'Altruiste' :",
+    "options": ["A) Égoïste", "B) Généreux", "C) Bon", "D) Saint"],
+    "answer": "A",
+    "explanation": "Contraire du dévouement à autrui.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Propos 'Acerbe' :",
+    "options": ["A) Blessant", "B) Doux", "C) Calme", "D) Court"],
+    "answer": "A",
+    "explanation": "Dur, piquant, acide.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Pécuniaire' est relatif à :",
+    "options": ["A) L'argent", "B) La loi", "C) La santé", "D) L'art"],
+    "answer": "A",
+    "explanation": "De la pecunia (monnaie).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Il ne faut pas ___ la faute à d'autres.",
+    "options": ["A) imputer", "B) amputer", "C) empoter", "D) impacter"],
+    "answer": "A",
+    "explanation": "Attribuer une faute.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Inhérent' :",
+    "options": ["A) Lié de façon intime", "B) Extérieur", "C) Passager", "D) Lointain"],
+    "answer": "A",
+    "explanation": "Uni de façon inséparable.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Subreptice' :",
+    "options": ["A) Furtif", "B) Légal", "C) Bruyant", "D) Long"],
+    "answer": "A",
+    "explanation": "Fait en cachette.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que désigne 'Apathie' ?",
+    "options": ["A) Indifférence/Manque d'énergie", "B) Empathie", "C) Haine", "D) Peur"],
+    "answer": "A",
+    "explanation": "Absence de volonté et d'émotion.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Une réponse 'Ambiguë' :",
+    "options": ["A) À double sens", "B) Claire", "C) Longue", "D) Courte"],
+    "answer": "A",
+    "explanation": "Peut s'interpréter de plusieurs façons.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Véloce' :",
+    "options": ["A) Rapide", "B) Lourd", "C) Méchant", "D) Fort"],
+    "answer": "A",
+    "explanation": "Agile, rapide.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qu'est-ce qu'un 'Pléonasme' ?",
+    "options": ["A) Répétition de mots de même sens", "B) Mots contraires", "C) Rime", "D) Contresens"],
+    "answer": "A",
+    "explanation": "Exemple: descendre en bas.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Un 'Syllogisme' :",
+    "options": ["A) Raisonnement en 3 temps", "B) Poème", "C) Insulte", "D) Figure d'opposition"],
+    "answer": "A",
+    "explanation": "Déduction logique (prémisses + conclusion).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "'Synergies' :",
+    "options": ["A) Actions coordonnées", "B) Conflits", "C) Divergences", "D) Échecs"],
+    "answer": "A",
+    "explanation": "Effet combiné supérieur aux effets isolés.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Ajourner' ?",
+    "options": ["A) Remettre à plus tard", "B) Annuler définitivement", "C) Accélérer", "D) Mettre au jour"],
+    "answer": "A",
+    "explanation": "Reporter à un autre jour.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de 'Déluré' ?",
+    "options": ["A) Dégourdi", "B) Timide", "C) Hésitant", "D) Naïf"],
+    "answer": "A",
+    "explanation": "Déluré signifie dégourdi.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de 'Arbitraire' ?",
+    "options": ["A) Juste", "B) Légal", "C) Discrétionnaire", "D) Logique"],
+    "answer": "C",
+    "explanation": "Arbitraire signifie discrétionnaire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Prolixe' ?",
+    "options": ["A) Bavard", "B) Laconique", "C) Éloquent", "D) Verbeux"],
+    "answer": "B",
+    "explanation": "Prolixe (bavard) a pour antonyme laconique (bref).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Coordination' ?",
+    "options": ["A) Entente", "B) Désorganisation", "C) Accord", "D) Harmonie"],
+    "answer": "B",
+    "explanation": "Désorganisation est l'antonyme de coordination.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Estimer' ?",
+    "options": ["A) Évaluer", "B) Déprécier", "C) Juger", "D) Calculer"],
+    "answer": "B",
+    "explanation": "L'antonyme d'estimer est déprécier.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de 'Austère' ?",
+    "options": ["A) Joyeux", "B) Luxueux", "C) Sévère", "D) Frivole"],
+    "answer": "C",
+    "explanation": "Austère est synonyme de sévère.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Parmi les propositions, quel est l'antonyme de 'Austère' ?",
+    "options": ["A) Sévère", "B) Luxueux", "C) Rigide", "D) Sobre"],
+    "answer": "B",
+    "explanation": "Luxueux ou Frivole sont des antonymes de austère.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de 'Magnanime' ?",
+    "options": ["A) Rancunier", "B) Égoïste", "C) Généreux", "D) Cruel"],
+    "answer": "C",
+    "explanation": "Magnanime signifie généreux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Magnanime' ?",
+    "options": ["A) Généreux", "B) Altruiste", "C) Rancunier", "D) Bienveillant"],
+    "answer": "C",
+    "explanation": "Rancunier est l'antonyme de magnanime.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie le mot 'Taciturne' ?",
+    "options": ["A) Bavard", "B) Bruyant", "C) Silencieux", "D) Expressif"],
+    "answer": "C",
+    "explanation": "Taciturne est synonyme de silencieux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Taciturne' ?",
+    "options": ["A) Silencieux", "B) Mutique", "C) Bavard", "D) Renfermé"],
+    "answer": "C",
+    "explanation": "L'antonyme de taciturne est bavard.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire 'Succinct' ?",
+    "options": ["A) Bref", "B) Détaillé", "C) Long", "D) Vaste"],
+    "answer": "A",
+    "explanation": "Succinct signifie bref.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Succinct' ?",
+    "options": ["A) Bref", "B) Court", "C) Concis", "D) Détaillé"],
+    "answer": "D",
+    "explanation": "Détaillé est l'antonyme de succinct.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de 'Péremptoire' ?",
+    "options": ["A) Hésitant", "B) Catégorique", "C) Douteux", "D) Souple"],
+    "answer": "B",
+    "explanation": "Péremptoire signifie catégorique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'Fallacieux' ?",
+    "options": ["A) Trompeur", "B) Illusoire", "C) Sincère", "D) Mensonger"],
+    "answer": "C",
+    "explanation": "Sincère est l'antonyme de fallacieux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Comment s'écrit correctement le mot signifiant un choc violent ?",
+    "options": ["A) Collusion", "B) Collision", "C) Colusion", "D) Colision"],
+    "answer": "B",
+    "explanation": "Une collision est un choc, à ne pas confondre avec collusion (entente secrète).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie le paronyme 'Collusion' ?",
+    "options": ["A) Choc", "B) Accident", "C) Entente secrète", "D) Dispute"],
+    "answer": "C",
+    "explanation": "Une collusion est une entente secrète.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la définition de 'Conjoncture' ?",
+    "options": ["A) Hypothèse", "B) Supposition", "C) Situation", "D) Conséquence"],
+    "answer": "C",
+    "explanation": "La conjoncture désigne une situation (ex: économique).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la définition de 'Conjecture' ?",
+    "options": ["A) Situation", "B) Hypothèse", "C) Fait avéré", "D) Preuve"],
+    "answer": "B",
+    "explanation": "Une conjecture est une hypothèse.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez : Des robes ___",
+    "options": ["A) bleues ciel", "B) bleues ciels", "C) bleu ciel", "D) bleu ciels"],
+    "answer": "C",
+    "explanation": "Les adjectifs de couleur composés sont invariables (bleu ciel).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez : Des vestes ___",
+    "options": ["A) rouge sang", "B) rouges sangs", "C) rouges sang", "D) rouge sangs"],
+    "answer": "A",
+    "explanation": "Invariable car adjectif de couleur composé.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Comment s'écrit le nombre 300 en lettres ?",
+    "options": ["A) Trois cent", "B) Trois cents", "C) Trois-cents", "D) Trois-cent"],
+    "answer": "B",
+    "explanation": "Cent prend un s s'il est multiplié et termine le nombre (trois cents).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Comment s'écrit 82 en lettres ?",
+    "options": ["A) Quatre-vingt-deux", "B) Quatre-vingts-deux", "C) Quatre-vingt deux", "D) Quatre vingts deux"],
+    "answer": "A",
+    "explanation": "Vingt ne prend pas de s car il ne termine pas le nombre (quatre-vingt-deux).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Comment s'écrit 300 000 en lettres ?",
+    "options": ["A) Trois cents milles", "B) Trois cents mille", "C) Trois cent mille", "D) Trois cent milles"],
+    "answer": "C",
+    "explanation": "Cent est multiplié mais suivi de mille, donc invariable (trois cent mille).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le pluriel de 'chou-fleur' ?",
+    "options": ["A) chou-fleur", "B) choux-fleur", "C) chou-fleurs", "D) choux-fleurs"],
+    "answer": "D",
+    "explanation": "Nom composé (nom+nom), les deux prennent la marque du pluriel.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le pluriel de 'arc-en-ciel' ?",
+    "options": ["A) arcs-en-ciel", "B) arc-en-ciels", "C) arcs-en-ciels", "D) arcs-en-cieux"],
+    "answer": "A",
+    "explanation": "Le premier mot (nom) prend la marque du pluriel, le second (complément) reste invariable.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le pluriel de 'timbre-poste' ?",
+    "options": ["A) timbre-postes", "B) timbres-postes", "C) timbres-poste", "D) timbre-poste"],
+    "answer": "C",
+    "explanation": "Pluriel : timbres-poste (des timbres pour la poste).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez : Les pommes qu'il a ___",
+    "options": ["A) mangé", "B) mangés", "C) mangées", "D) mangée"],
+    "answer": "C",
+    "explanation": "Le PP avec avoir s'accorde avec le COD placé avant (les pommes = féminin pluriel).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez : Elles se sont ___ les mains.",
+    "options": ["A) lavé", "B) lavés", "C) lavées", "D) lavée"],
+    "answer": "A",
+    "explanation": "Le COD (les mains) est placé après, le participe reste invariable.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez : Ils se sont ___ la vérité.",
+    "options": ["A) dit", "B) dits", "C) dite", "D) dites"],
+    "answer": "A",
+    "explanation": "Le pronom 'se' est COI (ils ont dit la vérité à qui ? à eux-mêmes), donc invariable.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style consiste à feindre de ne pas dire ce qu'on exprime néanmoins ?",
+    "options": ["A) Oxymore", "B) Prétérition", "C) Métaphore", "D) Hyperbole"],
+    "answer": "B",
+    "explanation": "C'est la prétérition.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'expression 'obscure clarté' est un exemple de :",
+    "options": ["A) Pléonasme", "B) Litote", "C) Oxymore", "D) Euphémisme"],
+    "answer": "C",
+    "explanation": "Un oxymore relie deux mots de sens opposés.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La phrase 'la nature est un temple' est un exemple de :",
+    "options": ["A) Comparaison", "B) Métaphore", "C) Allégorie", "D) Personnification"],
+    "answer": "B",
+    "explanation": "C'est une métaphore car c'est une comparaison sans outil de comparaison.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dire 'je meurs de soif' relève de quelle figure de style ?",
+    "options": ["A) Euphémisme", "B) Hyperbole", "C) Antithèse", "D) Chiasme"],
+    "answer": "B",
+    "explanation": "C'est une exagération, donc une hyperbole.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Comment appelle-t-on l'emploi d'un mot déformé (ex: rénumérations) ?",
+    "options": ["A) Solécisme", "B) Néologisme", "C) Barbarisme", "D) Archaïsme"],
+    "answer": "C",
+    "explanation": "C'est un barbarisme.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que désigne un 'janotisme' ou 'amphibologie' ?",
+    "options": ["A) Une faute d'accord", "B) Une construction de phrase ambiguë", "C) Un mot inventé", "D) Une figure d'atténuation"],
+    "answer": "B",
+    "explanation": "C'est une phrase ambiguë prête à double sens.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel mot parmi ces choix est un palindrome ?",
+    "options": ["A) Avion", "B) Ressasser", "C) Bateau", "D) Refaire"],
+    "answer": "B",
+    "explanation": "Ressasser peut se lire dans les deux sens, c'est un palindrome.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie la locution latine 'A priori' ?",
+    "options": ["A) Après l'expérience", "B) Avant l'expérience", "C) Par conséquent", "D) Sans preuve"],
+    "answer": "B",
+    "explanation": "A priori signifie 'avant l'expérience'.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'Casus belli' ?",
+    "options": ["A) Cas de paix", "B) Raison d'État", "C) Motif de guerre", "D) Alliance militaire"],
+    "answer": "C",
+    "explanation": "Casus belli est un motif de guerre.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie 'In vino veritas' ?",
+    "options": ["A) La vie est dans le vin", "B) Le vin rend fort", "C) Le vin est dangereux", "D) La vérité est dans le vin"],
+    "answer": "D",
+    "explanation": "Cela signifie que l'alcool délie les langues et révèle la vérité.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la traduction de 'Pacta sunt servanda' ?",
+    "options": ["A) Les pactes sont secrets", "B) Les contrats doivent être respectés", "C) Les alliances sont éphémères", "D) La paix est primordiale"],
+    "answer": "B",
+    "explanation": "Cette maxime juridique indique que les contrats lient les parties.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Lequel de ces mots possède un double genre ?",
+    "options": ["A) Augure", "B) Amour", "C) Termite", "D) Tubercule"],
+    "answer": "B",
+    "explanation": "Amour est de double genre (masculin au singulier, souvent féminin au pluriel dans la poésie).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le genre du mot 'scolopendre' ?",
+    "options": ["A) Masculin", "B) Féminin", "C) Neutre", "D) Double genre"],
+    "answer": "B",
+    "explanation": "Scolopendre est de genre féminin (une scolopendre).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qui a rédigé 'Le pauvre Christ de Bomba' ?",
+    "options": ["A) Mongo Beti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Bernard Dadié"],
+    "answer": "A",
+    "explanation": "Le pauvre Christ de Bomba est de Mongo Beti.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel auteur a écrit 'Une vie de boy' ?",
+    "options": ["A) Sembène Ousmane", "B) Seydou Badian", "C) Ferdinand Oyono", "D) Ahmadou Kourouma"],
+    "answer": "C",
+    "explanation": "L'auteur d'Une vie de boy est Ferdinand Oyono.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "De qui est l'ouvrage 'L'Enfant noir' ?",
+    "options": ["A) Camara Laye", "B) Mongo Beti", "C) Bernard Dadié", "D) Seydou Badian"],
+    "answer": "A",
+    "explanation": "C'est le chef-d'œuvre de Camara Laye.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est l'antonyme de 'austère' ?",
+    "options": ["A) Luxueux", "B) Sévère", "C) Péremptoire", "D) Déluré"],
+    "answer": "A",
+    "explanation": "Austère signifie dépourvu d'ornement, rigide. Son antonyme le plus commun dans ce contexte est luxueux ou fastueux.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans la phrase 'Cette obscure clarté qui tombe des étoiles' (Corneille), quelle est la figure de style ?",
+    "options": ["A) Oxymore", "B) Métaphore", "C) Antithèse", "D) Hyperbole"],
+    "answer": "A",
+    "explanation": "L'alliance de deux termes de sens opposés (obscure / clarté) dans un même syntagme est un oxymore.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'expression 'péremptoire' ?",
+    "options": ["A) Silencieux", "B) Catégorique", "C) Généreux", "D) Trompeur"],
+    "answer": "B",
+    "explanation": "Péremptoire : qui détruit d'avance toute objection, qui est catégorique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Trouvez le synonyme de 'fallacieux' :",
+    "options": ["A) Véridique", "B) Succinct", "C) Trompeur", "D) Taciturne"],
+    "answer": "C",
+    "explanation": "Fallacieux vient du latin 'fallax' (trompeur) ; un argument fallacieux cherche à tromper, à induire en erreur.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que dénonce la locution latine 'casus belli' ?",
+    "options": ["A) Un motif de guerre", "B) Un jugement final", "C) Une paix durable", "D) La vérité dans le vin"],
+    "answer": "A",
+    "explanation": "Casus belli se traduit par 'cas de guerre', l'acte de nature à déclencher un conflit.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie la locution 'pacta sunt servanda' ?",
+    "options": ["A) La chose est jugée.", "B) Les conventions doivent être respectées.", "C) La vérité est dans le vin.", "D) Avant toute expérience."],
+    "answer": "B",
+    "explanation": "C'est un principe fondamental du droit international : les pactes (traités) doivent être respectés.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Lequel de ces couples de mots correspond à des paronymes ?",
+    "options": ["A) Mer / Mère", "B) Collision / Collusion", "C) Grand / Petit", "D) Rapide / Véloce"],
+    "answer": "B",
+    "explanation": "Les paronymes sont des mots qui se ressemblent fortement par leur forme ou leur prononciation mais qui n'ont pas le même sens.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la figure de style dans : 'La nature est un temple où de vivants piliers...' ?",
+    "options": ["A) Métonymie", "B) Comparaison", "C) Métaphore", "D) Oxymore"],
+    "answer": "C",
+    "explanation": "L'assimilation directe de la nature à un temple sans outil de comparaison ('comme') est une métaphore.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez l'analogie. Chien est à aboyer ce que Cheval est à :",
+    "options": ["A) Hennir", "B) Bêler", "C) Mugir", "D) Rugir"],
+    "answer": "A",
+    "explanation": "Le cri du chien est l'aboiement, celui du cheval est le hennissement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "La confusion entre deux paronymes s'appelle :",
+    "options": ["A) Un barbarisme", "B) Une prétérition", "C) Une amphibologie", "D) Un solécisme"],
+    "answer": "A",
+    "explanation": "Le fait de forger un mot inexistant, de déformer un mot ou de confondre deux paronymes peut être qualifié de barbarisme lexical.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans l'expression 'Je ne vous dirai pas que son intelligence est remarquable', il y a :",
+    "options": ["A) Une litote", "B) Une prétérition", "C) Un euphémisme", "D) Une métaphore"],
+    "answer": "B",
+    "explanation": "La prétérition consiste à affirmer que l'on ne va pas dire quelque chose tout en le disant.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'adjectif 'taciturne' ?",
+    "options": ["A) Bruyant", "B) Silencieux", "C) Arrogant", "D) Frivole"],
+    "answer": "B",
+    "explanation": "Taciturne se dit d'une personne qui par nature parle peu, qui est silencieuse, souvent d'humeur sombre.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Différence de sens entre 'conjoncture' et 'conjecture' :",
+    "options": ["A) Situation économique / Hypothèse", "B) Hypothèse / Situation", "C) Affirmation / Négation", "D) Vrai / Faux"],
+    "answer": "A",
+    "explanation": "Conjoncture : situation, ensemble d'éléments (économiques, politiques). Conjecture : hypothèse, supposition.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle figure de style est présente dans 'Je meurs de soif' ?",
+    "options": ["A) La litote", "B) La prétérition", "C) L'hyperbole", "D) La métaphore"],
+    "answer": "C",
+    "explanation": "L'hyperbole est une figure d'exagération (on ne meurt pas réellement à l'instant même de soif).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie la locution 'in vino veritas' ?",
+    "options": ["A) Le vin est un poison.", "B) La vérité est dans le vin.", "C) Le vin de la victoire.", "D) Acheter du vin."],
+    "answer": "B",
+    "explanation": "Proverbe latin signifiant qu'une personne ivre a tendance à dire la vérité ou ce qu'elle pense réellement.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Si 'arbitraire' correspond à 'discrétionnaire', alors 'succinct' correspond à :",
+    "options": ["A) Détaillé", "B) Bref", "C) Allongé", "D) Verbeux"],
+    "answer": "B",
+    "explanation": "Succinct signifie qui est énoncé en peu de mots, bref, concis.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le janotisme ou l'amphibologie désigne :",
+    "options": ["A) Une construction syntaxique obscure à double sens.", "B) Un néologisme régional.", "C) Une figure d'exagération.", "D) Une faute d'orthographe."],
+    "answer": "A",
+    "explanation": "L'amphibologie est un double sens dû à la syntaxe ('J'ai vu un homme avec des jumelles').",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Qui est l'auteur de 'Climbié' ?",
+    "options": ["A) Bernard Dadié", "B) Camara Laye", "C) Mongo Beti", "D) Seydou Badian"],
+    "answer": "A",
+    "explanation": "Climbié est un roman largement autobiographique de l'écrivain ivoirien Bernard Dadié, paru en 1956.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'Kayak' est un exemple de :",
+    "options": ["A) Métaphore", "B) Paronyme", "C) Palindrome", "D) Pléonasme"],
+    "answer": "C",
+    "explanation": "Comme 'radar', 'kayak' se lit de la même façon dans les deux sens.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire l'expression 'res judicata' ?",
+    "options": ["A) La chose publique", "B) L'autorité de la chose jugée", "C) L'affaire en cours", "D) Le droit de juger"],
+    "answer": "B",
+    "explanation": "Res judicata pro veritate habetur (la chose jugée est tenue pour vérité), ce qui signifie qu'un jugement définitif ne peut être remis en cause.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez l'analogie : Le pauvre Mongo Beti est l'auteur de 'Le Pauvre Christ de Bomba', Seydou Badian est l'auteur de :",
+    "options": ["A) Une vie de boy", "B) Sous l'orage", "C) Docker noir", "D) Climbié"],
+    "answer": "B",
+    "explanation": "Seydou Badian Kouyaté, écrivain et homme politique malien, est l'auteur de 'Sous l'orage'.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le synonyme de l'adjectif 'véloce' ?",
+    "options": ["A) Lent", "B) Rapide", "C) Agréable", "D) Cruel"],
+    "answer": "B",
+    "explanation": "Véloce (qui a de la vélocité) signifie rapide.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Dans 'Elle est belle à mourir', quelle figure de style utilise-t-on ?",
+    "options": ["A) La litote", "B) L'hyperbole", "C) La métaphore", "D) La métonymie"],
+    "answer": "B",
+    "explanation": "L'exagération 'à mourir' souligne l'intensité de la beauté, c'est une hyperbole.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Si 'discrétionnaire' = 'arbitraire', alors 'taciturne' =",
+    "options": ["A) Loquace", "B) Silencieux", "C) Affable", "D) Joyeux"],
+    "answer": "B",
+    "explanation": "Un synonyme direct.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'mémoire' (le document écrit) est de quel genre ?",
+    "options": ["A) Féminin", "B) Masculin", "C) Neutre", "D) Variable"],
+    "answer": "B",
+    "explanation": "Un mémoire (document, écrit académique) est masculin. La mémoire (la faculté) est féminine.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que qualifie-t-on d' 'éphémère' ?",
+    "options": ["A) Ce qui dure toujours", "B) Ce qui ne dure qu'un jour", "C) Ce qui est transparent", "D) Ce qui est lumineux"],
+    "answer": "B",
+    "explanation": "Éphémère (du grec ephemeros, d'un jour) qualifie ce qui a une durée très courte.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que veut dire le mot 'allégorie' ?",
+    "options": ["A) Une fausse vérité", "B) La représentation d'une idée abstraite sous une forme concrète", "C) Une exagération manifeste", "D) L'omission d'une conjonction"],
+    "answer": "B",
+    "explanation": "Comme la faucheuse pour la mort, ou la balance pour la justice.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel paronyme faut-il utiliser dans : 'Il a fait une ... pour expliquer la crise' ?",
+    "options": ["A) conjoncture", "B) conjecture", "C) collision", "D) collusion"],
+    "answer": "B",
+    "explanation": "Conjecture = hypothèse, explication non vérifiée.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel auteur africain a écrit 'Les Soleils des indépendances' ?",
+    "options": ["A) Léopold Sédar Senghor", "B) Ahmadou Kourouma", "C) Wole Soyinka", "D) Tchicaya U Tam'si"],
+    "answer": "B",
+    "explanation": "Kourouma est l'auteur des Soleils des indépendances.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le mot 'voile' a un double genre. Quel est son sens au masculin ?",
+    "options": ["A) Pièce de tissu pour faire avancer un bateau", "B) Pièce de tissu destinée à cacher, à recouvrir", "C) Le sport nautique", "D) Le dôme du palais"],
+    "answer": "B",
+    "explanation": "Un voile (pour cacher le visage ou mariée). La voile (bateau).",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que signifie l'adjectif 'dithyrambique' ?",
+    "options": ["A) Très critique", "B) Élogieux, enthousiaste à l'excès", "C) Silencieux", "D) Avare"],
+    "answer": "B",
+    "explanation": "Faire des éloges emphatiques.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Complétez la locution latine : 'Errare humanum est, perseverare ...'",
+    "options": ["A) divinum", "B) diabolicum", "C) veritas", "D) absurdum"],
+    "answer": "B",
+    "explanation": "L'erreur est humaine, s'entêter [dans son erreur] est diabolique.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Le néologisme consiste à :",
+    "options": ["A) Emprunter un mot à une autre langue", "B) Créer un nouveau mot ou donner un sens nouveau à un mot existant", "C) Répéter un mot en fin de phrase", "D) Inverser l'ordre des mots"],
+    "answer": "B",
+    "explanation": "Néologisme : mot nouveau.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Si 'prolixe' = 'bavard', 'laconique' =",
+    "options": ["A) Triste", "B) Concis, bref", "C) Volubile", "D) Bavard"],
+    "answer": "B",
+    "explanation": "Laconique : qui s'exprime en peu de mots.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'expression 'c'est mon talon d'Achille' est :",
+    "options": ["A) Une périphrase", "B) Une métaphore lexicalisée (ou allusion mythologique)", "C) Un pléonasme", "D) Un palindrome"],
+    "answer": "B",
+    "explanation": "Désigne le point faible de quelqu'un.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Que désigne le terme 'synecdoque' ?",
+    "options": ["A) Prendre le tout pour la partie ou la partie pour le tout", "B) Exagérer une vérité", "C) Remplacer un mot par un autre de même sonorité", "D) Parler de soi à la troisième personne"],
+    "answer": "A",
+    "explanation": "C'est un type particulier de métonymie.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Parmi ces auteurs, lequel n'est pas ivoirien ?",
+    "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Ferdinand Oyono", "D) Isaie Biton Koulibaly"],
+    "answer": "C",
+    "explanation": "Ferdinand Oyono est d'origine camerounaise.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel mot n'a pas le double genre ?",
+    "options": ["A) Manche", "B) Mémoire", "C) Livre", "D) Tentacule"],
+    "answer": "D",
+    "explanation": "Tentacule est exclusivement masculin.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Un discours 'ampoulé' est un discours :",
+    "options": ["A) Très clair et concis", "B) Éclairant et instructif", "C) Prétentieux, chargé, emphatique", "D) Dénué de sens"],
+    "answer": "C",
+    "explanation": "Style emphatique, boursouflé.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "L'antonyme de 'altruiste' est :",
+    "options": ["A) Généreux", "B) Égoïste", "C) Taciturne", "D) Habile"],
+    "answer": "B",
+    "explanation": "L'altruisme est le dévouement aux autres, l'égoïsme est le contraire.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quel est le sens figuré de 'jeter l'éponge' ?",
+    "options": ["A) Nettoyer", "B) Se fâcher", "C) Abandonner", "D) Vaincre"],
+    "answer": "C",
+    "explanation": "Issu de la boxe, jeter l'éponge signifie abandonner le combat.",
+    "theme": "Aptitude Verbale & Phénomènes lexicaux"
+  },
+  {
+    "question": "Quelle est la capitale du Togo ?",
+    "options": ["A) Porto-Novo", "B) Lomé", "C) Cotonou", "D) Ouagadougou"],
+    "answer": "B",
+    "explanation": "Lomé est la capitale du Togo.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Burkina Faso ?",
+    "options": ["A) Bamako", "B) Niamey", "C) Ouagadougou", "D) Dakar"],
+    "answer": "C",
+    "explanation": "Ouagadougou est la capitale du Burkina Faso.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quelle partie du corps se trouve le fémur ?",
+    "options": ["A) Le bras", "B) La jambe", "C) Le dos", "D) Le pied"],
+    "answer": "B",
+    "explanation": "Le fémur est l'os de la cuisse, dans la jambe.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Si je suis le gendre de Paul, qui est Paul pour moi ?",
+    "options": ["A) Mon père", "B) Mon frère", "C) Mon beau-père", "D) Mon oncle"],
+    "answer": "C",
+    "explanation": "Le gendre est le mari de la fille, donc Paul est mon beau-père.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Sur quoi portent principalement les recherches de Louis Pasteur ?",
+    "options": ["A) L'électricité", "B) Les microbes et vaccins", "C) La mécanique", "D) L'astronomie"],
+    "answer": "B",
+    "explanation": "Louis Pasteur est célèbre pour ses travaux sur les microbes et la vaccination.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel océan navigue-t-on au large de Tokyo ?",
+    "options": ["A) Océan Atlantique", "B) Océan Pacifique", "C) Océan Indien", "D) Océan Arctique"],
+    "answer": "B",
+    "explanation": "Tokyo se situe sur la côte de l'océan Pacifique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus petit pays du monde ?",
+    "options": ["A) Monaco", "B) Le Vatican", "C) Saint-Marin", "D) Le Liechtenstein"],
+    "answer": "B",
+    "explanation": "Le Vatican est le plus petit pays du monde avec 0,44 km².",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a pour monnaie le Cedi ?",
+    "options": ["A) Le Ghana", "B) Le Nigeria", "C) Le Sénégal", "D) Le Togo"],
+    "answer": "A",
+    "explanation": "Le Cedi est la monnaie du Ghana.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quelle région Abengourou est-il le chef-lieu ?",
+    "options": ["A) Le Moronou", "B) L'Indénié-Djuablin", "C) Le N'Zi", "D) Le Bounkani"],
+    "answer": "B",
+    "explanation": "Abengourou est le chef-lieu de la région de l'Indénié-Djuablin.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quel pays Nairobi est-il la capitale ?",
+    "options": ["A) Tanzanie", "B) Kenya", "C) Ouganda", "D) Rwanda"],
+    "answer": "B",
+    "explanation": "Nairobi est la capitale du Kenya.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Laquelle de ces inventions est la plus récente ?",
+    "options": ["A) Le téléphone", "B) L'ampoule électrique", "C) Internet", "D) La radio"],
+    "answer": "C",
+    "explanation": "Internet a été développé dans les années 1960-1990, bien après les autres.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri du corbeau ?",
+    "options": ["A) Croasse", "B) Coasse", "C) Siffle", "D) Piaule"],
+    "answer": "A",
+    "explanation": "Le corbeau croasse.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment écrit-on 200 en lettres ?",
+    "options": ["A) Deux-cent", "B) Deux-cents", "C) Deux cent", "D) Deux cents"],
+    "answer": "D",
+    "explanation": "« Deux cents » s'écrit avec « cents » au pluriel car suivi de rien.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel mode suit la conjonction « Avant que » ?",
+    "options": ["A) L'indicatif", "B) Le subjonctif", "C) Le conditionnel", "D) L'impératif"],
+    "answer": "B",
+    "explanation": "« Avant que » est toujours suivi du subjonctif.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Cameroun ?",
+    "options": ["A) Douala", "B) Yaoundé", "C) Libreville", "D) Bangui"],
+    "answer": "B",
+    "explanation": "Yaoundé est la capitale politique du Cameroun.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la République démocratique du Congo ?",
+    "options": ["A) Brazzaville", "B) Kinshasa", "C) Lubumbashi", "D) Goma"],
+    "answer": "B",
+    "explanation": "Kinshasa est la capitale de la RDC.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Gabon ?",
+    "options": ["A) Libreville", "B) Port-Gentil", "C) Franceville", "D) Oyem"],
+    "answer": "A",
+    "explanation": "Libreville est la capitale du Gabon.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Tchad ?",
+    "options": ["A) Abéché", "B) Moundou", "C) N'Djamena", "D) Sarh"],
+    "answer": "C",
+    "explanation": "N'Djamena est la capitale du Tchad.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Ghana ?",
+    "options": ["A) Kumasi", "B) Tamale", "C) Accra", "D) Tema"],
+    "answer": "C",
+    "explanation": "Accra est la capitale du Ghana.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Bénin ?",
+    "options": ["A) Cotonou", "B) Porto-Novo", "C) Parakou", "D) Abomey"],
+    "answer": "B",
+    "explanation": "Porto-Novo est la capitale administrative du Bénin, bien que Cotonou soit la capitale économique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Niger ?",
+    "options": ["A) Niamey", "B) Zinder", "C) Maradi", "D) Agadez"],
+    "answer": "A",
+    "explanation": "Niamey est la capitale du Niger.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Sénégal ?",
+    "options": ["A) Saint-Louis", "B) Thiès", "C) Dakar", "D) Ziguinchor"],
+    "answer": "C",
+    "explanation": "Dakar est la capitale du Sénégal.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Mali ?",
+    "options": ["A) Bamako", "B) Tombouctou", "C) Sikasso", "D) Kayes"],
+    "answer": "A",
+    "explanation": "Bamako est la capitale du Mali.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus long fleuve d'Afrique ?",
+    "options": ["A) Congo", "B) Niger", "C) Nil", "D) Zambèze"],
+    "answer": "C",
+    "explanation": "Le Nil est le plus long fleuve d'Afrique (6 650 km).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus haut sommet d'Afrique ?",
+    "options": ["A) Mont Kenya", "B) Kilimandjaro", "C) Mont Stanley", "D) Ras Dashan"],
+    "answer": "B",
+    "explanation": "Le Kilimandjaro en Tanzanie culmine à 5 895 m.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de pays partagent le bassin du fleuve Niger ?",
+    "options": ["A) 5", "B) 7", "C) 10", "D) 12"],
+    "answer": "C",
+    "explanation": "Le fleuve Niger traverse ou borde 10 pays africains.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel désert est le plus grand du monde ?",
+    "options": ["A) Sahara", "B) Gobi", "C) Antarctique", "D) Kalahari"],
+    "answer": "C",
+    "explanation": "L'Antarctique est techniquement le plus grand désert (désert froid).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "options": ["A) Kalahari", "B) Sahara", "C) Gobi", "D) Arabie"],
+    "answer": "B",
+    "explanation": "Le Sahara est le plus grand désert chaud avec environ 9 millions de km².",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment appelle-t-on le gendre pour les parents de l'épouse ?",
+    "options": ["A) Beau-fils", "B) Beau-frère", "C) Neveu", "D) Cousin"],
+    "answer": "A",
+    "explanation": "Le gendre est le beau-fils pour les parents de l'épouse.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment appelle-t-on la belle-fille pour les parents du mari ?",
+    "options": ["A) Nièce", "B) Bru", "C) Belle-sœur", "D) Cousine"],
+    "answer": "B",
+    "explanation": "La bru est l'épouse du fils (belle-fille).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom scientifique de la rotule ?",
+    "options": ["A) Tibia", "B) Fémur", "C) Patella", "D) Humérus"],
+    "answer": "C",
+    "explanation": "La rotule est appelée 'patella' en nomenclature anatomique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom scientifique du péroné ?",
+    "options": ["A) Fibula", "B) Tibia", "C) Fémur", "D) Malléole"],
+    "answer": "A",
+    "explanation": "Le péroné est appelé 'fibula' en nomenclature anatomique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est l'os le plus long du corps humain ?",
+    "options": ["A) Humérus", "B) Tibia", "C) Fémur", "D) Radius"],
+    "answer": "C",
+    "explanation": "Le fémur (os de la cuisse) est l'os le plus long.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien d'os compte le squelette humain adulte ?",
+    "options": ["A) 186", "B) 206", "C) 226", "D) 246"],
+    "answer": "B",
+    "explanation": "Le squelette adulte compte 206 os.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a découvert la loi de la gravitation universelle ?",
+    "options": ["A) Galilée", "B) Newton", "C) Einstein", "D) Kepler"],
+    "answer": "B",
+    "explanation": "Isaac Newton a formulé la loi de la gravitation en 1687.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a découvert les rayons X ?",
+    "options": ["A) Marie Curie", "B) Wilhelm Röntgen", "C) Henri Becquerel", "D) Pierre Curie"],
+    "answer": "B",
+    "explanation": "Wilhelm Röntgen a découvert les rayons X en 1895.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a découvert la radioactivité ?",
+    "options": ["A) Marie Curie", "B) Pierre Curie", "C) Henri Becquerel", "D) Ernest Rutherford"],
+    "answer": "C",
+    "explanation": "Henri Becquerel a découvert la radioactivité en 1896.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a développé la théorie de la relativité ?",
+    "options": ["A) Newton", "B) Bohr", "C) Einstein", "D) Planck"],
+    "answer": "C",
+    "explanation": "Albert Einstein a publié la relativité restreinte en 1905 et générale en 1915.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel scientifique a créé le premier vaccin contre la rage ?",
+    "options": ["A) Edward Jenner", "B) Louis Pasteur", "C) Robert Koch", "D) Jonas Salk"],
+    "answer": "B",
+    "explanation": "Louis Pasteur a développé le vaccin contre la rage en 1885.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a inventé la première vaccination contre la variole ?",
+    "options": ["A) Louis Pasteur", "B) Edward Jenner", "C) Robert Koch", "D) Alexander Fleming"],
+    "answer": "B",
+    "explanation": "Edward Jenner a développé le vaccin contre la variole en 1796.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri du lion ?",
+    "options": ["A) Rugit", "B) Brame", "C) Hurle", "D) Gronde"],
+    "answer": "A",
+    "explanation": "Le lion rugit.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri de l'âne ?",
+    "options": ["A) Hennit", "B) Brait", "C) Mugit", "D) Bêle"],
+    "answer": "B",
+    "explanation": "L'âne brait.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri du cerf ?",
+    "options": ["A) Brame", "B) Rugit", "C) Hurle", "D) Aboie"],
+    "answer": "A",
+    "explanation": "Le cerf brame.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri de la grenouille ?",
+    "options": ["A) Croasse", "B) Coasse", "C) Siffle", "D) Piaule"],
+    "answer": "B",
+    "explanation": "La grenouille coasse.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+    "options": ["A) 1987", "B) 1989", "C) 1991", "D) 1993"],
+    "answer": "B",
+    "explanation": "Le mur de Berlin est tombé le 9 novembre 1989.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "options": ["A) 1789", "B) 1799", "C) 1804", "D) 1815"],
+    "answer": "A",
+    "explanation": "La Révolution française a commencé en 1789.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui était le premier président des États-Unis ?",
+    "options": ["A) Thomas Jefferson", "B) John Adams", "C) George Washington", "D) Benjamin Franklin"],
+    "answer": "C",
+    "explanation": "George Washington a été le premier président (1789-1797).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+    "options": ["A) 1482", "B) 1492", "C) 1502", "D) 1512"],
+    "answer": "B",
+    "explanation": "Christophe Colomb a découvert l'Amérique en 1492.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "options": ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Brisbane"],
+    "answer": "C",
+    "explanation": "Canberra est la capitale de l'Australie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Canada ?",
+    "options": ["A) Toronto", "B) Montréal", "C) Vancouver", "D) Ottawa"],
+    "answer": "D",
+    "explanation": "Ottawa est la capitale du Canada.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Brésil ?",
+    "options": ["A) Rio de Janeiro", "B) São Paulo", "C) Brasília", "D) Salvador"],
+    "answer": "C",
+    "explanation": "Brasília est la capitale du Brésil depuis 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la devise de l'Union européenne ?",
+    "options": ["A) Dollar", "B) Livre", "C) Euro", "D) Franc"],
+    "answer": "C",
+    "explanation": "L'euro est la monnaie officielle de l'Union européenne.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la devise du Royaume-Uni ?",
+    "options": ["A) Euro", "B) Livre sterling", "C) Dollar", "D) Couronne"],
+    "answer": "B",
+    "explanation": "La livre sterling (GBP) est la devise du Royaume-Uni.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "options": ["A) Vénus", "B) Mars", "C) Mercure", "D) Terre"],
+    "answer": "C",
+    "explanation": "Mercure est la planète la plus proche du Soleil.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de continents existe-t-il ?",
+    "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+    "answer": "C",
+    "explanation": "Il y a 7 continents : Afrique, Amérique du Nord, Amérique du Sud, Antarctique, Asie, Europe, Océanie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a remporté la première Coupe du monde de football ?",
+    "options": ["A) Brésil", "B) Argentine", "C) Uruguay", "D) Italie"],
+    "answer": "C",
+    "explanation": "L'Uruguay a remporté la première Coupe du monde en 1930.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "options": ["A) Michel-Ange", "B) Léonard de Vinci", "C) Raphaël", "D) Donatello"],
+    "answer": "B",
+    "explanation": "Léonard de Vinci a peint la Joconde vers 1503-1506.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel pays se trouve la tour Eiffel ?",
+    "options": ["A) Italie", "B) Espagne", "C) France", "D) Belgique"],
+    "answer": "C",
+    "explanation": "La tour Eiffel se trouve à Paris, en France.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "options": ["A) Or", "B) Au", "C) Ag", "D) Go"],
+    "answer": "B",
+    "explanation": "Le symbole de l'or est Au (du latin 'aurum').",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'argent ?",
+    "options": ["A) Ar", "B) Ag", "C) Si", "D) Al"],
+    "answer": "B",
+    "explanation": "Le symbole de l'argent est Ag (du latin 'argentum').",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien y a-t-il de secondes dans une heure ?",
+    "options": ["A) 3 000", "B) 3 600", "C) 6 000", "D) 7 200"],
+    "answer": "B",
+    "explanation": "1 heure = 60 minutes × 60 secondes = 3 600 secondes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de l'Éthiopie ?",
+    "options": ["A) Nairobi", "B) Khartoum", "C) Addis-Abeba", "D) Kampala"],
+    "answer": "C",
+    "explanation": "Addis-Abeba est la capitale de l'Éthiopie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel océan borde l'ouest de l'Afrique ?",
+    "options": ["A) Océan Indien", "B) Océan Atlantique", "C) Océan Pacifique", "D) Océan Arctique"],
+    "answer": "B",
+    "explanation": "L'océan Atlantique borde la côte ouest de l'Afrique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de planètes compte le système solaire ?",
+    "options": ["A) 7", "B) 8", "C) 9", "D) 10"],
+    "answer": "B",
+    "explanation": "Le système solaire compte 8 planètes depuis le déclassement de Pluton en 2006.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays est surnommé le 'pays du Soleil Levant' ?",
+    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
+    "answer": "C",
+    "explanation": "Le Japon est traditionnellement appelé le 'pays du Soleil Levant'.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la langue officielle du Brésil ?",
+    "options": ["A) Espagnol", "B) Portugais", "C) Français", "D) Anglais"],
+    "answer": "B",
+    "explanation": "Le portugais est la langue officielle du Brésil.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le chef-lieu du District des Lacs en Côte d'Ivoire ?",
+    "options": ["A) Yamoussoukro", "B) Dimbokro", "C) Bouaflé", "D) Toumodi"],
+    "answer": "B",
+    "explanation": "Dimbokro est le chef-lieu du District des Lacs.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quelle région Bouna est-il le chef-lieu ?",
+    "options": ["A) Le Zanzan", "B) Le Bounkani", "C) Le Gontougo", "D) Le Tchologo"],
+    "answer": "B",
+    "explanation": "Bouna est le chef-lieu de la région du Bounkani.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quel pays Lilongwe est-il la capitale ?",
+    "options": ["A) Zambie", "B) Zimbabwe", "C) Malawi", "D) Mozambique"],
+    "answer": "C",
+    "explanation": "Lilongwe est la capitale du Malawi.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel nom d'oiseau utilise-t-on pour désigner un auteur de lettres anonymes ?",
+    "options": ["A) Un aigle", "B) Un vautour", "C) Un corbeau", "D) Un faucon"],
+    "answer": "C",
+    "explanation": "On appelle « corbeau » la personne qui envoie des lettres anonymes malveillantes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle traversée Louis Blériot a-t-il réussie en avion le 25 juillet 1909 ?",
+    "options": ["A) L'Atlantique", "B) La Méditerranée", "C) La Manche", "D) Le Pacifique"],
+    "answer": "C",
+    "explanation": "Louis Blériot a été le premier à traverser la Manche en avion.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de la maladie qui entraîne un battement trop rapide du cœur ?",
+    "options": ["A) Tachycardie", "B) Bradycardie", "C) Arythmie", "D) Angine"],
+    "answer": "A",
+    "explanation": "La tachycardie est l'accélération anormale du rythme cardiaque.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quelle ville siège l'Organisation des pays exportateurs de pétrole (OPEP) ?",
+    "options": ["A) Genève", "B) New York", "C) Vienne", "D) Riyad"],
+    "answer": "C",
+    "explanation": "L'OPEP a son siège à Vienne, en Autriche.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année la Côte d'Ivoire a-t-elle accédé à l'indépendance ?",
+    "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1963"],
+    "answer": "B",
+    "explanation": "La Côte d'Ivoire a proclamé son indépendance le 7 août 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le premier président de la Côte d'Ivoire ?",
+    "options": ["A) Henri Konan Bédié", "B) Laurent Gbagbo", "C) Félix Houphouët-Boigny", "D) Robert Guéï"],
+    "answer": "C",
+    "explanation": "Félix Houphouët-Boigny est le père fondateur et premier président (1960-1993).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale administrative de la Côte d'Ivoire ?",
+    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) San-Pédro"],
+    "answer": "C",
+    "explanation": "Yamoussoukro est la capitale politique et administrative depuis 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel poète et homme politique sénégalais a cofondé le mouvement de la Négritude ?",
+    "options": ["A) Aimé Césaire", "B) Léopold Sédar Senghor", "C) Léon-Gontran Damas", "D) Les trois ensemble"],
+    "answer": "D",
+    "explanation": "La Négritude a été fondée par Senghor, Césaire et Damas dans les années 1930.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays africain est le plus grand producteur mondial de cacao ?",
+    "options": ["A) Ghana", "B) Nigeria", "C) Côte d'Ivoire", "D) Cameroun"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a pour monnaie le Naira ?",
+    "options": ["A) Ghana", "B) Nigeria", "C) Liberia", "D) Sierra Leone"],
+    "answer": "B",
+    "explanation": "Le Naira est la monnaie officielle du Nigeria.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a pour monnaie le Rand ?",
+    "options": ["A) Kenya", "B) Éthiopie", "C) Afrique du Sud", "D) Tanzanie"],
+    "answer": "C",
+    "explanation": "Le Rand est la monnaie de l'Afrique du Sud.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Rwanda ?",
+    "options": ["A) Bujumbura", "B) Kigali", "C) Kampala", "D) Gitega"],
+    "answer": "B",
+    "explanation": "Kigali est la capitale du Rwanda.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Guinée-Bissau ?",
+    "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Banjul"],
+    "answer": "B",
+    "explanation": "Bissau est la capitale de la Guinée-Bissau.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Gambie ?",
+    "options": ["A) Banjul", "B) Dakar", "C) Freetown", "D) Bissau"],
+    "answer": "A",
+    "explanation": "Banjul est la capitale de la Gambie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Liberia ?",
+    "options": ["A) Freetown", "B) Accra", "C) Monrovia", "D) Abidjan"],
+    "answer": "C",
+    "explanation": "Monrovia est la capitale du Liberia.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Sierra Leone ?",
+    "options": ["A) Monrovia", "B) Freetown", "C) Conakry", "D) Banjul"],
+    "answer": "B",
+    "explanation": "Freetown est la capitale de la Sierra Leone.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la République Centrafricaine ?",
+    "options": ["A) Bangui", "B) Yaoundé", "C) Libreville", "D) Malabo"],
+    "answer": "A",
+    "explanation": "Bangui est la capitale de la République Centrafricaine.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel lac est le plus grand d'Afrique ?",
+    "options": ["A) Lac Tanganyika", "B) Lac Tchad", "C) Lac Victoria", "D) Lac Malawi"],
+    "answer": "C",
+    "explanation": "Le lac Victoria est le plus grand lac d'Afrique (environ 68 000 km²).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel fleuve est le plus long d'Europe ?",
+    "options": ["A) Danube", "B) Rhin", "C) Volga", "D) Loire"],
+    "answer": "C",
+    "explanation": "La Volga est le plus long fleuve d'Europe (environ 3 530 km).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année le Sénégal a-t-il accédé à l'indépendance ?",
+    "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1963"],
+    "answer": "B",
+    "explanation": "Le Sénégal a proclamé son indépendance le 4 avril 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la principale base de lancement d'engins spatiaux aux États-Unis ?",
+    "options": ["A) Houston", "B) Cap Canaveral", "C) Los Angeles", "D) Washington"],
+    "answer": "B",
+    "explanation": "Cap Canaveral (Kennedy Space Center) est la principale base spatiale américaine.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Depuis 2020, quel territoire pourrait devenir le 51ème État des États-Unis ?",
+    "options": ["A) Porto Rico", "B) Guam", "C) Washington D.C.", "D) Samoa américaines"],
+    "answer": "A",
+    "explanation": "Porto Rico a voté en 2020 en faveur de son intégration comme 51ème État.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de districts administratifs compte la Côte d'Ivoire ?",
+    "options": ["A) 10", "B) 12", "C) 14", "D) 31"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le symbole chimique du fer ?",
+    "options": ["A) Fr", "B) Fe", "C) Fa", "D) Fi"],
+    "answer": "B",
+    "explanation": "Le symbole du fer est Fe (du latin 'ferrum').",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri de l'éléphant ?",
+    "options": ["A) Barrit", "B) Rugit", "C) Mugit", "D) Brame"],
+    "answer": "A",
+    "explanation": "L'éléphant barrit.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le cri du cheval ?",
+    "options": ["A) Brait", "B) Mugit", "C) Hennit", "D) Bêle"],
+    "answer": "C",
+    "explanation": "Le cheval hennit.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus grand fleuve de Côte d'Ivoire ?",
+    "options": ["A) Le Sassandra", "B) Le Bandama", "C) Le Comoé", "D) Le Cavally"],
+    "answer": "B",
+    "explanation": "Le Bandama est le plus grand fleuve de Côte d'Ivoire (environ 1 050 km).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel organe détient le pouvoir législatif en Côte d'Ivoire ?",
+    "options": ["A) Le gouvernement", "B) Le Sénat seul", "C) L'Assemblée nationale et le Sénat", "D) La Cour suprême"],
+    "answer": "C",
+    "explanation": "Le Parlement ivoirien est bicaméral : Assemblée nationale et Sénat.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la religion la plus pratiquée dans le monde ?",
+    "options": ["A) L'islam", "B) Le christianisme", "C) L'hindouisme", "D) Le bouddhisme"],
+    "answer": "B",
+    "explanation": "Le christianisme est la religion la plus pratiquée avec environ 2,4 milliards de fidèles.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays africain a accueilli la CAN 2023 ?",
+    "options": ["A) Cameroun", "B) Côte d'Ivoire", "C) Sénégal", "D) Nigeria"],
+    "answer": "B",
+    "explanation": "La Côte d'Ivoire a accueilli la CAN 2023 (jouée en janvier-février 2024).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a remporté la CAN 2023 ?",
+    "options": ["A) Le Nigeria", "B) Le Sénégal", "C) La Côte d'Ivoire", "D) La RDC"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire a remporté la CAN 2023 en battant le Nigeria en finale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le symbole chimique du cuivre ?",
+    "options": ["A) Cr", "B) Cu", "C) Co", "D) Ci"],
+    "answer": "B",
+    "explanation": "Le symbole du cuivre est Cu (du latin 'cuprum').",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel organe du corps humain produit l'insuline ?",
+    "options": ["A) Le foie", "B) Le rein", "C) Le pancréas", "D) La rate"],
+    "answer": "C",
+    "explanation": "Le pancréas produit l'insuline qui régule le taux de glucose dans le sang.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Afrique en superficie ?",
+    "options": ["A) RDC", "B) Soudan", "C) Algérie", "D) Libye"],
+    "answer": "C",
+    "explanation": "L'Algérie est le plus grand pays d'Afrique avec environ 2,38 millions de km².",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Guinée équatoriale ?",
+    "options": ["A) Bata", "B) Malabo", "C) Libreville", "D) Douala"],
+    "answer": "B",
+    "explanation": "Malabo est la capitale de la Guinée équatoriale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Soudan ?",
+    "options": ["A) Khartoum", "B) Djouba", "C) Le Caire", "D) Asmara"],
+    "answer": "A",
+    "explanation": "Khartoum est la capitale du Soudan.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Soudan du Sud ?",
+    "options": ["A) Khartoum", "B) Djouba", "C) Kampala", "D) Nairobi"],
+    "answer": "B",
+    "explanation": "Djouba (Juba) est la capitale du Soudan du Sud.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a pour monnaie le Yen ?",
+    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
+    "answer": "C",
+    "explanation": "Le Yen est la monnaie du Japon.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus petit continent ?",
+    "options": ["A) Antarctique", "B) Europe", "C) Océanie", "D) Amérique du Sud"],
+    "answer": "C",
+    "explanation": "L'Océanie est le plus petit continent.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien d'arrondissements compte la ville d'Abidjan ?",
+    "options": ["A) 10", "B) 13", "C) 15", "D) 20"],
+    "answer": "A",
+    "explanation": "La ville d'Abidjan compte 10 communes (arrondissements).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le sigle de la monnaie utilisée en Côte d'Ivoire ?",
+    "options": ["A) CDF", "B) XOF", "C) EUR", "D) GHS"],
+    "answer": "B",
+    "explanation": "XOF est le code ISO du franc CFA de l'Afrique de l'Ouest (BCEAO).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel savant grec est considéré comme le père de la médecine ?",
+    "options": ["A) Aristote", "B) Hippocrate", "C) Galien", "D) Archimède"],
+    "answer": "B",
+    "explanation": "Hippocrate (460-370 av. J.-C.) est considéré comme le père de la médecine.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays africain n'a jamais été colonisé ?",
+    "options": ["A) Ghana", "B) Liberia", "C) Éthiopie", "D) Liberia et Éthiopie"],
+    "answer": "D",
+    "explanation": "L'Éthiopie et le Liberia sont les deux seuls pays africains n'ayant jamais été colonisés.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a découvert la pénicilline ?",
+    "options": ["A) Louis Pasteur", "B) Alexander Fleming", "C) Robert Koch", "D) Jonas Salk"],
+    "answer": "B",
+    "explanation": "Alexander Fleming a découvert la pénicilline (antibiotique) en 1928.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le fleuve le plus long du monde ?",
+    "options": ["A) Amazone", "B) Nil", "C) Mississippi", "D) Yangzi Jiang"],
+    "answer": "B",
+    "explanation": "Le Nil est le fleuve le plus long du monde avec environ 6 650 km.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année les attentats du 11 septembre ont-ils eu lieu ?",
+    "options": ["A) 2000", "B) 2001", "C) 2002", "D) 2003"],
+    "answer": "B",
+    "explanation": "Les attentats du World Trade Center ont eu lieu le 11 septembre 2001.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel philosophe grec est l'auteur de « La République » ?",
+    "options": ["A) Aristote", "B) Socrate", "C) Platon", "D) Épicure"],
+    "answer": "C",
+    "explanation": "Platon a écrit « La République » où il développe sa vision de la cité idéale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de Madagascar ?",
+    "options": ["A) Moroni", "B) Antananarivo", "C) Maputo", "D) Victoria"],
+    "answer": "B",
+    "explanation": "Antananarivo est la capitale de Madagascar.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel organe du corps humain filtre le sang ?",
+    "options": ["A) Le cœur", "B) Le foie", "C) Le rein", "D) Le poumon"],
+    "answer": "C",
+    "explanation": "Les reins filtrent le sang pour éliminer les déchets sous forme d'urine.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quelle articulation du corps se situe la rotule ?",
+    "options": ["A) La hanche", "B) L'epaule", "C) Le genou", "D) Le coude"],
+    "answer": "C",
+    "explanation": "La rotule est l'os qui protege l'articulation du genou.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Si je suis la bru de Michelle, qui est Michelle pour moi ?",
+    "options": ["A) Ma soeur", "B) Ma tante", "C) Ma belle-mere", "D) Ma belle-soeur"],
+    "answer": "C",
+    "explanation": "La bru est l'epouse du fils : Michelle est donc la belle-mere.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel nom d'oiseau designe un auteur de lettres anonymes ?",
+    "options": ["A) Aigle", "B) Perroquet", "C) Corbeau", "D) Hibou"],
+    "answer": "C",
+    "explanation": "Un corbeau est familierement une personne qui envoie des lettres anonymes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "options": ["A) Casablanca", "B) Marrakech", "C) Fes", "D) Rabat"],
+    "answer": "D",
+    "explanation": "Rabat est la capitale officielle du Maroc.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la C?te d'Ivoire ?",
+    "options": ["A) Abidjan", "B) Yamoussoukro", "C) Bouake", "D) San-Pedro"],
+    "answer": "B",
+    "explanation": "Yamoussoukro est la capitale politique de la C?te d'Ivoire depuis 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus grand pays du monde ?",
+    "options": ["A) La Russie", "B) Le Canada", "C) Les ?tats-Unis", "D) La Chine"],
+    "answer": "A",
+    "explanation": "La Russie est le plus grand pays du monde avec environ 17,1 millions de km2.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a pour monnaie le Shekel ?",
+    "options": ["A) Israel", "B) Jordanie", "C) Liban", "D) Syrie"],
+    "answer": "A",
+    "explanation": "Le nouveau Shekel est la monnaie officielle d'Israel.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle traversee Louis Bleriot a-t-il reussie en avion le 25 juillet 1909 ?",
+    "options": ["A) La Mediterranee", "B) La Manche", "C) Le Rhin", "D) Le detroit de Gibraltar"],
+    "answer": "B",
+    "explanation": "Louis Bleriot a traverse la Manche en avion pour la premiere fois le 25 juillet 1909.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de la maladie qui entraine un battement trop rapide du coeur ?",
+    "options": ["A) Tachycardie", "B) Bradycardie", "C) Arythmie", "D) Angine"],
+    "answer": "A",
+    "explanation": "La tachycardie est une frequence cardiaque anormalement elevee (plus de 100 battements par minute).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quelle ville siege l'OPEP ?",
+    "options": ["A) Ryad", "B) Dubai", "C) Vienne", "D) Geneve"],
+    "answer": "C",
+    "explanation": "Le siege de l'OPEP est a Vienne, en Autriche, depuis 1965.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quelle region Bouna est-il le chef-lieu ?",
+    "options": ["A) Le Poro", "B) Le Bounkani", "C) Le Hambol", "D) Le Moronou"],
+    "answer": "B",
+    "explanation": "Bouna est le chef-lieu de la region du Bounkani dans le Nord-Est de la C?te d'Ivoire.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de l'Egypte ?",
+    "options": ["A) Alexandrie", "B) Louxor", "C) Le Caire", "D) Assouan"],
+    "answer": "C",
+    "explanation": "Le Caire est la capitale de l'Egypte et la ville la plus peuplee d'Afrique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Sur quoi reposent principalement les travaux de Pierre et Marie Curie ?",
+    "options": ["A) La physique quantique", "B) La theorie de la relativite", "C) La radioactivite", "D) L'electromagnetisme"],
+    "answer": "C",
+    "explanation": "Pierre et Marie Curie ont consacre leurs recherches a la radioactivite.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel océan navigue-t-on au large de New York ?",
+    "options": ["A) Océan Indien", "B) Océan Atlantique", "C) Océan Pacifique", "D) Océan Arctique"],
+    "answer": "B",
+    "explanation": "New York est située sur la côte est des États-Unis, au bord de l'Océan Atlantique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de l'Afrique du Sud ?",
+    "options": ["A) Johannesburg", "B) Le Cap", "C) Pretoria", "D) Durban"],
+    "answer": "C",
+    "explanation": "Pretoria est la capitale administrative (exécutive) de l'Afrique du Sud.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus haut sommet du monde ?",
+    "options": ["A) K2", "B) Kilimandjaro", "C) Everest", "D) Mont Blanc"],
+    "answer": "C",
+    "explanation": "L'Everest (8 849 m) est le plus haut sommet du monde, situé dans l'Himalaya.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Kenya ?",
+    "options": ["A) Mombasa", "B) Nairobi", "C) Kampala", "D) Dar es-Salaam"],
+    "answer": "B",
+    "explanation": "Nairobi est la capitale du Kenya.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Nigeria ?",
+    "options": ["A) Lagos", "B) Ibadan", "C) Abuja", "D) Kano"],
+    "answer": "C",
+    "explanation": "Abuja est la capitale politique du Nigeria depuis 1991 (remplaçant Lagos).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus long fleuve d'Afrique subsaharienne ?",
+    "options": ["A) Le Congo", "B) Le Niger", "C) Le Zambèze", "D) Le Sénégal"],
+    "answer": "B",
+    "explanation": "Le Niger est le plus long fleuve d'Afrique subsaharienne (4 200 km).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année la Côte d'Ivoire a-t-elle été admise à l'ONU ?",
+    "options": ["A) 1960", "B) 1961", "C) 1963", "D) 1965"],
+    "answer": "A",
+    "explanation": "La Côte d'Ivoire a été admise à l'ONU le 20 septembre 1960, l'année de son indépendance.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays possède la plus grande forêt tropicale du monde ?",
+    "options": ["A) La RDC", "B) L'Indonésie", "C) Le Brésil", "D) La Colombie"],
+    "answer": "C",
+    "explanation": "Le Brésil possède la plus grande forêt tropicale du monde : l'Amazonie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle montagne est la plus haute d'Afrique ?",
+    "options": ["A) Mont Kenya", "B) Kilimandjaro", "C) Ras Dashen", "D) Mont Cameroun"],
+    "answer": "B",
+    "explanation": "Le Kilimandjaro (5 895 m), en Tanzanie, est le point culminant d'Afrique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays d'Afrique de l'Ouest est le plus peuplé ?",
+    "options": ["A) Ghana", "B) Sénégal", "C) Nigeria", "D) Côte d'Ivoire"],
+    "answer": "C",
+    "explanation": "Le Nigeria est le pays le plus peuplé d'Afrique et d'Afrique de l'Ouest (environ 220 millions d'hab.).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Sur quel continent se trouve le Sahara ?",
+    "options": ["A) Asie", "B) Amérique du Sud", "C) Afrique", "D) Australie"],
+    "answer": "C",
+    "explanation": "Le Sahara, plus grand désert chaud du monde, se trouve en Afrique du Nord.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la monnaie officielle du Ghana ?",
+    "options": ["A) Franc CFA", "B) Cedi", "C) Naira", "D) Dalasi"],
+    "answer": "B",
+    "explanation": "La monnaie du Ghana est le Cedi (GHS).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays d'Afrique partage ses frontières avec la Côte d'Ivoire au nord ?",
+    "options": ["A) Le Ghana", "B) La Guinée", "C) Le Burkina Faso", "D) Le Mali"],
+    "answer": "C",
+    "explanation": "Le Burkina Faso est au nord de la Côte d'Ivoire. Le Mali est aussi voisin au nord-ouest.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Guinée ?",
+    "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Monrovia"],
+    "answer": "A",
+    "explanation": "Conakry est la capitale de la République de Guinée.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la principale source d'énergie de la Côte d'Ivoire ?",
+    "options": ["A) L'énergie nucléaire", "B) Le pétrole", "C) L'hydroélectricité et le gaz", "D) Le charbon"],
+    "answer": "C",
+    "explanation": "La CI tire l'essentiel de son énergie de l'hydroélectricité (Taabo, Kossou) et du gaz naturel.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a inventé le téléphone ?",
+    "options": ["A) Thomas Edison", "B) Alexander Graham Bell", "C) Nikola Tesla", "D) James Watt"],
+    "answer": "B",
+    "explanation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone (1876).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de la lagune sur laquelle se trouve Abidjan ?",
+    "options": ["A) Lagune Ébrié", "B) Lagune de Grand-Lahou", "C) Lagune Ouladine", "D) Lagune de Fresco"],
+    "answer": "A",
+    "explanation": "Abidjan est construite autour de la lagune Ébrié.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel philosophe a énoncé « Je pense donc je suis » ?",
+    "options": ["A) Kant", "B) Descartes", "C) Locke", "D) Hegel"],
+    "answer": "B",
+    "explanation": "René Descartes a formulé « Cogito ergo sum » (Je pense donc je suis) dans ses Méditations.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "options": ["A) Atlantique", "B) Indien", "C) Arctique", "D) Pacifique"],
+    "answer": "D",
+    "explanation": "L'océan Pacifique est le plus grand et le plus profond des océans.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a eu lieu la Conférence de Berlin qui a partagé l'Afrique ?",
+    "options": ["A) 1878", "B) 1884-1885", "C) 1900", "D) 1910"],
+    "answer": "B",
+    "explanation": "La Conférence de Berlin (1884-1885) a organisé le partage colonial de l'Afrique entre puissances européennes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus grand désert froid du monde ?",
+    "options": ["A) Sahara", "B) Gobi", "C) Antarctique", "D) Atacama"],
+    "answer": "C",
+    "explanation": "L'Antarctique est le plus grand désert (froid) du monde avec 14,2 millions de km².",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays d'Afrique possède la plus grande économie ?",
+    "options": ["A) Afrique du Sud", "B) Égypte", "C) Nigeria", "D) Kenya"],
+    "answer": "C",
+    "explanation": "Le Nigeria est la première économie africaine en termes de PIB nominal.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom du port autonome d'Abidjan ?",
+    "options": ["A) Port de San Pedro", "B) Port Bouët", "C) Port Autonome d'Abidjan (PAA)", "D) Port de Vridi"],
+    "answer": "C",
+    "explanation": "Le Port Autonome d'Abidjan (PAA) est le premier port d'Afrique de l'Ouest.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est l'arbre emblématique des savanes africaines ?",
+    "options": ["A) Baobab", "B) Iroko", "C) Palmier", "D) Acacia"],
+    "answer": "A",
+    "explanation": "Le baobab est l'arbre emblématique des savanes et régions semi-arides d'Afrique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où se situe la basilique Notre-Dame de la Paix de Yamoussoukro ?",
+    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) Daloa"],
+    "answer": "C",
+    "explanation": "La basilique Notre-Dame de la Paix, la plus grande basilique au monde, est à Yamoussoukro.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom du premier chef de gouvernement ivoirien (Premier ministre) après 1990 ?",
+    "options": ["A) Alassane Ouattara", "B) Laurent Gbagbo", "C) Henri Konan Bédié", "D) Daniel Kablan Duncan"],
+    "answer": "A",
+    "explanation": "Alassane Ouattara a été le premier Premier ministre de Côte d'Ivoire (1990-1993) sous Houphouët-Boigny.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année la Côte d'Ivoire a-t-elle accueilli le Sommet Afrique-France ?",
+    "options": ["A) 1999", "B) 2014", "C) 2021", "D) 1982"],
+    "answer": "B",
+    "explanation": "Le sommet Afrique-France s'est tenu à Paris en 2014. Abidjan a accueilli ce sommet en 2008.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le principal produit agricole d'exportation de la Côte d'Ivoire ?",
+    "options": ["A) Café", "B) Coton", "C) Cacao", "D) Anacarde"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire est le premier producteur mondial de cacao (environ 40% de la production mondiale).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle rivière délimite en partie la frontière entre la Côte d'Ivoire et le Ghana ?",
+    "options": ["A) Le Sassandra", "B) Le Bandama", "C) La Bia/Comoé", "D) Le Cavally"],
+    "answer": "C",
+    "explanation": "Le fleuve Comoé/Bia forme en partie la frontière entre la Côte d'Ivoire et le Ghana.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est l'animal emblème de la Côte d'Ivoire ?",
+    "options": ["A) Le lion", "B) L'éléphant", "C) Le guépard", "D) La panthère"],
+    "answer": "B",
+    "explanation": "L'éléphant est l'animal emblème de la Côte d'Ivoire, d'où le nom « Les Éléphants » pour l'équipe nationale de football.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel scientifique a établi la théorie de la relativité générale ?",
+    "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Niels Bohr", "D) Max Planck"],
+    "answer": "B",
+    "explanation": "Albert Einstein a publié la théorie de la relativité générale en 1915.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est l'hymne national de la Côte d'Ivoire ?",
+    "options": ["A) Abidjanaise", "B) L'Abidjanaise", "C) Côte d'Ivoire", "D) La terre de l'espérance"],
+    "answer": "B",
+    "explanation": "L'hymne national de la Côte d'Ivoire est « L'Abidjanaise ».",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a eu lieu la découverte de l'Amérique par Christophe Colomb ?",
+    "options": ["A) 1492", "B) 1498", "C) 1504", "D) 1488"],
+    "answer": "A",
+    "explanation": "Christophe Colomb a atteint les Bahamas le 12 octobre 1492.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de la communauté villageoise traditionnelle en Côte d'Ivoire ?",
+    "options": ["A) Le kpando", "B) Le village", "C) La chefferie", "D) Le dozo"],
+    "answer": "C",
+    "explanation": "La chefferie traditionnelle est l'unité de base de l'organisation sociale en Côte d'Ivoire.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la surface totale de la Côte d'Ivoire ?",
+    "options": ["A) 222 000 km²", "B) 322 463 km²", "C) 150 000 km²", "D) 410 000 km²"],
+    "answer": "B",
+    "explanation": "La Côte d'Ivoire couvre environ 322 463 km².",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom du Président du Liberia qui a reçu le Prix Nobel de la Paix en 2011 ?",
+    "options": ["A) Charles Taylor", "B) Ellen Johnson Sirleaf", "C) George Weah", "D) Samuel Doe"],
+    "answer": "B",
+    "explanation": "Ellen Johnson Sirleaf, première femme présidente africaine, a reçu le Prix Nobel de la Paix en 2011.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel pays se trouve le mont Olympe, montagne sacrée des dieux grecs ?",
+    "options": ["A) Turquie", "B) Albanie", "C) Grèce", "D) Macédoine du Nord"],
+    "answer": "C",
+    "explanation": "Le mont Olympe (2917 m), le plus haut sommet de Grèce, était la demeure des dieux dans la mythologie grecque.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de l'aéroport international de la ville d'Abidjan ?",
+    "options": ["A) Aéroport de Port-Bouët", "B) Aéroport Félix Houphouët-Boigny", "C) Aéroport d'Abidjan-Plateau", "D) Aéroport de Cocody"],
+    "answer": "B",
+    "explanation": "L'aéroport international d'Abidjan porte le nom de Félix Houphouët-Boigny.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la superficie totale de la Côte d'Ivoire ?",
+    "options": ["A) 322 462 km²", "B) 322 463 km²", "C) 324 462 km²", "D) 324 463 km²"],
+    "answer": "B",
+    "explanation": "La superficie de la Côte d'Ivoire est exactement de 322 463 km².",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui fut le premier explorateur français à signer des traités avec les chefs côtiers en Côte d'Ivoire en 1843 ?",
+    "options": ["A) Louis-Gustave Binger", "B) Marcel Treich-Laplène", "C) Arthur Verdier", "D) Louis-Édouard Bouët-Willaumez"],
+    "answer": "D",
+    "explanation": "L'Amiral Bouët-Willaumez a signé les premiers traités de protectorat sur la côte en 1843.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année la Côte d'Ivoire est-elle devenue une colonie française autonome ?",
+    "options": ["A) 1889", "B) 1893", "C) 1904", "D) 1946"],
+    "answer": "B",
+    "explanation": "La Côte d'Ivoire est érigée en colonie française le 10 mars 1893 avec Binger comme premier gouverneur.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le point culminant de la Côte d'Ivoire ?",
+    "options": ["A) Mont Tonkoui", "B) Mont Nimba", "C) Mont Momi", "D) Mont Zo"],
+    "answer": "B",
+    "explanation": "Le Mont Nimba, situé à la frontière avec la Guinée, est le point culminant à 1752 m.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lequel de ces fleuves ivoiriens est le plus long ?",
+    "options": ["A) Le Cavally", "B) Le Sassandra", "C) Le Bandama", "D) La Comoé"],
+    "answer": "C",
+    "explanation": "Le Bandama, coulant entièrement sur le territoire ivoirien, est considéré comme le plus long fleuve du pays (environ 1050 km).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle ville est reconnue comme la capitale économique de la Côte d'Ivoire ?",
+    "options": ["A) Yamoussoukro", "B) Bouaké", "C) San-Pédro", "D) Abidjan"],
+    "answer": "D",
+    "explanation": "Abidjan est la capitale économique, bien que Yamoussoukro soit la capitale politique depuis 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a composé l'Abidjanaise, l'hymne national de la Côte d'Ivoire ?",
+    "options": ["A) Pierre-Michel Pango", "B) Mathieu Ekra", "C) Joachim Bony", "D) L'Abbé Pierre-Michel Pango et le révérend père Michel Coty"],
+    "answer": "D",
+    "explanation": "L'hymne a été composé par l'Abbé Pierre-Michel Pango (musique) et l'Abbé Michel Coty, avec des paroles co-écrites par Mathieu Ekra, Joachim Bony.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la devise de la Côte d'Ivoire ?",
+    "options": ["A) Union, Discipline, Travail", "B) Fraternité, Travail, Progrès", "C) Paix, Travail, Patrie", "D) Union, Travail, Justice"],
+    "answer": "A",
+    "explanation": "La devise officielle de la République de Côte d'Ivoire est 'Union, Discipline, Travail'.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année Félix Houphouët-Boigny est-il décédé ?",
+    "options": ["A) 1990", "B) 1993", "C) 1995", "D) 1999"],
+    "answer": "B",
+    "explanation": "Félix Houphouët-Boigny, le premier président de la Côte d'Ivoire, est décédé le 7 décembre 1993.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel traité de 1919 a redéfini les frontières de la Côte d'Ivoire en créant la Haute-Volta ?",
+    "options": ["A) Décret du 1er mars 1919", "B) Traité de Versailles", "C) Accords de Brazzaville", "D) Conférence de Berlin"],
+    "answer": "A",
+    "explanation": "Le décret de 1919 a séparé des territoires de la Côte d'Ivoire et du Haut-Sénégal-Niger pour créer la colonie de la Haute-Volta.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel sommet ivoirien culmine à 1752 m ?",
+    "options": ["A) Mont Tonkoui", "B) Mont Nimba", "C) Mont Momi", "D) Mont Zo"],
+    "answer": "B",
+    "explanation": "Le Mont Nimba est le point culminant du pays.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel fleuve naît exclusivement en CI ?",
+    "options": ["A) Cavally", "B) Bandama", "C) Comoé", "D) Sassandra"],
+    "answer": "B",
+    "explanation": "Le Bandama prend sa source au nord de la CI.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Yamoussoukro est devenue capitale en :",
+    "options": ["A) 1983", "B) 1990", "C) 1978", "D) 1980"],
+    "answer": "A",
+    "explanation": "Loi du 21 mars 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Plus grande forêt d'Abidjan ?",
+    "options": ["A) Banco", "B) Azagny", "C) Taï", "D) Sangoué"],
+    "answer": "A",
+    "explanation": "Parc National du Banco.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Groupe ethnique Gour inclut :",
+    "options": ["A) Baoulé", "B) Sénoufo", "C) Dan", "D) Bété"],
+    "answer": "B",
+    "explanation": "Les Sénoufo font partie du groupe Gour.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Ville non chef-lieu de district autonome ?",
+    "options": ["A) San Pédro", "B) Korhogo", "C) Man", "D) Bouaflé"],
+    "answer": "D",
+    "explanation": "Bouaflé est chef-lieu de région (Marahoué) mais pas de district autonome.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Explorateur ayant signé traités en 1887 ?",
+    "options": ["A) Binger", "B) Verdier", "C) Treich-Laplène", "D) Caillié"],
+    "answer": "C",
+    "explanation": "Marcel Treich-Laplène.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Inauguration canal de Vridi ?",
+    "options": ["A) 1950", "B) 1960", "C) 1934", "D) 1948"],
+    "answer": "A",
+    "explanation": "Ouvert en 1950.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Premier PM en 1990 ?",
+    "options": ["A) Bédié", "B) Ouattara", "C) Duncan", "D) Diarra"],
+    "answer": "B",
+    "explanation": "Alassane Ouattara fut nommé PM en 1990.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Objectif majeur PND 2021-2025 ?",
+    "options": ["A) Écologie", "B) Transformation par industrialisation", "C) Autosuffisance", "D) Dette 0"],
+    "answer": "B",
+    "explanation": "Transformation structurelle par l'industrialisation.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Gisement gazier majeur 2021 ?",
+    "options": ["A) Baleine", "B) Espoir", "C) Baobab", "D) Bélier"],
+    "answer": "A",
+    "explanation": "Gisement Baleine.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Successeur de Binger (1896) ?",
+    "options": ["A) Clozel", "B) Mouttet", "C) Roberdeau", "D) Angoulvant"],
+    "answer": "B",
+    "explanation": "Eugène Mouttet.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Réserve de faune d'Abokouamékro dans quelle région ?",
+    "options": ["A) Bélier", "B) Gbêkê", "C) Agnéby", "D) Iffou"],
+    "answer": "A",
+    "explanation": "Région du Bélier, près de Yamoussoukro.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Part de la CI en prod mondiale de cajou (2023) ?",
+    "options": ["A) 15%", "B) 25%", "C) 40%", "D) 60%"],
+    "answer": "C",
+    "explanation": "Environ 40%, 1er producteur mondial.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Fondateur royaume Sanwi ?",
+    "options": ["A) Amon N'Douffou Ier", "B) Aka Essoh", "C) Mian Amou", "D) Amalaman Anoh"],
+    "answer": "D",
+    "explanation": "Amalaman Anoh (XVIIIe).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Ethnie du groupe Krou ?",
+    "options": ["A) Abouré", "B) Dida", "C) Gouro", "D) Lobi"],
+    "answer": "B",
+    "explanation": "Les Dida.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Miracle ivoirien ?",
+    "options": ["A) 1950-1960", "B) 1960-1980", "C) 1980-1990", "D) 1990-2000"],
+    "answer": "B",
+    "explanation": "Période de forte croissance 1960-1980.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Barrage inauguré en 2017 ?",
+    "options": ["A) Kossou", "B) Soubré", "C) Taabo", "D) Buyo"],
+    "answer": "B",
+    "explanation": "Barrage de Soubré.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Origine du nom 'Côte d'Ivoire' ?",
+    "options": ["A) Mammouths", "B) Commerce ivoire", "C) Binger", "D) Tribu Ivori"],
+    "answer": "B",
+    "explanation": "Nommé par les marins pour le commerce de l'ivoire.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Colonie rattachée à la CI en 1932 ?",
+    "options": ["A) Soudan", "B) Haute-Volta", "C) Guinée", "D) Dahomey"],
+    "answer": "B",
+    "explanation": "Haute-Volta (jusqu'en 1947).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Nombre de parcs nationaux en CI ?",
+    "options": ["A) 5", "B) 8", "C) 12", "D) 15"],
+    "answer": "B",
+    "explanation": "8 Parcs Nationaux.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "San Pédro 1er port mondial pour :",
+    "options": ["A) Café", "B) Cacao", "C) Bois", "D) Hévéa"],
+    "answer": "B",
+    "explanation": "Exportation de fèves de cacao.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Ville ivoirienne UNESCO (2012) ?",
+    "options": ["A) Abidjan", "B) Yamoussoukro", "C) Grand-Bassam", "D) Kong"],
+    "answer": "C",
+    "explanation": "Ville historique de Grand-Bassam.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Fondateur royaume de Bouna ?",
+    "options": ["A) Bounkani", "B) Samory", "C) Tutu", "D) Pokou"],
+    "answer": "A",
+    "explanation": "Roi Bounkani.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Création du PDCI ?",
+    "options": ["A) 1944", "B) 1946", "C) 1958", "D) 1960"],
+    "answer": "B",
+    "explanation": "9 avril 1946.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Loi Houphouët (abolition travail forcé) ?",
+    "options": ["A) 1944", "B) 1946", "C) 1950", "D) 1956"],
+    "answer": "B",
+    "explanation": "11 avril 1946.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Consécration Basilique ND de la Paix ?",
+    "options": ["A) 1989", "B) 1990", "C) 1992", "D) 1994"],
+    "answer": "B",
+    "explanation": "Septembre 1990 par Jean-Paul II.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Plus long fleuve s'écoulant entièrement en CI ?",
+    "options": ["A) Bandama", "B) Comoé", "C) Sassandra", "D) Cavally"],
+    "answer": "A",
+    "explanation": "Le Bandama (1050 km).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Part investissements privé dans PND 2021-2025 ?",
+    "options": ["A) 50%", "B) 60%", "C) 74%", "D) 85%"],
+    "answer": "C",
+    "explanation": "74% du financement attendu.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Altitude Mont Tonkoui ?",
+    "options": ["A) 1073 m", "B) 1189 m", "C) 1223 m", "D) 1752 m"],
+    "answer": "B",
+    "explanation": "Environ 1189 m.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Jour de l'indépendance CI ?",
+    "options": ["A) 7 Août", "B) 4 Décembre", "C) 15 Août", "D) 1er Juillet"],
+    "answer": "A",
+    "explanation": "7 août 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Premier chef du Conseil de gouvernement (1958) ?",
+    "options": ["A) Denise", "B) Houphouët", "C) Mockey", "D) Coulibaly"],
+    "answer": "A",
+    "explanation": "Auguste Denise.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Fête du nouvel an Nzima ?",
+    "options": ["A) Dipri", "B) Abissa", "C) Popo", "D) Goly"],
+    "answer": "B",
+    "explanation": "Fête de l'Abissa.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Prix Ahmadou Kourouma 2021 ?",
+    "options": ["A) Tadjo", "B) Gauz", "C) Abouet", "D) Diallo"],
+    "answer": "B",
+    "explanation": "Armand Gauz.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Accord de paix 2007 ?",
+    "options": ["A) Marcoussis", "B) Pretoria", "C) Ouagadougou", "D) Accra"],
+    "answer": "C",
+    "explanation": "Accord de Ouagadougou.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Promulgation Constitution 3e République ?",
+    "options": ["A) 8 Nov 2016", "B) 30 Oct 2016", "C) 1 Aou 2000", "D) 15 Mai 2020"],
+    "answer": "A",
+    "explanation": "8 novembre 2016.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Plus grand lac artificiel de CI ?",
+    "options": ["A) Kossou", "B) Soubré", "C) Buyo", "D) Taabo"],
+    "answer": "A",
+    "explanation": "Lac de Kossou.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Signification BNETD ?",
+    "options": ["A) Bureau National d'Études Techniques et de Développement", "B) Bureau National de l'Économie...", "C) Base Nationale...", "D) Bureau National d'Équipement..."],
+    "answer": "A",
+    "explanation": "Bureau National d'Études Techniques et de Développement.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Mont Nimba classé UNESCO en :",
+    "options": ["A) 1981", "B) 1990", "C) 2001", "D) 1974"],
+    "answer": "A",
+    "explanation": "Inscrit en 1981/1982.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Stade finale CAN 2023 ?",
+    "options": ["A) 2021", "B) 2023", "C) 2019", "D) 2025"],
+    "answer": "B",
+    "explanation": "La question était sur l'année de la CAN (2023).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Gouverneur 'pacification' (1908-1916) ?",
+    "options": ["A) Angoulvant", "B) Binger", "C) Ponty", "D) Eboué"],
+    "answer": "A",
+    "explanation": "Gabriel Angoulvant.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Hymne de la CI ?",
+    "options": ["A) L'Abidjanaise", "B) La Concorde", "C) Le Ditanyè", "D) La Renaissance"],
+    "answer": "A",
+    "explanation": "L'Abidjanaise.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Chef-lieu du Gôh ?",
+    "options": ["A) Daloa", "B) Gagnoa", "C) Soubré", "D) Issia"],
+    "answer": "B",
+    "explanation": "Gagnoa.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Mosquées inscrites à l'UNESCO (2021) ?",
+    "options": ["A) Kong", "B) Style soudanais du nord", "C) Samatiguila", "D) Mankono"],
+    "answer": "B",
+    "explanation": "Ensemble de 8 mosquées de style soudanais.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Communes du Grand Abidjan ?",
+    "options": ["A) 10", "B) 13", "C) 14", "D) 15"],
+    "answer": "B",
+    "explanation": "13 entités communales (10 urbaines + 3 sous-préfectures).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Création de la RTI ?",
+    "options": ["A) 1960", "B) 1963", "C) 1970", "D) 1973"],
+    "answer": "B",
+    "explanation": "1963.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Zone forestière actuelle CI estimée à :",
+    "options": ["A) <3M ha", "B) 8M ha", "C) 12M ha", "D) 16M ha"],
+    "answer": "A",
+    "explanation": "Moins de 3 millions d'hectares.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Port historiquement bois ?",
+    "options": ["A) Abidjan", "B) San Pédro", "C) Sassandra", "D) Tabou"],
+    "answer": "B",
+    "explanation": "San Pédro a été créé pour le bois.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Ethnie Lobi connue pour :",
+    "options": ["A) Zaouli", "B) Soukalas", "C) Poids à or", "D) Kita"],
+    "answer": "B",
+    "explanation": "Habitats fortifiés en banco appelés soukalas.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Monnaie précoloniale Akan ?",
+    "options": ["A) Cauri", "B) Manille", "C) Sel", "D) Poudre d'or"],
+    "answer": "D",
+    "explanation": "La poudre d'or et les poids à peser.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lequel de ces pays est actuellement dirigé par une femme ?",
+    "options": ["A) Libéria", "B) Sierra Léone", "C) Tanzanie", "D) Éthiopie"],
+    "answer": "C",
+    "explanation": "La Tanzanie est dirigée par Samia Suluhu Hassan.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle école Aristote a-t-il créée ?",
+    "options": ["A) Le Jardin des Plantes", "B) L'Académie", "C) Le Lycée", "D) L’Université d’Athènes"],
+    "answer": "C",
+    "explanation": "Aristote a fondé le Lycée à Athènes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui fut le premier Directeur Général de l'ENA-CI ?",
+    "options": ["A) Laurent Dona Fologo", "B) Ropion Robert", "C) Zadi Zaourou", "D) Alassane Ouattara"],
+    "answer": "B",
+    "explanation": "Ropion Robert a été le premier DG de l'ENA.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel acte a permis l’indépendance du Soudan du Sud en 2011 ?",
+    "options": ["A) L’Accord de paix global", "B) Les Accords de Naivasha", "C) Les Accords de Khartoum", "D) Le Référendum d’autodétermination"],
+    "answer": "D",
+    "explanation": "C'est le référendum d'autodétermination de 2011 qui a conduit à l'indépendance.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Un savoir ésotérique est un savoir :",
+    "options": ["A) Populaire et accessible", "B) Réservé à un cercle initié", "C) Pratique", "D) Public"],
+    "answer": "B",
+    "explanation": "L'ésotérisme désigne un enseignement réservé à des initiés.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Tanzanie ?",
+    "options": ["A) Freetown", "B) Banjul", "C) Bissau", "D) Dodoma"],
+    "answer": "D",
+    "explanation": "Dodoma est la capitale politique de la Tanzanie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Les députés ivoiriens sont :",
+    "options": ["A) Nommés", "B) Élus", "C) Élus pour certains, nommés pour d’autres", "D) Nommés par le président"],
+    "answer": "B",
+    "explanation": "Les députés de l'Assemblée nationale sont élus au suffrage universel direct.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lequel de ces personnalités n’a jamais été président de l’Assemblée Nationale ?",
+    "options": ["A) Henri Konan Bédié", "B) Mamadou Koulibaly", "C) Soro Guillaume", "D) Kandia Camara"],
+    "answer": "D",
+    "explanation": "Kandia Camara a été présidente du Sénat, mais pas de l'Assemblée nationale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En CI, le président de la République est membre du gouvernement.",
+    "options": ["A) Vrai", "B) Faux"],
+    "answer": "B",
+    "explanation": "Le Président de la République n'est pas formellement membre du gouvernement, bien qu'il le préside.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "L’Assemblée Nationale ivoirienne comprend désormais des sénateurs :",
+    "options": ["A) Vrai", "B) Faux"],
+    "answer": "B",
+    "explanation": "L'Assemblée Nationale et le Sénat sont deux chambres distinctes du Parlement.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année le Printemps arabe a-t-il débuté ?",
+    "options": ["A) 2008", "B) 2012", "C) 2010", "D) 2005"],
+    "answer": "C",
+    "explanation": "Le Printemps arabe a commencé fin 2010 en Tunisie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année le FEMUA a-t-il débuté ?",
+    "options": ["A) 2006", "B) 2008", "C) 2009", "D) 2010"],
+    "answer": "B",
+    "explanation": "Le FEMUA a été lancé en 2008.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l’actuel Directeur Général de la Fonction Publique ivoirienne ?",
+    "options": ["A) Aka Kacou", "B) Yéo Nahoua", "C) Kouakou Edouard", "D) SORO Gninagafol"],
+    "answer": "D",
+    "explanation": "Soro Gninagafol a été nommé DG de la Fonction Publique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année Yamoussoukro devint-elle la capitale politique ivoirienne ?",
+    "options": ["A) 1980", "B) 1983", "C) 1990", "D) 1995"],
+    "answer": "B",
+    "explanation": "Le transfert de la capitale à Yamoussoukro a été décidé en 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l'actuel Premier ministre du Canada ?",
+    "options": ["A) Justin Trudeau", "B) Chrystia Freeland", "C) Jagmeet Singh", "D) Mark Carney"],
+    "answer": "A",
+    "explanation": "Justin Trudeau est le Premier ministre du Canada.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le rang de la Côte d’Ivoire dans le classement mondial des producteurs de café ?",
+    "options": ["A) 3e", "B) 5e", "C) 14e", "D) 15e"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire se situe autour du 14e rang mondial.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle science étudie les insectes ?",
+    "options": ["A) Ornithologie", "B) Mycologie", "C) Entomologie", "D) Arachnologie"],
+    "answer": "C",
+    "explanation": "L'entomologie est la science qui étudie les insectes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle femme a été la première à arbitrer un match de football professionnel ?",
+    "options": ["A) Wendie Renard", "B) Stéphanie Frappart", "C) Bibiana Steinhaus", "D) Salima Mukansanga"],
+    "answer": "C",
+    "explanation": "Bibiana Steinhaus a été la première femme à arbitrer un match masculin de haut niveau.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année les accords de Bretton Woods ont-ils été signés ?",
+    "options": ["A) 1940", "B) 1944", "C) 1945", "D) 1939"],
+    "answer": "B",
+    "explanation": "Les accords de Bretton Woods ont été signés en 1944.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l'actuel président du Conseil constitutionnel ivoirien ?",
+    "options": ["A) Mamadou Koné", "B) Chantal Nanaba Camara", "C) Francis Wodié", "D) Tia Koné"],
+    "answer": "B",
+    "explanation": "Chantal Nanaba Camara a été nommée présidente du Conseil constitutionnel.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel peintre espagnol est connu pour avoir cofondé le cubisme ?",
+    "options": ["A) Salvador Dalí", "B) Pablo Picasso", "C) Juan Gris"],
+    "answer": "B",
+    "explanation": "Pablo Picasso est l'un des fondateurs du cubisme.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été couronné empereur français le 2 décembre 1804 ?",
+    "options": ["A) Napoléon Bonaparte", "B) Charlemagne", "C) Louis XIV"],
+    "answer": "A",
+    "explanation": "Napoléon Bonaparte a été sacré empereur en 1804.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de la science qui étudie les fossiles ?",
+    "options": ["A) Paléontologie", "B) Botanique", "C) Archéologie"],
+    "answer": "A",
+    "explanation": "La paléontologie est l'étude des fossiles.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l’actuel Secrétaire Général de l’ENA ?",
+    "options": ["A) Narcisse Sepy Yessoh", "B) Koné Aline", "C) François Kouma"],
+    "answer": "A",
+    "explanation": "Narcisse Sepy Yessoh est le SG actuel de l'ENA.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de pattes possède une araignée ?",
+    "options": ["A) 6", "B) 8", "C) 12"],
+    "answer": "B",
+    "explanation": "Les araignées sont des arachnides et possèdent 8 pattes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel gaz représente environ 78 % de l’atmosphère terrestre ?",
+    "options": ["A) L’oxygène", "B) Le carbone", "C) Le diazote", "D) L'argon"],
+    "answer": "C",
+    "explanation": "Le diazote constitue 78% de l'atmosphère.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le Pakistan a pour capitale :",
+    "options": ["A) Kuala Lumpur", "B) Bangkok", "C) Islamabad", "D) Kaboul"],
+    "answer": "C",
+    "explanation": "Islamabad est la capitale du Pakistan.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel éminent diplomate et Ministre des Affaires Etrangères de Cote d’Ivoire a tiré sa révérence le 8 avril 2025 ?",
+    "options": ["A) Essy Amara", "B) Charles Koffi Diby", "C) Siméon Aké"],
+    "answer": "A",
+    "explanation": "Essy Amara est un diplomate ivoirien.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle maison a pour emblème un loup dans la série Game of Thrones ?",
+    "options": ["A) La maison Stark", "B) La maison Baratheon", "C) La maison Lannister"],
+    "answer": "A",
+    "explanation": "L'emblème de la Maison Stark est un loup-garou.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle planète est surnommée « l’étoile du berger » ?",
+    "options": ["A) Mars", "B) Terre", "C) Vénus"],
+    "answer": "C",
+    "explanation": "Vénus est souvent appelée l'étoile du berger.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel personnage mythologique a été condamné à pousser éternellement un rocher en haut d’une montagne ?",
+    "options": ["A) Sisyphe", "B) Prométhée", "C) Tantale"],
+    "answer": "A",
+    "explanation": "C'est le mythe de Sisyphe.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel traité a mis fin à la première guerre mondiale en 1919 ?",
+    "options": ["A) Le traité de Versailles", "B) Les accords d’Evian", "C) Le traité de Rome"],
+    "answer": "A",
+    "explanation": "Le Traité de Versailles a mis fin à la Première Guerre mondiale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui était le président américain pendant la seconde guerre mondiale ?",
+    "options": ["A) Richard Nixon", "B) Delano Roosevelt", "C) John Kennedy"],
+    "answer": "B",
+    "explanation": "Franklin Delano Roosevelt était président pendant la majeure partie de la guerre.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le plus médaillé aux Jeux Olympiques ?",
+    "options": ["A) Usain Bolt", "B) Michael Phelps", "C) Larissa Latynina", "D) Mark Spitz"],
+    "answer": "B",
+    "explanation": "Michael Phelps détient le record du nombre de médailles olympiques.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel stade a accueilli la confrontation entre la Cote d’Ivoire et le Sénégal lors des huitièmes de finale de la 34e édition de la CAN ?",
+    "options": ["A) Le Stade Laurent Pokou", "B) Le Stade de la paix", "C) Le Stade Charles Konan Banny"],
+    "answer": "C",
+    "explanation": "Le match a eu lieu au stade Charles Konan Banny de Yamoussoukro.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien d’Océans il y a-t-il ?",
+    "options": ["A) 4", "B) 5", "C) 6"],
+    "answer": "B",
+    "explanation": "Il y a 5 océans : Atlantique, Pacifique, Indien, Arctique, Antarctique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom à l’état civil de l’artiste zouglou Pat Sacko ?",
+    "options": ["A) Hughes-Patrick Ossohou", "B) Blaise-Patrick Daté", "C) Patrick Yao"],
+    "answer": "A",
+    "explanation": "Son nom à l'état civil est Ossohou Patrick.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le chef-lieu de la région de l’Agnéby -Tiassa ?",
+    "options": ["A) Dabou", "B) Adzopé", "C) Agboville"],
+    "answer": "C",
+    "explanation": "Agboville est le chef-lieu de l'Agnéby-Tiassa.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle mer sépare l’Europe de l’Afrique ?",
+    "options": ["A) Mer Rouge", "B) Mer Noire", "C) Mer Méditerranée"],
+    "answer": "C",
+    "explanation": "La mer Méditerranée sépare l'Europe de l'Afrique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le seul continent à ne pas avoir de pays ?",
+    "options": ["A) Océanie", "B) Arctique", "C) Antarctique"],
+    "answer": "C",
+    "explanation": "L'Antarctique ne compte aucun pays.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la Turquie ?",
+    "options": ["A) Istanbul", "B) Ankara", "C) Izmir", "D) Antalya"],
+    "answer": "B",
+    "explanation": "Ankara est la capitale de la Turquie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "A quelles dates se sont déroulées la 3e édition des Journées Portes Ouvertes de l’ENA ?",
+    "options": ["A) Du 25 au 26 février 2025", "B) Du 13 au 15 février 2025", "C) Du 23 au 24 février 2025"],
+    "answer": "B",
+    "explanation": "C'est généralement autour de ces dates.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la nouvelle dénomination de l’ENA France ?",
+    "options": ["A) INSP", "B) ENAMF", "C) APF", "D) ENA-Paris"],
+    "answer": "A",
+    "explanation": "L'École nationale d'administration a été remplacée par l'Institut national du service public (INSP).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a eu lieu la prise de la Bastille ?",
+    "options": ["A) 1789", "B) 1791", "C) 1793"],
+    "answer": "A",
+    "explanation": "La prise de la Bastille a eu lieu en 1789.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de langues officielles compte l’Union Européenne ?",
+    "options": ["A) 20", "B) 24", "C) 3"],
+    "answer": "B",
+    "explanation": "L'UE compte 24 langues officielles.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le pourcentage de suffrages obtenu par Brice Clotaire Oligui N’Guema selon les résultats provisoires de l'élection présidentielle d'avril 2025 au Gabon ?",
+    "options": ["A) 87,50 %", "B) 90,35 %", "C) 94,85 %", "D) 98,85 %"],
+    "answer": "B",
+    "explanation": "Selon les résultats provisoires annoncés le 13 avril 2025 par le ministère de l'Intérieur, Brice Clotaire Oligui N'Guema a obtenu 90,35 % des voix (proclamation définitive le 25 avril 2025 à 94,85 % par la Cour constitutionnelle).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l’actuel secrétaire général de la francophonie ?",
+    "options": ["A) Louise Mushikiwabo", "B) Michael Jean", "C) Abdou Diouf"],
+    "answer": "A",
+    "explanation": "Louise Mushikiwabo est l'actuelle Secrétaire générale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où a eu lieu la COP 29 ?",
+    "options": ["A) Bakou", "B) Paris", "C) Belém"],
+    "answer": "A",
+    "explanation": "La COP 29 a eu lieu à Bakou, en Azerbaïdjan.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Sous quel thème est placé le FEMUA 18 ?",
+    "options": ["A) La santé mentale", "B) Intelligence artificielle : menace ou opportunité pour l'Afrique ?", "C) Civisme et sécurité Routière"],
+    "answer": "B",
+    "explanation": "L'IA est le thème du FEMUA 18.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année furent signés les accords de Maastricht ?",
+    "options": ["A) 1962", "B) 1981", "C) 1992"],
+    "answer": "C",
+    "explanation": "Le traité de Maastricht a été signé en 1992.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la monnaie utilisée en Russie ?",
+    "options": ["A) l’euro", "B) le rouble", "C) l’hryvnia"],
+    "answer": "B",
+    "explanation": "Le rouble est la monnaie russe.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "A combien est estimée la population ivoirienne à l’issu du dernier recensement général de la population et de l’habitat ?",
+    "options": ["A) 29 389 150 hbts", "B) 32 167 255 hbts", "C) autre"],
+    "answer": "A",
+    "explanation": "La population est estimée à environ 29,4 millions d'habitants.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment appelle-t-on les habitants de Gaza ?",
+    "options": ["A) Les Gazaouis", "B) Les Gazavites", "C) Les Gazawites"],
+    "answer": "A",
+    "explanation": "Les habitants de Gaza sont les Gazaouis.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En mathématiques, quelle est la valeur arrondie de pi ?",
+    "options": ["A) 3,14028", "B) 3,14159", "C) 3,14217"],
+    "answer": "B",
+    "explanation": "La valeur de Pi commence par 3,14159.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la langue principale parlée en Iran ?",
+    "options": ["A) Persan", "B) Kurde", "C) Iranien"],
+    "answer": "A",
+    "explanation": "Le persan est la langue officielle de l'Iran.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le seul pays au monde à posséder une capitale qui commence par la lettre Z ?",
+    "options": ["A) Suisse", "B) Croatie", "C) Ouganda"],
+    "answer": "B",
+    "explanation": "Zagreb est la capitale de la Croatie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel verbe est utilisé pour désigner le cri des dauphins ?",
+    "options": ["A) Gazouiller", "B) Glapir", "C) Siffler"],
+    "answer": "C",
+    "explanation": "Les dauphins sifflent.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le coréalisateur du film Marabout chéri au côté de Luis Marquès ?",
+    "options": ["A) Cheick Yvhane", "B) Michel Bohiri", "C) Kadhy Touré"],
+    "answer": "C",
+    "explanation": "Kadhy Touré est co-réalisatrice de Marabout Chéri.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "“Je punirai les serviteurs, les fils et leurs pères” est une :",
+    "options": ["A) Méthaphore", "B) Allégorie", "C) Gradation"],
+    "answer": "C",
+    "explanation": "Il s'agit d'une gradation.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui détient le record du monde du 100 m masculin ?",
+    "options": ["A) Usain Bolt", "B) Noah Lyles", "C) Justin Gatlin", "D) Asafa Powell"],
+    "answer": "A",
+    "explanation": "Usain Bolt détient le record du monde du 100 m.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est considéré comme le meilleur joueur de basketball de tous les temps ?",
+    "options": ["A) Lebron James", "B) Michael Jordan", "C) Kobe Bryant"],
+    "answer": "B",
+    "explanation": "Michael Jordan est généralement considéré comme le meilleur joueur de basketball.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été le premier pays à remporter la coupe du monde de football ?",
+    "options": ["A) Urugay", "B) Grande Bretagne", "C) Italie"],
+    "answer": "A",
+    "explanation": "L'Uruguay a remporté la première Coupe du monde en 1930.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a remporté le ballon d’or France football en 2022 ?",
+    "options": ["A) Lionnel Messi", "B) Karim Benzema", "C) Luka Modric"],
+    "answer": "B",
+    "explanation": "Karim Benzema a remporté le Ballon d'or 2022.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel boxeur nommé « the greatest » est considéré comme l’un des plus grands boxeurs de tous les temps ?",
+    "options": ["A) Floyd Mayweather Jr", "B) Mike Tyson", "C) Mohamed Ali"],
+    "answer": "C",
+    "explanation": "Mohamed Ali était surnommé The Greatest.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le joueur de tennis espagnol qui est considéré comme l’un des meilleurs joueurs sur terre battue de tous les temps ?",
+    "options": ["A) Rafael Nadal", "B) Carlos Alcaraz", "C) Manuel Alonzo"],
+    "answer": "A",
+    "explanation": "Rafael Nadal est le roi de la terre battue.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le joueur de golf américain qui est considéré comme l’un des plus grands golfeurs de tous les temps ?",
+    "options": ["A) Jack Nicklaus", "B) Tiger Woods", "C) Arnold Palmer"],
+    "answer": "B",
+    "explanation": "Tiger Woods est l'un des plus grands golfeurs.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le premier joueur ivoirien à avoir marqué en finale d’une CAN ?",
+    "options": ["A) Laurent Pokou", "B) Didier Drogba", "C) Franck Kessié"],
+    "answer": "A",
+    "explanation": "Laurent Pokou.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de buts ont été marqués à la Coupe d’Afrique des Nations 2023 organisé en Côte d’ivoire ?",
+    "options": ["A) 109 buts", "B) 119 buts", "C) 135 buts"],
+    "answer": "B",
+    "explanation": "119 buts ont été marqués lors de la CAN 2023.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le meilleur buteur de l’histoire de la CAN ?",
+    "options": ["A) Didier Drogba", "B) Roger Mila", "C) Samuel Eto’o"],
+    "answer": "C",
+    "explanation": "Samuel Eto'o est le meilleur buteur de l'histoire de la CAN avec 18 buts.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lors du tour de France, qui est récompensé d’un maillot blanc à pois rouges ?",
+    "options": ["A) Le meilleur grimpeur", "B) Le meilleur coureur", "C) Le meilleur cycliste"],
+    "answer": "A",
+    "explanation": "Le maillot à pois récompense le meilleur grimpeur.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où se dérouleront les prochains jeux olympiques ?",
+    "options": ["A) Paris", "B) Mexico", "C) Los Angeles"],
+    "answer": "C",
+    "explanation": "Les prochains Jeux Olympiques d'été après 2024 auront lieu à Los Angeles en 2028.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Depuis quelle année le badminton est devenu une discipline olympique ?",
+    "options": ["A) 1992", "B) 2010", "C) 2023"],
+    "answer": "A",
+    "explanation": "Le badminton est sport olympique depuis 1992.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Les IXème jeux de la francophonie se sont déroulés du ……. Au ……….. 2023 à Kinshasa :",
+    "options": ["A) Du 28 juillet au 6 aout", "B) Du 28 février au 7 mars 2023", "C) Du 28 juin au 6 juillet"],
+    "answer": "A",
+    "explanation": "Les Jeux de la Francophonie 2023 se sont tenus fin juillet - début août.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment appelle-t-on le tournoi de tennis joué à Paris ?",
+    "options": ["A) Roland-Garros", "B) Wimbledon", "C) Us Open"],
+    "answer": "A",
+    "explanation": "Le tournoi de Paris est Roland-Garros.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a remporté le ballon d’or africain quatre fois consécutives ?",
+    "options": ["A) Georges Weah", "B) Yaya Touré", "C) Samuel Eto’o"],
+    "answer": "B",
+    "explanation": "Yaya Touré a gagné le Ballon d'Or africain quatre fois de suite (2011-2014).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été le meilleur buteur de la coupe du monde 2014 ?",
+    "options": ["A) James Rodriguez", "B) Thomas Muller", "C) Lionnel Messi"],
+    "answer": "A",
+    "explanation": "James Rodriguez a été le meilleur buteur (6 buts).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le dernier vainqueur français de Roland Garros ?",
+    "options": ["A) Tsonga", "B) Monfils", "C) Noah"],
+    "answer": "C",
+    "explanation": "Yannick Noah en 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel pays est né le judo ?",
+    "options": ["A) Chine", "B) Japon", "C) Vietnam", "D) Corée du Sud"],
+    "answer": "B",
+    "explanation": "Le judo a été créé au Japon par Jigoro Kano.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde FIFA 2022 ?",
+    "options": ["A) France", "B) Brésil", "C) Argentine", "D) Allemagne"],
+    "answer": "C",
+    "explanation": "L'Argentine a remporté la Coupe du Monde 2022.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle ville a accueilli les Jeux Olympiques d’été 2024 ?",
+    "options": ["A) Tokyo", "B) Paris", "C) Los Angelès", "D) Londres"],
+    "answer": "B",
+    "explanation": "Paris a accueilli les JO en 2024.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+    "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+    "answer": "B",
+    "explanation": "Il y a 5 joueurs par équipe sur le terrain.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel sport évolue Novak Djokovic ?",
+    "options": ["A) Golf", "B) Tennis", "C) Handball", "D) Boxe"],
+    "answer": "B",
+    "explanation": "Djokovic est un joueur de tennis.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays domine historiquement les Jeux Olympiques d’hiver ?",
+    "options": ["A) Norvège", "B) Canada", "C) Russie", "D) USA"],
+    "answer": "A",
+    "explanation": "La Norvège est le pays le plus titré aux JO d'hiver.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a remporté le Ballon d’Or 2020 ?",
+    "options": ["A) Erling Halland", "B) Lionnel Messi", "C) Cristiano R", "D) Modric"],
+    "answer": "B",
+    "explanation": "Le Ballon d'Or 2020 n'a pas été attribué. Il s'agit peut-être d'une erreur dans les options. En l'absence de meilleur choix, on retient Messi.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de sets gagnants faut-il pour remporter un match masculin en Grand Chelem ?",
+    "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+    "answer": "B",
+    "explanation": "Il faut 3 sets gagnants pour remporter un match masculin en Grand Chelem.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel sport utilise les termes “birdie” et “eagle” ?",
+    "options": ["A) Tennis", "B) Golf", "C) Badminton", "D) Baseball"],
+    "answer": "B",
+    "explanation": "Ce sont des termes de golf.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle nation a remporté la CAN 2023 (jouée en 2024) ?",
+    "options": ["A) Sénégal", "B) Maroc", "C) Côte d’Ivoire", "D) Nigéria"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire a remporté la CAN 2023.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de kilomètres mesure un marathon ?",
+    "options": ["A) 40", "B) 41", "C) 41, 195", "D) 43 km"],
+    "answer": "C",
+    "explanation": "Un marathon mesure 42,195 km, l'option C (bien que 41,195 y soit écrite) est l'option la plus proche visée ou une coquille du document original.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel sport retrouve-t-on la NBA ?",
+    "options": ["A) Hockey", "B) Baseball", "C) Football", "D) Basketball"],
+    "answer": "D",
+    "explanation": "La NBA est la ligue américaine de basketball.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel joueur est associé au club d’Al Nassr depuis 2023 ?",
+    "options": ["A) Neymar", "B) Benzema", "C) Cristiano R", "D) Messi"],
+    "answer": "C",
+    "explanation": "Cristiano Ronaldo joue pour Al Nassr.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a organisé la Coupe du Monde 2022 ?",
+    "options": ["A) Qatar", "B) Russie", "C) France", "D) Mexique"],
+    "answer": "A",
+    "explanation": "Le Qatar a organisé la Coupe du monde 2022.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans le sport du rugby (à XV), combien de points rapporte un essai marqué (avant transformation) ?",
+    "options": ["A) 3 points", "B) 5 points", "C) 7 points", "D) 2 points"],
+    "answer": "B",
+    "explanation": "Un essai au rugby vaut 5 points (la transformation rapporte 2 points supplémentaires, une pénalité ou un drop vaut 3 points).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel club est le plus titré en Ligue des Champions CAF ?",
+    "options": ["A) Al ahly sc", "B) TP Mazembe", "C) Zamalek", "D) Pyramids fc"],
+    "answer": "A",
+    "explanation": "Al Ahly SC est le club le plus titré.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel sport évolue Francis Ngannou ?",
+    "options": ["A) Boxe MMA", "B) Football", "C) Athlétisme", "D) Lutte"],
+    "answer": "A",
+    "explanation": "Francis Ngannou évolue en MMA et Boxe.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la nature du pouvoir exécutif ivoirien ?",
+    "options": ["A) Monocéphale", "B) Bicéphale", "C) Tricéphale"],
+    "answer": "B",
+    "explanation": "Le pouvoir exécutif ivoirien est bicéphale (Président et Premier Ministre).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le Vice-président de la République de Côte d’Ivoire ?",
+    "options": ["A) Tiemoko Meyliet Koné", "B) Yua Koffi", "C) Beugré Mambé"],
+    "answer": "A",
+    "explanation": "Tiémoko Meyliet Koné est le Vice-président.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le médiateur de la République est nommé pour ?",
+    "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans"],
+    "answer": "C",
+    "explanation": "Le Médiateur de la République est nommé pour un mandat de 6 ans non renouvelable.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l’actuel médiateur de la République de Côte d’Ivoire ?",
+    "options": ["A) Adama Toungara", "B) Eugène Aka Aouelé", "C) Gaoussou Touré"],
+    "answer": "A",
+    "explanation": "Adama Toungara est le Médiateur de la République.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a été nommé le Haut représentant du Président de la république ?",
+    "options": ["A) 2024", "B) 2023", "C) 2022"],
+    "answer": "B",
+    "explanation": "Le Haut représentant a été nommé en 2023.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le parlement ivoirien est ?",
+    "options": ["A) Monocamérale", "B) Bicamérale", "C) aucune réponse n’est correcte"],
+    "answer": "B",
+    "explanation": "Le parlement ivoirien est bicaméral (Assemblée nationale et Sénat).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été le premier président du Sénat ivoirien ?",
+    "options": ["A) Kandia Camara", "B) Jeannot Ahoussou Kouadio", "C) Dagri Diabaté"],
+    "answer": "B",
+    "explanation": "Jeannot Ahoussou-Kouadio fut le premier président du Sénat.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment s’appelle l’actuel président du Conseil Constitutionnel ivoirien ?",
+    "options": ["A) Chantal Naneba Camara", "B) Chantal Nanaba Camara", "C) Chantal Massereba Camara"],
+    "answer": "B",
+    "explanation": "Chantal Nanaba Camara est la présidente du Conseil constitutionnel.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le président du Conseil Régional est élu pour ?",
+    "options": ["A) 6 ans", "B) 5 ans", "C) 4 ans"],
+    "answer": "B",
+    "explanation": "Il est élu pour 5 ans.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le ministre de la fonction publique et de la modernisation de l’administration ?",
+    "options": ["A) Mathieu Ekra", "B) Ally Coulibaly", "C) Anne Ouloto"],
+    "answer": "C",
+    "explanation": "Anne Ouloto est la ministre de la fonction publique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "L’ordre juridictionnel ivoirien est ?",
+    "options": ["A) Moniste", "B) Dualiste", "C) Atypique"],
+    "answer": "B",
+    "explanation": "L'ordre est dualiste, avec un ordre judiciaire et un ordre administratif.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le président du Conseil d’Etat ivoirien ?",
+    "options": ["A) Patrice Yao Kouakou", "B) Yua Koffi", "C) Lamine Ouattara"],
+    "answer": "A",
+    "explanation": "Patrice Yao Kouakou préside le Conseil d'Etat.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le président de la Cour de Cassation ivoirienne ?",
+    "options": ["A) Yua Koffi", "B) Patrice Yao Kouakou", "C) Théophile Ahoua N’dol"],
+    "answer": "A",
+    "explanation": "Yua Koffi préside la Cour de Cassation.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le président de la Haute Autorité à la Bonne gouvernance ?",
+    "options": ["A) Mamadou Sangafowa", "B) Epiphane Zoro BI", "C) Patrick Achi"],
+    "answer": "B",
+    "explanation": "Epiphane Zoro BI Ballo est le président de la HABG.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le général Apalo Touré est issu de ?",
+    "options": ["A) La Police", "B) L’armée de l’air", "C) La Gendarmerie"],
+    "answer": "C",
+    "explanation": "Alexandre Apalo Touré est Commandant Supérieur de la Gendarmerie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la dénomination exacte du Ministère de l’éducation ?",
+    "options": ["A) Ministère d’Etat, Ministère de l’Education Nationale et de l’Alphabétisation", "B) Ministère de l’Education Nationale, de l’Alphabétisation et de l’Enseignement technique", "C) Ministère de l’Education Nationale et de l’Enseignement Supérieur"],
+    "answer": "A",
+    "explanation": "C'est le Ministère de l'Éducation Nationale et de l'Alphabétisation.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Kanvaly Diomandé est le président de laquelle de ces institutions ?",
+    "options": ["A) Commission Electorale Indépendante", "B) Cour des Comptes", "C) Grande Chancellerie de l’ordre national"],
+    "answer": "B",
+    "explanation": "Kanvaly Diomandé est président de la Cour des Comptes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est le président de la Chambre des Rois et chefs traditionnels de Cote d’ivoire ?",
+    "options": ["A) Sa majesté Nanan Desire Amon-Tanoe", "B) Sa majesté Nanan Desire Amoi-Tano", "C) Sa majesté Nanan Desire Amani-Tanoe"],
+    "answer": "A",
+    "explanation": "Nanan Amon Tanoé Désiré préside la Chambre.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Parmi ces personnalités, laquelle n’a jamais été président de l’Assemblée Nationale en CI ?",
+    "options": ["A) Mamadou Koulibaly", "B) Soro Guillaume", "C) Coulibaly Kuibiert"],
+    "answer": "C",
+    "explanation": "Coulibaly Kuibiert est président de la CEI, non de l'Assemblée Nationale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de femmes ministres compte l’actuel gouvernement ivoirien ?",
+    "options": ["A) 7", "B) 8", "C) 10"],
+    "answer": "A",
+    "explanation": "Le gouvernement compte plusieurs femmes ministres (autour de 6-7).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la plus haute juridiction de l’ordre judiciaire ?",
+    "options": ["A) Cour d’appel", "B) TPI", "C) Cour suprême", "D) Conseil d’État"],
+    "answer": "C",
+    "explanation": "La Cour de Cassation (anciennement chambre judiciaire de la Cour Suprême).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle juridiction est compétente en matière administrative ?",
+    "options": ["A) Cour de cassation", "B) Conseil d’État", "C) Tribunal pénal"],
+    "answer": "B",
+    "explanation": "Le Conseil d'État est la plus haute juridiction en matière administrative.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle juridiction juge les crimes les plus graves ?",
+    "options": ["A) Tribunal correctionnel", "B) Cour d’assises", "C) Tribunal administratif"],
+    "answer": "B",
+    "explanation": "La Cour d'assises juge les crimes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Les collectivités territoriales comprennent :",
+    "options": ["A) États fédérés", "B) Régions, districts, communes", "C) Régions, départements, villages"],
+    "answer": "B",
+    "explanation": "En Côte d'Ivoire, ce sont principalement les communes, régions et districts autonomes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l’actuel Ministre de l’urbanisme, du logement et du cadre de vie ?",
+    "options": ["A) Bruno N. Koné", "B) Moussa Sanogo", "C) Mariatou Koné"],
+    "answer": "A",
+    "explanation": "Bruno Nabagné Koné occupe ce poste.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été le premier Directeur Général de l'ENA-CI ?",
+    "options": ["A) Félix Houphouët-Boigny", "B) Robert Ropion", "C) Alassane Ouattara", "D) Jeannot Ahoussou Kouadio"],
+    "answer": "B",
+    "explanation": "Robert Ropion fut le premier DG de l'ENA-CI.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Depuis quelle année Yamoussoukro est-elle la capitale politique de la Côte d'Ivoire ?",
+    "options": ["A) 1960", "B) 1983", "C) 1990", "D) 1993"],
+    "answer": "B",
+    "explanation": "Yamoussoukro est la capitale politique depuis 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quelles chambres est composé le parlement bicaméral ivoirien ?",
+    "options": ["A) Assemblée Nationale et Conseil Constitutionnel", "B) Sénat et Conseil Économique et Social", "C) Assemblée Nationale et Sénat", "D) Chambre des Députés et Sénat"],
+    "answer": "C",
+    "explanation": "Le parlement est composé de l'Assemblée Nationale et du Sénat.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui occupe le poste de Vice-Président de la République de Côte d'Ivoire selon les notes ?",
+    "options": ["A) Daniel Kablan Duncan", "B) Tiemoko Meyliet Koné", "C) Patrick Achi", "D) Robert Beugré Mambé"],
+    "answer": "B",
+    "explanation": "Le VP actuel de la République est Tiemoko Meyliet Koné.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la juridiction administrative suprême en Côte d'Ivoire ?",
+    "options": ["A) La Cour Suprême", "B) La Cour de Cassation", "C) Le Conseil d'État", "D) Le Conseil Constitutionnel"],
+    "answer": "C",
+    "explanation": "Le Conseil d'État est la juridiction administrative suprême.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle juridiction judiciaire est considérée comme suprême ?",
+    "options": ["A) Le Conseil d'État", "B) La Cour d'Appel", "C) La Cour d'assises", "D) La Cour de Cassation"],
+    "answer": "D",
+    "explanation": "La Cour de Cassation est la juridiction judiciaire suprême.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment qualifie-t-on l'ordre juridictionnel ivoirien ?",
+    "options": ["A) Moniste", "B) Unifié", "C) Dualiste", "D) Mixte"],
+    "answer": "C",
+    "explanation": "L'ordre juridictionnel ivoirien est dualiste.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui préside le Conseil Constitutionnel ivoirien ?",
+    "options": ["A) Mamadou Koné", "B) Chantal Nanaba Camara", "C) Tiemoko Meyliet Koné", "D) René Degni-Ségui"],
+    "answer": "B",
+    "explanation": "Chantal Nanaba Camara est présidente du Conseil Constitutionnel.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Par quelle cour sont jugés les crimes graves ?",
+    "options": ["A) Le Tribunal de Première Instance", "B) La Cour de Cassation", "C) La Cour d'assises", "D) Le Conseil d'État"],
+    "answer": "C",
+    "explanation": "Les crimes graves sont jugés par la Cour d'assises.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année eut lieu la prise de la Bastille ?",
+    "options": ["A) 1789", "B) 1792", "C) 1804", "D) 1799"],
+    "answer": "A",
+    "explanation": "La prise de la Bastille date de 1789.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "À quelle date Napoléon a-t-il été couronné ?",
+    "options": ["A) 14 juillet 1789", "B) 2 décembre 1804", "C) 18 juin 1815", "D) 2 décembre 1851"],
+    "answer": "B",
+    "explanation": "Napoléon a été couronné le 2 décembre 1804.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quand le Traité de Versailles a-t-il été signé ?",
+    "options": ["A) 1914", "B) 1918", "C) 1919", "D) 1945"],
+    "answer": "C",
+    "explanation": "Le Traité de Versailles date de 1919.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année le Soudan du Sud a-t-il obtenu son indépendance ?",
+    "options": ["A) 2010", "B) 2011", "C) 2012", "D) 2013"],
+    "answer": "B",
+    "explanation": "Le Soudan du Sud est devenu indépendant en 2011 suite à un référendum.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle ville organise les Jeux Olympiques en 2024 ?",
+    "options": ["A) Londres", "B) Los Angeles", "C) Paris", "D) Tokyo"],
+    "answer": "C",
+    "explanation": "Les JO de 2024 se déroulent à Paris.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale du Pakistan ?",
+    "options": ["A) Karachi", "B) Lahore", "C) Islamabad", "D) Kaboul"],
+    "answer": "C",
+    "explanation": "La capitale du Pakistan est Islamabad.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la monnaie de la Russie ?",
+    "options": ["A) Le rouble", "B) L'euro", "C) Le dinar", "D) Le peso"],
+    "answer": "A",
+    "explanation": "La monnaie de la Russie est le rouble.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l'actuelle Secrétaire Générale de la Francophonie ?",
+    "options": ["A) Michaëlle Jean", "B) Louise Mushikiwabo", "C) Aminata Touré", "D) Nkosazana Dlamini-Zuma"],
+    "answer": "B",
+    "explanation": "Louise Mushikiwabo est la SG de la Francophonie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où s'est déroulée la CAN 2023 ?",
+    "options": ["A) Cameroun", "B) Sénégal", "C) Côte d'Ivoire", "D) Maroc"],
+    "answer": "C",
+    "explanation": "La CAN 2023 a été organisée en Côte d'Ivoire.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle célèbre école a été créée par Aristote ?",
+    "options": ["A) L'Académie", "B) Le Lycée", "C) La Sorbonne", "D) Le Portique"],
+    "answer": "B",
+    "explanation": "Aristote a créé Le Lycée.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Que l'entomologie étudie-t-elle ?",
+    "options": ["A) Les mots", "B) Les champignons", "C) Les insectes", "D) Les fossiles"],
+    "answer": "C",
+    "explanation": "L'entomologie est l'étude des insectes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle science a pour objet l'étude des fossiles ?",
+    "options": ["A) La paléontologie", "B) L'archéologie", "C) L'entomologie", "D) La géologie"],
+    "answer": "A",
+    "explanation": "La paléontologie étudie les fossiles.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la proportion approximative de diazote dans l'atmosphère ?",
+    "options": ["A) 21%", "B) 50%", "C) 78%", "D) 90%"],
+    "answer": "C",
+    "explanation": "Le diazote compose environ 78% de l'atmosphère.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
+    "options": ["A) L'impressionnisme", "B) Le surréalisme", "C) Le cubisme", "D) Le fauvisme"],
+    "answer": "C",
+    "explanation": "Pablo Picasso est le cofondateur du cubisme.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans la mythologie grecque, qui a été condamné à pousser éternellement un rocher ?",
+    "options": ["A) Atlas", "B) Prométhée", "C) Sisyphe", "D) Tantale"],
+    "answer": "C",
+    "explanation": "C'est Sisyphe qui fut condamné à pousser un rocher.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est la première femme à avoir arbitré un match de football professionnel masculin ?",
+    "options": ["A) Bibiana Steinhaus", "B) Stéphanie Frappart", "C) Salima Mukansanga", "D) Yoshimi Yamashita"],
+    "answer": "B",
+    "explanation": "Stéphanie Frappart est la première femme à arbitrer du foot pro masculin.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel athlète détient le record du 100m masculin ?",
+    "options": ["A) Tyson Gay", "B) Yohan Blake", "C) Asafa Powell", "D) Usain Bolt"],
+    "answer": "D",
+    "explanation": "Usain Bolt détient le record du 100m masculin.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la distance exacte du marathon ?",
+    "options": ["A) 41,195 km", "B) 42,195 km", "C) 42,000 km", "D) 43,195 km"],
+    "answer": "B",
+    "explanation": "La distance officielle d'un marathon est de 42,195 km.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Que récompense le maillot blanc à pois rouges sur le Tour de France ?",
+    "options": ["A) Le meilleur jeune", "B) Le meilleur sprinteur", "C) Le meilleur grimpeur", "D) Le vainqueur du classement général"],
+    "answer": "C",
+    "explanation": "Il récompense le meilleur grimpeur.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a été le premier champion du monde de football ?",
+    "options": ["A) L'Italie", "B) Le Brésil", "C) L'Argentine", "D) L'Uruguay"],
+    "answer": "D",
+    "explanation": "L'Uruguay a remporté la première coupe du monde.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde de football 2022 au Qatar ?",
+    "options": ["A) La France", "B) L'Argentine", "C) Le Brésil", "D) L'Espagne"],
+    "answer": "B",
+    "explanation": "L'Argentine a gagné la Coupe du Monde 2022.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quel pays est originaire le judo ?",
+    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
+    "answer": "C",
+    "explanation": "Le judo est d'origine japonaise.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Sur quelle surface se joue le tournoi de Roland-Garros ?",
+    "options": ["A) Gazon", "B) Dur", "C) Terre battue", "D) Moquette"],
+    "answer": "C",
+    "explanation": "Roland-Garros se joue sur terre battue à Paris.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de joueurs par équipe y a-t-il sur un terrain de basketball ?",
+    "options": ["A) 4", "B) 5", "C) 6", "D) 7"],
+    "answer": "B",
+    "explanation": "Le basketball se joue à 5 joueurs par équipe.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel sportif est le plus médaillé de l'histoire des Jeux Olympiques ?",
+    "options": ["A) Usain Bolt", "B) Carl Lewis", "C) Michael Phelps", "D) Mark Spitz"],
+    "answer": "C",
+    "explanation": "Michael Phelps est le sportif le plus médaillé aux JO.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale politique de la CI ?",
+    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) Korhogo"],
+    "answer": "C",
+    "explanation": "Yamoussoukro est la capitale politique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où s'est tenu le référendum d'indépendance de 2011 ?",
+    "options": ["A) Erythrée", "B) Timor oriental", "C) Soudan du Sud", "D) Kosovo"],
+    "answer": "C",
+    "explanation": "Indépendance du Soudan du Sud en 2011 par référendum.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le mouvement 'Printemps arabe' a commencé en...",
+    "options": ["A) 2008", "B) 2010", "C) 2011", "D) 2012"],
+    "answer": "B",
+    "explanation": "Débuté en 2010.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel évènement sportif majeur se tiendra à Paris en 2024 ?",
+    "options": ["A) La Coupe du monde de Rugby", "B) Les Jeux Olympiques", "C) L'Euro de football", "D) Le championnat du monde d'athlétisme"],
+    "answer": "B",
+    "explanation": "Paris accueille les JO 2024.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été le premier Directeur Général de l'ENA de Côte d'Ivoire ?",
+    "options": ["A) Félix Houphouët-Boigny", "B) Robert Ropion", "C) Charles Konan Banny", "D) Alassane Ouattara"],
+    "answer": "B",
+    "explanation": "Robert Ropion a été le premier DG de l'École Nationale d'Administration de Côte d'Ivoire à sa création en 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année Yamoussoukro est-elle devenue la capitale politique de la Côte d'Ivoire ?",
+    "options": ["A) 1960", "B) 1983", "C) 1990", "D) 1993"],
+    "answer": "B",
+    "explanation": "Le transfert de la capitale politique et administrative à Yamoussoukro a été acté par la loi de mars 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l'actuel Vice-Président de la République de Côte d'Ivoire (en 2026/2027) ?",
+    "options": ["A) Daniel Kablan Duncan", "B) Amadou Gon Coulibaly", "C) Tiemoko Meyliet Koné", "D) Patrick Achi"],
+    "answer": "C",
+    "explanation": "Tiemoko Meyliet Koné, ancien gouverneur de la BCEAO, occupe ce poste depuis avril 2022.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Laquelle de ces institutions est à la tête de l'ordre juridictionnel administratif en Côte d'Ivoire, instaurant ainsi le dualisme juridictionnel ?",
+    "options": ["A) La Cour de Cassation", "B) Le Conseil Constitutionnel", "C) Le Conseil d'État", "D) La Cour des Comptes"],
+    "answer": "C",
+    "explanation": "La réforme constitutionnelle a éclaté l'ancienne Cour Suprême. Le Conseil d'État gère le volet administratif, la Cour de Cassation le judiciaire.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été nommée Présidente du Conseil Constitutionnel de Côte d'Ivoire en 2023 ?",
+    "options": ["A) Henriette Diabaté", "B) Kandia Camara", "C) Chantal Nanaba Camara", "D) Simone Gbagbo"],
+    "answer": "C",
+    "explanation": "Chantal Nanaba Camara est la première femme à présider cette haute institution, nommée par Alassane Ouattara en 2023.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe d'Afrique des Nations (CAN) 2023 organisée en début 2024 ?",
+    "options": ["A) Nigeria", "B) Sénégal", "C) Côte d'Ivoire", "D) Maroc"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire (le pays hôte) a remporté la compétition en battant le Nigeria 2-1 en finale.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lequel de ces joueurs ivoiriens a marqué l'un des buts lors de la finale de la CAN 2023 contre le Nigeria ?",
+    "options": ["A) Didier Drogba", "B) Sébastien Haller", "C) Yaya Touré", "D) Wilfried Zaha"],
+    "answer": "B",
+    "explanation": "Sébastien Haller a marqué le but décisif de la victoire (2-1) en finale, après l'égalisation de Franck Kessié.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle ville a accueilli les Jeux Olympiques d'été en 2024 ?",
+    "options": ["A) Los Angeles", "B) Londres", "C) Paris", "D) Tokyo"],
+    "answer": "C",
+    "explanation": "Les JO de 2024 se sont déroulés à Paris, en France.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le judo est un art martial originaire de quel pays ?",
+    "options": ["A) Chine", "B) Corée du Sud", "C) Japon", "D) Thaïlande"],
+    "answer": "C",
+    "explanation": "Créé par Jigoro Kano en 1882 au Japon.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le tournoi de tennis de Roland-Garros se joue sur quelle surface ?",
+    "options": ["A) Gazon", "B) Terre battue", "C) Dur", "D) Moquette"],
+    "answer": "B",
+    "explanation": "Roland-Garros est le tournoi du Grand Chelem disputé sur terre battue à Paris.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "À quelle date Napoléon Bonaparte a-t-il été couronné Empereur des Français ?",
+    "options": ["A) 14 juillet 1789", "B) 2 décembre 1804", "C) 18 juin 1815", "D) 9 novembre 1799"],
+    "answer": "B",
+    "explanation": "Le sacre a eu lieu le 2 décembre 1804 à Notre-Dame de Paris.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année se sont tenus les accords de Bretton Woods instituant le FMI et la Banque Mondiale ?",
+    "options": ["A) 1919", "B) 1944", "C) 1945", "D) 1957"],
+    "answer": "B",
+    "explanation": "La conférence de Bretton Woods s'est tenue en juillet 1944 aux États-Unis.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la distance exacte du marathon en athlétisme ?",
+    "options": ["A) 40,000 km", "B) 42,195 km", "C) 45,000 km", "D) 50,000 km"],
+    "answer": "B",
+    "explanation": "Distance fixée définitivement depuis les JO de Londres en 1908.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+    "options": ["A) Le dioxygène", "B) Le dioxyde de carbone", "C) Le diazote", "D) L'argon"],
+    "answer": "C",
+    "explanation": "Le diazote compose environ 78% de l'air que nous respirons.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel philosophe grec a fondé l'école appelée 'Le Lycée' ?",
+    "options": ["A) Socrate", "B) Platon", "C) Aristote", "D) Épicure"],
+    "answer": "C",
+    "explanation": "Platon a fondé l'Académie, Aristote a fondé le Lycée (école péripatéticienne).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quel courant artistique Pablo Picasso est-il l'un des fondateurs ?",
+    "options": ["A) L'impressionnisme", "B) Le surréalisme", "C) Le cubisme", "D) Le fauvisme"],
+    "answer": "C",
+    "explanation": "Avec Georges Braque, Picasso a été le pionnier du cubisme au début du XXe siècle (ex: Les Demoiselles d'Avignon).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans la mythologie grecque, qui fut condamné à pousser éternellement un lourd rocher au sommet d'une montagne ?",
+    "options": ["A) Prométhée", "B) Atlas", "C) Sisyphe", "D) Hercule"],
+    "answer": "C",
+    "explanation": "Le châtiment de Sisyphe symbolise le travail absurde et sans fin.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale de la région de l'Agnéby-Tiassa en Côte d'Ivoire ?",
+    "options": ["A) Divo", "B) Agboville", "C) Adzopé", "D) Sikensi"],
+    "answer": "B",
+    "explanation": "La région de l'Agnéby-Tiassa (sud de la CI) a pour chef-lieu la ville d'Agboville.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le Parlement de la 3ème République ivoirienne est bicaméral. Il comprend l'Assemblée nationale et...",
+    "options": ["A) Le Conseil Économique et Social", "B) Le Sénat", "C) Le Conseil Constitutionnel", "D) La Cour Suprême"],
+    "answer": "B",
+    "explanation": "La Constitution de 2016 a instauré un Sénat, rendant le parlement bicaméral.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a été le premier Président du Sénat de Côte d'Ivoire ?",
+    "options": ["A) Amadou Soumahoro", "B) Adama Bictogo", "C) Jeannot Ahoussou Kouadio", "D) Charles Koffi Diby"],
+    "answer": "C",
+    "explanation": "Jeannot Ahoussou Kouadio a été élu premier président du Sénat ivoirien en 2018.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "L'élection présidentielle d'octobre 2025 en Côte d'Ivoire a été remportée, selon la CEI, par :",
+    "options": ["A) Tidjane Thiam", "B) Jean-Louis Billon", "C) Alassane Ouattara", "D) Simone Gbagbo"],
+    "answer": "C",
+    "explanation": "Le président sortant, Alassane Ouattara (RHDP), a été réélu pour un quatrième mandat dès le premier tour avec environ 89,7% des suffrages.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En 2025, trois pays ouest-africains ont officialisé leur retrait de la CEDEAO pour former la Confédération des États du Sahel (AES). Lesquels ?",
+    "options": ["A) Mali, Sénégal, Guinée", "B) Mali, Burkina Faso, Niger", "C) Burkina Faso, Togo, Bénin", "D) Niger, Tchad, Mauritanie"],
+    "answer": "B",
+    "explanation": "Le Mali, le Burkina Faso et le Niger ont quitté la CEDEAO en janvier 2025 et institutionnalisé l'AES.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien d'États membres compte la CEDEAO depuis le retrait définitif des pays de l'AES en 2025 ?",
+    "options": ["A) 15", "B) 12", "C) 10", "D) 14"],
+    "answer": "B",
+    "explanation": "Avec le retrait du Mali, du Burkina Faso et du Niger, la CEDEAO est passée de 15 à 12 membres actifs.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lors des JO de Paris 2024, quel sportif détient encore historiquement le record absolu du nombre de médailles olympiques toutes éditions confondues ?",
+    "options": ["A) Usain Bolt", "B) Michael Phelps", "C) Carl Lewis", "D) Léon Marchand"],
+    "answer": "B",
+    "explanation": "Le nageur américain Michael Phelps détient le record absolu avec 28 médailles, dont 23 en or.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Laquelle de ces institutions n'appartient pas au pouvoir judiciaire en Côte d'Ivoire ?",
+    "options": ["A) La Cour de Cassation", "B) La Haute Cour de Justice", "C) La Cour des Comptes", "D) Le Conseil des Ministres"],
+    "answer": "D",
+    "explanation": "Le Conseil des ministres est l'organe du pouvoir exécutif. La Cour des Comptes appartient à l'ordre juridictionnel financier.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "L'athlète jamaïcain Usain Bolt est célèbre pour son record du monde sur 100m. Quel est son temps record ?",
+    "options": ["A) 9,69 s", "B) 9,72 s", "C) 9,58 s", "D) 9,52 s"],
+    "answer": "C",
+    "explanation": "Il a établi le record de 9,58 s lors des championnats du monde d'athlétisme à Berlin en 2009.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où se situe le siège de l'Union Économique et Monétaire Ouest-Africaine (UEMOA) ?",
+    "options": ["A) Dakar", "B) Abidjan", "C) Lomé", "D) Ouagadougou"],
+    "answer": "D",
+    "explanation": "Le siège de la Commission de l'UEMOA est à Ouagadougou (Burkina Faso).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Où se trouve le siège de la BCEAO (Banque Centrale des États de l'Afrique de l'Ouest) ?",
+    "options": ["A) Abidjan", "B) Dakar", "C) Lomé", "D) Niamey"],
+    "answer": "B",
+    "explanation": "Le siège de la BCEAO est situé à Dakar au Sénégal (bien que son gouverneur actuel, Jean-Claude Kassi Brou, soit de nationalité ivoirienne).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lors de la CAN 2023, quelle équipe la Côte d'Ivoire a-t-elle éliminée en demi-finale ?",
+    "options": ["A) Sénégal", "B) Mali", "C) RD Congo", "D) Guinée équatoriale"],
+    "answer": "C",
+    "explanation": "La Côte d'Ivoire a battu la RD Congo 1-0 en demi-finale, grâce à un but de Sébastien Haller.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En Côte d'Ivoire, l'Autorité Nationale de la Presse (ANP) remplace :",
+    "options": ["A) Le CNP", "B) La HACA", "C) Le CICG", "D) Le Conseil d'État"],
+    "answer": "A",
+    "explanation": "L'ANP (Autorité Nationale de la Presse) a remplacé le Conseil National de la Presse (CNP) comme organe de régulation de la presse écrite.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Le 7 août 1960 marque pour la Côte d'Ivoire :",
+    "options": ["A) La proclamation de la République", "B) L'indépendance", "C) L'adoption de l'hymne national", "D) Le transfert de la capitale"],
+    "answer": "B",
+    "explanation": "C'est la date officielle de l'accession de la Côte d'Ivoire à l'indépendance.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nom de l'hymne national de la Côte d'Ivoire ?",
+    "options": ["A) La Concorde", "B) L'Abidjanaise", "C) Le Ditanyè", "D) La Dessalinienne"],
+    "answer": "B",
+    "explanation": "L'Abidjanaise a été adoptée comme hymne national en 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Laquelle de ces villes n'est pas un chef-lieu de district autonome en Côte d'Ivoire ?",
+    "options": ["A) Abidjan", "B) Yamoussoukro", "C) San-Pédro", "D) Bocanda"],
+    "answer": "D",
+    "explanation": "Bocanda est un département situé dans la région du N'Zi, ce n'est pas un chef-lieu de district autonome (comme Abidjan, Yamoussoukro, etc.).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En août 2026, l'Alliance des États du Sahel (AES) a officiellement installé son Parlement confédéral dans quelle ville ?",
+    "options": ["A) Bamako", "B) Ouagadougou", "C) Niamey", "D) Agadez"],
+    "answer": "C",
+    "explanation": "Le parlement confédéral de l'AES (45 députés) a été installé à Niamey au Niger fin août 2026.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En histoire, quel traité a mis fin à la Première Guerre mondiale en 1919 ?",
+    "options": ["A) Le Traité de Vienne", "B) Le Traité de Versailles", "C) Le Traité de Rome", "D) Le Traité de Tordesillas"],
+    "answer": "B",
+    "explanation": "Signé le 28 juin 1919 dans la galerie des Glaces du château de Versailles.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a succédé à Henri Konan Bédié à la tête du PDCI-RDA après son décès ?",
+    "options": ["A) Maurice Kakou Guikahué", "B) Tidjane Thiam", "C) Jean-Louis Billon", "D) Thierry Tanoh"],
+    "answer": "B",
+    "explanation": "Tidjane Thiam a été élu président du PDCI-RDA en décembre 2023.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel était le taux de participation officiel selon la CEI lors de l'élection présidentielle ivoirienne d'octobre 2025 ?",
+    "options": ["A) Environ 35%", "B) Environ 50%", "C) Environ 75%", "D) Environ 90%"],
+    "answer": "B",
+    "explanation": "La CEI a enregistré un taux de participation d'environ 50,10 % lors de ce scrutin.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans le cadre de l'exécution du PND (Plan National de Développement), quelle est la période couverte par le dernier plan en cours avant 2026 ?",
+    "options": ["A) 2012-2015", "B) 2016-2020", "C) 2021-2025", "D) 2025-2030"],
+    "answer": "C",
+    "explanation": "Le gouvernement ivoirien a exécuté le PND sur la période 2021-2025 visant la transformation structurelle de l'économie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Lors de la phase de groupes de la CAN 2023, la Côte d'Ivoire a subi une lourde défaite (0-4) face à quelle équipe ?",
+    "options": ["A) Le Nigeria", "B) La Guinée-Bissau", "C) La Guinée équatoriale", "D) Le Sénégal"],
+    "answer": "C",
+    "explanation": "Le 'Nzalang Nacional' de la Guinée équatoriale a battu les Éléphants 4 à 0 lors de leur 3e match de poule.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel fleuve ivoirien donne son nom à une région dont le chef-lieu est Sassandra ?",
+    "options": ["A) Le Bandama", "B) Le Cavally", "C) Le Sassandra", "D) La Comoé"],
+    "answer": "C",
+    "explanation": "Le fleuve Sassandra traverse l'ouest du pays et se jette dans le golfe de Guinée au niveau de la ville de Sassandra (région du Gbôklè).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la devise de la République de Côte d'Ivoire ?",
+    "options": ["A) Union - Travail - Justice", "B) Union - Discipline - Travail", "C) Paix - Travail - Patrie", "D) Fraternité - Travail - Progrès"],
+    "answer": "B",
+    "explanation": "C'est la devise officielle figurant sur les armoiries de la CI.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "La Basilique Notre-Dame de la Paix, l'édifice religieux chrétien le plus grand du monde, se trouve à :",
+    "options": ["A) Abidjan", "B) Rome", "C) Yamoussoukro", "D) Korhogo"],
+    "answer": "C",
+    "explanation": "Construite sous la présidence de Félix Houphouët-Boigny, elle a été consacrée en 1990 par le Pape Jean-Paul II.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel sport évolue l'athlète ivoirienne Marie-Josée Ta Lou-Smith ?",
+    "options": ["A) Saut en longueur", "B) Taekwondo", "C) Sprint (Athlétisme)", "D) Natation"],
+    "answer": "C",
+    "explanation": "Elle est une sprinteuse spécialiste des 100m et 200m.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui fut le fondateur du célèbre empire de Kong au nord de la Côte d'Ivoire au XVIIIe siècle ?",
+    "options": ["A) Samory Touré", "B) Sékou Ouattara", "C) Osei Tutu", "D) Abla Pokou"],
+    "answer": "B",
+    "explanation": "Sékou Ouattara a fondé l'Empire de Kong vers 1710.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "L'organisation sous-régionale CEDEAO a pour siège principal :",
+    "options": ["A) Abidjan", "B) Dakar", "C) Abuja", "D) Accra"],
+    "answer": "C",
+    "explanation": "Le siège de la Commission de la CEDEAO se trouve à Abuja, la capitale du Nigeria.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans le contexte de la crise du Sahel, l'opération militaire française qui a pris fin en 2022 s'appelait :",
+    "options": ["A) Serval", "B) Sangaris", "C) Barkhane", "D) Takuba"],
+    "answer": "C",
+    "explanation": "Lancée en 2014 pour succéder à Serval, Barkhane s'est achevée officiellement en novembre 2022 suite aux retraits successifs du Mali puis du Burkina.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est l'année de l'indépendance de la Côte d'Ivoire ?",
+    "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1964"],
+    "answer": "B",
+    "explanation": "La Côte d'Ivoire a obtenu son indépendance le 7 août 1960.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui fut le premier président de la Côte d'Ivoire ?",
+    "options": ["A) Henri Konan Bédié", "B) Laurent Gbagbo", "C) Félix Houphouët-Boigny", "D) Alassane Ouattara"],
+    "answer": "C",
+    "explanation": "Félix Houphouët-Boigny fut le premier président du pays.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale politique de la Côte d'Ivoire ?",
+    "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) San-Pédro"],
+    "answer": "C",
+    "explanation": "Yamoussoukro est la capitale politique de la CI depuis 1983.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quelle ville ivoirienne se trouve la basilique Notre-Dame de la Paix ?",
+    "options": ["A) Abidjan", "B) Yamoussoukro", "C) Korhogo", "D) Man"],
+    "answer": "B",
+    "explanation": "La basilique est située à Yamoussoukro.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment s'appelle l'hymne national ivoirien ?",
+    "options": ["A) L'Abidjanaise", "B) La Concorde", "C) Le Ditanyè", "D) L'Ivoirienne"],
+    "answer": "A",
+    "explanation": "L'hymne national est L'Abidjanaise.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel fleuve ivoirien donne son nom à un grand barrage hydroélectrique ?",
+    "options": ["A) Sassandra", "B) Bandama", "C) Comoé", "D) Cavally"],
+    "answer": "B",
+    "explanation": "Le barrage de Kossou est sur le fleuve Bandama.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la principale culture d'exportation de la Côte d'Ivoire ?",
+    "options": ["A) Café", "B) Coton", "C) Cacao", "D) Anacarde"],
+    "answer": "C",
+    "explanation": "La CI est le premier producteur mondial de cacao.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de districts autonomes compte la Côte d'Ivoire ?",
+    "options": ["A) 2", "B) 12", "C) 14", "D) 31"],
+    "answer": "C",
+    "explanation": "La CI compte 14 districts dont 2 autonomes (Abidjan et Yamoussoukro).",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel parc national ivoirien est célèbre pour ses chimpanzés et sa forêt primaire ?",
+    "options": ["A) Parc national de Taï", "B) Parc national du Banco", "C) Parc national de la Comoé", "D) Réserve d'Abokouamékro"],
+    "answer": "A",
+    "explanation": "Le parc de Taï est classé au patrimoine mondial de l'UNESCO.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "De quelle région Daloa est-il le chef-lieu ?",
+    "options": ["A) Haut-Sassandra", "B) Marahoué", "C) Gôh", "D) Tonkpi"],
+    "answer": "A",
+    "explanation": "Daloa est la capitale du Haut-Sassandra.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En quelle année a eu lieu le coup d'État de Robert Guéï ?",
+    "options": ["A) 1993", "B) 1999", "C) 2002", "D) 2010"],
+    "answer": "B",
+    "explanation": "Le coup d'État a eu lieu le 24 décembre 1999.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le sommet le plus élevé de Côte d'Ivoire ?",
+    "options": ["A) Mont Tonkoui", "B) Mont Nimba", "C) Mont Momi", "D) Mont Zo"],
+    "answer": "B",
+    "explanation": "Le Mont Nimba (1752m) est le point culminant.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quel district se trouve la ville de Korhogo ?",
+    "options": ["A) District des Savanes", "B) District du Denguélé", "C) District du Woroba", "D) District de la Vallée du Bandama"],
+    "answer": "A",
+    "explanation": "Korhogo est le chef-lieu du district des Savanes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel peuple célèbre la fête de l'Abissa ?",
+    "options": ["A) Baoulé", "B) Bété", "C) Nzima", "D) Sénoufo"],
+    "answer": "C",
+    "explanation": "Les Nzima (Grand-Bassam) célèbrent l'Abissa.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l'actuel Premier ministre de Côte d'Ivoire (2024) ?",
+    "options": ["A) Patrick Achi", "B) Robert Beugré Mambé", "C) Amadou Gon Coulibaly", "D) Hamed Bakayoko"],
+    "answer": "B",
+    "explanation": "Robert Beugré Mambé a été nommé en 2023.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle ville ivoirienne est surnommée 'La perle des lagunes' ?",
+    "options": ["A) San-Pédro", "B) Grand-Bassam", "C) Abidjan", "D) Jacqueville"],
+    "answer": "C",
+    "explanation": "Abidjan est surnommée la perle des lagunes.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel instrument traditionnel est typique de la musique balafon ?",
+    "options": ["A) Kora", "B) Balafon", "C) Tam-tam", "D) Djembe"],
+    "answer": "B",
+    "explanation": "Le balafon est un xylophone traditionnel d'Afrique de l'Ouest.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Laquelle de ces villes fut la première capitale de la Côte d'Ivoire coloniale ?",
+    "options": ["A) Bingerville", "B) Grand-Bassam", "C) Abidjan", "D) Yamoussoukro"],
+    "answer": "B",
+    "explanation": "Grand-Bassam fut la première capitale de 1893 à 1896.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle ethnie appartient au groupe Akan ?",
+    "options": ["A) Les Dan", "B) Les Baoulé", "C) Les Sénoufo", "D) Les Malinké"],
+    "answer": "B",
+    "explanation": "Les Baoulé font partie du groupe Akan.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel animal est l'emblème national de la Côte d'Ivoire ?",
+    "options": ["A) L'aigle", "B) Le lion", "C) L'éléphant", "D) La panthère"],
+    "answer": "C",
+    "explanation": "L'éléphant est l'animal symbole du pays.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel port ivoirien est le premier port exportateur mondial de cacao ?",
+    "options": ["A) Port d'Abidjan", "B) Port de San-Pédro", "C) Port de Sassandra", "D) Port de Tabou"],
+    "answer": "B",
+    "explanation": "San-Pédro est le premier port exportateur de cacao au monde.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a composé la musique de l'Abidjanaise ?",
+    "options": ["A) Mathieu Ekra", "B) Pierre-Michel Pango", "C) Joachim Bony", "D) Bernard Dadié"],
+    "answer": "B",
+    "explanation": "L'Abbé Pierre-Michel Pango a composé la musique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel pont emblématique relie le Plateau à Treichville à Abidjan ?",
+    "options": ["A) Pont Houphouët-Boigny", "B) Pont De Gaulle", "C) Pont HKB", "D) Pont Alassane Ouattara"],
+    "answer": "A",
+    "explanation": "Le pont Félix Houphouët-Boigny fut le premier pont construit.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En Côte d'Ivoire, quelle institution juge les contentieux électoraux des élections locales ?",
+    "options": ["A) La Cour de Cassation", "B) Le Conseil Constitutionnel", "C) Le Conseil d'État", "D) La Commission Électorale Indépendante"],
+    "answer": "C",
+    "explanation": "Le Conseil d'État juge les contentieux des élections locales.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le plus long fleuve s'écoulant entièrement sur le territoire ivoirien ?",
+    "options": ["A) Le Cavally", "B) La Comoé", "C) Le Bandama", "D) Le Sassandra"],
+    "answer": "C",
+    "explanation": "Le Bandama (1050 km) coule uniquement en CI.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle danse traditionnelle est inscrite au patrimoine culturel immatériel de l'UNESCO ?",
+    "options": ["A) Le Gbofe", "B) Le Zaouli", "C) Le Tématé", "D) Le Boloye"],
+    "answer": "B",
+    "explanation": "Le Zaouli des communautés Gouro est inscrit à l'UNESCO.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Dans quelle région se trouve la ville de Man ?",
+    "options": ["A) Tonkpi", "B) Guémon", "C) Cavally", "D) Bafing"],
+    "answer": "A",
+    "explanation": "Man est le chef-lieu de la région du Tonkpi.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle célèbre figure féminine a conduit les Baoulé en Côte d'Ivoire ?",
+    "options": ["A) Anne Zingha", "B) Abla Pokou", "C) Yennenga", "D) Ndaté Yalla"],
+    "answer": "B",
+    "explanation": "La reine Abla Pokou a mené l'exode des Baoulé depuis le Ghana.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel traité de 1893 a officialisé la colonie de Côte d'Ivoire ?",
+    "options": ["A) Traité de Berlin", "B) Décret de 1893", "C) Traité de Versailles", "D) Accords de Grand-Bassam"],
+    "answer": "B",
+    "explanation": "Le décret du 10 mars 1893 institue la colonie.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est l'organisation sous-régionale dont le siège est à Abuja ?",
+    "options": ["A) UEMOA", "B) CEDEAO", "C) CEMAC", "D) Union Africaine"],
+    "answer": "B",
+    "explanation": "La CEDEAO a son siège au Nigeria, à Abuja.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui est l'actuelle directrice générale de l'OMC (Organisation mondiale du commerce) ?",
+    "options": ["A) Ngozi Okonjo-Iweala", "B) Christine Lagarde", "C) Kristalina Georgieva", "D) Amina J. Mohammed"],
+    "answer": "A",
+    "explanation": "La Nigériane Ngozi Okonjo-Iweala dirige l'OMC.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est le nombre de membres actuels du Conseil de Sécurité de l'ONU ?",
+    "options": ["A) 10", "B) 15", "C) 20", "D) 25"],
+    "answer": "B",
+    "explanation": "Il y a 5 membres permanents et 10 non permanents.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle est la capitale économique du Bénin ?",
+    "options": ["A) Porto-Novo", "B) Cotonou", "C) Parakou", "D) Ouidah"],
+    "answer": "B",
+    "explanation": "Cotonou est la capitale économique, Porto-Novo la politique.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui fut le premier secrétaire général africain de l'ONU ?",
+    "options": ["A) Kofi Annan", "B) Boutros Boutros-Ghali", "C) Ban Ki-moon", "D) U Thant"],
+    "answer": "B",
+    "explanation": "L'Égyptien Boutros Boutros-Ghali fut le premier Africain SG de l'ONU.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "En mathématiques, comment appelle-t-on un polygone à 8 côtés ?",
+    "options": ["A) Hexagone", "B) Heptagone", "C) Octogone", "D) Décagone"],
+    "answer": "C",
+    "explanation": "Un octogone a 8 côtés.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quelle planète est surnommée la planète rouge ?",
+    "options": ["A) Vénus", "B) Jupiter", "C) Mars", "D) Saturne"],
+    "answer": "C",
+    "explanation": "Mars est surnommée la planète rouge.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Quel est l'océan le plus profond du monde ?",
+    "options": ["A) Atlantique", "B) Indien", "C) Arctique", "D) Pacifique"],
+    "answer": "D",
+    "explanation": "L'océan Pacifique contient la fosse des Mariannes, le point le plus profond.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Combien de jours compte une année bissextile ?",
+    "options": ["A) 364", "B) 365", "C) 366", "D) 367"],
+    "answer": "C",
+    "explanation": "Une année bissextile compte 366 jours.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Comment Brice Clotaire Oligui N'Guema est-il d'abord arrivé au pouvoir au Gabon avant l'élection présidentielle de 2025 ?",
+    "options": ["A) Par élection en 2020", "B) Suite au coup d'État militaire du 30 août 2023", "C) Par succession constitutionnelle", "D) Sur décision de l'Union Africaine"],
+    "answer": "B",
+    "explanation": "Le général Oligui N'Guema a pris le pouvoir le 30 août 2023 à la tête du CTRI suite à un coup d'État renversant Ali Bongo, avant la transition et l'élection d'avril 2025.",
+    "theme": "Culture Générale & Actualité"
+  },
+  {
+    "question": "Qui a remporté le Ballon d'Or 2023 ?",
+    "options": ["A) Erling Haaland", "B) Lionel Messi", "C) Kylian Mbappé", "D) Karim Benzema"],
+    "answer": "B",
+    "explanation": "Lionel Messi a remporté son 8e Ballon d'Or en 2023, l'édition 2020 ayant été annulée.",
+    "theme": "Culture Générale & Actualité"
   },
   {
     "question": "En quelle année l'ONU a-t-elle été officiellement créée ?",
@@ -12359,1673 +12359,1673 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Le Tribunal de Première Instance", "B) La Cour d'Appel", "C) Le Conseil constitutionnel", "D) La Cour des Comptes"],
     "answer": "C",
     "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de districts compte la Côte d'Ivoire ?",
     "options": ["A) 10", "B) 12", "C) 14", "D) 33"],
     "answer": "C",
     "explanation": "La Côte d'Ivoire compte 14 districts, dont 2 districts autonomes (Abidjan et Yamoussoukro).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En quelle année la CI a-t-elle accédé à l'indépendance ?",
     "options": ["A) 1958", "B) 1960", "C) 1962", "D) 1956"],
     "answer": "B",
     "explanation": "La CI a proclamé son indépendance le 7 août 1960.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le premier président de la CI ?",
     "options": ["A) Henri Konan Bédié", "B) Laurent Gbagbo", "C) Félix Houphouët-Boigny", "D) Alassane Ouattara"],
     "answer": "C",
     "explanation": "Félix Houphouët-Boigny est le père fondateur et premier président (1960-1993).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel organe exerce le contrôle de constitutionnalité en CI ?",
     "options": ["A) La Cour Supr?me", "B) Le Conseil constitutionnel", "C) L'Assemblée nationale", "D) Le Sénat"],
     "answer": "B",
     "explanation": "Le Conseil constitutionnel ivoirien veille à la conformité des lois à la Constitution.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de régions compte la CI ?",
     "options": ["A) 19", "B) 26", "C) 31", "D) 33"],
     "answer": "C",
     "explanation": "La CI compte 31 régions et 2 districts autonomes.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le mandat du Président ivoirien ?",
     "options": ["A) 4 ans renouvelable une fois", "B) 5 ans renouvelable une fois", "C) 6 ans renouvelable une fois", "D) 7 ans non renouvelable"],
     "answer": "B",
     "explanation": "La Constitution de 2016 fixe le mandat présidentiel à 5 ans renouvelable une seule fois.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle institution vérifie les comptes de l'État en CI ?",
     "options": ["A) Le Ministère des Finances", "B) La Cour des Comptes", "C) L'Assemblée nationale", "D) La BCEAO"],
     "answer": "B",
     "explanation": "La Cour des Comptes vérifie la régularité des comptes publics.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le rôle du CESEC en CI ?",
     "options": ["A) Voter les lois", "B) Conseiller le gouvernement sur les questions économiques et sociales", "C) Contrôler le gouvernement", "D) Administrer les régions"],
     "answer": "B",
     "explanation": "Le Conseil Économique, Social, Environnemental et Culturel est une assemblée consultative.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Piège : la CI a-t-elle un régime présidentialiste ou semi-présidentiel ?",
     "options": ["A) Présidentialiste pur", "B) Semi-présidentiel avec cohabitation possible", "C) Présidentiel fort : le Président est chef de l'État et du gouvernement", "D) Parlementaire"],
     "answer": "C",
     "explanation": "La Constitution de 2016 instaure un régime présidentiel fort sans cohabitation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de membres compte le Conseil constitutionnel ivoirien ?",
     "options": ["A) 7", "B) 9", "C) 11", "D) 13"],
     "answer": "B",
     "explanation": "Le Conseil constitutionnel est composé de 9 membres nommés par le Président.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La hiérarchie des normes en CI est ?",
     "options": ["A) La loi prévaut sur la Constitution", "B) Les traités sont toujours supérieurs à la Constitution", "C) Constitution > lois organiques > lois ordinaires > règlements", "D) Les arrêtés priment sur les décrets"],
     "answer": "C",
     "explanation": "Hiérarchie : Constitution (2016) > lois organiques > lois ordinaires > décrets > arrêtés.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Piège : combien de constitutions la CI a-t-elle eues depuis 1960 ?",
     "options": ["A) 1", "B) 2", "C) 3 : 1960, 2000 et 2016", "D) 4"],
     "answer": "C",
     "explanation": "Trois constitutions : 1960 (indépendance), 2000 (Gbagbo) et 2016 (Ouattara).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Piège : le Sénat de CI peut-il renverser le gouvernement ?",
     "options": ["A) Oui par une motion de censure", "B) Oui en refusant le budget", "C) Non, seule l'Assemblée nationale peut voter une motion de censure", "D) Oui avec l'accord du Conseil constitutionnel"],
     "answer": "C",
     "explanation": "Seule l'Assemblée nationale peut engager la responsabilité du gouvernement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la différence entre décret et ordonnance en droit ivoirien ?",
     "options": ["A) Ce sont des synonymes", "B) Le décret est réglementaire ; l'ordonnance est un acte législatif pris après habilitation parlementaire", "C) L'ordonnance est supérieure au décret", "D) Le décret est pris par le Premier ministre"],
     "answer": "B",
     "explanation": "L'ordonnance a valeur législative (habilitation) ; le décret est réglementaire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la condition de nationalité pour candidater à la présidentielle ivoirienne ?",
     "options": ["A) Être né en CI", "B) Être ivoirien de naissance sans autre nationalité", "C) Être ivoirien de naissance de père et de mère ivoiriens sans autre nationalité", "D) Être naturalisé depuis 10 ans"],
     "answer": "C",
     "explanation": "Article 55 : nationalité ivoirienne de naissance de père et de mère ivoiriens sans autre nationalité.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Piège : un Ivoirien naturalisé étranger peut-il se présenter à la présidentielle ?",
     "options": ["A) Oui s'il renonce avant la candidature", "B) Oui, la double nationalité est tolérée", "C) Non, la Constitution exige de n'avoir jamais eu une autre nationalité", "D) Oui après 10 ans de retour"],
     "answer": "C",
     "explanation": "Article 55 : n'avoir jamais acquis d'autre nationalité. L'acquisition antérieure est rédhibitoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la CEI en CI ?",
     "options": ["A) Un tribunal électoral", "B) L'organe indépendant chargé d'organiser et superviser les élections", "C) Un parti politique", "D) Un organe de l'ONU"],
     "answer": "B",
     "explanation": "La Commission Électorale Indépendante organise et supervise les élections ivoiriennes.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de mandats peut effectuer un président ivoirien ?",
     "options": ["A) Un seul de 7 ans", "B) Deux mandats de 5 ans", "C) Trois mandats de 5 ans", "D) Sans limitation"],
     "answer": "B",
     "explanation": "La Constitution de 2016 limite à deux mandats de 5 ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Les étrangers résidents peuvent-ils voter en CI ?",
     "options": ["A) Oui pour les élections locales", "B) Oui après 5 ans de résidence", "C) Non, seuls les citoyens ivoiriens peuvent voter", "D) Oui pour les référendums"],
     "answer": "C",
     "explanation": "Le droit de vote est réservé aux seuls citoyens ivoiriens.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le principal produit d'exportation de la CI ?",
     "options": ["A) Le pétrole", "B) Le cacao", "C) Le diamant", "D) Le café"],
     "answer": "B",
     "explanation": "La CI est le premier producteur mondial de cacao (environ 40 % de la production mondiale).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle monnaie est utilisée en CI ?",
     "options": ["A) Le franc ivoirien", "B) Le franc CFA de l'UEMOA (XOF)", "C) L'euro", "D) Le dollar CEDEAO"],
     "answer": "B",
     "explanation": "Le franc CFA de l'Afrique de l'Ouest (XOF) est géré par la BCEAO.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En quelle année la Constitution actuelle de la CI a-t-elle été adoptée ?",
     "options": ["A) 2000", "B) 2011", "C) 2016", "D) 2020"],
     "answer": "C",
     "explanation": "La Constitution de 2016 a été adoptée par référendum le 30 octobre 2016.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Piège : qui préside le Conseil supérieur de la magistrature en CI ?",
     "options": ["A) Le Ministre de la Justice", "B) Le Premier Président de la Cour Suprême", "C) Le Président de la République", "D) Le Procureur général"],
     "answer": "C",
     "explanation": "En CI, le CSM est présidé par le Président de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Médiateur de la République en CI ?",
     "options": ["A) Un juge civil", "B) Une autorité indépendante qui reçoit les réclamations des citoyens contre l'administration", "C) Le président de l'Assemblée nationale", "D) Un représentant du gouvernement"],
     "answer": "B",
     "explanation": "Le Médiateur de la République traite les réclamations des citoyens contre les administrations.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la déconcentration administrative en CI ?",
     "options": ["A) Transfert de compétences à des collectivités autonomes", "B) Déplacement de l'autorité de l'État vers ses représentants locaux (préfets, sous-préfets)", "C) Privatisation des services publics", "D) Suppression des ministères régionaux"],
     "answer": "B",
     "explanation": "La déconcentration déplace des pouvoirs au sein de l'État vers ses agents sur le terrain.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle institution forme les hauts fonctionnaires en CI ?",
     "options": ["A) L'ENA", "B) L'Université Félix Houphouët-Boigny", "C) Le Centre de Formation Administrative", "D) La BCEAO"],
     "answer": "A",
     "explanation": "L'ENA de CI forme les hauts fonctionnaires pour les corps préfectoraux, diplomatiques et administratifs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'un établissement public national (EPN) en CI ?",
     "options": ["A) Une entreprise privée sous contrôle de l'État", "B) Une personne morale de droit public autonome chargée d'une mission de service public", "C) Un ministère", "D) Une collectivité territoriale"],
     "answer": "B",
     "explanation": "Les EPN (ex. CNPS, SODEXAM) sont des personnes morales de droit public autonomes.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la LOLF en CI ?",
     "options": ["A) Loi organique relative aux lois de finances", "B) Loi sur les libertés fondamentales", "C) Loi sur le livre foncier", "D) Loi contre la fraude"],
     "answer": "A",
     "explanation": "La LOLF est le cadre juridique de la gestion budgétaire moderne orientée vers la performance.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de langues et dialectes compte la CI ?",
     "options": ["A) 20-30", "B) 60-70", "C) Plus de 60", "D) 10-15"],
     "answer": "C",
     "explanation": "La CI compte plus de 60 langues et dialectes en 4 grands groupes.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le plus grand groupe ethnique en CI ?",
     "options": ["A) Les Baoulé", "B) Les Dioula", "C) Les Bété", "D) Les Sénoufo"],
     "answer": "A",
     "explanation": "Les Baoulé du groupe Akan sont le groupe ethnique le plus important.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'initiative PPTE pour la CI en 2012 ?",
     "options": ["A) Programme de planification économique", "B) Initiative Pays Pauvres Très Endettés : allègement de la dette", "C) Plan de promotion du tourisme", "D) Programme de protection des terres"],
     "answer": "B",
     "explanation": "En 2012, la CI a bénéficié de l'initiative PPTE, obtenant un allègement substantiel de sa dette.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'ARTCI en CI ?",
     "options": ["A) Un ministère", "B) Une autorité administrative indépendante qui régule les télécommunications et les TIC", "C) Une entreprise publique", "D) Un tribunal spécialisé"],
     "answer": "B",
     "explanation": "L'ARTCI est l'autorité administrative indépendante de régulation du marché des télécommunications.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le nom du processus de décentralisation en CI qui transfère des compétences aux communes ?",
     "options": ["A) La d?concentration", "B) La d?centralisation", "C) La privatisation", "D) La d?l?gation"],
     "answer": "B",
     "explanation": "La décentralisation transfère des compétences et des ressources à des collectivités territoriales autonomes (communes, régions, districts).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le role d un conseil municipal en CI ?",
     "options": ["A) Gerer les affaires de l'?tat central", "B) Deliberer sur les affaires d interet communal et voter le budget de la commune", "C) Nomrme les prefets", "D) Adopter les lois nationales"],
     "answer": "B",
     "explanation": "Le conseil municipal est l assembl?e deliberante de la commune. Il vote le budget et prend les decisions d interet local.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de libre administration des collectivites territoriales en CI ?",
     "options": ["A) Les collectivites peuvent ignorer les lois nationales", "B) Les collectivites gerent librement leurs affaires dans le cadre de la loi sous le controle de l'?tat", "C) Les collectivites peuvent creer leurs propres lois", "D) Les collectivites sont independantes de l'?tat"],
     "answer": "B",
     "explanation": "Le principe de libre administration permet aux collectivites de gerer leurs affaires dans les limites fixees par la loi et sous controle de l'?tat.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la diff?rence entre un maire et un pr?fet en CI ?",
     "options": ["A) Aucune diff?rence", "B) Le maire est ?lu par les habitants pour g?rer la commune ; le pr?fet est nomm? par l'?tat pour le repr?senter dans le d?partement", "C) Le prefet est superieur au maire en tout", "D) Le maire est nomme par le gouvernement"],
     "answer": "B",
     "explanation": "Le maire est ?lu local ; le pr?fet est agent de l'?tat nomm? par d?cret. Leurs r?les et l?gitimit?s diff?rent.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le budget communal en CI ?",
     "options": ["A) Le budget de l'?tat central", "B) Le document financier qui pr?voit les recettes et d?penses de la commune pour l'ann?e", "C) Le budget du departement", "D) Le budget alloue aux fonctionnaires communaux"],
     "answer": "B",
     "explanation": "Le budget communal est vot? par le conseil municipal. Il pr?voit les ressources et les d?penses de la commune.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le financement des collectivites locales en CI ?",
     "options": ["A) Uniquement par l'?tat central", "B) Par les imp?ts locaux, dotations de l'?tat, fonds de d?centralisation et emprunts", "C) Uniquement par les impots locaux", "D) Par les dons internationaux uniquement"],
     "answer": "B",
     "explanation": "Les collectivit?s sont financ?es par une combinaison de ressources propres (imp?ts locaux) et de transferts de l'?tat.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'?tat civil en CI ?",
     "options": ["A) Le registre des entreprises", "B) L'enregistrement des faits d'?tat civil (naissances, mariages, d?c?s) qui ?tablit l'identit? juridique des personnes", "C) Le registre des fonctionnaires", "D) La liste electorale"],
     "answer": "B",
     "explanation": "L'?tat civil enregistre les ??v?nements majeurs de la vie (naissances, mariages, d?c?s) et ?tablit l'identit? juridique.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Tr?sor public en CI ?",
     "options": ["A) La banque centrale", "B) Le service de l'?tat qui g?re les finances publiques : encaissement des recettes et paiement des d?penses", "C) Un organisme prive", "D) La banque du gouvernement"],
     "answer": "B",
     "explanation": "Le Tr?sor public g?re les flux financiers de l'?tat : recettes fiscales, paiement des salaires, remboursement de la dette.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Pi?ge : la Constitution de 2016 a-t-elle supprim? le poste de Premier ministre en CI ?",
     "options": ["A) Oui d?finitivement", "B) Non le poste existe toujours mais ses attributions sont encadr?es par l'organisation institutionnelle", "C) Oui mais il peut etre r?tabli par loi organique", "D) Non le Premier ministre reste chef du gouvernement"],
     "answer": "B",
     "explanation": "La Constitution de 2016 n'a pas supprimé le poste de Premier ministre ; elle a réorganisé l'exécutif et ses équilibres.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la responsabilit? politique du gouvernement en CI ?",
     "options": ["A) Le gouvernement est responsable devant le Pr?sident uniquement", "B) Le gouvernement est responsable devant l'Assembl?e nationale qui peut le renverser par une motion de censure", "C) Le gouvernement est irresponsable", "D) Le gouvernement est responsable devant le Senat"],
     "answer": "B",
     "explanation": "L'Assembl?e nationale peut engager la responsabilit? du gouvernement par une motion de censure.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Pi?ge : le contr?le parlementaire s'exerce-t-il sur les actes du Pr?sident en CI ?",
     "options": ["A) Oui pleinement comme en r?gime semi-pr?sidentiel", "B) Non en r?gime pr?sidentiel le Pr?sident n est pas responsable devant le Parlement", "C) Oui uniquement sur les questions budg?taires", "D) Non le Parlement ne peut pas questionner le gouvernement"],
     "answer": "B",
     "explanation": "En r?gime pr?sidentiel ivoirien le Pr?sident n est pas responsable devant le Parlement. Seul le gouvernement l est.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de l inamovibilite des magistrats en CI ?",
     "options": ["A) Les magistrats ne peuvent pas etre mutes", "B) Les magistrats du siege ne peuvent pas etre deplactes sanctionnes ou destitues sans leur consentement ou une procedure disciplinaire", "C) Les magistrats ne peuvent pas demissionner", "D) Les magistrats sont nommes a vie"],
     "answer": "B",
     "explanation": "L inamovibilite protege les magistrats du siege contre toute pression : ils ne peuvent etre mutas ou sanctionnes que par procedure disciplinaire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la citoyennete ivoirienne confere comme droits politiques ?",
     "options": ["A) Uniquement le droit de vote", "B) Le droit de vote d eligibilite de petition d acces aux fonctions publiques et d exercice des libert?s civiques", "C) Uniquement le droit d acces aux fonctions publiques", "D) Aucun droit politique pour les citoyens ordinaires"],
     "answer": "B",
     "explanation": "La citoyennete ivoirienne confere l ensemble des droits politiques : vote eligibilite libert?s civiques acces aux fonctions publiques.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit d asile en CI ?",
     "options": ["A) Le droit pour un Ivoirien de quitter le pays", "B) La protection accordee a un ?tranger persecute dans son pays qui en fait la demande", "C) Le droit de refugier des biens a l ?tranger", "D) L exemption d impots pour les diplomates"],
     "answer": "B",
     "explanation": "Le droit d asile accorde une protection a tout ?tranger qui fuit des persecutions dans son pays d origine.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Pi?ge : la peine de mort est-elle abolie en CI ?",
     "options": ["A) Oui depuis la Constitution de 2016", "B) Non elle est toujours en vigueur pour les crimes les plus graves", "C) Oui depuis 2000", "D) Oui depuis 1960"],
     "answer": "A",
     "explanation": "La Constitution de 2016 a aboli la peine de mort en CI. C est une avancee majeure des droits fondamentaux.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Parlement ivoirien en matière de contrôle du gouvernement ?",
     "options": ["A) Il ne dispose d'aucun pouvoir de contrôle", "B) Il exerce un contrôle par les questions orales et écrites, commissions d'enquête et motion de censure", "C) Il peut dissoudre le gouvernement à tout moment", "D) Il peut refuser d'appliquer les lois présidentielles"],
     "answer": "B",
     "explanation": "Le Parlement ivoirien contrôle le gouvernement par les questions, les commissions et la motion de censure.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Piège : un fonctionnaire peut-il militer pour un parti politique en CI ?",
     "options": ["A) Oui totalement sans restriction", "B) Non, un fonctionnaire doit se garder de tout engagement politique ostensible dans l'exercice de ses fonctions", "C) Oui, mais uniquement après les heures de service", "D) Non, aucun fonctionnaire ne peut voter"],
     "answer": "B",
     "explanation": "Le devoir de réserve interdit au fonctionnaire de manifester ostensiblement ses opinions politiques dans l'exercice de ses fonctions.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la nationalit? ivoirienne par naissance ?",
     "options": ["A) ?tre n? en CI", "B) ?tre n? de p?re ou de m?re ivoirien(ne)", "C) ?tre n? en CI ou d'un parent ivoirien sous conditions", "D) Uniquement ?tre n? de deux parents ivoiriens"],
     "answer": "C",
     "explanation": "La nationalit? ivoirienne par naissance est attribu?e ? ceux n?s en CI dans certaines conditions ou n?s d'un parent ivoirien.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Pi?ge : une personne doublement nationale peut-elle obtenir le statut de refugie en CI ?",
     "options": ["A) Non un national CI ne peut pas etre refugie en CI", "B) Oui si elle prouve la persecution dans son autre pays", "C) Non les doubles nationaux n ont aucun droit au refuge", "D) Oui automatiquement"],
     "answer": "A",
     "explanation": "Un citoyen ivoirien ne peut pas demander le statut de refugie en CI. Le droit d asile protege les ?trangers dans un pays dont ils ne sont pas ressortissants.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la duree de la session parlementaire ordinaire en CI ?",
     "options": ["A) 3 mois par an", "B) 6 mois par an en deux sessions", "C) Permanente", "D) 9 mois par an"],
     "answer": "B",
     "explanation": "Le Parlement ivoirien se reunit en deux sessions ordinaires de 3 mois chacune soit 6 mois au total.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la difference entre une commune de plein exercice et une commune de moyen exercice en CI ?",
     "options": ["A) La taille de la population", "B) Le niveau d autonomie et de competences : une commune de plein exercice dispose d une autonomie plus grande", "C) La localisation geographique", "D) Le montant du budget"],
     "answer": "B",
     "explanation": "En CI les communes sont classees selon leur niveau d autonomie. Les communes de plein exercice ont plus de competences et de ressources.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de neutralité religieuse dans la fonction publique ivoirienne ?",
     "options": ["A) Les fonctionnaires ne peuvent pas pratiquer une religion", "B) Les fonctionnaires ne peuvent pas manifester leurs convictions religieuses dans l'exercice de leurs fonctions", "C) Les fonctionnaires doivent être athées", "D) La religion est interdite dans les locaux administratifs"],
     "answer": "B",
     "explanation": "La neutralité religieuse interdit aux fonctionnaires d'exprimer leurs convictions religieuses dans l'exercice de leurs fonctions.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la distinction entre le préfet et le gouverneur en CI ?",
     "options": ["A) Aucune différence", "B) En CI, depuis 2011, le gouverneur dirige le district autonome (Abidjan, Yamoussoukro) tandis que le préfet dirige le département", "C) Le gouverneur est un rôle historique supprimé", "D) Le gouverneur est élu ; le préfet est nommé"],
     "answer": "B",
     "explanation": "La Constitution de 2011-2016 a créé des districts autonomes dirigés par des gouverneurs nommés par le Président pour les grandes agglomérations.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le droit de pétition en Côte d'Ivoire ?",
     "options": ["A) Le droit de faire une requête à l'administration", "B) Le droit pour les citoyens d'adresser des demandes écrites aux autorités publiques", "C) Le droit de manifester", "D) Le droit de vote"],
     "answer": "B",
     "explanation": "Le droit de pétition permet aux citoyens d'adresser des demandes collectives ou individuelles aux pouvoirs publics.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de l'accès à la justice en Côte d'Ivoire ?",
     "options": ["A) Seuls les riches ont accès à la justice", "B) Tout citoyen a le droit de soumettre un litige à un tribunal et de bénéficier d'un procès équitable", "C) La justice est réservée aux fonctionnaires", "D) Les étrangers n'ont pas accès à la justice"],
     "answer": "B",
     "explanation": "L'accès à la justice est un droit fondamental : tout citoyen peut saisir un tribunal et bénéficier d'un procès équitable.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la déclaration d'utilité publique (DUP) en CI ?",
     "options": ["A) Un décret qui nationalise une entreprise", "B) Un acte administratif qui reconnaît l'intérêt général d'un projet et autorise l'expropriation si nécessaire", "C) Un document d'inscription d'une association", "D) Un permis de construire"],
     "answer": "B",
     "explanation": "La DUP est la condition préalable à toute expropriation en droit ivoirien.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le rôle du Sénat dans la procédure législative en Côte d'Ivoire ?",
     "options": ["A) Voter le budget national", "B) Examiner et amender les textes de loi adoptés par l'Assemblée nationale", "C) Nommer les juges", "D) Déclarer la guerre"],
     "answer": "B",
     "explanation": "Le Sénat ivoirien examine les lois, propose des amendements, mais l'Assemblée nationale a le dernier mot.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la composition du Sénat de Côte d'Ivoire selon la Constitution de 2016 ?",
     "options": ["A) Entièrement élu au suffrage direct", "B) 2/3 élus et 1/3 nommés par le Président", "C) Entièrement nommé par le Président", "D) Moitié élus, moitié tirés au sort"],
     "answer": "B",
     "explanation": "Le Sénat ivoirien : 2/3 des membres sont élus, 1/3 sont nommés par le Président de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit à la sécurité sociale en Côte d'Ivoire ?",
     "options": ["A) Le droit d'être armé", "B) Le droit de tout citoyen à des prestations sociales en cas de maladie, vieillesse, maternité ou accident du travail", "C) Le droit à une police privée", "D) Un droit réservé aux fonctionnaires"],
     "answer": "B",
     "explanation": "La sécurité sociale garantit des protections aux travailleurs : gérée par la CNPS en Côte d'Ivoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe d'inamovibilité des magistrats du siège en CI ?",
     "options": ["A) Ils ne peuvent pas être mutés sans leur accord ou procédure disciplinaire", "B) Ils peuvent être révoqués à tout moment", "C) Ils sont nommés à vie sans possibilité de départ", "D) Ils ne peuvent pas prendre de congés"],
     "answer": "A",
     "explanation": "L'inamovibilité protège l'indépendance des magistrats du siège contre les pressions politiques.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est l'âge minimum pour être élu député à l'Assemblée nationale en Côte d'Ivoire ?",
     "options": ["A) 18 ans", "B) 25 ans", "C) 30 ans", "D) 35 ans"],
     "answer": "B",
     "explanation": "En Côte d'Ivoire, il faut avoir au moins 25 ans pour être candidat à l'Assemblée nationale.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la responsabilité civile extracontractuelle (délictuelle) ?",
     "options": ["A) La responsabilité née d'un contrat", "B) La responsabilité pour un dommage causé sans relation contractuelle préalable (accident, faute)", "C) La responsabilité pénale", "D) La responsabilité de l'État uniquement"],
     "answer": "B",
     "explanation": "La responsabilité délictuelle (art. 1382 CC français, code ivoirien) s'applique hors contrat : faute → dommage → réparation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit de grève dans la fonction publique ivoirienne ?",
     "options": ["A) Il est totalement interdit", "B) Il est reconnu mais encadré : certains agents ne peuvent y recourir (forces de l'ordre) et un préavis est obligatoire", "C) Il est illimité", "D) Il est réservé aux agents de catégorie A"],
     "answer": "B",
     "explanation": "Le droit de grève existe dans la fonction publique mais il est encadré : préavis, services minimum, interdiction pour certains corps.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de continuité du service public en CI ?",
     "options": ["A) Les services publics ne ferment jamais", "B) Les services publics essentiels doivent fonctionner de manière continue sans interruption injustifiée", "C) Les fonctionnaires ne peuvent pas prendre de congés", "D) Les marchés publics doivent être renouvelés annuellement"],
     "answer": "B",
     "explanation": "La continuité est une des lois de Rolland : les services publics ne doivent pas connaître d'interruptions injustifiées.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le principe de sincérité budgétaire en CI ?",
     "options": ["A) Le budget doit être présenté honnêtement, sans sous-estimation des recettes ni surestimation des dépenses", "B) Le budget doit être voté à l'unanimité", "C) Le budget doit être équilibré", "D) Le budget ne peut pas être modifié en cours d'année"],
     "answer": "A",
     "explanation": "La sincérité budgétaire exige que les prévisions de recettes et de dépenses soient aussi précises et honnêtes que possible.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Conseil Économique, Social, Environnemental et Culturel (CESEC) de CI ?",
     "options": ["A) Un organe exécutif", "B) Une assemblée consultative qui émet des avis sur les questions économiques, sociales, environnementales et culturelles", "C) Un tribunal spécialisé", "D) Un organe législatif de remplacement"],
     "answer": "B",
     "explanation": "Le CESEC est une institution consultative : le gouvernement peut le consulter mais n'est pas obligé de suivre ses avis.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit de propriété en CI ?",
     "options": ["A) Un droit absolu sans aucune restriction", "B) Un droit fondamental garanti par la Constitution, mais susceptible de limitations pour cause d'utilité publique avec indemnisation juste", "C) Un droit réservé aux nationaux ivoiriens", "D) Un droit qui disparaît à la mort du propriétaire"],
     "answer": "B",
     "explanation": "Le droit de propriété est garanti par la Constitution mais peut être limité par l'expropriation pour utilité publique, moyennant indemnisation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'une loi de finances en Côte d'Ivoire ?",
     "options": ["A) Une loi fiscale ordinaire", "B) La loi qui autorise, pour l'année, la perception des ressources de l'État et fixe les dépenses publiques", "C) Une loi sur les finances des collectivités locales", "D) Une loi sur les investissements étrangers"],
     "answer": "B",
     "explanation": "La loi de finances (budget de l'État) est votée annuellement par le Parlement et encadrée par la LOLF.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la durée du mandat sénatorial en Côte d'Ivoire ?",
     "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
     "answer": "C",
     "explanation": "En Côte d'Ivoire, les sénateurs sont élus ou nommés pour 6 ans, renouvelables par moitié tous les 3 ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que la décentralisation fiscale en CI ?",
     "options": ["A) L'État perçoit tous les impôts pour les redistribuer", "B) Le transfert aux collectivités territoriales du pouvoir de lever certains impôts locaux pour financer leurs compétences", "C) La suppression des impôts nationaux", "D) La gestion par les banques des impôts locaux"],
     "answer": "B",
     "explanation": "La décentralisation fiscale donne aux collectivités le pouvoir de lever des impôts locaux pour financer leurs activités.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le rôle du Gouverneur dans un district autonome en Côte d'Ivoire ?",
     "options": ["A) Il est élu par les habitants du district", "B) Il est nommé par le Président et représente l'État tout en gérant le district autonome", "C) Il est nommé par le Parlement", "D) Il est choisi par le Conseil municipal"],
     "answer": "B",
     "explanation": "Le Gouverneur d'un district autonome (Abidjan, Yamoussoukro) est nommé par le Président de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle institution ivoirienne protège les droits des consommateurs ?",
     "options": ["A) Le CESEC", "B) La Direction de la Protection du Consommateur et de la Concurrence (DPCC)", "C) La Cour Suprême", "D) L'Assemblée nationale"],
     "answer": "B",
     "explanation": "La DPCC est l'organe administratif chargé de surveiller les pratiques commerciales et protéger les consommateurs en CI.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Conseil National des Droits de l'Homme (CNDH) de CI ?",
     "options": ["A) Un tribunal", "B) Une institution indépendante chargée de promouvoir et protéger les droits de l'homme en CI", "C) Un ministère", "D) Un organe de l'ONU en CI"],
     "answer": "B",
     "explanation": "Le CNDH est une institution nationale indépendante qui surveille le respect des droits humains et formule des recommandations.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le principe d'impartialité dans le service public ivoirien ?",
     "options": ["A) Les agents peuvent favoriser leurs proches", "B) Les agents doivent traiter tous les usagers sans discrimination ni favoritisme", "C) L'administration n'a pas d'opinion officielle", "D) Les agents ne peuvent pas avoir d'opinions politiques"],
     "answer": "B",
     "explanation": "L'impartialité oblige les agents publics à traiter tous les usagers de manière égale, sans discrimination.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le contrôle de gestion dans l'administration publique ivoirienne ?",
     "options": ["A) Le contrôle policier des fonctionnaires", "B) L'ensemble des processus qui permettent de maîtriser les ressources et d'atteindre les objectifs fixés", "C) L'audit externe uniquement", "D) Le contrôle exercé par le Parlement sur les ministères"],
     "answer": "B",
     "explanation": "Le contrôle de gestion est un outil interne de pilotage de la performance dans l'administration.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le principe de laïcité en Côte d'Ivoire ?",
     "options": ["A) L'État impose le christianisme", "B) L'État est neutre religieusement et garantit la liberté de conscience et de culte", "C) Les religions sont interdites dans l'espace public", "D) L'État subventionne toutes les religions"],
     "answer": "B",
     "explanation": "La Constitution ivoirienne garantit la liberté de conscience et la neutralité religieuse de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le droit à l'éducation en Côte d'Ivoire ?",
     "options": ["A) Un droit privé facultatif", "B) Un droit fondamental garanti par la Constitution : l'enseignement de base est obligatoire et gratuit", "C) Un droit réservé aux enfants des fonctionnaires", "D) Un droit qui s'achète"],
     "answer": "B",
     "explanation": "La Constitution ivoirienne garantit le droit à l'éducation ; l'enseignement primaire est obligatoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le système de l'État unitaire décentralisé adopté par la CI ?",
     "options": ["A) Un État fédéral avec des États autonomes", "B) Un État unique avec des collectivités locales dotées de compétences et d'autonomie propres", "C) Un État sans niveaux de gouvernement locaux", "D) Un État où les régions ont leur propre constitution"],
     "answer": "B",
     "explanation": "La CI est un État unitaire décentralisé : une seule loi nationale mais des collectivités locales autonomes dans leurs domaines.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le Fonds de Développement de la Formation Professionnelle (FDFP) en CI ?",
     "options": ["A) Un fonds pour les investissements étrangers", "B) Un organisme paritaire qui finance la formation professionnelle des salariés du secteur privé", "C) Un fonds pour les retraites des fonctionnaires", "D) Une caisse d'assurance maladie"],
     "answer": "B",
     "explanation": "Le FDFP collecte les taxes de formation professionnelle et finance les actions de formation dans le secteur privé ivoirien.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Sous la 3ème République ivoirienne (depuis 2016), le mandat du Président de la République est-il renouvelable ?",
     "options": ["A) Oui, indéfiniment", "B) Oui, une seule fois consécutivement", "C) Non, il est unique", "D) Oui, deux fois"],
     "answer": "B",
     "explanation": "Selon la Constitution de 2016, le mandat est de 5 ans renouvelable une seule fois.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de membres composent le Conseil Constitutionnel de la Côte d'Ivoire ?",
     "options": ["A) 7 membres", "B) 9 membres", "C) 11 membres", "D) 15 membres"],
     "answer": "A",
     "explanation": "Le Conseil Constitutionnel comprend un Président et six (6) conseillers, soit 7 membres au total.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est l'institution ivoirienne chargée de la régulation de la communication audiovisuelle ?",
     "options": ["A) La HACA", "B) Le CNP", "C) L'ANP", "D) L'ARTCI"],
     "answer": "A",
     "explanation": "La Haute Autorité de la Communication Audiovisuelle (HACA) régule le secteur audiovisuel.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Sénat ivoirien a été mis en place pour la première fois en quelle année ?",
     "options": ["A) 1990", "B) 2000", "C) 2016", "D) 2018"],
     "answer": "D",
     "explanation": "Prévu par la Constitution de 2016, le Sénat a été installé officiellement en 2018.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui préside le CSM en CI ?",
     "options": ["A) Ministre Justice", "B) Pt Cour Cassation", "C) Président République", "D) Pt Cons Constit"],
     "answer": "C",
     "explanation": "Le Président de la République préside le CSM.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Mandat Médiateur de la République ?",
     "options": ["A) 4 ans renouv", "B) 5 ans non renouv", "C) 6 ans non renouv", "D) 6 ans renouv"],
     "answer": "C",
     "explanation": "6 ans non renouvelable.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Composition Sénat ivoirien ?",
     "options": ["A) 100% élus", "B) 2/3 élus, 1/3 nommés", "C) 50% élus", "D) 100% nommés"],
     "answer": "B",
     "explanation": "2/3 élus, 1/3 nommé par le PR.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Collectivités territoriales actuelles ?",
     "options": ["A) Région/Commune", "B) District/Commune", "C) Département/Commune", "D) Village/Région"],
     "answer": "A",
     "explanation": "Région et Commune (Loi d'organisation).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Rôle de la HABG ?",
     "options": ["A) Elections", "B) Lutte corruption", "C) Médias", "D) Lois"],
     "answer": "B",
     "explanation": "Haute Autorité pour la Bonne Gouvernance (Anti-corruption).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Principe non constitutionnel CI ?",
     "options": ["A) Laïcité", "B) Décentralisation", "C) Droit grève", "D) Peine de mort"],
     "answer": "D",
     "explanation": "Peine de mort abolie.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Membres du CESEC appelés :",
     "options": ["A) Députés", "B) Conseillers", "C) Sénateurs", "D) Vénérables"],
     "answer": "B",
     "explanation": "Conseillers.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Président CEI est :",
     "options": ["A) Nommé AN", "B) Élu par CEI", "C) Nommé Cons Constit", "D) Nommé PR seul"],
     "answer": "B",
     "explanation": "Élu par les commissaires centraux.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Droit du sol CI ?",
     "options": ["A) 5 ans", "B) 10 ans", "C) Non automatique", "D) 2 ans"],
     "answer": "C",
     "explanation": "Droit du sol pur supprimé (Code nationalité 1972).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Service militaire en CI ?",
     "options": ["A) Obligatoire 18a", "B) Devoir encadré", "C) Supprimé", "D) Pour hommes"],
     "answer": "B",
     "explanation": "Devoir civique, bien que non strictement universel en pratique.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Emblèmes République CI ?",
     "options": ["A) Drapeau Hymne Armoiries", "B) Devise Drapeau Hymne", "C) Drapeau Hymne Armoiries Devise", "D) PR Drapeau"],
     "answer": "C",
     "explanation": "Les 4 emblèmes constitutionnels.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le vote en CI est :",
     "options": ["A) Droit+Devoir", "B) Pénal", "C) Privilège", "D) Civil"],
     "answer": "A",
     "explanation": "Droit et devoir civique non pénalement sanctionné.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Femme étrangère épouse ivoirien :",
     "options": ["A) Direct", "B) Déclaration (après délai)", "C) Naturalisation 5a", "D) Impossible"],
     "answer": "B",
     "explanation": "Acquisition par déclaration possible après un délai légal.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Mandat conseiller régional ?",
     "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
     "answer": "B",
     "explanation": "Les mandats locaux durent 5 ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Selon la Constitution ivoirienne de 2016 (modifiée en 2020), le pouvoir exécutif est :",
     "options": ["A) Monocéphale", "B) Bicéphale (Président de la République et Vice-Président)", "C) Collégial", "D) Exercé exclusivement par le Premier Ministre"],
     "answer": "B",
     "explanation": "L'exécutif est bicéphale, partagé entre le Président de la République et le Vice-Président (et le Premier ministre).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui fut le premier Président du Sénat ivoirien institué par la Constitution de 2016 ?",
     "options": ["A) Tiemoko Meyliet Koné", "B) Jeannot Ahoussou Kouadio", "C) Chantal Nanaba Camara", "D) Amadou Soumahoro"],
     "answer": "B",
     "explanation": "Jeannot Ahoussou Kouadio a été le premier président du Sénat de Côte d'Ivoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En 2027, la Cour des Comptes de Côte d'Ivoire a pour mission principale :",
     "options": ["A) De juger les conflits entre l'État et les particuliers", "B) Le contrôle supérieur des finances publiques", "C) La validation des candidatures à l'élection présidentielle", "D) L'organisation du référendum"],
     "answer": "B",
     "explanation": "La Cour des Comptes, institution de la République, assure le contrôle des finances publiques et juge les comptes des comptables publics.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Laquelle de ces entités N'EST PAS une collectivité territoriale en Côte d'Ivoire ?",
     "options": ["A) La Région", "B) La Commune", "C) Le Département", "D) Le District Autonome"],
     "answer": "C",
     "explanation": "Depuis la réorganisation, les collectivités territoriales décentralisées sont les Communes et les Régions. Les Districts Autonomes sont des entités particulières déconcentrées et décentralisées, mais le Département n'est plus une collectivité territoriale décentralisée (il est une circonscription administrative).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le droit du sol en Côte d'Ivoire :",
     "options": ["A) Est la règle absolue pour acquérir la nationalité", "B) A été supprimé par le Code de la nationalité de 1972", "C) S'applique uniquement aux enfants de réfugiés", "D) A été réintroduit par la Constitution de 2016"],
     "answer": "B",
     "explanation": "Le Code de la nationalité ivoirienne de 1972 a supprimé le droit du sol au profit du droit du sang (filiation).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Parmi les emblèmes de la République de Côte d'Ivoire, on compte :",
     "options": ["A) L'éléphant d'or", "B) Le drapeau tricolore, l'hymne, les armoiries et la devise", "C) Le pagne baoulé", "D) La basilique de Yamoussoukro"],
     "answer": "B",
     "explanation": "L'article 29 de la Constitution cite les 4 emblèmes : le Drapeau (Orange, Blanc, Vert), l'Hymne (L'Abidjanaise), la Devise (Union, Discipline, Travail) et les Armoiries.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Chambre nationale des Rois et Chefs traditionnels (CNRCT) :",
     "options": ["A) Est une simple association de droit privé", "B) Est une juridiction d'appel", "C) Est reconnue par la Constitution de 2016", "D) A été supprimée en 2020"],
     "answer": "C",
     "explanation": "La Constitution de 2016 consacre l'existence de la CNRCT en tant qu'institution de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La nomination du Vice-Président en Côte d'Ivoire se fait par :",
     "options": ["A) Élection au suffrage universel direct", "B) Le Président de la République, en accord avec le Parlement", "C) Le Conseil Constitutionnel", "D) Le Premier ministre"],
     "answer": "B",
     "explanation": "Depuis la révision constitutionnelle de 2020, le Vice-Président est nommé par le Président de la République avec l'accord du Parlement réuni en Congrès.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le système ivoirien, le contreseing des actes du Président de la République est apposé par :",
     "options": ["A) Le Vice-Président exclusivement", "B) Le Premier ministre et les ministres chargés de l'exécution, pour les actes non dispensés", "C) Le Président du Sénat", "D) Le Président de la Cour Suprême"],
     "answer": "B",
     "explanation": "Les actes du PR, sauf exceptions (nomination PM, etc.), sont contresignés par le PM et les ministres concernés.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Sénat ivoirien est composé :",
     "options": ["A) Entièrement de membres élus au suffrage direct", "B) De deux tiers élus au suffrage indirect et d'un tiers nommé par le Président de la République", "C) Entièrement de membres nommés", "D) Exclusivement de représentants de la diaspora"],
     "answer": "B",
     "explanation": "Le Sénat comprend 2/3 de sénateurs élus (suffrage universel indirect) et 1/3 nommés par le Chef de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle autorité est compétente pour juger la constitutionnalité des lois en Côte d'Ivoire ?",
     "options": ["A) Le Conseil d'État", "B) La Cour de Cassation", "C) Le Conseil Constitutionnel", "D) L'Assemblée Nationale"],
     "answer": "C",
     "explanation": "Le Conseil Constitutionnel est le juge de la constitutionnalité des lois (actuellement présidé par Chantal Nanaba Camara).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le District Autonome d'Abidjan est :",
     "options": ["A) Une collectivité territoriale ordinaire", "B) Une entité territoriale particulière dotée de la personnalité morale et de l'autonomie financière", "C) Une simple préfecture de police", "D) Un quartier de Yamoussoukro"],
     "answer": "B",
     "explanation": "Les Districts autonomes (Abidjan, Yamoussoukro) jouissent d'un statut particulier (déconcentration et décentralisation).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "L'institution chargée de garantir l'indépendance de la magistrature est :",
     "options": ["A) Le Ministère de la Justice", "B) Le Conseil Supérieur de la Magistrature (CSM)", "C) Le Conseil Constitutionnel", "D) L'ARCOP"],
     "answer": "B",
     "explanation": "Le CSM, présidé par le Président de la République, assiste ce dernier pour garantir l'indépendance de la justice.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Médiateur de la République en Côte d'Ivoire :",
     "options": ["A) Est un juge pénal", "B) Est une autorité administrative indépendante chargée de régler les litiges entre l'Administration et les administrés", "C) Dirige la politique étrangère", "D) Valide les traités internationaux"],
     "answer": "B",
     "explanation": "Le Médiateur reçoit les requêtes concernant le fonctionnement des administrations et aide au règlement amiable des conflits.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Parlement ivoirien de la 3ème République est :",
     "options": ["A) Monocaméral", "B) Bicaméral (Assemblée Nationale et Sénat)", "C) Tricaméral", "D) Inexistant"],
     "answer": "B",
     "explanation": "La Constitution de 2016 a instauré un Parlement bicaméral composé de l'Assemblée nationale et du Sénat.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui a été nommé Vice-Président de la République de Côte d'Ivoire en 2022 ?",
     "options": ["A) Daniel Kablan Duncan", "B) Tiémoko Meyliet Koné", "C) Patrick Achi", "D) Robert Beugré Mambé"],
     "answer": "B",
     "explanation": "Tiémoko Meyliet Koné a été nommé Vice-Président en avril 2022.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, l'initiative des lois appartient concurremment :",
     "options": ["A) Au Président de la République et aux membres du Parlement", "B) Uniquement au Premier Ministre", "C) Au Conseil Constitutionnel et au Sénat", "D) Aux Maires et au Président de la République"],
     "answer": "A",
     "explanation": "L'initiative des lois appartient au Président de la République et aux parlementaires (députés et sénateurs).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Loi d'orientation de l'Administration territoriale (1998) a consacré :",
     "options": ["A) La centralisation totale", "B) Les principes de déconcentration et de décentralisation", "C) La suppression des mairies", "D) L'élection des préfets"],
     "answer": "B",
     "explanation": "La loi a organisé l'administration territoriale ivoirienne autour des principes de déconcentration (préfets) et de décentralisation (collectivités locales).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le mandat du Président de la République en Côte d'Ivoire est actuellement de :",
     "options": ["A) 4 ans", "B) 5 ans, renouvelable une seule fois consécutivement", "C) 7 ans", "D) A vie"],
     "answer": "B",
     "explanation": "Selon la Constitution de 2016, le mandat présidentiel est de 5 ans, et le Président n'est rééligible qu'une seule fois consécutivement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Haute Autorité pour la Bonne Gouvernance (HABG) a principalement pour rôle :",
     "options": ["A) La lutte contre la corruption et les infractions assimilées", "B) L'organisation des examens du baccalauréat", "C) La régulation des médias", "D) La nomination des ambassadeurs"],
     "answer": "A",
     "explanation": "La HABG est chargée de la prévention et de la lutte contre la corruption en Côte d'Ivoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Conseil Économique, Social, Environnemental et Culturel (CESEC) :",
     "options": ["A) Vote le budget de l'État", "B) Donne un avis consultatif sur les projets de loi à caractère économique, social, environnemental ou culturel", "C) Juge les ministres", "D) Gère les réserves forestières"],
     "answer": "B",
     "explanation": "Le CESEC est une assemblée consultative qui donne des avis et mène des études sur ces domaines spécifiques.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le principe de l'inamovibilité s'applique à quels magistrats en Côte d'Ivoire ?",
     "options": ["A) Les magistrats du Parquet", "B) Les magistrats du Siège", "C) Tous les magistrats (Siège et Parquet)", "D) Uniquement aux juges du Conseil Constitutionnel"],
     "answer": "B",
     "explanation": "Seuls les magistrats du Siège (les juges) bénéficient de l'inamovibilité pour garantir leur indépendance, contrairement au Parquet, soumis à la subordination hiérarchique.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans la Constitution de 2016, l'école en Côte d'Ivoire est-elle une obligation fondamentale ?",
     "options": ["A) Non, c'est une simple recommandation.", "B) Oui, elle est obligatoire et gratuite pour les enfants des deux sexes jusqu'à l'âge requis.", "C) Elle est obligatoire uniquement pour les garçons.", "D) Elle est obligatoire, mais le financement est exclusivement privé."],
     "answer": "B",
     "explanation": "L'article 10 de la Constitution de 2016 (et modifiée 2020) garantit le droit à l'éducation, et précise que l'école est obligatoire pour tous les enfants des deux sexes. Elle est gratuite dans les établissements publics.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Parmi ces libertés, laquelle est expressément garantie par le Titre I de la Constitution ivoirienne ?",
     "options": ["A) Le droit d'acquérir des armes à feu", "B) La liberté d'association, de réunion et de manifestation", "C) Le droit absolu de refuser l'impôt", "D) L'immunité parlementaire pour tout citoyen"],
     "answer": "B",
     "explanation": "L'article 20 garantit les libertés d'association, de réunion et de manifestation pacifiques.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Selon la Constitution ivoirienne, qui peut saisir le Conseil constitutionnel pour contrôler la conformité d'une loi avant sa promulgation ?",
     "options": ["A) Uniquement le Président de la République", "B) Le PR, les Présidents de l'AN et du Sénat, ou 1/10ème des parlementaires", "C) Tout citoyen sans exception", "D) Le Procureur de la République"],
     "answer": "B",
     "explanation": "Le contrôle de constitutionnalité a priori peut être déclenché par le Président de la République, le Président de l'Assemblée Nationale, le Président du Sénat ou au moins un dixième des députés ou des sénateurs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Médiateur de la République ivoirien peut être saisi :",
     "options": ["A) Pour annuler un jugement d'assises", "B) Pour des différends opposant des personnes physiques ou morales à l'Administration", "C) Pour destituer le Président de la République", "D) Pour lever l'immunité d'un député"],
     "answer": "B",
     "explanation": "Le Médiateur est une AAI chargée de régler à l'amiable les litiges entre les usagers et l'Administration publique.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le processus législatif, si une commission paritaire ne parvient pas à un accord sur un texte (navette parlementaire), qui a le dernier mot en Côte d'Ivoire ?",
     "options": ["A) Le Sénat", "B) L'Assemblée Nationale", "C) Le Conseil d'État", "D) La Haute Autorité pour la Bonne Gouvernance"],
     "answer": "B",
     "explanation": "En cas de désaccord persistant (échec de la commission mixte paritaire), c'est l'Assemblée Nationale (élue au suffrage direct) qui a le dernier mot, sur demande du Président de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Haute Autorité pour la Bonne Gouvernance (HABG) a notamment pour mission de :",
     "options": ["A) Recueillir les déclarations de patrimoine des hautes personnalités.", "B) Auditer les partis politiques pendant les campagnes.", "C) Gérer les fonds souverains de l'État.", "D) Nommer les ambassadeurs."],
     "answer": "A",
     "explanation": "L'une des missions centrales de la HABG est la réception, le traitement et la conservation des déclarations de patrimoine des assujettis (ministres, hauts fonctionnaires) pour prévenir l'enrichissement illicite.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Selon la Constitution ivoirienne de 2016, la nomination du Premier Ministre par le Président de la République :",
     "options": ["A) Doit obligatoirement être contresignée par le Vice-Président.", "B) Est un pouvoir propre du Président, exercé sans contreseing.", "C) Nécessite l'approbation préalable de l'Assemblée Nationale.", "D) Est contresignée par le Président du Sénat."],
     "answer": "B",
     "explanation": "La nomination du Premier Ministre est l'un des pouvoirs propres du Chef de l'État (comme la dissolution de l'AN ou le recours au référendum), elle est dispensée du contreseing ministériel.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, selon la Constitution de 2016, quel est l'âge minimum requis pour être candidat à la présidence de la République ?",
     "options": ["A) 35 ans", "B) 40 ans", "C) 45 ans", "D) 50 ans"],
     "answer": "A",
     "explanation": "L'article 55 de la Constitution de 2016 fixe l'âge minimum à 35 ans et a supprimé le plafond d'âge maximum (qui était de 75 ans).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le cadre de la Constitution de la IIIème République ivoirienne, comment est désigné le Vice-Président de la République depuis la révision de 2020 ?",
     "options": ["A) Il est élu sur un ticket avec le Président lors du scrutin présidentiel", "B) Il est nommé par le Président de la République avec l'accord du Parlement", "C) Il est désigné par l'Assemblée nationale", "D) Il est nommé par le Conseil constitutionnel"],
     "answer": "B",
     "explanation": "Depuis la révision constitutionnelle de mars 2020, le Vice-Président est nommé par le Chef de l'État avec l'accord du Parlement réuni en Congrès.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la durée du mandat d'un Conseiller constitutionnel en Côte d'Ivoire ?",
     "options": ["A) 5 ans renouvelable", "B) 6 ans non renouvelable", "C) 7 ans non renouvelable", "D) 9 ans non renouvelable"],
     "answer": "B",
     "explanation": "Les membres du Conseil constitutionnel sont nommés pour un mandat de six ans non renouvelable, avec un renouvellement par moitié tous les trois ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, qui détient l'initiative de la révision de la Constitution ?",
     "options": ["A) Uniquement le Président de la République", "B) Uniquement les députés de l'Assemblée nationale", "C) Le Président de la République et les membres du Parlement", "D) Le Conseil constitutionnel et le Sénat"],
     "answer": "C",
     "explanation": "L'initiative de la révision de la Constitution appartient concurremment au Président de la République et aux membres du Parlement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En cas de vacance de la Présidence de la République par décès ou démission absolue, qui assure l'intérim selon la Constitution de 2016 (révisée en 2020) ?",
     "options": ["A) Le Président de l'Assemblée nationale", "B) Le Président du Sénat", "C) Le Premier Ministre", "D) Le Vice-Président de la République"],
     "answer": "D",
     "explanation": "Le Vice-Président de la République supplée le Président de la République et devient le nouveau Président en cas de vacance du pouvoir.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la durée du mandat des députés à l'Assemblée Nationale ivoirienne ?",
     "options": ["A) 4 ans", "B) 5 ans", "C) 6 ans", "D) 7 ans"],
     "answer": "B",
     "explanation": "Les députés sont élus au suffrage universel direct pour un mandat de cinq (5) ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Comment les membres du Sénat ivoirien sont-ils désignés ?",
     "options": ["A) Ils sont tous élus au suffrage universel direct", "B) Ils sont tous nommés par le Président de la République", "C) Les deux tiers (2/3) sont élus au suffrage universel indirect et un tiers (1/3) est nommé par le Président", "D) La moitié est élue, l'autre moitié est nommée par les partis politiques"],
     "answer": "C",
     "explanation": "Le Sénat ivoirien est composé pour deux tiers d'élus (suffrage universel indirect) et pour un tiers de membres nommés par le Chef de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Sous quelles conditions l'Assemblée Nationale peut-elle engager la responsabilité du gouvernement par une motion de censure en Côte d'Ivoire ?",
     "options": ["A) Elle requiert la majorité absolue des membres de l'Assemblée", "B) Elle requiert la majorité des deux tiers (2/3) des membres de l'Assemblée", "C) Elle nécessite l'accord du Sénat", "D) Le gouvernement est irresponsable devant le Parlement"],
     "answer": "A",
     "explanation": "La motion de censure est adoptée à la majorité absolue des membres composant l'Assemblée nationale.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Lequel de ces actes est du ressort exclusif de l'Assemblée Nationale et non du Sénat en Côte d'Ivoire ?",
     "options": ["A) Le vote des lois ordinaires", "B) L'adoption d'une motion de censure contre le Gouvernement", "C) La révision de la Constitution", "D) L'approbation des traités internationaux"],
     "answer": "B",
     "explanation": "Seule l'Assemblée nationale peut mettre en cause la responsabilité du Gouvernement par le vote d'une motion de censure.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, qui est le Chef du Gouvernement ?",
     "options": ["A) Le Président de la République", "B) Le Vice-Président", "C) Le Premier Ministre", "D) Le Président de l'Assemblée Nationale"],
     "answer": "C",
     "explanation": "Le Premier Ministre est le Chef du Gouvernement. Il dirige et coordonne l'action gouvernementale.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle institution ivoirienne a pour mission principale la prévention et la lutte contre la corruption ?",
     "options": ["A) La Cour des Comptes", "B) L'Inspection Générale de l'État (IGE)", "C) La Haute Autorité pour la Bonne Gouvernance (HABG)", "D) Le Médiateur de la République"],
     "answer": "C",
     "explanation": "La Haute Autorité pour la Bonne Gouvernance (HABG) est chargée de la prévention et de la lutte contre la corruption et les infractions assimilées.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le rôle principal du Médiateur de la République en Côte d'Ivoire ?",
     "options": ["A) Arbitrer les conflits entre partis politiques", "B) Régler à l'amiable les différends entre les citoyens et l'Administration", "C) Négocier les traités internationaux", "D) Juger les fautes de gestion des agents publics"],
     "answer": "B",
     "explanation": "Le Médiateur de la République est une autorité indépendante chargée de résoudre à l'amiable les conflits opposant les citoyens aux administrations.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est l'institution chargée de la valorisation des us et coutumes et de la prévention pacifique des crises sociales ?",
     "options": ["A) Le CESEC", "B) La Chambre Nationale des Rois et Chefs Traditionnels (CNRCT)", "C) Le Ministère de la Réconciliation", "D) La Commission Électorale Indépendante"],
     "answer": "B",
     "explanation": "La CNRCT est une institution de la République chargée d'impliquer les rois et chefs traditionnels dans la prévention et le règlement pacifique des conflits.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, quelle juridiction est la plus haute instance de l'ordre judiciaire ?",
     "options": ["A) Le Conseil d'État", "B) Le Conseil Constitutionnel", "C) La Cour de Cassation", "D) La Cour des Comptes"],
     "answer": "C",
     "explanation": "La Cour de Cassation est la juridiction suprême de l'ordre judiciaire (matière pénale, civile, commerciale et sociale).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle institution juridictionnelle juge la légalité des actes administratifs et joue le rôle de juridiction suprême de l'ordre administratif en CI ?",
     "options": ["A) La Cour Suprême", "B) Le Conseil d'État", "C) Le Tribunal des Conflits", "D) La Haute Cour de Justice"],
     "answer": "B",
     "explanation": "Le Conseil d'État est la juridiction suprême de l'ordre administratif depuis l'éclatement de l'ancienne Cour Suprême.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est l'organe chargé d'organiser, superviser et contrôler les élections en Côte d'Ivoire ?",
     "options": ["A) Le Ministère de l'Intérieur", "B) Le Conseil constitutionnel", "C) La Commission Électorale Indépendante (CEI)", "D) L'Observatoire des élections"],
     "answer": "C",
     "explanation": "La CEI est l'Autorité Administrative Indépendante chargée de toutes les opérations électorales en Côte d'Ivoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle institution contrôle les finances publiques, juge les comptes des comptables publics et assiste le Parlement dans le contrôle de l'action du gouvernement ?",
     "options": ["A) La Direction Générale du Trésor", "B) La Cour des Comptes", "C) L'Inspection Générale des Finances", "D) Le Conseil Économique et Social"],
     "answer": "B",
     "explanation": "La Cour des Comptes est la juridiction financière suprême en Côte d'Ivoire, chargée de juger les comptes publics.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, en cas de conflit de compétence entre une juridiction de l'ordre administratif et une juridiction de l'ordre judiciaire, qui tranche ?",
     "options": ["A) La Cour de Cassation", "B) Le Conseil d'État", "C) Le Tribunal des Conflits", "D) Le Conseil Constitutionnel"],
     "answer": "C",
     "explanation": "Le Tribunal des Conflits est l'organe chargé de régler les conflits de compétence entre les juridictions de l'ordre judiciaire et administratif.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui dirige la Grande Chancellerie de l'Ordre National en Côte d'Ivoire ?",
     "options": ["A) Le Grand Chancelier", "B) Le Médiateur de la République", "C) Le Ministre d'État", "D) Le Président de l'Assemblée nationale"],
     "answer": "A",
     "explanation": "La Grande Chancellerie est dirigée par un Grand Chancelier, chargé de l'administration des ordres nationaux (Ordre national, Ordre du mérite).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la durée du mandat des membres du Conseil Économique, Social, Environnemental et Culturel (CESEC) ?",
     "options": ["A) 3 ans", "B) 4 ans", "C) 5 ans", "D) 7 ans"],
     "answer": "C",
     "explanation": "Les membres du CESEC (les conseillers économiques et sociaux) sont nommés pour un mandat de cinq ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans l'organisation territoriale de la Côte d'Ivoire, Abidjan et Yamoussoukro ont un statut particulier. De quoi s'agit-il ?",
     "options": ["A) Des communes de plein exercice simples", "B) Des régions autonomes", "C) Des Districts Autonomes", "D) Des départements spéciaux"],
     "answer": "C",
     "explanation": "Abidjan et Yamoussoukro, et depuis 2021 d'autres entités, ont le statut de Districts Autonomes dirigés par des Ministres-Gouverneurs.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de régions compte actuellement la Côte d'Ivoire ?",
     "options": ["A) 19", "B) 31", "C) 33", "D) 14"],
     "answer": "B",
     "explanation": "La Côte d'Ivoire compte 31 régions, qui sont des collectivités territoriales décentralisées.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui est l'organe délibérant au niveau de la commune en Côte d'Ivoire ?",
     "options": ["A) Le Maire", "B) La Municipalité", "C) Le Conseil Municipal", "D) Le Secrétaire Général de Mairie"],
     "answer": "C",
     "explanation": "Le Conseil Municipal est l'assemblée délibérante, élue au suffrage universel direct, qui gère les affaires de la commune.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, quelle autorité exerce la tutelle administrative sur les collectivités territoriales (communes, régions) ?",
     "options": ["A) Le Président de la République", "B) Le Préfet et le Ministre chargé de l'Intérieur/Décentralisation", "C) Le Juge Administratif", "D) Le Trésorier Payeur"],
     "answer": "B",
     "explanation": "La tutelle est assurée au niveau local par le Préfet de département ou de région, sous l'autorité du Ministre chargé de la Décentralisation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la circonscription administrative de base de l'administration déconcentrée en Côte d'Ivoire ?",
     "options": ["A) Le département", "B) La région", "C) La commune", "D) La sous-préfecture"],
     "answer": "D",
     "explanation": "La sous-préfecture, dirigée par un sous-préfet, est la plus petite unité de base de l'administration déconcentrée de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui nomme le Préfet de département en Côte d'Ivoire ?",
     "options": ["A) Le Ministre de l'Intérieur par arrêté", "B) Le Président de la République par décret en Conseil des Ministres", "C) Le Conseil Régional par élection", "D) Le Premier Ministre par décret simple"],
     "answer": "B",
     "explanation": "Le Préfet est un haut fonctionnaire du corps préfectoral, nommé par décret du Président de la République pris en Conseil des Ministres.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel fonds permet à l'État ivoirien d'accompagner financièrement les collectivités locales dans leurs investissements ?",
     "options": ["A) Le Trésor Public", "B) Le Fonds National de Solidarité", "C) Le Fonds Prêt d'Honneur", "D) Les dotations (Fonctionnement et Équipement) gérées par la DGDDL"],
     "answer": "D",
     "explanation": "L'État alloue des dotations annuelles pour le fonctionnement et l'investissement des collectivités locales.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En CI, le Maire possède une double casquette. Laquelle ?",
     "options": ["A) Agent de l'État et Agent de la région", "B) Agent de la commune et Agent de l'État", "C) Magistrat et Avocat", "D) Chef du conseil régional et Chef de la commune"],
     "answer": "B",
     "explanation": "Le maire est à la fois l'exécutif de la commune décentralisée (agent de la collectivité) et représentant de l'État (état civil, police).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le rôle du Ministre-Gouverneur dans un District Autonome ivoirien ?",
     "options": ["A) Il est le maire de toutes les communes du district", "B) Il assure la supervision et la coordination des grands projets d'aménagement et de développement du district", "C) Il remplace les préfets de la région", "D) Il vote le budget des mairies"],
     "answer": "B",
     "explanation": "Le Ministre-Gouverneur est chargé du développement suprarégional, il coordonne les grands projets de l'État sans supprimer les maires et préfets.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le système de décentralisation ivoirien, la commune est-elle hiérarchiquement soumise à la région ?",
     "options": ["A) Oui, la région peut annuler les décisions de la commune", "B) Oui, le budget communal est approuvé par la région", "C) Non, il n'y a pas de tutelle d'une collectivité territoriale sur une autre", "D) Non, la commune a autorité sur la région"],
     "answer": "C",
     "explanation": "Le principe de l'interdiction de tutelle entre collectivités prévaut. La commune et la région sont autonomes et égales juridiquement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, l'attribution de la nationalité est fondée principalement sur :",
     "options": ["A) Le droit du sol strict (jus soli)", "B) Le droit du sang (jus sanguinis)", "C) La naturalisation uniquement", "D) Le lieu de naissance des grands-parents"],
     "answer": "B",
     "explanation": "Le Code de la nationalité ivoirienne privilégie le droit du sang (être né de père ou de mère ivoirien).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le délai de résidence habituelle requis en Côte d'Ivoire pour qu'un étranger puisse demander la naturalisation ?",
     "options": ["A) 2 ans", "B) 5 ans", "C) 10 ans", "D) 15 ans"],
     "answer": "B",
     "explanation": "La naturalisation peut être accordée à l'étranger qui justifie d'une résidence habituelle en Côte d'Ivoire pendant les 5 années précédant le dépôt de sa demande.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel organisme étatique est responsable de l'émission de la Carte Nationale d'Identité (CNI) biométrique en Côte d'Ivoire ?",
     "options": ["A) L'Institut National de la Statistique (INS)", "B) L'Office National de l'État Civil et de l'Identification (ONECI)", "C) La Direction Générale de la Police Nationale", "D) L'Agence Nationale d'Identification"],
     "answer": "B",
     "explanation": "L'ONECI est l'établissement chargé de la politique nationale de l'état civil et de l'identification en CI.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, à quel âge est fixée la majorité civile pour un citoyen (droit commun) ?",
     "options": ["A) 16 ans", "B) 18 ans", "C) 20 ans", "D) 21 ans"],
     "answer": "D",
     "explanation": "Piège fréquent : bien que le droit de vote s'acquière à 18 ans, la majorité civile (Code civil) pour contracter est fixée à 21 ans (sauf émancipation).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle condition un Ivoirien doit-il remplir pour pouvoir exercer son droit de vote ?",
     "options": ["A) Avoir au moins 21 ans", "B) Payer des impôts", "C) Être inscrit sur la liste électorale et jouir de ses droits civils et politiques", "D) Être membre d'un parti politique"],
     "answer": "C",
     "explanation": "Pour voter, l'Ivoirien (dès 18 ans) doit impérativement être inscrit sur le fichier électoral et ne pas être déchu de ses droits.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Une femme étrangère épouse un Ivoirien. En vertu du code ivoirien, comment obtient-elle la nationalité ?",
     "options": ["A) Immédiatement après le mariage civil", "B) Par déclaration faite au moment du mariage, avec effet à la date de célébration (sous réserve d'annulation de l'administration)", "C) Après 5 ans de mariage obligatoire", "D) Elle ne peut l'obtenir que par naturalisation"],
     "answer": "B",
     "explanation": "La nationalité par mariage s'acquiert par déclaration, mais le gouvernement peut s'y opposer dans un délai d'un an.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "L'Ivoirien d'origine peut-il être déchu de sa nationalité ivoirienne ?",
     "options": ["A) Oui, en cas de trahison ou d'atteinte à la sûreté de l'État", "B) Oui, s'il acquiert une autre nationalité", "C) Non, la déchéance ne s'applique qu'aux personnes ayant acquis la nationalité", "D) Non, la nationalité est inaliénable pour tous"],
     "answer": "C",
     "explanation": "La déchéance de nationalité ne peut frapper qu'une personne ayant acquis la nationalité ivoirienne, jamais un Ivoirien d'origine.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Selon la Constitution ivoirienne, lequel de ces devoirs est imposé au citoyen ?",
     "options": ["A) Le devoir de cotiser à un parti politique", "B) Le devoir de contribuer aux charges publiques (impôts)", "C) Le devoir de servir dans l'armée active", "D) Le devoir d'adhérer à un syndicat"],
     "answer": "B",
     "explanation": "La Constitution de 2016 stipule que chaque citoyen doit s'acquitter de ses impôts pour contribuer aux charges de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La double nationalité est-elle admise en Côte d'Ivoire ?",
     "options": ["A) Non, elle est formellement interdite par la loi", "B) Oui, elle est tolérée de manière générale, bien que restreinte pour la plus haute fonction (Présidence)", "C) Oui, sans aucune restriction politique", "D) Uniquement pour les Ivoiriens de la diaspora"],
     "answer": "B",
     "explanation": "La double nationalité est admise pour les citoyens ordinaires, mais un candidat à la présidence ne doit s'être prévalu d'aucune autre nationalité.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la valeur de la Carte Nationale d'Identité (CNI) ivoirienne dans l'espace CEDEAO ?",
     "options": ["A) Elle ne permet pas de voyager", "B) Elle fait office de document de voyage valide pour franchir les frontières au sein de l'espace CEDEAO", "C) Elle est valable uniquement avec un visa", "D) Elle n'a de valeur qu'au sein de l'UEMOA"],
     "answer": "B",
     "explanation": "La CNI biométrique permet aux citoyens ivoiriens de voyager librement au sein de l'espace de la CEDEAO (libre circulation des personnes).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "A quelle date la Côte d'Ivoire a-t-elle proclamé son indépendance ?",
     "options": ["A) 7 août 1958", "B) 7 août 1960", "C) 4 décembre 1958", "D) 7 octobre 1960"],
     "answer": "B",
     "explanation": "Félix Houphouët-Boigny a proclamé l'indépendance de la Côte d'Ivoire le 7 août 1960.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui fut le premier Président de la Première République de Côte d'Ivoire ?",
     "options": ["A) Henri Konan Bédié", "B) Robert Guéï", "C) Félix Houphouët-Boigny", "D) Laurent Gbagbo"],
     "answer": "C",
     "explanation": "Félix Houphouët-Boigny a été le premier Président de la République, de 1960 jusqu'à son décès en 1993.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En quelle année Yamoussoukro a-t-elle été désignée comme capitale politique et administrative de la Côte d'Ivoire ?",
     "options": ["A) 1960", "B) 1975", "C) 1983", "D) 1990"],
     "answer": "C",
     "explanation": "Par la loi du 21 mars 1983, la capitale politique et administrative a été transférée d'Abidjan à Yamoussoukro.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "À l'avènement du multipartisme en 1990, qui a été nommé au poste de Premier Ministre, fonction nouvellement rétablie ?",
     "options": ["A) Seydou Diarra", "B) Alassane Ouattara", "C) Daniel Kablan Duncan", "D) Charles Konan Banny"],
     "answer": "B",
     "explanation": "Alassane Ouattara a été nommé Premier Ministre par Félix Houphouët-Boigny en 1990, lors de la légalisation du multipartisme.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Suite au décès de Félix Houphouët-Boigny en 1993, qui a assuré la succession constitutionnelle à la présidence selon l'article 11 de la Constitution d'alors ?",
     "options": ["A) Le Premier Ministre", "B) Le Président du Conseil Économique et Social", "C) Le Président de l'Assemblée Nationale", "D) Le Président de la Cour Suprême"],
     "answer": "C",
     "explanation": "Henri Konan Bédié, alors Président de l'Assemblée Nationale, a achevé le mandat présidentiel en vertu de l'article 11 de la Constitution de 1960.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel événement a conduit à la fin de la Première République ivoirienne ?",
     "options": ["A) La mort d'Houphouët-Boigny en 1993", "B) Le coup d'État militaire du 24 décembre 1999", "C) La rébellion de 2002", "D) Les élections de 2010"],
     "answer": "B",
     "explanation": "Le coup d'État de décembre 1999 mené par le général Robert Guéï a suspendu la constitution de 1960, mettant fin à la Première République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En quelle année la Constitution instaurant la Deuxième République a-t-elle été adoptée par référendum ?",
     "options": ["A) 1999", "B) 2000", "C) 2010", "D) 2016"],
     "answer": "B",
     "explanation": "La Constitution de la IIème République a été adoptée par le référendum de juillet 2000, sous la transition militaire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Troisième République ivoirienne est officiellement née suite à l'adoption de la Constitution de :",
     "options": ["A) Novembre 2010", "B) Octobre 2016", "C) Mars 2020", "D) Juillet 2000"],
     "answer": "B",
     "explanation": "La promulgation de la Constitution approuvée par référendum le 30 octobre 2016 marque le début de la IIIème République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans l'histoire ivoirienne, qui a été le premier Président de l'Assemblée nationale après l'indépendance ?",
     "options": ["A) Auguste Denise", "B) Philippe Grégoire Yacé", "C) Mamadou Koulibaly", "D) Henri Konan Bédié"],
     "answer": "B",
     "explanation": "Philippe Yacé a été le très influent Président de l'Assemblée Nationale ivoirienne de 1959 à 1980.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel accord, signé en janvier 2003 en France, a tenté de mettre fin à la crise politico-militaire ivoirienne en instaurant un gouvernement de réconciliation nationale ?",
     "options": ["A) L'accord de Ouagadougou", "B) L'accord d'Accra", "C) L'accord de Linas-Marcoussis", "D) L'accord de Pretoria"],
     "answer": "C",
     "explanation": "L'accord de Linas-Marcoussis, signé en 2003, prévoyait le partage du pouvoir et d'importantes réformes institutionnelles.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel texte législatif fixe le Statut Général de la Fonction Publique en Côte d'Ivoire (dernière version majeure adoptée récemment) ?",
     "options": ["A) La loi de 1960", "B) La loi de 1992 révisée par la loi de novembre 2023", "C) Le décret de 2015", "D) La Constitution de 2016"],
     "answer": "B",
     "explanation": "Le statut général de la fonction publique a été profondément révisé par la nouvelle loi n° 2023-892 du 23 novembre 2023.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans l'administration ivoirienne, en combien de grades ou catégories (catégories indiciaires) les fonctionnaires sont-ils classés ?",
     "options": ["A) Trois (A, B, C)", "B) Quatre (A, B, C, D)", "C) Cinq (A, B, C, D, E)", "D) Deux (Cadres et Agents)"],
     "answer": "B",
     "explanation": "Les fonctionnaires sont hiérarchisés en quatre grandes catégories : A (cadres supérieurs), B (cadres moyens), C (agents de maîtrise) et D (agents d'exécution).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "À quelle autorité est directement rattachée l'Inspection Générale d'État (IGE) ivoirienne ?",
     "options": ["A) Au Ministre de la Fonction Publique", "B) Au Premier Ministre", "C) À la Présidence de la République", "D) À la Cour des Comptes"],
     "answer": "C",
     "explanation": "L'IGE, organe de contrôle supérieur de l'administration ivoirienne, est directement rattachée à la Présidence de la République.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel outil informatique est utilisé en Côte d'Ivoire pour la gestion intégrée des personnels de l'État (civils) ?",
     "options": ["A) SIGMAP", "B) SYDONIA", "C) SIGFAE", "D) Aster"],
     "answer": "C",
     "explanation": "Le SIGFAE (Système Intégré de Gestion des Fonctionnaires et Agents de l'État) permet le traitement administratif des ressources humaines.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Parmi les obligations du fonctionnaire ivoirien, que signifie le 'devoir de réserve' ?",
     "options": ["A) Ne pas révéler de secrets professionnels", "B) S'abstenir d'exprimer publiquement des opinions personnelles, politiques ou religieuses de manière outrancière", "C) Interdiction absolue d'être syndiqué", "D) Rester au bureau au-delà des heures de travail"],
     "answer": "B",
     "explanation": "Le devoir de réserve impose au fonctionnaire de la mesure et de la retenue dans l'expression publique de ses opinions.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Lequel de ces actes constitue une sanction disciplinaire du 2ème degré dans la fonction publique ivoirienne ?",
     "options": ["A) L'avertissement", "B) Le blâme", "C) La radiation du tableau d'avancement ou la révocation", "D) La mise à la retraite anticipée"],
     "answer": "C",
     "explanation": "Les sanctions de 2ème degré (conseil de discipline) incluent l'abaissement d'échelon, l'exclusion temporaire et la révocation.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le cadre de l'accès aux emplois publics en CI, quel principe fondamental régit les concours ?",
     "options": ["A) Le parrainage", "B) Le principe d'égalité des citoyens", "C) Le cooptage par ancienneté", "D) Le système de quotas ethniques"],
     "answer": "B",
     "explanation": "La Constitution et le Statut général consacrent l'égal accès des citoyens aux emplois publics sur la base du mérite.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel ministère ivoirien supervise la Direction Générale du Budget et des Finances (DGBF) ?",
     "options": ["A) Le Ministère de la Fonction Publique", "B) Le Ministère de l'Économie et des Finances et/ou du Budget", "C) Le Ministère de l'Intérieur", "D) La Primature"],
     "answer": "B",
     "explanation": "La DGBF, garante de la bonne exécution des lois de finances, est rattachée au Ministère chargé du Budget et des Finances.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce qu'un Établissement Public Administratif (EPA) en Côte d'Ivoire (ex: l'ENA) ?",
     "options": ["A) Une société privée financée par l'État", "B) Un ministère délocalisé", "C) Une personne morale de droit public dotée de l'autonomie financière, gérant un service public administratif", "D) Une ONG reconnue d'utilité publique"],
     "answer": "C",
     "explanation": "L'EPA est démembrement de l'État doté de la personnalité morale et de l'autonomie financière pour accomplir une mission de service public.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans la fonction publique ivoirienne, l'âge de la retraite pour les fonctionnaires de grade A4 et A7 (cadres supérieurs) est fixé à :",
     "options": ["A) 55 ans", "B) 60 ans", "C) 65 ans", "D) 70 ans"],
     "answer": "C",
     "explanation": "Selon les réformes récentes du statut, la limite d'âge pour les grades A4 à A7 (hors magistrats et enseignants du supérieur) est de 65 ans.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, l'instauration définitive et effective du multipartisme politique a eu lieu en quelle année ?",
     "options": ["A) 1960", "B) 1980", "C) 1990", "D) 2000"],
     "answer": "C",
     "explanation": "Avril 1990 marque l'autorisation des partis politiques d'opposition, finissant l'ère du parti unique de facto sous le PDCI-RDA.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Selon la Constitution ivoirienne, sur quelle base la création d'un parti politique est-elle formellement proscrite ?",
     "options": ["A) L'idéologie communiste", "B) Le libéralisme économique", "C) L'appartenance ethnique, religieuse, régionale ou raciale", "D) Le soutien exclusif aux jeunes"],
     "answer": "C",
     "explanation": "L'article 14 de la Constitution interdit les partis fondés sur des critères d'ethnie, de religion ou de région pour préserver l'unité nationale.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Que signifie le sigle RHDP, parti politique actuellement au pouvoir en Côte d'Ivoire ?",
     "options": ["A) Rassemblement des Houphouëtistes pour la Démocratie et la Paix", "B) Réseau Historique Démocratique et Populaire", "C) Rassemblement Humaniste pour les Droits Politiques", "D) Regroupement pour l'Harmonie et le Développement Partagé"],
     "answer": "A",
     "explanation": "Le RHDP, fondé initialement comme coalition en 2005 puis transformé en parti unifié en 2018.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, l'opposition politique dispose d'un statut particulier garanti par la loi. Que prévoit notamment ce statut concernant le Chef de l'opposition ?",
     "options": ["A) Il est membre de droit du gouvernement", "B) Il bénéficie d'avantages protocolaires et financiers", "C) Il a un droit de veto sur les lois", "D) Il est nommé par la Cour Suprême"],
     "answer": "B",
     "explanation": "La loi sur le statut de l'opposition accorde des droits, un statut protocolaire et des moyens au Chef de l'opposition.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le plus ancien parti politique de Côte d'Ivoire encore en activité ?",
     "options": ["A) FPI", "B) PIT", "C) PDCI-RDA", "D) UDPCI"],
     "answer": "C",
     "explanation": "Le Parti Démocratique de Côte d'Ivoire (PDCI-RDA) a été fondé en 1946 par Félix Houphouët-Boigny.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Les partis politiques ivoiriens bénéficient-ils d'un financement public sur le budget de l'État ?",
     "options": ["A) Non, c'est strictement interdit", "B) Oui, le financement public est accordé proportionnellement à la représentation électorale (députés, maires)", "C) Oui, chaque parti reconnu reçoit la même somme fixe annuelle", "D) Seulement pendant les campagnes présidentielles"],
     "answer": "B",
     "explanation": "La loi prévoit un financement public pour les partis, calculé au prorata des élus qu'ils obtiennent aux élections nationales et locales.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En droit ivoirien, quelle liberté garantit le droit pour les citoyens de se regrouper en ONG ou syndicats ?",
     "options": ["A) La liberté d'association", "B) La liberté d'entreprendre", "C) La liberté d'aller et venir", "D) La liberté de la presse"],
     "answer": "A",
     "explanation": "La liberté d'association (régie par la loi de 1960 sur les associations) permet la création d'ONG et de partis.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est l'Autorité Administrative Indépendante chargée de réguler le secteur de l'audiovisuel et des médias en CI ?",
     "options": ["A) L'ANP (Autorité Nationale de la Presse)", "B) La HACA (Haute Autorité de la Communication Audiovisuelle)", "C) L'ARTCI", "D) Le Conseil de l'Ordre des Journalistes"],
     "answer": "B",
     "explanation": "La HACA régule les radios, télévisions et l'espace de la communication audiovisuelle en Côte d'Ivoire.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, une manifestation pacifique sur la voie publique requiert généralement :",
     "options": ["A) Une simple déclaration préalable aux autorités compétentes (Préfecture/Mairie)", "B) Une autorisation écrite du Chef de l'État", "C) L'absence totale d'encadrement", "D) L'accord du Procureur de la République"],
     "answer": "A",
     "explanation": "Le régime est celui de la déclaration préalable, bien que l'autorité administrative puisse l'interdire pour des motifs d'ordre public.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Front Populaire Ivoirien (FPI), parti majeur de gauche en CI, a été fondé historiquement par :",
     "options": ["A) Laurent Gbagbo", "B) Francis Wodié", "C) Bernard Dadié", "D) Seydou Diarra"],
     "answer": "A",
     "explanation": "Laurent Gbagbo a fondé le FPI dans la clandestinité dans les années 1980 avant sa légalisation en 1990.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est la vision centrale du Plan National de Développement (PND) 2021-2025 de la Côte d'Ivoire ?",
     "options": ["A) La Révolution Agricole", "B) Le concept de 'Côte d'Ivoire Solidaire'", "C) L'Émergence par le pétrole", "D) La Côte d'Ivoire numérique"],
     "answer": "B",
     "explanation": "Le PND 2021-2025 s'articule autour de la vision du Président de bâtir une 'Côte d'Ivoire solidaire'.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Combien de piliers structurent le PND 2021-2025 de la Côte d'Ivoire ?",
     "options": ["A) 3 piliers", "B) 4 piliers", "C) 6 piliers", "D) 8 piliers"],
     "answer": "C",
     "explanation": "Le PND 2021-2025 repose sur 6 piliers majeurs pour accélérer la transformation économique et sociale.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "À combien s'élève environ l'enveloppe globale d'investissement prévue pour le PND 2021-2025 en CI ?",
     "options": ["A) 15 000 milliards de FCFA", "B) 30 000 milliards de FCFA", "C) 59 000 milliards de FCFA", "D) 100 000 milliards de FCFA"],
     "answer": "C",
     "explanation": "L'enveloppe globale est d'environ 59 000 milliards de FCFA (59 012,6 milliards exactement).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le financement du PND 2021-2025, quelle est la proportion attendue du secteur privé ?",
     "options": ["A) 25%", "B) 50%", "C) 74%", "D) 95%"],
     "answer": "C",
     "explanation": "Le secteur privé est le moteur principal et doit contribuer à hauteur d'environ 74% des investissements.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Lequel des éléments suivants est le Pilier 1 du PND 2021-2025 ?",
     "options": ["A) L'accélération de la transformation structurelle de l'économie par l'industrialisation", "B) Le renforcement de la diplomatie", "C) La construction de stades de football", "D) La suppression de l'armée"],
     "answer": "A",
     "explanation": "La transformation structurelle par l'industrialisation (notamment agricole) est la base économique du PND.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel programme gouvernemental spécifique ivoirien est intégré au PND pour traiter l'insertion socio-professionnelle ?",
     "options": ["A) Le Programme PJ-Gouv (Programme Jeunesse du Gouvernement)", "B) L'Opération coup de balai", "C) Le Plan Marshall", "D) Le fonds café-cacao"],
     "answer": "A",
     "explanation": "L'année 2023 ayant été décrétée 'année de la jeunesse', le PJ-Gouv (2023-2025) a été fortement soutenu par le PND.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le développement du capital humain (santé, éducation) dans le PND 2021-2025 correspond au Pilier numéro :",
     "options": ["A) Pilier 1", "B) Pilier 2", "C) Pilier 5", "D) Pilier 6"],
     "answer": "B",
     "explanation": "Le Pilier 2 vise le développement du capital humain et la promotion de l'emploi.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "L'un des objectifs du PND 2021-2025 est la réduction de la pauvreté. À quel taux la CI ambitionnait-elle de réduire la pauvreté nationale d'ici 2025 ?",
     "options": ["A) Autour de 10%", "B) Autour de 31%", "C) 0%", "D) 50%"],
     "answer": "B",
     "explanation": "Le PND vise à faire baisser le taux de pauvreté d'environ 39,4% (en 2020) à environ 31,3% en 2025.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Pilier 5 du PND 2021-2025 ivoirien s'attaque à quel enjeu global contemporain ?",
     "options": ["A) L'exploration spatiale", "B) Le développement régional équilibré, la préservation de l'environnement et la lutte contre le changement climatique", "C) L'adoption d'une monnaie unique africaine", "D) Le désarmement nucléaire"],
     "answer": "B",
     "explanation": "L'environnement, le cadre de vie et la lutte contre le réchauffement climatique sont au cœur du Pilier 5.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel organe étatique assure le suivi et l'évaluation globale de la mise en œuvre du PND en Côte d'Ivoire ?",
     "options": ["A) Le Ministère du Plan et du Développement", "B) La Cour Suprême", "C) La Commission Électorale", "D) Le Conseil des Droits de l'Homme"],
     "answer": "A",
     "explanation": "Le Ministère de l'Économie, du Plan et du Développement est le maître d'œuvre de la supervision du PND.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Depuis 2020, la Côte d'Ivoire a basculé dans un nouveau mode de gestion de ses finances publiques appelé :",
     "options": ["A) Le Budget de Moyens", "B) Le Budget Programme", "C) Le Budget Zéro", "D) Le Budget Participatif"],
     "answer": "B",
     "explanation": "La CI a adopté le Budget-Programme, axé sur la performance, les résultats et des objectifs clairs, rompant avec le budget de moyens.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans les finances publiques ivoiriennes, que signifie le sigle TOFE ?",
     "options": ["A) Taux Officiel de Financement de l'État", "B) Tableau des Opérations Financières de l'État", "C) Taxe Obligatoire sur les Fonds d'Emprunt", "D) Trésor et Opérations Fiscales de l'Économie"],
     "answer": "B",
     "explanation": "Le TOFE est le tableau statistique résumant les recettes, dépenses et le financement du déficit de l'État sur une période.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel principe budgétaire exige que toutes les recettes et toutes les dépenses de l'État figurent dans un seul document ?",
     "options": ["A) Le principe de spécialité", "B) Le principe d'annualité", "C) Le principe d'unité", "D) Le principe d'équilibre"],
     "answer": "C",
     "explanation": "Le principe d'unité budgétaire veut que le budget de l'État soit retracé dans un document unique pour en assurer la clarté.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La DGI en Côte d'Ivoire est chargée du recouvrement de l'essentiel des ressources intérieures de l'État. Que signifie DGI ?",
     "options": ["A) Direction Générale de l'Inspection", "B) Direction Générale des Impôts", "C) Direction de Gestion Immobilière", "D) Département Général des Investissements"],
     "answer": "B",
     "explanation": "La DGI (Direction Générale des Impôts) recouvre les impôts directs, indirects et taxes pour le compte du Trésor.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En CI, l'autorité chargée de vérifier la régularité des engagements de dépenses avant paiement (contrôle a priori) est :",
     "options": ["A) Le Contrôleur Financier", "B) Le Magistrat de la Cour des Comptes", "C) Le Député", "D) Le Directeur des Impôts"],
     "answer": "A",
     "explanation": "Le Contrôle financier effectue un contrôle a priori sur l'engagement des dépenses publiques pour prévenir les dépassements.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui a le monopole du maniement des deniers publics en Côte d'Ivoire (encaissement et paiement) ?",
     "options": ["A) Les ministres (Ordonnateurs)", "B) Les Comptables publics (Trésor public)", "C) Les Banques commerciales", "D) La BCEAO"],
     "answer": "B",
     "explanation": "Seuls les comptables publics (agents du Trésor) sont habilités à manipuler l'argent de l'État. Principe de séparation ordonnateur/comptable.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "À la fin de l'exercice budgétaire, quelle loi le gouvernement doit-il présenter au Parlement pour arrêter définitivement les comptes de l'année écoulée ?",
     "options": ["A) La loi de finances rectificative", "B) La loi de règlement", "C) La loi organique", "D) La loi d'habilitation"],
     "answer": "B",
     "explanation": "La loi de règlement rend compte de l'exécution du budget et arrête les montants définitifs des recettes et des dépenses.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que le SIGMAP en Côte d'Ivoire ?",
     "options": ["A) Un syndicat de magistrats", "B) Le Système Intégré de Gestion des Marchés Publics", "C) La Société Ivoirienne de Gestion Maritime", "D) Un système d'imposition"],
     "answer": "B",
     "explanation": "SIGMAP est la plateforme dématérialisée qui gère les procédures de passation des marchés publics en CI.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est l'autorité de régulation indépendante qui veille à la transparence des commandes de l'État en CI ?",
     "options": ["A) L'ANRMP (Autorité Nationale de Régulation des Marchés Publics)", "B) L'IGE", "C) L'ARTCI", "D) Le Conseil du Coton et de l'Anacarde"],
     "answer": "A",
     "explanation": "L'ANRMP a pour mission la régulation du système des marchés publics et délégations de service public.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Comment appelle-t-on la procédure par laquelle l'administration procède au recouvrement forcé d'une dette fiscale en CI ?",
     "options": ["A) L'expropriation", "B) L'Avis à Tiers Détenteur (ATD) ou la contrainte", "C) La faillite", "D) Le redressement"],
     "answer": "B",
     "explanation": "L'Avis à Tiers Détenteur (ATD) est la procédure par laquelle les impôts saisissent des sommes dues chez un tiers (comme la banque du contribuable).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Où se trouve le siège de la Banque Africaine de Développement (BAD), institution majeure dont la CI est membre fondateur et pays hôte ?",
     "options": ["A) Abidjan", "B) Dakar", "C) Tunis", "D) Nairobi"],
     "answer": "A",
     "explanation": "Le siège statutaire de la BAD se trouve à Abidjan. Elle y a été créée en 1964.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Côte d'Ivoire est membre de l'UEMOA. Où siège la Commission de l'UEMOA ?",
     "options": ["A) Lomé", "B) Niamey", "C) Ouagadougou", "D) Cotonou"],
     "answer": "C",
     "explanation": "La Commission de l'Union Économique et Monétaire Ouest-Africaine (UEMOA) siège à Ouagadougou (Burkina Faso).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Lequel de ces traités juridiques, dont la CI est partie, vise l'harmonisation du droit des affaires en Afrique ?",
     "options": ["A) OHADA", "B) CIMA", "C) OAPI", "D) CEDEAO"],
     "answer": "A",
     "explanation": "L'Organisation pour l'Harmonisation en Afrique du Droit des Affaires (OHADA) unifie le droit commercial et des sociétés de ses États membres.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La BCEAO (Banque Centrale des États de l'Afrique de l'Ouest), dont fait partie la CI, a son siège principal à :",
     "options": ["A) Abidjan", "B) Dakar", "C) Bamako", "D) Lomé"],
     "answer": "B",
     "explanation": "Le siège de la BCEAO, l'institut d'émission du Franc CFA (XOF), est situé à Dakar au Sénégal.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La Côte d'Ivoire abrite le siège de l'Autorité du Bassin du Niger (ABN). Vrai ou Faux ?",
     "options": ["A) Vrai, à Korhogo", "B) Faux, c'est à Niamey, la CI abrite d'autres institutions", "C) Vrai, à Abidjan", "D) Faux, la CI n'est membre d'aucun organisme de bassin"],
     "answer": "B",
     "explanation": "Le siège de l'ABN est à Niamey (Niger), dont la CI est membre.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quel est le nom du Parlement régional dont le siège est à Abuja et dans lequel siègent des députés ivoiriens ?",
     "options": ["A) Le Parlement Panafricain", "B) Le Parlement de la CEDEAO", "C) L'Assemblée Législative de l'UEMOA", "D) Le Conseil de l'Entente"],
     "answer": "B",
     "explanation": "Le Parlement de la CEDEAO a son siège à Abuja (Nigeria) et compte des représentants des parlements nationaux, dont ceux de CI.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Conseil de l'Entente est la plus ancienne organisation sous-régionale ouest-africaine. En quelle année a-t-il été créé sous l'impulsion de Félix Houphouët-Boigny ?",
     "options": ["A) 1959", "B) 1963", "C) 1975", "D) 1994"],
     "answer": "A",
     "explanation": "Le Conseil de l'Entente a été créé en mai 1959 par la CI, la Haute-Volta, le Niger et le Dahomey (le Togo a rejoint plus tard).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le cadre de l'Union Africaine, la CI a ratifié l'accord portant création d'une vaste zone de libre-échange continentale. Quel est son sigle ?",
     "options": ["A) ZLECAf", "B) ZMAO", "C) AGOA", "D) NEPAD"],
     "answer": "A",
     "explanation": "La Zone de Libre-Échange Continentale Africaine (ZLECAf) est un projet phare de l'Agenda 2063 de l'UA.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "L'Organisation Africaine de la Propriété Intellectuelle (OAPI), à laquelle appartient la CI, a pour mission de :",
     "options": ["A) Délivrer des visas africains", "B) Protéger les droits de propriété industrielle (brevets, marques) au niveau régional", "C) Juger les criminels internationaux", "D) Réguler les télécommunications"],
     "answer": "B",
     "explanation": "L'OAPI, basée à Yaoundé, centralise et uniformise la protection de la propriété intellectuelle pour ses États membres, dont la CI.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En cas de litige opposant l'État de Côte d'Ivoire à un citoyen pour violation des droits de l'homme, quelle Cour supranationale ouest-africaine peut être saisie directement ?",
     "options": ["A) La Cour Internationale de Justice (La Haye)", "B) La Cour de Justice de l'UEMOA", "C) La Cour de Justice de la CEDEAO", "D) La CPI"],
     "answer": "C",
     "explanation": "La Cour de Justice de la CEDEAO (Abuja) a compétence pour connaître des cas de violation des droits de l'homme et les citoyens peuvent la saisir directement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Parmi les conditions de fond de la révision constitutionnelle, la forme républicaine de l'État ivoirien peut-elle faire l'objet d'une révision ?",
     "options": ["A) Oui, par référendum", "B) Non, elle ne peut faire l'objet d'aucune révision", "C) Oui, par le vote des 2/3 de l'Assemblée nationale", "D) Oui, avec l'accord de la Cour Suprême"],
     "answer": "B",
     "explanation": "L'article 178 de la Constitution de 2016 stipule que la forme républicaine de l'État et la laïcité ne peuvent faire l'objet de révision.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qu'est-ce que l'état de siège en Côte d'Ivoire ?",
     "options": ["A) Une mesure de confinement total de la population", "B) Un régime d'exception transférant exceptionnellement des pouvoirs de police de l'autorité civile à l'autorité militaire", "C) La dissolution immédiate de l'Assemblée Nationale", "D) La fermeture des frontières maritimes uniquement"],
     "answer": "B",
     "explanation": "L'état de siège est décrété en Conseil des ministres en cas de péril imminent et transfère certaines compétences de police aux autorités militaires.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle autorité proroge l'état d'urgence au-delà de 15 jours en Côte d'Ivoire ?",
     "options": ["A) Le Président de la République par décret", "B) Le Conseil Constitutionnel", "C) Le Parlement (Assemblée Nationale et Sénat)", "D) L'ONU"],
     "answer": "C",
     "explanation": "Le Président décrète l'état d'urgence pour 15 jours. Sa prorogation au-delà de ce délai nécessite l'autorisation du Parlement.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Qui a le pouvoir de nommer les Magistrats du Siège en Côte d'Ivoire ?",
     "options": ["A) Le Ministre de la Justice", "B) Le Conseil Supérieur de la Magistrature", "C) Le Président de la République sur proposition du Conseil Supérieur de la Magistrature", "D) Le Président de l'Assemblée nationale"],
     "answer": "C",
     "explanation": "Le Président de la République nomme les magistrats du siège, mais il est tenu par les propositions du Conseil Supérieur de la Magistrature.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Le Conseil constitutionnel ivoirien peut-il s'autosaisir pour déclarer une loi inconstitutionnelle ?",
     "options": ["A) Oui, à tout moment", "B) Non, il doit être obligatoirement saisi par certaines autorités compétentes (Président, Parlementaires, etc.) ou par exception", "C) Oui, s'il juge que la loi menace l'ordre public", "D) Oui, avec l'accord du ministre de la justice"],
     "answer": "B",
     "explanation": "Le Conseil constitutionnel ne s'autosaisit pas (sauf cas spécifiques liés aux élections présidentielles), il faut une saisine.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "En Côte d'Ivoire, l'Agence Nationale de Traitement (ANT) est impliquée dans :",
     "options": ["A) L'épuration des eaux", "B) Le traitement des données d'état civil pour la CNI et la liste électorale", "C) Le traitement des maladies tropicales", "D) La gestion du cadastre"],
     "answer": "B",
     "explanation": "L'ANT intervient dans le traitement des données biométriques et d'identification des citoyens.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "La nationalité ivoirienne d'un enfant mineur abandonné trouvé sur le sol ivoirien de parents inconnus :",
     "options": ["A) Il est Ivoirien de naissance", "B) Il est apatride jusqu'à ses 18 ans", "C) Il doit être naturalisé", "D) Il est déclaré citoyen de la CEDEAO sans nationalité"],
     "answer": "A",
     "explanation": "Le Code de la nationalité attribue la nationalité ivoirienne d'origine à l'enfant nouveau-né trouvé en Côte d'Ivoire de parents inconnus.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Quelle est l'institution chargée d'élaborer et de mettre en œuvre la politique du gouvernement en matière de gestion du personnel de l'État ?",
     "options": ["A) La Présidence", "B) Le Ministère d'État, Ministère de la Fonction Publique et de la Modernisation de l'Administration", "C) L'Assemblée Nationale", "D) Le Secrétariat Général du Gouvernement"],
     "answer": "B",
     "explanation": "Le Ministère de la Fonction Publique est responsable de la GRH de l'État.",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Dans le système éducatif de l'ENA de Côte d'Ivoire, combien de cycles de formation classique existe-t-il ?",
     "options": ["A) Un seul", "B) Deux", "C) Trois (Moyen, Moyen-Supérieur, Supérieur)", "D) Quatre"],
     "answer": "C",
     "explanation": "L'ENA compte trois cycles : Cycle Moyen (Catégorie B), Cycle Moyen Supérieur (Catégorie A3) et Cycle Supérieur (Catégorie A4).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "L'Union du Fleuve Mano, dont fait partie la Côte d'Ivoire, regroupe également quels autres pays ?",
     "options": ["A) Liberia, Sierra Leone, Guinée", "B) Mali, Burkina Faso, Niger", "C) Ghana, Togo, Bénin", "D) Sénégal, Gambie, Guinée-Bissau"],
     "answer": "A",
     "explanation": "L'Union du Fleuve Mano est une organisation sous-régionale réunissant la Guinée, le Liberia, la Sierra Leone et la Côte d'Ivoire (qui a rejoint en 2008).",
-    "theme": "Culture Générale — Institutions et citoyenneté"
+    "theme": "Institutions ivoiriennes & Citoyenneté"
   },
   {
     "question": "Cas pratique : Le Préfet du Loh-Djiboua prend un arrêté réglementant la circulation à Divo. Le Maire conteste. Quelle est la solution juridique devant le Conseil d'État ivoirien ?",

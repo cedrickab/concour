@@ -4,14 +4,15 @@
 // ===== QUIZ ENGINE =====
 
 const THEME_SPECS = [
-    { name: "Culture Générale — Langue française", count: 150 },
-    { name: "Aptitude Verbale — Phénomènes lexicaux", count: 146 },
-    { name: "Culture Générale — Géographie et connaissances", count: 187 },
+    { name: "Langue française & Littérature", count: 150 },
+    { name: "Aptitude Verbale & Phénomènes lexicaux", count: 146 },
+    { name: "Culture Générale & Actualité", count: 187 },
     { name: "Organisations Internationales", count: 163 },
     { name: "English Grammar", count: 156 },
-    { name: "Culture Générale — Institutions et citoyenneté", count: 129 },
+    { name: "Institutions ivoiriennes & Citoyenneté", count: 129 },
     { name: "Droit administratif", count: 145 }
 ];
+
 
 function getThemeCatalog() {
     if (!Array.isArray(QUIZ_QUESTIONS)) {

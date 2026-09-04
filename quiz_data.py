@@ -1673,6 +1673,132 @@ THEME_1 = [
         "answer": "C",
         "explanation": "Permettre à soi (COI) de faire quelque chose. Le participe passé doit être invariable : se sont permis."
     },
+    {
+        "question": "Qui est l'auteur de l'œuvre « Le Petit Prince » ?",
+        "options": ["A) Victor Hugo", "B) Antoine de Saint-Exupéry", "C) Albert Camus", "D) Jules Verne"],
+        "answer": "B",
+        "explanation": "Antoine de Saint-Exupéry a écrit « Le Petit Prince » en 1943."
+    },
+    {
+        "question": "Qui est l'auteur de l'œuvre « Le Malade imaginaire » ?",
+        "options": ["A) Molière", "B) Racine", "C) Corneille", "D) Voltaire"],
+        "answer": "A",
+        "explanation": "Molière (Jean-Baptiste Poquelin) a écrit « Le Malade imaginaire » en 1673."
+    },
+    {
+        "question": "Lequel de ces personnages n'est PAS issu du roman « Les Misérables » ?",
+        "options": ["A) Fleur de lys", "B) Jean Valjean", "C) Cosette", "D) Gavroche"],
+        "answer": "A",
+        "explanation": "Fleur de lys est un personnage de « Notre-Dame de Paris », pas des « Misérables »."
+    },
+    {
+        "question": "Qui a écrit « L'enfant noir » ?",
+        "options": ["A) Léopold Sédar Senghor", "B) Camara Laye", "C) Ahmadou Kourouma", "D) Mongo Béti"],
+        "answer": "B",
+        "explanation": "Camara Laye, écrivain guinéen, a écrit « L'enfant noir » en 1953."
+    },
+    {
+        "question": "Qui a écrit « Les Soleils des Indépendances » ?",
+        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Félix Tchicaya", "D) Birago Diop"],
+        "answer": "B",
+        "explanation": "Ahmadou Kourouma, écrivain ivoirien, a publié ce roman en 1968."
+    },
+    {
+        "question": "Qui a écrit « Les Fleurs du Mal » ?",
+        "options": ["A) Arthur Rimbaud", "B) Charles Baudelaire", "C) Paul Verlaine", "D) Stéphane Mallarmé"],
+        "answer": "B",
+        "explanation": "Charles Baudelaire a publié « Les Fleurs du Mal » en 1857."
+    },
+    {
+        "question": "Qui a écrit « Candide » ?",
+        "options": ["A) Montesquieu", "B) Rousseau", "C) Voltaire", "D) Diderot"],
+        "answer": "C",
+        "explanation": "Voltaire a écrit « Candide ou l'Optimisme » en 1759."
+    },
+    {
+        "question": "Qui a écrit « Une vie de boy » ?",
+        "options": ["A) Mongo Béti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Cheikh Hamidou Kane"],
+        "answer": "B",
+        "explanation": "Ferdinand Oyono, écrivain camerounais, a publié « Une vie de boy » en 1956."
+    },
+    {
+        "question": "Qui a écrit « L'aventure ambiguë » ?",
+        "options": ["A) Birago Diop", "B) Cheikh Hamidou Kane", "C) Ousmane Sembène", "D) Léopold Sédar Senghor"],
+        "answer": "B",
+        "explanation": "Cheikh Hamidou Kane, écrivain sénégalais, a publié ce roman en 1961."
+    },
+    {
+        "question": "Qui est l'auteur de Le malade imaginaire ?",
+        "options": ["A) Moliere", "B) Racine", "C) Corneille", "D) La Fontaine"],
+        "answer": "A",
+        "explanation": "Le malade imaginaire est une comedie-ballet de Moliere (1673)."
+    },
+    {
+        "question": "Quel prix a reçu Nelson Mandela en 1993 ?",
+        "options": ["A) Prix Nobel de la Paix", "B) Prix Nobel de Littérature", "C) Prix Nobel d'Économie", "D) Prix Pulitzer"],
+        "answer": "A",
+        "explanation": "Nelson Mandela a reçu le Prix Nobel de la Paix en 1993, partagé avec F. W. de Klerk."
+    },
+    {
+        "question": "Qui a écrit « Les bouts de bois de Dieu » ?",
+        "options": ["A) Aimé Césaire", "B) Sembene Ousmane", "C) Soro Guéfala"],
+        "answer": "B",
+        "explanation": "Ousmane Sembène a écrit Les Bouts de bois de Dieu."
+    },
+    {
+        "question": "Qui est l'auteur de l'œuvre 'Les bouts de bois de Dieu' ?",
+        "options": ["A) Ahmadou Kourouma", "B) Léopold Sédar Senghor", "C) Sembène Ousmane", "D) Camara Laye"],
+        "answer": "C",
+        "explanation": "Sembène Ousmane a écrit 'Les bouts de bois de Dieu'."
+    },
+    {
+        "question": "Qui a remporté le Prix Nobel de Littérature en 2024 ?",
+        "options": ["A) Annie Ernaux", "B) Jon Fosse", "C) Han Kang", "D) Haruki Murakami"],
+        "answer": "C",
+        "explanation": "L'autrice sud-coréenne Han Kang a remporté le prix Nobel de littérature en 2024."
+    },
+    {
+        "question": "Qui est l'auteur du roman 'Les Soleils des indépendances' ?",
+        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Camara Laye", "D) Léopold Sédar Senghor"],
+        "answer": "B",
+        "explanation": "Ahmadou Kourouma a écrit ce célèbre roman."
+    },
+    {
+        "question": "Qui a écrit le célèbre roman 'L'Étranger' ?",
+        "options": ["A) Jean-Paul Sartre", "B) Albert Camus", "C) Marcel Proust", "D) Victor Hugo"],
+        "answer": "B",
+        "explanation": "Albert Camus a publié L'Étranger en 1942."
+    },
+    {
+        "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
+        "options": ["A) Ahmadou Kourouma", "B) Camara Laye", "C) Sembène Ousmane", "D) Cheikh Hamidou Kane"],
+        "answer": "B",
+        "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée."
+    },
+    {
+        "question": "Qui a écrit 'Le Docker noir' ?",
+        "options": ["A) Sembène Ousmane", "B) Bernard Dadié", "C) Mongo Beti", "D) Ahmadou Kourouma"],
+        "answer": "A",
+        "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane."
+    },
+    {
+        "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
+        "options": ["A) Camara Laye", "B) Ferdinand Oyono", "C) Sembène Ousmane", "D) Seydou Badian"],
+        "answer": "B",
+        "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono."
+    },
+    {
+        "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
+        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Mongo Beti", "D) Ferdinand Oyono"],
+        "answer": "B",
+        "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma."
+    },
+    {
+        "question": "Quel est l'auteur de l'œuvre 'Climbié' ?",
+        "options": ["A) Seydou Badian", "B) Sembène Ousmane", "C) Bernard Dadié", "D) Mongo Beti"],
+        "answer": "C",
+        "explanation": "Climbié a été écrit par Bernard Dadié."
+    },
 ]
 
 THEME_2 = [
@@ -3708,12 +3834,6 @@ THEME_3 = [
         "explanation": "Internet a été développé dans les années 1960-1990, bien après les autres."
     },
     {
-        "question": "Qui est l'auteur de l'œuvre « Le Petit Prince » ?",
-        "options": ["A) Victor Hugo", "B) Antoine de Saint-Exupéry", "C) Albert Camus", "D) Jules Verne"],
-        "answer": "B",
-        "explanation": "Antoine de Saint-Exupéry a écrit « Le Petit Prince » en 1943."
-    },
-    {
         "question": "Quel est le cri du corbeau ?",
         "options": ["A) Croasse", "B) Coasse", "C) Siffle", "D) Piaule"],
         "answer": "A",
@@ -4080,22 +4200,10 @@ THEME_3 = [
         "explanation": "La tachycardie est l'accélération anormale du rythme cardiaque."
     },
     {
-        "question": "Qui est l'auteur de l'œuvre « Le Malade imaginaire » ?",
-        "options": ["A) Molière", "B) Racine", "C) Corneille", "D) Voltaire"],
-        "answer": "A",
-        "explanation": "Molière (Jean-Baptiste Poquelin) a écrit « Le Malade imaginaire » en 1673."
-    },
-    {
         "question": "Dans quelle ville siège l'Organisation des pays exportateurs de pétrole (OPEP) ?",
         "options": ["A) Genève", "B) New York", "C) Vienne", "D) Riyad"],
         "answer": "C",
         "explanation": "L'OPEP a son siège à Vienne, en Autriche."
-    },
-    {
-        "question": "Lequel de ces personnages n'est PAS issu du roman « Les Misérables » ?",
-        "options": ["A) Fleur de lys", "B) Jean Valjean", "C) Cosette", "D) Gavroche"],
-        "answer": "A",
-        "explanation": "Fleur de lys est un personnage de « Notre-Dame de Paris », pas des « Misérables »."
     },
     {
         "question": "En quelle année la Côte d'Ivoire a-t-elle accédé à l'indépendance ?",
@@ -4114,18 +4222,6 @@ THEME_3 = [
         "options": ["A) Abidjan", "B) Bouaké", "C) Yamoussoukro", "D) San-Pédro"],
         "answer": "C",
         "explanation": "Yamoussoukro est la capitale politique et administrative depuis 1983."
-    },
-    {
-        "question": "Qui a écrit « L'enfant noir » ?",
-        "options": ["A) Léopold Sédar Senghor", "B) Camara Laye", "C) Ahmadou Kourouma", "D) Mongo Béti"],
-        "answer": "B",
-        "explanation": "Camara Laye, écrivain guinéen, a écrit « L'enfant noir » en 1953."
-    },
-    {
-        "question": "Qui a écrit « Les Soleils des Indépendances » ?",
-        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Félix Tchicaya", "D) Birago Diop"],
-        "answer": "B",
-        "explanation": "Ahmadou Kourouma, écrivain ivoirien, a publié ce roman en 1968."
     },
     {
         "question": "Quel poète et homme politique sénégalais a cofondé le mouvement de la Négritude ?",
@@ -4192,18 +4288,6 @@ THEME_3 = [
         "options": ["A) Lac Tanganyika", "B) Lac Tchad", "C) Lac Victoria", "D) Lac Malawi"],
         "answer": "C",
         "explanation": "Le lac Victoria est le plus grand lac d'Afrique (environ 68 000 km²)."
-    },
-    {
-        "question": "Qui a écrit « Les Fleurs du Mal » ?",
-        "options": ["A) Arthur Rimbaud", "B) Charles Baudelaire", "C) Paul Verlaine", "D) Stéphane Mallarmé"],
-        "answer": "B",
-        "explanation": "Charles Baudelaire a publié « Les Fleurs du Mal » en 1857."
-    },
-    {
-        "question": "Qui a écrit « Candide » ?",
-        "options": ["A) Montesquieu", "B) Rousseau", "C) Voltaire", "D) Diderot"],
-        "answer": "C",
-        "explanation": "Voltaire a écrit « Candide ou l'Optimisme » en 1759."
     },
     {
         "question": "Quel fleuve est le plus long d'Europe ?",
@@ -4300,18 +4384,6 @@ THEME_3 = [
         "options": ["A) RDC", "B) Soudan", "C) Algérie", "D) Libye"],
         "answer": "C",
         "explanation": "L'Algérie est le plus grand pays d'Afrique avec environ 2,38 millions de km²."
-    },
-    {
-        "question": "Qui a écrit « Une vie de boy » ?",
-        "options": ["A) Mongo Béti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Cheikh Hamidou Kane"],
-        "answer": "B",
-        "explanation": "Ferdinand Oyono, écrivain camerounais, a publié « Une vie de boy » en 1956."
-    },
-    {
-        "question": "Qui a écrit « L'aventure ambiguë » ?",
-        "options": ["A) Birago Diop", "B) Cheikh Hamidou Kane", "C) Ousmane Sembène", "D) Léopold Sédar Senghor"],
-        "answer": "B",
-        "explanation": "Cheikh Hamidou Kane, écrivain sénégalais, a publié ce roman en 1961."
     },
     {
         "question": "Quelle est la capitale de la Guinée équatoriale ?",
@@ -4464,12 +4536,6 @@ THEME_3 = [
         "explanation": "Le siege de l'OPEP est a Vienne, en Autriche, depuis 1965."
     },
     {
-        "question": "Qui est l'auteur de Le malade imaginaire ?",
-        "options": ["A) Moliere", "B) Racine", "C) Corneille", "D) La Fontaine"],
-        "answer": "A",
-        "explanation": "Le malade imaginaire est une comedie-ballet de Moliere (1673)."
-    },
-    {
         "question": "De quelle region Bouna est-il le chef-lieu ?",
         "options": ["A) Le Poro", "B) Le Bounkani", "C) Le Hambol", "D) Le Moronou"],
         "answer": "B",
@@ -4570,12 +4636,6 @@ THEME_3 = [
         "options": ["A) Conakry", "B) Bissau", "C) Freetown", "D) Monrovia"],
         "answer": "A",
         "explanation": "Conakry est la capitale de la République de Guinée."
-    },
-    {
-        "question": "Quel prix a reçu Nelson Mandela en 1993 ?",
-        "options": ["A) Prix Nobel de la Paix", "B) Prix Nobel de Littérature", "C) Prix Nobel d'Économie", "D) Prix Pulitzer"],
-        "answer": "A",
-        "explanation": "Nelson Mandela a reçu le Prix Nobel de la Paix en 1993, partagé avec F. W. de Klerk."
     },
     {
         "question": "Quelle est la principale source d'énergie de la Côte d'Ivoire ?",
@@ -5256,12 +5316,6 @@ THEME_3 = [
         "explanation": "L'emblème de la Maison Stark est un loup-garou."
     },
     {
-        "question": "Qui a écrit « Les bouts de bois de Dieu » ?",
-        "options": ["A) Aimé Césaire", "B) Sembene Ousmane", "C) Soro Guéfala"],
-        "answer": "B",
-        "explanation": "Ousmane Sembène a écrit Les Bouts de bois de Dieu."
-    },
-    {
         "question": "Quelle planète est surnommée « l’étoile du berger » ?",
         "options": ["A) Mars", "B) Terre", "C) Vénus"],
         "answer": "C",
@@ -5940,12 +5994,6 @@ THEME_3 = [
         "explanation": "Pablo Picasso est le cofondateur du cubisme."
     },
     {
-        "question": "Qui est l'auteur de l'œuvre 'Les bouts de bois de Dieu' ?",
-        "options": ["A) Ahmadou Kourouma", "B) Léopold Sédar Senghor", "C) Sembène Ousmane", "D) Camara Laye"],
-        "answer": "C",
-        "explanation": "Sembène Ousmane a écrit 'Les bouts de bois de Dieu'."
-    },
-    {
         "question": "Dans la mythologie grecque, qui a été condamné à pousser éternellement un rocher ?",
         "options": ["A) Atlas", "B) Prométhée", "C) Sisyphe", "D) Tantale"],
         "answer": "C",
@@ -6168,12 +6216,6 @@ THEME_3 = [
         "explanation": "Le Mali, le Burkina Faso et le Niger ont quitté la CEDEAO en janvier 2025 et institutionnalisé l'AES."
     },
     {
-        "question": "Qui a remporté le Prix Nobel de Littérature en 2024 ?",
-        "options": ["A) Annie Ernaux", "B) Jon Fosse", "C) Han Kang", "D) Haruki Murakami"],
-        "answer": "C",
-        "explanation": "L'autrice sud-coréenne Han Kang a remporté le prix Nobel de littérature en 2024."
-    },
-    {
         "question": "Combien d'États membres compte la CEDEAO depuis le retrait définitif des pays de l'AES en 2025 ?",
         "options": ["A) 15", "B) 12", "C) 10", "D) 14"],
         "answer": "B",
@@ -6352,12 +6394,6 @@ THEME_3 = [
         "options": ["A) Sassandra", "B) Bandama", "C) Comoé", "D) Cavally"],
         "answer": "B",
         "explanation": "Le barrage de Kossou est sur le fleuve Bandama."
-    },
-    {
-        "question": "Qui est l'auteur du roman 'Les Soleils des indépendances' ?",
-        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Camara Laye", "D) Léopold Sédar Senghor"],
-        "answer": "B",
-        "explanation": "Ahmadou Kourouma a écrit ce célèbre roman."
     },
     {
         "question": "Quelle est la principale culture d'exportation de la Côte d'Ivoire ?",
@@ -6540,12 +6576,6 @@ THEME_3 = [
         "explanation": "Mars est surnommée la planète rouge."
     },
     {
-        "question": "Qui a écrit le célèbre roman 'L'Étranger' ?",
-        "options": ["A) Jean-Paul Sartre", "B) Albert Camus", "C) Marcel Proust", "D) Victor Hugo"],
-        "answer": "B",
-        "explanation": "Albert Camus a publié L'Étranger en 1942."
-    },
-    {
         "question": "Quel est l'océan le plus profond du monde ?",
         "options": ["A) Atlantique", "B) Indien", "C) Arctique", "D) Pacifique"],
         "answer": "D",
@@ -6568,36 +6598,6 @@ THEME_3 = [
         "options": ["A) Erling Haaland", "B) Lionel Messi", "C) Kylian Mbappé", "D) Karim Benzema"],
         "answer": "B",
         "explanation": "Lionel Messi a remporté son 8e Ballon d'Or en 2023, l'édition 2020 ayant été annulée."
-    },
-    {
-        "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
-        "options": ["A) Ahmadou Kourouma", "B) Camara Laye", "C) Sembène Ousmane", "D) Cheikh Hamidou Kane"],
-        "answer": "B",
-        "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée."
-    },
-    {
-        "question": "Qui a écrit 'Le Docker noir' ?",
-        "options": ["A) Sembène Ousmane", "B) Bernard Dadié", "C) Mongo Beti", "D) Ahmadou Kourouma"],
-        "answer": "A",
-        "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane."
-    },
-    {
-        "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
-        "options": ["A) Camara Laye", "B) Ferdinand Oyono", "C) Sembène Ousmane", "D) Seydou Badian"],
-        "answer": "B",
-        "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono."
-    },
-    {
-        "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
-        "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Mongo Beti", "D) Ferdinand Oyono"],
-        "answer": "B",
-        "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma."
-    },
-    {
-        "question": "Quel est l'auteur de l'œuvre 'Climbié' ?",
-        "options": ["A) Seydou Badian", "B) Sembène Ousmane", "C) Bernard Dadié", "D) Mongo Beti"],
-        "answer": "C",
-        "explanation": "Climbié a été écrit par Bernard Dadié."
     },
 ]
 
@@ -13370,12 +13370,12 @@ THEME_7 = [
 ]
 
 THEME_CATALOG = [
-    ("Culture Générale — Langue française", THEME_1),
-    ("Aptitude Verbale — Phénomènes lexicaux", THEME_2),
-    ("Culture Générale — Géographie et connaissances", THEME_3),
+    ("Langue française & Littérature", THEME_1),
+    ("Aptitude Verbale & Phénomènes lexicaux", THEME_2),
+    ("Culture Générale & Actualité", THEME_3),
     ("Organisations Internationales", THEME_4),
     ("English Grammar", THEME_5),
-    ("Culture Générale — Institutions et citoyenneté", THEME_6),
+    ("Institutions ivoiriennes & Citoyenneté", THEME_6),
     ("Droit administratif", THEME_7),
 ]
 
