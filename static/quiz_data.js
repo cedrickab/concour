@@ -3927,13 +3927,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
-    "question": "Quel est l'auteur de l'œuvre 'Climbié' ?",
-    "options": ["A) Seydou Badian", "B) Sembène Ousmane", "C) Bernard Dadié", "D) Mongo Beti"],
-    "answer": "C",
-    "explanation": "Climbié a été écrit par Bernard Dadié.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
     "question": "Qui a rédigé 'Le pauvre Christ de Bomba' ?",
     "options": ["A) Mongo Beti", "B) Ferdinand Oyono", "C) Camara Laye", "D) Bernard Dadié"],
     "answer": "A",
@@ -4025,13 +4018,6 @@ const QUIZ_QUESTIONS = [
     "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
-    "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
-    "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Mongo Beti", "D) Ferdinand Oyono"],
-    "answer": "B",
-    "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
     "question": "Dans l'expression 'Je ne vous dirai pas que son intelligence est remarquable', il y a :",
     "options": ["A) Une litote", "B) Une prétérition", "C) Un euphémisme", "D) Une métaphore"],
     "answer": "B",
@@ -4053,24 +4039,10 @@ const QUIZ_QUESTIONS = [
     "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
-    "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
-    "options": ["A) Camara Laye", "B) Ferdinand Oyono", "C) Sembène Ousmane", "D) Seydou Badian"],
-    "answer": "B",
-    "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
     "question": "Quelle figure de style est présente dans 'Je meurs de soif' ?",
     "options": ["A) La litote", "B) La prétérition", "C) L'hyperbole", "D) La métaphore"],
     "answer": "C",
     "explanation": "L'hyperbole est une figure d'exagération (on ne meurt pas réellement à l'instant même de soif).",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Qui a écrit 'Le Docker noir' ?",
-    "options": ["A) Sembène Ousmane", "B) Bernard Dadié", "C) Mongo Beti", "D) Ahmadou Kourouma"],
-    "answer": "A",
-    "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane.",
     "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
@@ -4106,13 +4078,6 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Métaphore", "B) Paronyme", "C) Palindrome", "D) Pléonasme"],
     "answer": "C",
     "explanation": "Comme 'radar', 'kayak' se lit de la même façon dans les deux sens.",
-    "theme": "Aptitude Verbale — Phénomènes lexicaux"
-  },
-  {
-    "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
-    "options": ["A) Ahmadou Kourouma", "B) Camara Laye", "C) Sembène Ousmane", "D) Cheikh Hamidou Kane"],
-    "answer": "B",
-    "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée.",
     "theme": "Aptitude Verbale — Phénomènes lexicaux"
   },
   {
@@ -7683,6 +7648,41 @@ const QUIZ_QUESTIONS = [
     "options": ["A) Erling Haaland", "B) Lionel Messi", "C) Kylian Mbappé", "D) Karim Benzema"],
     "answer": "B",
     "explanation": "Lionel Messi a remporté son 8e Ballon d'Or en 2023, l'édition 2020 ayant été annulée.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel écrivain guinéen est l'auteur de 'L'Enfant noir' (1953) ?",
+    "options": ["A) Ahmadou Kourouma", "B) Camara Laye", "C) Sembène Ousmane", "D) Cheikh Hamidou Kane"],
+    "answer": "B",
+    "explanation": "Camara Laye a écrit ce célèbre roman autobiographique décrivant son enfance en Haute-Guinée.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Qui a écrit 'Le Docker noir' ?",
+    "options": ["A) Sembène Ousmane", "B) Bernard Dadié", "C) Mongo Beti", "D) Ahmadou Kourouma"],
+    "answer": "A",
+    "explanation": "Publié en 1956, c'est le premier roman de l'écrivain et cinéaste sénégalais Sembène Ousmane.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel écrivain africain a écrit 'Une vie de boy' ?",
+    "options": ["A) Camara Laye", "B) Ferdinand Oyono", "C) Sembène Ousmane", "D) Seydou Badian"],
+    "answer": "B",
+    "explanation": "Roman publié en 1956 par le Camerounais Ferdinand Oyono.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "L'auteur du roman 'Les Soleils des indépendances' est :",
+    "options": ["A) Bernard Dadié", "B) Ahmadou Kourouma", "C) Mongo Beti", "D) Ferdinand Oyono"],
+    "answer": "B",
+    "explanation": "Publié en 1968, c'est l'œuvre majeure de l'Ivoirien Ahmadou Kourouma.",
+    "theme": "Culture Générale — Géographie et connaissances"
+  },
+  {
+    "question": "Quel est l'auteur de l'œuvre 'Climbié' ?",
+    "options": ["A) Seydou Badian", "B) Sembène Ousmane", "C) Bernard Dadié", "D) Mongo Beti"],
+    "answer": "C",
+    "explanation": "Climbié a été écrit par Bernard Dadié.",
     "theme": "Culture Générale — Géographie et connaissances"
   },
   {
